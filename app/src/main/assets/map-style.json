@@ -1,0 +1,112 @@
+{
+  "version": 8,
+  "name": "OffBus Light",
+  "glyphs": "http://127.0.0.1:7777/fonts/{fontstack}/{range}.pbf",
+  "sources": {
+    "mbtiles-source": {
+      "type": "vector",
+      "tiles": ["http://127.0.0.1:7777/tiles/{z}/{x}/{y}"],
+      "minzoom": 0,
+      "maxzoom": 14
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": { "background-color": "#f5f5f0" }
+    },
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "mbtiles-source",
+      "source-layer": "water_polygons",
+      "paint": { "fill-color": "#a8d4f5" }
+    },
+    {
+      "id": "land",
+      "type": "fill",
+      "source": "mbtiles-source",
+      "source-layer": "land",
+      "paint": { "fill-color": "#eae6df" }
+    },
+    {
+      "id": "street-polygons",
+      "type": "fill",
+      "source": "mbtiles-source",
+      "source-layer": "street_polygons",
+      "paint": {
+        "fill-color": "#ffffff",
+        "fill-outline-color": "#e0ddd8"
+      }
+    },
+    {
+      "id": "roads-casing",
+      "type": "line",
+      "source": "mbtiles-source",
+      "source-layer": "streets",
+      "layout": { "line-cap": "round", "line-join": "round" },
+      "paint": {
+        "line-color": "#d4cfc8",
+        "line-width": ["interpolate", ["linear"], ["zoom"], 14, 4, 18, 20]
+      }
+    },
+    {
+      "id": "roads-fill",
+      "type": "line",
+      "source": "mbtiles-source",
+      "source-layer": "streets",
+      "layout": { "line-cap": "round", "line-join": "round" },
+      "paint": {
+        "line-color": "#ffffff",
+        "line-width": ["interpolate", ["linear"], ["zoom"], 14, 2, 18, 15]
+      }
+    },
+    {
+      "id": "buildings",
+      "type": "fill",
+      "source": "mbtiles-source",
+      "source-layer": "buildings",
+      "minzoom": 14,
+      "paint": { "fill-color": "#e0dbd2", "fill-outline-color": "#ccc7be" }
+    },
+    {
+      "id": "place-labels",
+      "type": "symbol",
+      "source": "mbtiles-source",
+      "source-layer": "place_labels",
+      "minzoom": 6,
+      "layout": {
+        "text-field": ["get", "name"],
+        "text-font": ["noto-sans"],
+        "text-size": ["interpolate", ["linear"], ["zoom"], 6, 10, 14, 14],
+        "text-max-width": 8
+      },
+      "paint": {
+        "text-color": "#333333",
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 2
+      }
+    },
+    {
+      "id": "road-labels",
+      "type": "symbol",
+      "source": "mbtiles-source",
+      "source-layer": "street_labels",
+      "minzoom": 13,
+      "layout": {
+        "text-field": ["get", "name"],
+        "text-font": ["noto-sans"],
+        "text-size": 11,
+        "symbol-placement": "line",
+        "text-padding": 10,
+        "text-max-angle": 30
+      },
+      "paint": {
+        "text-color": "#666666",
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 1.5
+      }
+    }
+  ]
+}

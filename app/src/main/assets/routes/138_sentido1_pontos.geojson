@@ -1,0 +1,637 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5289,
+        "ponto_id": 72916,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13297059705117,
+          -22.96497308583662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5990,
+        "ponto_id": 73218,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13594742909735,
+          -22.965669867972576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5899,
+        "ponto_id": 73215,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "96A",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1372775582941,
+          -22.96494801268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 35,
+        "ponto_id": 73216,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13860414130471,
+          -22.96488161255507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 38,
+        "ponto_id": 73264,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R LUIZ ALFREDO FALCAO BAUER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13967664365638,
+          -22.965021060084727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5897,
+        "ponto_id": 73615,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R CB ALADARQUE CANDIDO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.142802045474454,
+          -22.96398948125665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5901,
+        "ponto_id": 73619,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R SEVERINO ALVES BATISTA",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14500223681805,
+          -22.965527440079104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 43,
+        "ponto_id": 73616,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MARIVALDO IGNACIO",
+        "ende_numero": "116",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145974982902956,
+          -22.96596139232738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 47,
+        "ponto_id": 73692,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14838191860324,
+          -22.965032405116567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 24,
+        "ponto_id": 73860,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": "89",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151693078692674,
+          -22.96479827626019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 25,
+        "ponto_id": 73804,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV AGLAIA",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15157804941327,
+          -22.96371825422742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 26,
+        "ponto_id": 73756,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ABA",
+        "ende_numero": "643",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14974437160188,
+          -22.964762065987664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 27,
+        "ponto_id": 73704,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148426038005645,
+          -22.965229328857742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 28,
+        "ponto_id": 73584,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOSE ZANCHETTA",
+        "ende_numero": "460",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14697249991335,
+          -22.96405035094275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 29,
+        "ponto_id": 73472,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS DOS SANTOS CARDOSO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145500451242114,
+          -22.962300822690366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5896,
+        "ponto_id": 73617,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R CB ALADARQUE CANDIDO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14247341174058,
+          -22.96427138676272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5405,
+        "ponto_id": 73374,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R MARCOS TEODORO",
+        "ende_numero": "382",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14126863550024,
+          -22.963681362257084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5388,
+        "ponto_id": 73247,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R NORBERTO LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14041242113125,
+          -22.96189216648123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5404,
+        "ponto_id": 73375,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R SEVERINO DO AMARAL CAMPOS",
+        "ende_numero": "13",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14007878884658,
+          -22.963702216744743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5372,
+        "ponto_id": 73379,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R JOSE OCTAVIANO SOARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138773772739526,
+          -22.963856234149922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5373,
+        "ponto_id": 73381,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13843212514766,
+          -22.965005716431204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5900,
+        "ponto_id": 73217,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13709296517971,
+          -22.965207559844696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5989,
+        "ponto_id": 73213,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "39",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13598545545318,
+          -22.966103930233423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 152,
+        "num_linha": "138",
+        "sentido": 1,
+        "nome_linha": "99",
+        "extensao_m": 7092.34,
+        "ponto_gid": 5289,
+        "ponto_id": 72916,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102,138 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13297059705117,
+          -22.96497308583662
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3037 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 5293,
+        "ponto_id": 72816,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13236625238951,
+          -22.96486112964537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 65,
+        "ponto_id": 72676,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,116,118,119,122,125,131,132,133,134,136,199 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12962199807741,
+          -22.962189280056123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 410,
+        "ponto_id": 72328,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,122,125,131,132,133,134,136,143,199 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11945398192488,
+          -22.957781675901927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 411,
+        "ponto_id": 72208,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,125,131,132,133,134,136,143,199 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11511525972137,
+          -22.954729418444902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 5547,
+        "ponto_id": 72106,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "831",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113552231681346,
+          -22.952965209853776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 7222,
+        "ponto_id": 71507,
+        "ptseqlinha": 7.5,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "116,119,125,134 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108930303691814,
+          -22.94592596676218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 415,
+        "ponto_id": 71488,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1331",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,125,134 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10840898502691,
+          -22.94223196726103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 416,
+        "ponto_id": 71388,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10848360390592,
+          -22.93945180151161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 417,
+        "ponto_id": 71468,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11032024266055,
+          -22.939722225729966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 418,
+        "ponto_id": 71592,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "506",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113057465568076,
+          -22.940108467438407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 419,
+        "ponto_id": 71712,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "852",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115615667528076,
+          -22.940479173555453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 421,
+        "ponto_id": 71836,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,163 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11953839712886,
+          -22.939375092353103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 422,
+        "ponto_id": 71736,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,163 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119272319068074,
+          -22.93677417060449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 423,
+        "ponto_id": 71748,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "1974",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,163 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12106591546641,
+          -22.934277775287068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 424,
+        "ponto_id": 71696,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12166328043701,
+          -22.93146267105666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 5671,
+        "ponto_id": 71588,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "3189",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,230 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11864005474351,
+          -22.931560378599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 425,
+        "ponto_id": 71512,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "2275",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11720698900175,
+          -22.93154105568835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 426,
+        "ponto_id": 71444,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115489918118996,
+          -22.93222830112207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 427,
+        "ponto_id": 71310,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "PRACA ANTONIA ANDREATTI GLAUDIO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,163,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113779086563305,
+          -22.931801611239134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 428,
+        "ponto_id": 71352,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114304919044244,
+          -22.930818393667536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 429,
+        "ponto_id": 71292,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428411102682,
+          -22.929069468422462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 430,
+        "ponto_id": 71248,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164,230 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428138267521,
+          -22.928049918906368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 431,
+        "ponto_id": 71196,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427323458267,
+          -22.925542331979607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 432,
+        "ponto_id": 71128,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428109589105,
+          -22.92314496338953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 433,
+        "ponto_id": 71112,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11479365198852,
+          -22.92137196004233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 435,
+        "ponto_id": 60484,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "1213",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,241,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11077843043799,
+          -22.919838754157905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 5666,
+        "ponto_id": 60452,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10758233988883,
+          -22.918768450383777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 436,
+        "ponto_id": 60412,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "613",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1055452451984,
+          -22.917671383985603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 437,
+        "ponto_id": 60392,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "293",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289353601174,
+          -22.915618157092656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 438,
+        "ponto_id": 60356,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,242,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0941415951659,
+          -22.910089110484417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 439,
+        "ponto_id": 60232,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R JOSE MARIA LISBOA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,245,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08660990823094,
+          -22.909068314966888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 440,
+        "ponto_id": 60196,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CAD JOAO TEIXEIRA",
+        "ende_numero": "550",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085045687073375,
+          -22.908224389275663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 441,
+        "ponto_id": 60148,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BR DE MONTE ALEGRE",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08345633555803,
+          -22.905808456998923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 442,
+        "ponto_id": 60132,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,220,230,240,241 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08276150392695,
+          -22.90366145360983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 443,
+        "ponto_id": 50112,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "4",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,230,241 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08207882151804,
+          -22.90058739832326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 444,
+        "ponto_id": 50084,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "286",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08072084251693,
+          -22.89802936685601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 4087,
+        "ponto_id": 50076,
+        "ptseqlinha": 41.1,
+        "ende_logradouro": "AV. DR. ALBERTO SARMENTO",
+        "ende_numero": "400",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08020683735552,
+          -22.89734637038613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 445,
+        "ponto_id": 50060,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "586",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079140799928616,
+          -22.895055875271897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 446,
+        "ponto_id": 50056,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "910",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07777744550993,
+          -22.892506547450093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 447,
+        "ponto_id": 40120,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,360 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07691977775034,
+          -22.89067941563965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 448,
+        "ponto_id": 40128,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.075850651580815,
+          -22.887460320680486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 449,
+        "ponto_id": 40152,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "582",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07453023316228,
+          -22.88527660771372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 450,
+        "ponto_id": 40176,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "920",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072881759618,
+          -22.882408338080158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 451,
+        "ponto_id": 40168,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R IMPZ LEOPOLDINA",
+        "ende_numero": "363",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0696772936308,
+          -22.881461086445196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 452,
+        "ponto_id": 30084,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R IMPZ LEOPOLDINA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06775929541032,
+          -22.88180085006565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 453,
+        "ponto_id": 30096,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1176",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065951180420484,
+          -22.880333218115464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 454,
+        "ponto_id": 30144,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066504558628914,
+          -22.878037087055088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 455,
+        "ponto_id": 30160,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,351 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06661704227458,
+          -22.876794015092027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 456,
+        "ponto_id": 30180,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,351 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06480447546849,
+          -22.875690699328892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 457,
+        "ponto_id": 30200,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "510",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,338,351,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631018233907,
+          -22.87389349204495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 458,
+        "ponto_id": 30244,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,332,338,371,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06347272469812,
+          -22.87211134922351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 459,
+        "ponto_id": 30261,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": "1735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063893419368355,
+          -22.870397171864866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 460,
+        "ponto_id": 30336,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R PASCOAL NOTTE",
+        "ende_numero": "220",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06467895548896,
+          -22.866980553926787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 461,
+        "ponto_id": 30392,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R PASCOAL NOTTE",
+        "ende_numero": "600",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06451408609473,
+          -22.863929896210802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 462,
+        "ponto_id": 30440,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "136",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064494913005134,
+          -22.861353389580884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 463,
+        "ponto_id": 30480,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065140732215305,
+          -22.86016740184485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 464,
+        "ponto_id": 30492,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "462",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06585870917193,
+          -22.858775360168288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 465,
+        "ponto_id": 30572,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067239683799095,
+          -22.85616234066071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 466,
+        "ponto_id": 30616,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06852872614103,
+          -22.85479329232543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 467,
+        "ponto_id": 30656,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069291958773036,
+          -22.85319292013854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 468,
+        "ponto_id": 30708,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06819371186835,
+          -22.852097391378816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 77,
+        "num_linha": "116",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 23106.54,
+        "ponto_gid": 469,
+        "ponto_id": 30716,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0668832013031,
+          -22.851540874034907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 471,
+        "ponto_id": 30724,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": "323",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06704665612026,
+          -22.851251391382547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 472,
+        "ponto_id": 30712,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06896863116666,
+          -22.85208688596178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 473,
+        "ponto_id": 30640,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06944900753777,
+          -22.85334690709817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 474,
+        "ponto_id": 30612,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0688101174447,
+          -22.85450868447441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 475,
+        "ponto_id": 30568,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "RUA DOS GUAINUMBIS",
+        "ende_numero": "718",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06735255635887,
+          -22.856235986479597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 476,
+        "ponto_id": 30500,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06611766530102,
+          -22.85863739062825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 477,
+        "ponto_id": 30476,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065208569593906,
+          -22.860301940314073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 478,
+        "ponto_id": 30432,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "RUA DOS GUAINUMBIS",
+        "ende_numero": "129",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06459209172412,
+          -22.861483575198463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 479,
+        "ponto_id": 30384,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R PASCOAL NOTTE",
+        "ende_numero": "563",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06468549918265,
+          -22.864106103541726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 4335,
+        "ponto_id": 30328,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065388644076364,
+          -22.868156909269842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 480,
+        "ponto_id": 30288,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV PE MANUEL BERNARDES",
+        "ende_numero": "1085",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064024594541785,
+          -22.869809736769433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 481,
+        "ponto_id": 30264,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": "1908",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0651947455764,
+          -22.87153540117667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 482,
+        "ponto_id": 30226,
+        "ptseqlinha": 80.5,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,332,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06310746999701,
+          -22.872842025129277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 483,
+        "ponto_id": 30196,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "857",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06159183112396,
+          -22.873805012625432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 484,
+        "ponto_id": 30164,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "715",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06110276232378,
+          -22.8758734256933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 485,
+        "ponto_id": 30112,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "301",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06352771136184,
+          -22.87921534887774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 486,
+        "ponto_id": 30092,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "95",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171,338,371 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06423976408573,
+          -22.88068740702943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 487,
+        "ponto_id": 30088,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R IMPZ LEOPOLDINA",
+        "ende_numero": "148",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0675787498882,
+          -22.881595375943302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 488,
+        "ponto_id": 40172,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R IMPZ LEOPOLDINA",
+        "ende_numero": "370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069769832600244,
+          -22.881204482191826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 489,
+        "ponto_id": 40184,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07317028865365,
+          -22.882379206921932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 490,
+        "ponto_id": 40156,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "519",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074769541442514,
+          -22.885166373245152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 491,
+        "ponto_id": 40140,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "197",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.076454107342464,
+          -22.888109438858407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 492,
+        "ponto_id": 50064,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "785",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,242,360 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07849871713929,
+          -22.8934028795897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 493,
+        "ponto_id": 50080,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "461",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798725777218,
+          -22.895996659643085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 494,
+        "ponto_id": 50092,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08169924411183,
+          -22.899461365305882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 495,
+        "ponto_id": 60140,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,134,210,230,240,241 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08301080098858,
+          -22.903455329319353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 496,
+        "ponto_id": 60176,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084612856301646,
+          -22.90635237515265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 497,
+        "ponto_id": 60248,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087805701198135,
+          -22.908595194290964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 498,
+        "ponto_id": 60352,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV. JOSE MARIO DE ARRUDA TOLEDO",
+        "ende_numero": "2184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09500481518596,
+          -22.909730272500486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 499,
+        "ponto_id": 60396,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "R JOSE ROSOLEN",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10444483882563,
+          -22.916194442096366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 501,
+        "ponto_id": 60456,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "R JOSE ROSOLEN ",
+        "ende_numero": "791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10823760905479,
+          -22.918507021207088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 502,
+        "ponto_id": 60488,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R JOSE ROSOLEN ",
+        "ende_numero": "319",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,289 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111569209972984,
+          -22.919515916508686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 504,
+        "ponto_id": 71140,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115181917083426,
+          -22.921570361353275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 505,
+        "ponto_id": 71172,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11475045032346,
+          -22.92384937015901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 506,
+        "ponto_id": 71216,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11474603697954,
+          -22.925382148328517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 507,
+        "ponto_id": 71242,
+        "ptseqlinha": 106.5,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11474616028745,
+          -22.92764578667319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 508,
+        "ponto_id": 71320,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114704622673536,
+          -22.929541520036697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 509,
+        "ponto_id": 71372,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114780055782646,
+          -22.93100413140107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 510,
+        "ponto_id": 71440,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115638744538025,
+          -22.931656039218375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 511,
+        "ponto_id": 71552,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119010232027485,
+          -22.931135655211044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 5496,
+        "ponto_id": 71962,
+        "ptseqlinha": 110.5,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "565",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,230 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12127121597841,
+          -22.930543030006806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 512,
+        "ponto_id": 71768,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12184193892958,
+          -22.932522565087886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 6296,
+        "ponto_id": 71770,
+        "ptseqlinha": 111.1,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,163 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1211704470878,
+          -22.9345109584078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 513,
+        "ponto_id": 71788,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "1601",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,163 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119733967349035,
+          -22.937603331806844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 514,
+        "ponto_id": 71864,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,134,152,163 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11955606991253,
+          -22.94001428432234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 515,
+        "ponto_id": 71720,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "835",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11533649074892,
+          -22.940656588510343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 516,
+        "ponto_id": 71596,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11293606275687,
+          -22.940325213801763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 517,
+        "ponto_id": 71564,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111641978109986,
+          -22.940158459956614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 518,
+        "ponto_id": 71360,
+        "ptseqlinha": 118.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10802773460783,
+          -22.939661433893242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 519,
+        "ponto_id": 71520,
+        "ptseqlinha": 119.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1404",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,125,134,152 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10895883024575,
+          -22.942488447303212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 7213,
+        "ponto_id": 71517,
+        "ptseqlinha": 119.5,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1800",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "116,118,119,125,134 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109183154169685,
+          -22.946255137378042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 5548,
+        "ponto_id": 72102,
+        "ptseqlinha": 120.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "2640",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11342351537615,
+          -22.952447995265032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 5377,
+        "ponto_id": 72206,
+        "ptseqlinha": 122.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,125,131,132,133,134,136,143,199 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11565626458329,
+          -22.95460736039799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 522,
+        "ponto_id": 72320,
+        "ptseqlinha": 124.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "3242",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,122,125,131,132,133,134,136,143,199 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119809302045724,
+          -22.957314180498653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 5882,
+        "ponto_id": 72684,
+        "ptseqlinha": 124.5,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,125,131,133,134,136,199 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1301636838741,
+          -22.96193583612797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 125.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 397,
+        "num_linha": "116",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA/TERMINAL CENTRAL (EXPRESSA)",
+        "extensao_m": 23075.31,
+        "ponto_gid": 5293,
+        "ponto_id": 72816,
+        "ptseqlinha": 126.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119 [15/04/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13236625238951,
+          -22.96486112964537
+        ]
+      }
+    }
+  ]
+}

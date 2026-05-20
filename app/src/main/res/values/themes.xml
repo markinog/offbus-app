@@ -1,0 +1,14 @@
+<resources>
+    <style name="Base.Theme.OffBuss" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/bg_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:colorBackground">@color/bg_page</item>
+        <item name="android:windowBackground">@color/bg_page</item>
+        <item name="android:statusBarColor">@color/bg_surface</item>
+        <item name="android:navigationBarColor">@color/bg_page</item>
+    </style>
+
+    <style name="Theme.OffBuss" parent="Base.Theme.OffBuss"/>
+</resources>
