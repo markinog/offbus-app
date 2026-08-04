@@ -82,7 +82,13 @@ jobs:
           fi
 
       - name: Compila o APK
-        run: ./gradlew assembleDebug --no-daemon
+        # O bit de execução do gradlew se perde com facilidade em repositório
+        # mexido no Windows, e o runner Linux recusa o arquivo com exit 126.
+        # O chmod é redundante enquanto o modo estiver 100755 no git, mas evita
+        # que a esteira volte a quebrar caso o arquivo seja readicionado.
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
 
       - name: Monta o nome da versão
         id: versao
