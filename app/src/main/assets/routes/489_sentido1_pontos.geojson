@@ -1,0 +1,2387 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4869,
+        "ponto_id": 93040,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0419346710342,
+          -22.966184097117267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 5174,
+        "ponto_id": 93036,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04479498273394,
+          -22.9665299183601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4870,
+        "ponto_id": 93024,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04620859441249,
+          -22.96605495412049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4871,
+        "ponto_id": 93008,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DR OCTACILIO FERREIRA DE SOUSA",
+        "ende_numero": "60",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04732831555987,
+          -22.9649457715436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4872,
+        "ponto_id": 93004,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04588481346974,
+          -22.96291552284935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4873,
+        "ponto_id": 92992,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04603599810576,
+          -22.961981800321002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4874,
+        "ponto_id": 92972,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04812667932675,
+          -22.962239002742507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4875,
+        "ponto_id": 92976,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "256",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049716207085794,
+          -22.962438830242608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4876,
+        "ponto_id": 92980,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "422",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05130687837004,
+          -22.962687557896075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4877,
+        "ponto_id": 92944,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ODILON FIGUEIREDO DANTAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052772132921326,
+          -22.96120661459783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4878,
+        "ponto_id": 92912,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053345041143125,
+          -22.96015331434293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4879,
+        "ponto_id": 92796,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05272703860901,
+          -22.956984220395857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4880,
+        "ponto_id": 92824,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R TEOFILO TAVARES FILHO",
+        "ende_numero": "293",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05143185292585,
+          -22.957088282496073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4881,
+        "ponto_id": 92820,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05021933687863,
+          -22.95678284271109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4882,
+        "ponto_id": 92728,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04919680915245,
+          -22.955505611255333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4883,
+        "ponto_id": 92648,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R GORO KIYONO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05036331090509,
+          -22.954669173049954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4884,
+        "ponto_id": 92604,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R MASAO MURAYAMA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049745544303036,
+          -22.95316263728884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4885,
+        "ponto_id": 92460,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04827590313095,
+          -22.950254504246725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 7604,
+        "ponto_id": 92466,
+        "ptseqlinha": 18.1,
+        "ende_logradouro": "AV WASHINGTON LUIZ",
+        "ende_numero": "3771",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04779262067733,
+          -22.948023987411663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4886,
+        "ponto_id": 92174,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04638854569792,
+          -22.945778083994536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4891,
+        "ponto_id": 91824,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R LUX AETERNA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046381555938424,
+          -22.941566010720916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3661,
+        "ponto_id": 91664,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "609",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046008069519466,
+          -22.940493795915458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3662,
+        "ponto_id": 91840,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04390716460893,
+          -22.940973552919356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3663,
+        "ponto_id": 91880,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04146540231736,
+          -22.940194716974602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3669,
+        "ponto_id": 92092,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "1680",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03543361766763,
+          -22.94064462175903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 1370,
+        "ponto_id": 92336,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "3000",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032899873356556,
+          -22.94239251741345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 1371,
+        "ponto_id": 92480,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANTONIO CAMPAGNONE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03050104434608,
+          -22.944231637509997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3860,
+        "ponto_id": 92496,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PAULO CUBA DE SOUZA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02574855102452,
+          -22.9413229044048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4063,
+        "ponto_id": 92200,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02649259545428,
+          -22.93608979092813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4064,
+        "ponto_id": 92060,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1679",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02806632404069,
+          -22.9350838250897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 6075,
+        "ponto_id": 91882,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1423",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030201565437146,
+          -22.933769592064674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3632,
+        "ponto_id": 91736,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1277",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031216684304866,
+          -22.932899468518023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3865,
+        "ponto_id": 91546,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1077",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03277036865288,
+          -22.931848124984736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3633,
+        "ponto_id": 91312,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "707",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03525740973933,
+          -22.92916075497505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3034,
+        "ponto_id": 91104,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "151",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038945845706934,
+          -22.927941490545457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 2535,
+        "ponto_id": 90968,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04196795406078,
+          -22.927187713493705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 2536,
+        "ponto_id": 90700,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1657",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04452428921101,
+          -22.92519311981067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 2537,
+        "ponto_id": 90600,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047320154839525,
+          -22.922961936981704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 4901,
+        "ponto_id": 90092,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "398",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636334818002,
+          -22.91593878024918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3824,
+        "ponto_id": 90076,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05820524249644,
+          -22.915896046718192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 3825,
+        "ponto_id": 90056,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06144028316159,
+          -22.91497232373664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 44.5,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 375,
+        "num_linha": "489",
+        "sentido": 1,
+        "nome_linha": "PARQUE JAMBEIRO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15569.71,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 589,
+        "ponto_id": 296,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,153,154,161,211,213,219,264,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06337498011748,
+          -22.906949468394345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1255,
+        "ponto_id": 60004,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": "720",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449732219572,
+          -22.910510021387225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1208,
+        "ponto_id": 60008,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06485226139311,
+          -22.911777798123445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 5531,
+        "ponto_id": 90026,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06170631839999,
+          -22.912562901185296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 5679,
+        "ponto_id": 90027,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05980475442011,
+          -22.913988769945206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4747,
+        "ponto_id": 90128,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R ENG MONLEVADE",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059245786952545,
+          -22.917132017911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4926,
+        "ponto_id": 90146,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R VICTORIANO DOS ANJOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055463073236666,
+          -22.917402398474785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 2596,
+        "ponto_id": 90584,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0472673320709,
+          -22.923169809723422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 2597,
+        "ponto_id": 90788,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1680",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044524881837745,
+          -22.925398588550916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 2598,
+        "ponto_id": 90964,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1992",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04225744507441,
+          -22.927247906871223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 2994,
+        "ponto_id": 91112,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "341,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03892677258802,
+          -22.928106496193028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3634,
+        "ponto_id": 91316,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "688",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "341,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03537706509646,
+          -22.929238576550294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3866,
+        "ponto_id": 91578,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1114",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "341,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03264725357667,
+          -22.932087860594052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3635,
+        "ponto_id": 91876,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03033565403651,
+          -22.93391623210577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4069,
+        "ponto_id": 92052,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.028000534026745,
+          -22.935298269534467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4070,
+        "ponto_id": 92192,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.026652701932036,
+          -22.936152206110513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3871,
+        "ponto_id": 92504,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV PAULO CUBA DE SOUZA",
+        "ende_numero": "1420",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02588362885798,
+          -22.941657423072215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3637,
+        "ponto_id": 92492,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R PEDRO TAQUES DE ALMEIDA ALVIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "341,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029426579292846,
+          -22.943748255495645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1330,
+        "ponto_id": 92476,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ANTONIO CAMPAGNONE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030752402255025,
+          -22.94416824330682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 1331,
+        "ponto_id": 92372,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "3007",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03212543316657,
+          -22.942614236368318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3686,
+        "ponto_id": 92096,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "1390",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035488957453786,
+          -22.940839999481913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3691,
+        "ponto_id": 91140,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R SYNIRA DE ARRUDA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03965839270088,
+          -22.940412060856072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3692,
+        "ponto_id": 91732,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041697900380804,
+          -22.94007129214672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3693,
+        "ponto_id": 91816,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "394",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04421254090457,
+          -22.94080672624557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 3694,
+        "ponto_id": 91704,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "648",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04628113557128,
+          -22.940015042407026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4908,
+        "ponto_id": 91830,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04679055818755,
+          -22.941712493931423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4909,
+        "ponto_id": 92456,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "4150",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04864002326857,
+          -22.9502857323151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4910,
+        "ponto_id": 92612,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R MASAO MURAYAMA",
+        "ende_numero": "421",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04988281107458,
+          -22.953164022743213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4911,
+        "ponto_id": 92660,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R GORO KIYONO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05047955920986,
+          -22.9547962273009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4912,
+        "ponto_id": 92720,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049389377290055,
+          -22.955431079820247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4913,
+        "ponto_id": 92784,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050583804336526,
+          -22.957001209196875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4914,
+        "ponto_id": 92816,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R TEOFILO TAVARES FILHO",
+        "ende_numero": "322",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05171451999946,
+          -22.956920858998657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4915,
+        "ponto_id": 92828,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": "559",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053185962888094,
+          -22.957492818330962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4916,
+        "ponto_id": 92916,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05375298300196,
+          -22.960177461330826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4917,
+        "ponto_id": 92928,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R EDUARDO MONKECEVIC",
+        "ende_numero": "577",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05338346650615,
+          -22.96054137707988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4918,
+        "ponto_id": 92968,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050784479088605,
+          -22.96285862442581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4919,
+        "ponto_id": 92988,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049683266748964,
+          -22.962675245519716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4920,
+        "ponto_id": 92984,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048045854591024,
+          -22.9624141050192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4921,
+        "ponto_id": 92996,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04603180913641,
+          -22.962141558248355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4922,
+        "ponto_id": 93000,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": "267",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04598755444734,
+          -22.962796653414152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4923,
+        "ponto_id": 93012,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": "45",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04718748000744,
+          -22.964297129478634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4924,
+        "ponto_id": 93028,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0462591541509,
+          -22.96615219271228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4925,
+        "ponto_id": 93020,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04350098581548,
+          -22.96490668345171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 15,
+        "num_linha": "489",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 16424.31,
+        "ponto_gid": 4869,
+        "ponto_id": 93040,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0419346710342,
+          -22.966184097117267
+        ]
+      }
+    }
+  ]
+}

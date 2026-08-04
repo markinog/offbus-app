@@ -1,0 +1,2012 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4916,
+        "ponto_id": 92916,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05375298300196,
+          -22.960177461330826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4878,
+        "ponto_id": 92912,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053345041143125,
+          -22.96015331434293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4915,
+        "ponto_id": 92828,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": "559",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053185962888094,
+          -22.957492818330962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5175,
+        "ponto_id": 92800,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R FRANKLIN BOWERS JONES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05494024440518,
+          -22.957048539842432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4791,
+        "ponto_id": 92606,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0578062505176,
+          -22.954210441737427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4792,
+        "ponto_id": 92670,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05881700807037,
+          -22.955604797090967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 7573,
+        "ponto_id": 92837,
+        "ptseqlinha": 6.1,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05753319466533,
+          -22.957823233233686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4793,
+        "ponto_id": 92834,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05723224021467,
+          -22.9579151695262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4790,
+        "ponto_id": 92671,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058548139418214,
+          -22.955582314456308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4794,
+        "ponto_id": 92614,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": "1161",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05775991242273,
+          -22.954380164738737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4795,
+        "ponto_id": 92620,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05569708342124,
+          -22.954325127405234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 6096,
+        "ponto_id": 92441,
+        "ptseqlinha": 10.1,
+        "ende_logradouro": "R. EZEQUIEL FOGA",
+        "ende_numero": "497",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05582704921332,
+          -22.952347304398348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4796,
+        "ponto_id": 92436,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R EZEQUIEL FOGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056419328068955,
+          -22.9507564284347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4797,
+        "ponto_id": 92412,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054636843429236,
+          -22.95048946503387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4798,
+        "ponto_id": 92292,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": "281",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05443314514795,
+          -22.94890545101143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4799,
+        "ponto_id": 92184,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05503278717127,
+          -22.94753934530343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4800,
+        "ponto_id": 92252,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": "296",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05623152556325,
+          -22.947943606268804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4353,
+        "ponto_id": 92180,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05619596980502,
+          -22.94751145064441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4354,
+        "ponto_id": 92136,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": "1671",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05304033129756,
+          -22.94603962562473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4355,
+        "ponto_id": 91960,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1771",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053759657041844,
+          -22.944629892137936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4304,
+        "ponto_id": 91848,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1507",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055457323495276,
+          -22.943614202253322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4305,
+        "ponto_id": 91776,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1413",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05661885541844,
+          -22.94281444288585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5176,
+        "ponto_id": 91560,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R STO ANTONIO DA ALEGRIA",
+        "ende_numero": "449",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05612031756723,
+          -22.94030300455731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5177,
+        "ponto_id": 91460,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R STO ANTONIO DA ALEGRIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055445827148525,
+          -22.939393446417593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5178,
+        "ponto_id": 91356,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R S BERNARDO DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054669891041094,
+          -22.937717445305587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5179,
+        "ponto_id": 91252,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R S BERNARDO DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05679129693699,
+          -22.936568964741884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5180,
+        "ponto_id": 91120,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV STA BARBARA DO RIO PARDO",
+        "ende_numero": "1550",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05625085953096,
+          -22.934852452353496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5181,
+        "ponto_id": 91040,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV STA BARBARA DO RIO PARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056089852555104,
+          -22.93307044394983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 5182,
+        "ponto_id": 90928,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05633759067655,
+          -22.931440314809638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4895,
+        "ponto_id": 90792,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV JOSE ADEMAR ETTER",
+        "ende_numero": "39",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05312178723234,
+          -22.928470146724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 3819,
+        "ponto_id": 90748,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "842",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054627821142816,
+          -22.92808673855834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 3820,
+        "ponto_id": 90580,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056291804498905,
+          -22.92542741688336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 3821,
+        "ponto_id": 90428,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056925929493126,
+          -22.92292361488959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 3822,
+        "ponto_id": 90348,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "585",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05666653457981,
+          -22.92159824728047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 3823,
+        "ponto_id": 90196,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05674733831161,
+          -22.918740586941126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 4926,
+        "ponto_id": 90146,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R VICTORIANO DOS ANJOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055463073236666,
+          -22.917402398474785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 356,
+        "num_linha": "499",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 11554.7,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 3677,
+        "ponto_id": 72,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "957",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05930243407126,
+          -22.90621581151629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 41.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4901,
+        "ponto_id": 90092,
+        "ptseqlinha": 42.5,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "398",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636334818002,
+          -22.91593878024918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 3829,
+        "ponto_id": 90184,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05690363879418,
+          -22.918264054668192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 3830,
+        "ponto_id": 90388,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "570",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056944808677315,
+          -22.92181040902628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 3831,
+        "ponto_id": 90540,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "864",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05719669976278,
+          -22.92397456621238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 3832,
+        "ponto_id": 90624,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1074",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056336664727226,
+          -22.92566201286203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5183,
+        "ponto_id": 90988,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636687251246,
+          -22.932032436915467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5184,
+        "ponto_id": 91028,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV STA BARBARA DO RIO PARDO",
+        "ende_numero": "1781",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056286819802196,
+          -22.933007404782686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5185,
+        "ponto_id": 91132,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV STA BARBARA DO RIO PARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05645283589067,
+          -22.93499843417609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5186,
+        "ponto_id": 91284,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R S BERNARDO DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056914330445274,
+          -22.93669357987596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5187,
+        "ponto_id": 91368,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R S BERNARDO DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054757859267525,
+          -22.937878447314837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5188,
+        "ponto_id": 91452,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R STO ANTONIO DA ALEGRIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055597811425315,
+          -22.93934823365173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4801,
+        "ponto_id": 91440,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R SANTO ANTONIO DA ALEGRIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05703337443269,
+          -22.941261506725226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4306,
+        "ponto_id": 91688,
+        "ptseqlinha": 53.2,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05783906962001,
+          -22.94212152699951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4348,
+        "ponto_id": 91720,
+        "ptseqlinha": 53.4,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1280",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05792828740344,
+          -22.942471012914318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4349,
+        "ponto_id": 91832,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1470",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05620405921583,
+          -22.943503683091482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4444,
+        "ponto_id": 91972,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1770",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053999135502046,
+          -22.94486269049746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4298,
+        "ponto_id": 92108,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": "1730",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05411359991379,
+          -22.946564181614498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4300,
+        "ponto_id": 92268,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R EVA DE SOUZA SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05867727764527,
+          -22.948269745294162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4299,
+        "ponto_id": 92528,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": "2094",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05766774078333,
+          -22.947770824199136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4809,
+        "ponto_id": 92260,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05622210379436,
+          -22.948043667172676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4810,
+        "ponto_id": 92208,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": "151",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05484791032376,
+          -22.947573879868752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4811,
+        "ponto_id": 92308,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05462695790132,
+          -22.9489247878841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4812,
+        "ponto_id": 92440,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0548525380585,
+          -22.950733041732278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4813,
+        "ponto_id": 92384,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R MANOEL HERCULANO MARQUES DE FONTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0564116003478,
+          -22.950245279329817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 6095,
+        "ponto_id": 92455,
+        "ptseqlinha": 62.1,
+        "ende_logradouro": "R. EZEQUIEL FOGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056083921632805,
+          -22.952344515755563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4814,
+        "ponto_id": 92624,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055811277507985,
+          -22.954209624779175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4791,
+        "ponto_id": 92606,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0578062505176,
+          -22.954210441737427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4792,
+        "ponto_id": 92670,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05881700807037,
+          -22.955604797090967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 7573,
+        "ponto_id": 92837,
+        "ptseqlinha": 65.1,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05753319466533,
+          -22.957823233233686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4793,
+        "ponto_id": 92834,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05723224021467,
+          -22.9579151695262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4790,
+        "ponto_id": 92671,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058548139418214,
+          -22.955582314456308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4794,
+        "ponto_id": 92614,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": "1161",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05775991242273,
+          -22.954380164738737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 5190,
+        "ponto_id": 92756,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R FRANKLIN BOWERS JONES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05505608691519,
+          -22.956994044774408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 88,
+        "num_linha": "499",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 11510.51,
+        "ponto_gid": 4916,
+        "ponto_id": 92916,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05375298300196,
+          -22.960177461330826
+        ]
+      }
+    }
+  ]
+}

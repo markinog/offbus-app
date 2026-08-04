@@ -1,0 +1,1862 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5296,
+        "ponto_id": 72940,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13334485708987,
+          -22.964813561152738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 3,
+        "ponto_id": 73292,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592503837853,
+          -22.969142360359864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 4,
+        "ponto_id": 73368,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "665",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13716781298306,
+          -22.969207938057604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 184,
+        "ponto_id": 73466,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "381",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14017003674292,
+          -22.969367836785455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 6303,
+        "ponto_id": 73790,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "OP 299",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144142236630984,
+          -22.97000960181879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 185,
+        "ponto_id": 73784,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "422",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144690042590305,
+          -22.97113733425804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 186,
+        "ponto_id": 73916,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "664",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14560902070741,
+          -22.972740276938424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 187,
+        "ponto_id": 74032,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "824",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146635147790086,
+          -22.974532794490152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 188,
+        "ponto_id": 74128,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1042",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147539073941516,
+          -22.975994273604456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5790,
+        "ponto_id": 74168,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1212",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14812316754913,
+          -22.977427143709566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 189,
+        "ponto_id": 74224,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1444",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14801718029317,
+          -22.979745666367492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 190,
+        "ponto_id": 74288,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14754092501325,
+          -22.98130380595925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 191,
+        "ponto_id": 74396,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "697",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148177663340256,
+          -22.98343004491627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5791,
+        "ponto_id": 74460,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "425",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14875773905375,
+          -22.985805432506897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 192,
+        "ponto_id": 74580,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14948009259405,
+          -22.98868830564404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 194,
+        "ponto_id": 74484,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "615",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14709491915395,
+          -22.98830078941712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 193,
+        "ponto_id": 74428,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "345",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14499051705049,
+          -22.98863208499589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 195,
+        "ponto_id": 74400,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "27",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14188178828759,
+          -22.989042839117506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 196,
+        "ponto_id": 74380,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "264",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139892502361455,
+          -22.990169008872194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 284,
+        "ponto_id": 74364,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13789180723175,
+          -22.991379716816233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 381,
+        "ponto_id": 74340,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV BR SMITH DE WASCONCELLOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13549049896599,
+          -22.992503903910073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 382,
+        "ponto_id": 74332,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BR SMITH DE WASCONCELLOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132028695759075,
+          -22.99450673498274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 383,
+        "ponto_id": 74376,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DOS METALURGICOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13047606006,
+          -22.996600346091416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1548,
+        "ponto_id": 74248,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12498210634952,
+          -22.997336342928893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1549,
+        "ponto_id": 74292,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12213010252335,
+          -22.999321360490146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1550,
+        "ponto_id": 74280,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "679",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119509153696804,
+          -23.000351507702423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1551,
+        "ponto_id": 74272,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "461",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11684136745977,
+          -23.00114013969183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1552,
+        "ponto_id": 74208,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "1",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1131751114399,
+          -23.002299252528413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 7523,
+        "ponto_id": 74848,
+        "ptseqlinha": 30.1,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "465",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13877548950197,
+          -23.01287571073185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 6325,
+        "ponto_id": 74802,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13360027285604,
+          -23.013526458616997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 6324,
+        "ponto_id": 74814,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12941702631448,
+          -23.016370538592106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5659,
+        "ponto_id": 74797,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793671819422,
+          -23.019561979165978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 6323,
+        "ponto_id": 74793,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12726861288158,
+          -23.017307447709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5335,
+        "ponto_id": 74795,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12909479814414,
+          -23.015972526651097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5740,
+        "ponto_id": 74799,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13121202636493,
+          -23.0144863636971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5334,
+        "ponto_id": 74807,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13342460578203,
+          -23.013186998410152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 7180,
+        "ponto_id": 74813,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13713260691007,
+          -23.01234708897931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 5333,
+        "ponto_id": 74811,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14043415199295,
+          -23.01275508075005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1451,
+        "ponto_id": 74824,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R F",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143983160756214,
+          -23.009775367951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 87,
+        "num_linha": "198",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 18452.08,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1453,
+        "ponto_id": 74836,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14505426400336,
+          -23.012113955312397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1406,
+        "ponto_id": 81056,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427374407243,
+          -23.00836313899027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 7183,
+        "ponto_id": 74773,
+        "ptseqlinha": 33.1,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106464206207136,
+          -22.98701052606298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1553,
+        "ponto_id": 74178,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113123665767894,
+          -23.00189450467759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1554,
+        "ponto_id": 74192,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11509831554232,
+          -23.001204749738523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1555,
+        "ponto_id": 74220,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "460",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11760747678209,
+          -23.00036991490589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1556,
+        "ponto_id": 74244,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1194901901461,
+          -22.999693176508124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1557,
+        "ponto_id": 74236,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "1000",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122572205576816,
+          -22.9985530440938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 1558,
+        "ponto_id": 74216,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12389074590458,
+          -22.997594007878583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 400,
+        "ponto_id": 74368,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV DOS METALURGICOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13052051799149,
+          -22.99638922558393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 401,
+        "ponto_id": 74312,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV BR SMITH DE WASCONCELLOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13189965261138,
+          -22.994443733756288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 402,
+        "ponto_id": 74336,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV BR SMITH DE WASCONCELLOS",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1353637765569,
+          -22.992382657734264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 5793,
+        "ponto_id": 74354,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138051830595266,
+          -22.990929430514683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 253,
+        "ponto_id": 74384,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14182768214357,
+          -22.988646270311904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 254,
+        "ponto_id": 74416,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14496206936701,
+          -22.98840434552314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 255,
+        "ponto_id": 74492,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147324145708865,
+          -22.98822654526959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 256,
+        "ponto_id": 74536,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "228",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148990625598636,
+          -22.9876902797869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 239,
+        "ponto_id": 74448,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "510",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148508443680726,
+          -22.985754558958746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 240,
+        "ponto_id": 74372,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14792010056121,
+          -22.983278174417958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 202,
+        "ponto_id": 74256,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147149736656935,
+          -22.981117958030907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 203,
+        "ponto_id": 74164,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147867376416514,
+          -22.977523865408276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 204,
+        "ponto_id": 74116,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "883",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147208048672084,
+          -22.97611828377621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 205,
+        "ponto_id": 74048,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "751",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146399643686415,
+          -22.974661184652266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 206,
+        "ponto_id": 73920,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "643",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145399545730164,
+          -22.972918066075568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 207,
+        "ponto_id": 73764,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "419",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14429304795236,
+          -22.971080326206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 208,
+        "ponto_id": 73620,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "143",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14327105044994,
+          -22.969255336052626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 34,
+        "ponto_id": 73468,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4377",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14104420926855,
+          -22.967549350554567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 209,
+        "ponto_id": 73312,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R CAIRU",
+        "ende_numero": "23",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13819199541887,
+          -22.967078339334307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 64,
+        "ponto_id": 73124,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105,108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13577803393606,
+          -22.96668532694984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 353,
+        "num_linha": "198",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 15700.46,
+        "ponto_gid": 5296,
+        "ponto_id": 72940,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13334485708987,
+          -22.964813561152738
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Um resultado da busca: "122  Terminal Vida Nova / Campinas Shopping".
+  A altura fixa de 56dp é usada por MainActivity para limitar o quanto a
+  lista cresce — ver ALTURA_ITEM_DP.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="?attr/selectableItemBackground"
+    android:paddingStart="14dp"
+    android:paddingEnd="14dp">
+
+    <TextView
+        android:id="@+id/tvNumeroLinha"
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/accent_red"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:text="122" />
+
+    <TextView
+        android:id="@+id/tvPontosLinha"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_primary"
+        android:textSize="14sp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        tools:text="Terminal Vida Nova / Campinas Shopping" />
+
+</LinearLayout>

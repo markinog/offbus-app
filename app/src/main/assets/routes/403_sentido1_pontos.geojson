@@ -1,0 +1,2462 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4791,
+        "ponto_id": 92606,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0578062505176,
+          -22.954210441737427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4792,
+        "ponto_id": 92670,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05881700807037,
+          -22.955604797090967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 7573,
+        "ponto_id": 92837,
+        "ptseqlinha": 2.1,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05753319466533,
+          -22.957823233233686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4793,
+        "ponto_id": 92834,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05723224021467,
+          -22.9579151695262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4790,
+        "ponto_id": 92671,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058548139418214,
+          -22.955582314456308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4794,
+        "ponto_id": 92614,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": "1161",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05775991242273,
+          -22.954380164738737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4795,
+        "ponto_id": 92620,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05569708342124,
+          -22.954325127405234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 6096,
+        "ponto_id": 92441,
+        "ptseqlinha": 6.1,
+        "ende_logradouro": "R. EZEQUIEL FOGA",
+        "ende_numero": "497",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05582704921332,
+          -22.952347304398348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4796,
+        "ponto_id": 92436,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R EZEQUIEL FOGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056419328068955,
+          -22.9507564284347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4797,
+        "ponto_id": 92412,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054636843429236,
+          -22.95048946503387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4798,
+        "ponto_id": 92292,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": "281",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05443314514795,
+          -22.94890545101143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4799,
+        "ponto_id": 92184,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05503278717127,
+          -22.94753934530343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4800,
+        "ponto_id": 92252,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": "296",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05623152556325,
+          -22.947943606268804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 5189,
+        "ponto_id": 92160,
+        "ptseqlinha": 11.5,
+        "ende_logradouro": "R JERONIMO TOGNOLO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0576292612599,
+          -22.947588017132226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4300,
+        "ponto_id": 92268,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R EVA DE SOUZA SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05867727764527,
+          -22.948269745294162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4301,
+        "ponto_id": 92120,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R OTAVIO ROCHA",
+        "ende_numero": "521",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05800661873553,
+          -22.94709696965001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4302,
+        "ponto_id": 92008,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056359519682,
+          -22.945433005357618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4303,
+        "ponto_id": 91932,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05562799872354,
+          -22.944444001694148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4304,
+        "ponto_id": 91848,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1507",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055457323495276,
+          -22.943614202253322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4305,
+        "ponto_id": 91776,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1413",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05661885541844,
+          -22.94281444288585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4306,
+        "ponto_id": 91688,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05783906962001,
+          -22.94212152699951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4307,
+        "ponto_id": 91548,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05974956466347,
+          -22.940936378938108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4308,
+        "ponto_id": 91480,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06137639928558,
+          -22.93992118908683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4802,
+        "ponto_id": 91320,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R VARGEM GRANDE DO SUL",
+        "ende_numero": "804",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062318936399585,
+          -22.937327057313418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4803,
+        "ponto_id": 91216,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R S MIGUEL ARCANJO",
+        "ende_numero": "193",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06399978721189,
+          -22.936071632308728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4804,
+        "ponto_id": 91176,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R S MIGUEL ARCANJO",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06539204930701,
+          -22.935460204149347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4805,
+        "ponto_id": 91048,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R PARAGUAI",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065009193076214,
+          -22.9329777380981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4806,
+        "ponto_id": 91012,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R PARAGUAI",
+        "ende_numero": "39",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06661419707305,
+          -22.932180176701237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4418,
+        "ponto_id": 90920,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": "569",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06635979618373,
+          -22.93082091348132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4419,
+        "ponto_id": 90752,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449754027422,
+          -22.928382977480197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4420,
+        "ponto_id": 90696,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06237885410479,
+          -22.927511525852232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4421,
+        "ponto_id": 90692,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06044584478293,
+          -22.92733341383017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4422,
+        "ponto_id": 90668,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "1349",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05852108636665,
+          -22.927030856682542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4423,
+        "ponto_id": 90536,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "1039",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056168869889746,
+          -22.925106261495078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4423,
+        "ponto_id": 90536,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "1039",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056168869889746,
+          -22.925106261495078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4424,
+        "ponto_id": 90436,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "781",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0548880761512,
+          -22.922979167843113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 4425,
+        "ponto_id": 90332,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05342582458523,
+          -22.920287093055908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 37.5,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 2538,
+        "ponto_id": 90044,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,364,366,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053426767393965,
+          -22.913160430164165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 574,
+        "ponto_id": 676,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "391",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,349,367,385,389,395,397,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05657036676691,
+          -22.910620998767484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1209,
+        "ponto_id": 60,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1360",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,349,362,385,386,403,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06235994236859,
+          -22.902805931348283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 1853,
+        "ponto_id": 312,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV JOAO PENIDO BURNIER",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06678260358723,
+          -22.902692163281756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 5339,
+        "ponto_id": 620,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06949723742806,
+          -22.9017037893688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 46,
+        "num_linha": "403",
+        "sentido": 1,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13959.17,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 57.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 2046,
+        "ponto_id": 580,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,251,253,256,260,261,264,289,299,318,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070823067941824,
+          -22.90234644940773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 982,
+        "ponto_id": 800,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "73",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,244,253,273,341,342,383,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07338580881725,
+          -22.90425635899394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 3677,
+        "ponto_id": 72,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "957",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05930243407126,
+          -22.90621581151629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 7340,
+        "ponto_id": 90014,
+        "ptseqlinha": 58.1,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173,253,341,342,344,345,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05536770427731,
+          -22.915383581991176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4433,
+        "ponto_id": 90316,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "460",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05347809505163,
+          -22.920069927199098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4434,
+        "ponto_id": 90432,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "752",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0550158897969,
+          -22.922659730438173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4435,
+        "ponto_id": 90548,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "964",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0562659350555,
+          -22.92483741672397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4436,
+        "ponto_id": 90656,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "1324",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05862345293275,
+          -22.926735399928994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4437,
+        "ponto_id": 90672,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "1570",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06077487364849,
+          -22.927052437150284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4438,
+        "ponto_id": 90688,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062384733175335,
+          -22.92737955202545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4439,
+        "ponto_id": 90744,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064743313476185,
+          -22.928390342933056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4440,
+        "ponto_id": 90912,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066505499417396,
+          -22.93066996617125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4441,
+        "ponto_id": 91016,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R PARAGUAI",
+        "ende_numero": "56",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06658064566728,
+          -22.93230005229747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4442,
+        "ponto_id": 91052,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R PARAGUAI",
+        "ende_numero": "224",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065132551677884,
+          -22.93303345975677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4807,
+        "ponto_id": 91240,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R S MIGUEL ARCANJO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06388899847548,
+          -22.93624595717841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4808,
+        "ponto_id": 91308,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R VARGEM GRANDE DO SUL",
+        "ende_numero": "833",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062420160518116,
+          -22.937152677158366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4346,
+        "ponto_id": 91476,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "774",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06204465253748,
+          -22.939906727091827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4347,
+        "ponto_id": 91556,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "974",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06041209901868,
+          -22.940920824150492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4348,
+        "ponto_id": 91720,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1280",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05792828740344,
+          -22.942471012914318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4349,
+        "ponto_id": 91832,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1470",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05620405921583,
+          -22.943503683091482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4350,
+        "ponto_id": 91904,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": "600",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05556831788321,
+          -22.9440324709924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4351,
+        "ponto_id": 92036,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": "808",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05673611146355,
+          -22.945731640511017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 5657,
+        "ponto_id": 92525,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R EVA DE SOUZA SANTOS",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05869555057531,
+          -22.94844426442288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4352,
+        "ponto_id": 92284,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05766769400876,
+          -22.94844264979717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4809,
+        "ponto_id": 92260,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05622210379436,
+          -22.948043667172676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4810,
+        "ponto_id": 92208,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R ANTONIO TORQUATO",
+        "ende_numero": "151",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05484791032376,
+          -22.947573879868752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4811,
+        "ponto_id": 92308,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05462695790132,
+          -22.9489247878841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4812,
+        "ponto_id": 92440,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R DR HERCULANO GOUVEA NETO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0548525380585,
+          -22.950733041732278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4813,
+        "ponto_id": 92384,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R MANOEL HERCULANO MARQUES DE FONTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0564116003478,
+          -22.950245279329817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 6095,
+        "ponto_id": 92455,
+        "ptseqlinha": 85.1,
+        "ende_logradouro": "R. EZEQUIEL FOGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056083921632805,
+          -22.952344515755563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4814,
+        "ponto_id": 92624,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055811277507985,
+          -22.954209624779175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4791,
+        "ponto_id": 92606,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0578062505176,
+          -22.954210441737427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4792,
+        "ponto_id": 92670,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05881700807037,
+          -22.955604797090967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 7573,
+        "ponto_id": 92837,
+        "ptseqlinha": 88.1,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05753319466533,
+          -22.957823233233686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4793,
+        "ponto_id": 92834,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05723224021467,
+          -22.9579151695262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4790,
+        "ponto_id": 92671,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058548139418214,
+          -22.955582314456308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4794,
+        "ponto_id": 92614,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": "1161",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05775991242273,
+          -22.954380164738737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 4795,
+        "ponto_id": 92620,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R VISC DE CONGONHAS DO CAMPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05569708342124,
+          -22.954325127405234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 398,
+        "num_linha": "403",
+        "sentido": 2,
+        "nome_linha": "SWISS PARK",
+        "extensao_m": 13586.83,
+        "ponto_gid": 6096,
+        "ponto_id": 92441,
+        "ptseqlinha": 92.1,
+        "ende_logradouro": "R. EZEQUIEL FOGA",
+        "ende_numero": "497",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05582704921332,
+          -22.952347304398348
+        ]
+      }
+    }
+  ]
+}

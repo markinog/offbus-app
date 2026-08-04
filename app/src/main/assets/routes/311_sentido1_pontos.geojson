@@ -1,0 +1,1787 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3152,
+        "ponto_id": 40380,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R RODOLFO BERNARDELLI",
+        "ende_numero": "143",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109082392697914,
+          -22.854147415763865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3175,
+        "ponto_id": 40408,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R REYNALDO BOLLIGER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11003716960058,
+          -22.85257087644276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3174,
+        "ponto_id": 40392,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R REYNALDO BOLLIGER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10719090840605,
+          -22.851984323922327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3173,
+        "ponto_id": 40388,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R OURO FINO",
+        "ende_numero": "282",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1057399366446,
+          -22.850824683613986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3172,
+        "ponto_id": 40372,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R GUSTAVO STUART",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10373415828463,
+          -22.850692595223887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3171,
+        "ponto_id": 40344,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DARIO FREIRE MEIRELLES",
+        "ende_numero": "68",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1028876442499,
+          -22.851644390675418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3170,
+        "ponto_id": 40324,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DARIO FREIRE MEIRELLES",
+        "ende_numero": "344",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10474182582627,
+          -22.853460913274535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3161,
+        "ponto_id": 40280,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R PEDRO STANCATO",
+        "ende_numero": "576",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102411897569034,
+          -22.856048569440244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3160,
+        "ponto_id": 40292,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R PEDRO STANCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09951377248272,
+          -22.853156322929536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3163,
+        "ponto_id": 40304,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R RUI ILDEFONSO MARTINS LISBOA",
+        "ende_numero": "1001",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10051173115273,
+          -22.852427336896543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3162,
+        "ponto_id": 40300,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R RUI ILDEFONSO MARTINS LISBOA",
+        "ende_numero": "683",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10255070874675,
+          -22.854423266327643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3159,
+        "ponto_id": 40312,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV NEYDE MODESTO DE CAMARGO",
+        "ende_numero": "390",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10453897651338,
+          -22.854661584174092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3176,
+        "ponto_id": 40356,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DARIO FREIRE MEIRELLES",
+        "ende_numero": "620",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10664636022952,
+          -22.855392660825455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 2783,
+        "ponto_id": 40348,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109484793158884,
+          -22.85691432833283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3091,
+        "ponto_id": 40268,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10233674954192,
+          -22.864369305635005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 5417,
+        "ponto_id": 40263,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09910369367552,
+          -22.866892394784447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3092,
+        "ponto_id": 40256,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093979885264666,
+          -22.8695212824635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3093,
+        "ponto_id": 40248,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07908259679175,
+          -22.875698669644443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 843,
+        "ponto_id": 40232,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07598772496581,
+          -22.87790740022077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 844,
+        "ponto_id": 40212,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07553153368721,
+          -22.88114510764353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 845,
+        "ponto_id": 40196,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07719977673929,
+          -22.884145357575413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 846,
+        "ponto_id": 40188,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07799287019544,
+          -22.88563365728268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 847,
+        "ponto_id": 40160,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2527",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07825078573826,
+          -22.887948149016385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 848,
+        "ponto_id": 40124,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2325",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311,360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07755749306163,
+          -22.88952029798353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 2247,
+        "ponto_id": 40100,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1991",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07588328306837,
+          -22.892229321439753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 2248,
+        "ponto_id": 40080,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1757",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07490583302719,
+          -22.893958737201967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 2249,
+        "ponto_id": 40052,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1553",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07387106157934,
+          -22.89586163969455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 2250,
+        "ponto_id": 40024,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1249",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072742571486124,
+          -22.89808413247529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 5442,
+        "ponto_id": 40001,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DR. DELFINO CINTRA",
+        "ende_numero": "892",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0705749703699,
+          -22.899326130147543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 23,
+        "num_linha": "311",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 13838.7,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 6092,
+        "ponto_id": 66,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061860235759305,
+          -22.903689748539417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 1865,
+        "ponto_id": 56,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062777754100175,
+          -22.902022390699354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 1210,
+        "ponto_id": 264,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DR ANTONIO A LOBO",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066266740489624,
+          -22.900219134259572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 1211,
+        "ponto_id": 388,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "666",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068015785169564,
+          -22.899760418640295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3164,
+        "ponto_id": 40004,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07017183887202,
+          -22.89931853978919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 2257,
+        "ponto_id": 40056,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1550",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07376288401277,
+          -22.8957081333477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 2258,
+        "ponto_id": 40076,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1756",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07467777550718,
+          -22.894007666932495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3168,
+        "ponto_id": 40112,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2042",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07589575957379,
+          -22.891759478634963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3040,
+        "ponto_id": 40132,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2364",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "134,210,311,360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07724748856681,
+          -22.889000192480378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 827,
+        "ponto_id": 40164,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2538",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311,360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07802270383168,
+          -22.887699253993222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 828,
+        "ponto_id": 40180,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": "90",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07780349581471,
+          -22.88581019032394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 829,
+        "ponto_id": 40192,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": "300",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07689161342656,
+          -22.884188745982147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 830,
+        "ponto_id": 40208,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.075304923960815,
+          -22.8810388869842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 831,
+        "ponto_id": 40228,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV LUIZ SMANIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07559056089411,
+          -22.87791910118788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3109,
+        "ponto_id": 40252,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078947314768364,
+          -22.875440840814132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3110,
+        "ponto_id": 40260,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09385982655915,
+          -22.869304352603834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 5416,
+        "ponto_id": 40262,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": "2430",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099649115755646,
+          -22.866198089392025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3111,
+        "ponto_id": 40264,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10196281153491,
+          -22.864327483863143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3112,
+        "ponto_id": 40272,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10439521408799,
+          -22.861863506546378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 2810,
+        "ponto_id": 40352,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10933644884669,
+          -22.85675404865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3151,
+        "ponto_id": 40360,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DARIO FREIRE MEIRELLES",
+        "ende_numero": "641",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1065163014544,
+          -22.855581257918388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3169,
+        "ponto_id": 40308,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV NEYDE MODESTO DE CAMARGO",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10475686977451,
+          -22.855011507865978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3161,
+        "ponto_id": 40280,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R PEDRO STANCATO",
+        "ende_numero": "576",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102411897569034,
+          -22.856048569440244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3160,
+        "ponto_id": 40292,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R PEDRO STANCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09951377248272,
+          -22.853156322929536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3163,
+        "ponto_id": 40304,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R RUI ILDEFONSO MARTINS LISBOA",
+        "ende_numero": "1001",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10051173115273,
+          -22.852427336896543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3162,
+        "ponto_id": 40300,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R RUI ILDEFONSO MARTINS LISBOA",
+        "ende_numero": "683",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10255070874675,
+          -22.854423266327643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3159,
+        "ponto_id": 40312,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV NEYDE MODESTO DE CAMARGO",
+        "ende_numero": "390",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10453897651338,
+          -22.854661584174092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3158,
+        "ponto_id": 40320,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DARIO FREIRE MEIRELLES",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10429923719392,
+          -22.853466767217878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3157,
+        "ponto_id": 40332,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R DARIO FREIRE MEIRELLES",
+        "ende_numero": "75",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10273318940919,
+          -22.851861022598335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3156,
+        "ponto_id": 40376,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R GUSTAVO STUART",
+        "ende_numero": "1385",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10379192096785,
+          -22.85042108794907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3155,
+        "ponto_id": 40396,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R OURO FINO",
+        "ende_numero": "291",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105940594646306,
+          -22.85051090319693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3154,
+        "ponto_id": 40400,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R REYNALDO BOLLIGER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107603927529716,
+          -22.8519524927675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3153,
+        "ponto_id": 40404,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R REYNALDO BOLLIGER",
+        "ende_numero": "283",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11019273756299,
+          -22.852484313481877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 369,
+        "num_linha": "311",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 13456.15,
+        "ponto_gid": 3152,
+        "ponto_id": 40380,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R RODOLFO BERNARDELLI",
+        "ende_numero": "143",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109082392697914,
+          -22.854147415763865
+        ]
+      }
+    }
+  ]
+}

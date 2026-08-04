@@ -1,0 +1,1837 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3884,
+        "ponto_id": 21774,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R PEDRO PINHEIRO DE PAULA",
+        "ende_numero": "18",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94193613284678,
+          -22.78228141192967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3885,
+        "ponto_id": 21806,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R NICOLINO PESCUME",
+        "ende_numero": "1500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94359936925298,
+          -22.780482450965724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3886,
+        "ponto_id": 21764,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R NICOLINO PESCUME",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.945950373683196,
+          -22.780824498370553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3887,
+        "ponto_id": 21772,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R NICOLINO PESCUME",
+        "ende_numero": "805",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94816649948369,
+          -22.778018844228114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3888,
+        "ponto_id": 21770,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R NICOLINO PESCUME",
+        "ende_numero": "615",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.948421305849784,
+          -22.776215814841684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3889,
+        "ponto_id": 21824,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R NORIVAL FERREIRA DOS REIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95046139217874,
+          -22.771840877901827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3890,
+        "ponto_id": 21844,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DIVA CELESTE FARIA E SOUZA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.950680932676704,
+          -22.76923708997515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3880,
+        "ponto_id": 21838,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DIREITOS HUMANOS",
+        "ende_numero": "44",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95075203427282,
+          -22.768189097886506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3882,
+        "ponto_id": 21830,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MARIO RODRIGUES DA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94895704978904,
+          -22.76702134572533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3891,
+        "ponto_id": 21804,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.957419924635865,
+          -22.768950438119887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3892,
+        "ponto_id": 21740,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ROMEU TULLIO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96057031207214,
+          -22.769425211908768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3893,
+        "ponto_id": 21760,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96400539346932,
+          -22.76923960036395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 5856,
+        "ponto_id": 21768,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97248846965453,
+          -22.762479957126317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 5738,
+        "ponto_id": 21751,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R LUIZA CRODA IAMARINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97658605242178,
+          -22.7611559738839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 5855,
+        "ponto_id": 21792,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98131316970827,
+          -22.756345487402292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3896,
+        "ponto_id": 21798,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98646777203978,
+          -22.753688758884312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3897,
+        "ponto_id": 21812,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ROMEU TULLIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00101899599228,
+          -22.752463744154962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3898,
+        "ponto_id": 21676,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R WALTER FRANCO DE LIMA",
+        "ende_numero": "2650",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.005964422295385,
+          -22.758461380994618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 6402,
+        "ponto_id": 21678,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R. WALTER FRANCO DE LIMA",
+        "ende_numero": "2350",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00647441584712,
+          -22.761536663749204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 7352,
+        "ponto_id": 21679,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R WALTER FRANCO DE LIMA",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00757441565382,
+          -22.764638758015792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3899,
+        "ponto_id": 21516,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "ROD GOV DR ADHEMAR PEREIRA DE BARROS (SP-340)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030157527957165,
+          -22.786958375171626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3963,
+        "ponto_id": 21342,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03553561080323,
+          -22.816054435703606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3964,
+        "ponto_id": 21333,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03650362942728,
+          -22.819277103512302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3965,
+        "ponto_id": 21330,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03483693358309,
+          -22.825804953470627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3522,
+        "ponto_id": 21148,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV FRANCISCO XAVIER ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042028253468835,
+          -22.850090381353795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 379,
+        "num_linha": "350",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 26506.42,
+        "ponto_gid": 3735,
+        "ponto_id": 21186,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03916003974694,
+          -22.84879579302191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3735,
+        "ponto_id": 21186,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03916003974694,
+          -22.84879579302191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3524,
+        "ponto_id": 21100,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039259627217405,
+          -22.85186838919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3525,
+        "ponto_id": 21060,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "241",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04058805081524,
+          -22.85264618873683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3526,
+        "ponto_id": 21072,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "45",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04215020135131,
+          -22.85162764645687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3967,
+        "ponto_id": 21332,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03473724163208,
+          -22.825718112897423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3968,
+        "ponto_id": 21335,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036110214132385,
+          -22.81899142762558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3969,
+        "ponto_id": 21343,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03535014986191,
+          -22.81593564795293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 6205,
+        "ponto_id": 21346,
+        "ptseqlinha": 31.5,
+        "ende_logradouro": "ESTR MUN ADELINA SEGANTINI CERQUEIRA LIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02689043591982,
+          -22.832823675569863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3901,
+        "ponto_id": 21508,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV IVAN DE ABREU AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029875477762005,
+          -22.787499411466086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 7353,
+        "ponto_id": 21682,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R WALTER FRANCO DE LIMA",
+        "ende_numero": "2000",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00728080681103,
+          -22.765216711270924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 6403,
+        "ponto_id": 21677,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R WALTER FRANCO DE LIMA",
+        "ende_numero": "2350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00617025467676,
+          -22.761719160451424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3902,
+        "ponto_id": 21680,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R WALTER FRANCO DE LIMA",
+        "ende_numero": "2650",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00572841760134,
+          -22.758442407718377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3903,
+        "ponto_id": 21808,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00069165723654,
+          -22.752484729064218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3904,
+        "ponto_id": 21796,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.986683337205406,
+          -22.753799472907726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3905,
+        "ponto_id": 21784,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98128244941566,
+          -22.756503252669127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3906,
+        "ponto_id": 21780,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97973782250412,
+          -22.75726124577537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 5736,
+        "ponto_id": 21757,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DRA MATILDE PETTINE",
+        "ende_numero": "1001",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97794069602502,
+          -22.75880215755187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3907,
+        "ponto_id": 21728,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DRA MATILDE PETTINE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98176382603753,
+          -22.76126902148718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3895,
+        "ponto_id": 21700,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R MARIA DO CARMO COIMBRA GOMES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98239584186468,
+          -22.76277893187497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 5737,
+        "ponto_id": 21761,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R MARIA DO CARMO COIMBRA GOMES",
+        "ende_numero": "415",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9796790472394,
+          -22.76095546637501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 5739,
+        "ponto_id": 21742,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R LUIZA CRODA IAMARINO",
+        "ende_numero": "115",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97628084523223,
+          -22.761388661788704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3881,
+        "ponto_id": 21834,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R MARIO RODRIGUES DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94938317381746,
+          -22.76712276770449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 5854,
+        "ponto_id": 21842,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DIREITOS HUMANOS",
+        "ende_numero": "10",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.950979711459816,
+          -22.76802226718634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3908,
+        "ponto_id": 21840,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DIVA CELESTE FARIA E SOUZA",
+        "ende_numero": "115",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95130988368063,
+          -22.769286911941084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3883,
+        "ponto_id": 21816,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R NICOLINO PESCUME",
+        "ende_numero": "121",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.950900518787776,
+          -22.771517165590076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3909,
+        "ponto_id": 21750,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R GERSON DE SOUZA PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95208915878615,
+          -22.773480405237915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3910,
+        "ponto_id": 21758,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R CAMILO MENENDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95338201542019,
+          -22.776297443285163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3911,
+        "ponto_id": 21754,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R SAVIO CELANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95171536285038,
+          -22.775049521428897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3912,
+        "ponto_id": 21766,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R FRANCISCO RUIZ BOARETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.949748740260105,
+          -22.775180283076107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3913,
+        "ponto_id": 21762,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R CARLOS EDUARDO PRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95083619043543,
+          -22.777039765931608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3914,
+        "ponto_id": 21778,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R WALDEMAR MORELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95019555772474,
+          -22.77870694110819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3915,
+        "ponto_id": 21782,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R VOLNEY CESAR SILVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94934798531573,
+          -22.780222707803613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3916,
+        "ponto_id": 21790,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R FRANCISCO RUIZ BOARELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94800386518089,
+          -22.78098587268801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 6321,
+        "ponto_id": 21791,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R REPUBLICA DA ARMENIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94945961690162,
+          -22.781457291145536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 6319,
+        "ponto_id": 21797,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R ONOFRE ALVES DE LIMA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95248243678,
+          -22.7846856819131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 6320,
+        "ponto_id": 21799,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R PROF BENEDITO DE NEGREIROS MEZZACAPPA",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95132922471955,
+          -22.78541140331611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3917,
+        "ponto_id": 21794,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R PROF BENEDITO NEGREIROS MEZZACAPA",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94972206838242,
+          -22.782940427832866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3918,
+        "ponto_id": 21802,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R JOSE RAFAEL REZENDE GANDARA",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94705316431813,
+          -22.784245204068636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3919,
+        "ponto_id": 21810,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JOEL MESSIAS SMILGYS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.945094460008896,
+          -22.784043841901894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 19,
+        "num_linha": "350",
+        "sentido": 2,
+        "nome_linha": "GARGANTILHA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 27041.38,
+        "ponto_gid": 3884,
+        "ponto_id": 21774,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R PEDRO PINHEIRO DE PAULA",
+        "ende_numero": "18",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94193613284678,
+          -22.78228141192967
+        ]
+      }
+    }
+  ]
+}

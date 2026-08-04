@@ -1,0 +1,2412 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1030,
+        "ponto_id": 71484,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R SOCORRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101988959628635,
+          -22.94786938839744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1031,
+        "ponto_id": 71572,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R NELSON LEITE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101558940906905,
+          -22.949744364261758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5346,
+        "ponto_id": 71622,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098697658940935,
+          -22.94778514122829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 627,
+        "ponto_id": 71220,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R CAMPO GRANDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09747229906128,
+          -22.945426155506052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 4815,
+        "ponto_id": 71194,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV JOAO BATISTA ALVES DA SILVA TELES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097076579599126,
+          -22.945633970029522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5751,
+        "ponto_id": 71374,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R JOAO BATISTA ALVES DA SILVA TELES",
+        "ende_numero": "623",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097154373314616,
+          -22.94733456746145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5754,
+        "ponto_id": 71377,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JOAO BATISTA  ALVES DA SILVA TELES",
+        "ende_numero": "329",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097836832649065,
+          -22.949698615288533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5662,
+        "ponto_id": 71382,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ANGELA RUSSO TAFNER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09652055594627,
+          -22.94942976760345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5038,
+        "ponto_id": 71376,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ANGELA RUSSO TAFNER",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095812939366844,
+          -22.94962683884704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5039,
+        "ponto_id": 71260,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DES ITALO GALLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094542092596754,
+          -22.94861483439486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5040,
+        "ponto_id": 71184,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DR JOSE DE ALMEIDA CARVALHO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093995914821186,
+          -22.947181309349133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 7327,
+        "ponto_id": 71385,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DAS MAGNOLIAS",
+        "ende_numero": "585",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094071252407154,
+          -22.950131052097177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 7330,
+        "ponto_id": 71387,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R LOTUS",
+        "ende_numero": "147",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09398144254601,
+          -22.9532588386753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 7332,
+        "ponto_id": 71389,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV. RICARDO BASSOLI CESARE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09208476067132,
+          -22.950908857173008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 7334,
+        "ponto_id": 71390,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DA SOCIEDADE",
+        "ende_numero": " ANTER",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09194720290956,
+          -22.94895654416823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5041,
+        "ponto_id": 71060,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R DA SOCIEDADE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09092296210103,
+          -22.946792399147295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 6425,
+        "ponto_id": 71014,
+        "ptseqlinha": 16.5,
+        "ende_logradouro": "R DASOCIEDADE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090059729450275,
+          -22.945038660585592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 3238,
+        "ponto_id": 70892,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "1089",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090193605914536,
+          -22.943600317792807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 3239,
+        "ponto_id": 70840,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09034049045383,
+          -22.941920663313923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 3240,
+        "ponto_id": 70776,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090389457348785,
+          -22.940345847276692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 3241,
+        "ponto_id": 70708,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "487",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09068320209516,
+          -22.93815247329802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 633,
+        "ponto_id": 70656,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DAS DALIAS",
+        "ende_numero": "213",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08957791802901,
+          -22.93772954846895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5229,
+        "ponto_id": 70606,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV SEN ANTONIO LACERDA FRANCO",
+        "ende_numero": "1242",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08859317517354,
+          -22.938190496731117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5232,
+        "ponto_id": 70602,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R REV PROF HERCULANO GOUVEIA JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08684701841901,
+          -22.93693213695956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5234,
+        "ponto_id": 70590,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R JOSE ELIAS JORGE",
+        "ende_numero": "335",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08740348962157,
+          -22.93556956685313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 635,
+        "ponto_id": 70500,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": "915",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08732191841585,
+          -22.934538403572084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 636,
+        "ponto_id": 70460,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": "751",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085584849618044,
+          -22.9335143820234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5042,
+        "ponto_id": 70420,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": "489",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08346938594635,
+          -22.93241355655693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5043,
+        "ponto_id": 70384,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DOS GRAFICOS",
+        "ende_numero": "334",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080800590759175,
+          -22.931915120152972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5044,
+        "ponto_id": 70344,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DOS GRAFICOS",
+        "ende_numero": "510",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07943850989926,
+          -22.930795108332823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5045,
+        "ponto_id": 70340,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R JACY TEIXEIRA DE CAMARGO",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07703241876227,
+          -22.93176510987894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 642,
+        "ponto_id": 70352,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R JOAO CARLOS NOUGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07642164541991,
+          -22.933183971422718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 643,
+        "ponto_id": 70392,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079065249099,
+          -22.93301628749192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 644,
+        "ponto_id": 70396,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08140108600287,
+          -22.932336657794355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 637,
+        "ponto_id": 70408,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV MOISES GADIA",
+        "ende_numero": "165",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083771565202795,
+          -22.93138935749775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1180,
+        "ponto_id": 70400,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV MOISES GADIA",
+        "ende_numero": "51",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08433789778088,
+          -22.930580793523824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1873,
+        "ponto_id": 70316,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "214,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07918691872176,
+          -22.929975338656234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1850,
+        "ponto_id": 268,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "589",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,133,154,161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0587737543474,
+          -22.9075527488956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 340,
+        "ponto_id": 16,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,410,413,416,BRT10,BRT11,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058078348641764,
+          -22.90079632306945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1853,
+        "ponto_id": 312,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV JOAO PENIDO BURNIER",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06678260358723,
+          -22.902692163281756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 5339,
+        "ponto_id": 620,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06949723742806,
+          -22.9017037893688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 182,
+        "num_linha": "416",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 19715.27,
+        "ponto_gid": 1866,
+        "ponto_id": 762,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R LUIZ DONIZETTI ROVARIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,250,256,257,271,381,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07124790725115,
+          -22.907271213285277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 1866,
+        "ponto_id": 762,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R LUIZ DONIZETTI ROVARIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,250,256,257,271,381,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07124790725115,
+          -22.907271213285277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5046,
+        "ponto_id": 70424,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R EDMUNDO LACERDA",
+        "ende_numero": "251",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081133916073846,
+          -22.933763255187976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5047,
+        "ponto_id": 70404,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JOSE ANTONIO FERNANDES OLMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08153710748328,
+          -22.932761658209824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5043,
+        "ponto_id": 70384,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R DOS GRAFICOS",
+        "ende_numero": "334",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080800590759175,
+          -22.931915120152972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5044,
+        "ponto_id": 70344,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R DOS GRAFICOS",
+        "ende_numero": "510",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07943850989926,
+          -22.930795108332823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5045,
+        "ponto_id": 70340,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JACY TEIXEIRA DE CAMARGO",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07703241876227,
+          -22.93176510987894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 642,
+        "ponto_id": 70352,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R JOAO CARLOS NOUGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07642164541991,
+          -22.933183971422718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 643,
+        "ponto_id": 70392,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079065249099,
+          -22.93301628749192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 644,
+        "ponto_id": 70396,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08140108600287,
+          -22.932336657794355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 645,
+        "ponto_id": 70416,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08345965052594,
+          -22.932229156179265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 646,
+        "ponto_id": 70464,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": "776",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08580861561612,
+          -22.93347410602747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 647,
+        "ponto_id": 70496,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": "900",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087431599636986,
+          -22.93442911893785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5233,
+        "ponto_id": 70594,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R JOSE ELIAS JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087526140359195,
+          -22.935650687907778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5231,
+        "ponto_id": 70598,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R REV PROF HERCULANO GOUVEIA JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08696132575131,
+          -22.936841298642797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5230,
+        "ponto_id": 70610,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV SEN ANTONIO LACERDA FRANCO",
+        "ende_numero": "1221",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088377288064095,
+          -22.93827723327023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 649,
+        "ponto_id": 70660,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R DAS DALIAS",
+        "ende_numero": "226",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089533817499685,
+          -22.937557829348243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 3255,
+        "ponto_id": 70716,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "530",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09086290749071,
+          -22.938332375691147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 3256,
+        "ponto_id": 70788,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090571889477275,
+          -22.940462338989565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 3257,
+        "ponto_id": 70868,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "950",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09046536968452,
+          -22.942278322618318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 3258,
+        "ponto_id": 70908,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "1090",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09041719668863,
+          -22.94361163532022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5048,
+        "ponto_id": 71022,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R DAS DALIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09125945363828,
+          -22.94551829972592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 7335,
+        "ponto_id": 71026,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R DAS DALIAS",
+        "ende_numero": "APOS 1",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09214004250802,
+          -22.947247896524708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 7333,
+        "ponto_id": 71029,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R DAS DALIAS",
+        "ende_numero": "1604",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09283567885635,
+          -22.948681766856858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 7331,
+        "ponto_id": 71030,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV. RICARDO BASSOLI CESARE",
+        "ende_numero": "1497",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09236973728003,
+          -22.950837454638762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 7329,
+        "ponto_id": 71034,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R LOTUS",
+        "ende_numero": "270",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09422324519543,
+          -22.953150423364825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 7328,
+        "ponto_id": 71391,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R DAS MAGNOLIAS",
+        "ende_numero": "550",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093928077872924,
+          -22.950846950030552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5049,
+        "ponto_id": 71176,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R DR JOSE DE ALMEIDA CARVALHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09394688800403,
+          -22.947025596122963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5050,
+        "ponto_id": 71280,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R DES ITALO GALLI",
+        "ende_numero": "200",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094744021949154,
+          -22.94872257674432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5051,
+        "ponto_id": 71368,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R ANGELA RUSSO TAFNER",
+        "ende_numero": "155",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095194201769836,
+          -22.94962535278115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5052,
+        "ponto_id": 71380,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R ANGELA RUSSO TAFNER",
+        "ende_numero": "55",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.096551424767796,
+          -22.949262859665392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5752,
+        "ponto_id": 71378,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R FAUSTO ELISARIO CIRIBELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09666399844908,
+          -22.947399469969064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 4828,
+        "ponto_id": 71192,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R FAUSTO ELISARIO CIRIBELLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.096685851566036,
+          -22.94546670567416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5753,
+        "ponto_id": 71379,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R FAUSTO ELISARIO CIRIBELLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09689628887295,
+          -22.948807313611976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 655,
+        "ponto_id": 71208,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R CAMPO GRANDE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09741998289789,
+          -22.945218938691276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 5345,
+        "ponto_id": 71620,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09888103943982,
+          -22.94777440909827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 1060,
+        "ponto_id": 71544,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "R NELSON LEITE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10143792289449,
+          -22.94954537215087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 262,
+        "num_linha": "416",
+        "sentido": 2,
+        "nome_linha": "RODOVIARIA",
+        "extensao_m": 13651.0,
+        "ponto_gid": 1030,
+        "ponto_id": 71484,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "R SOCORRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101988959628635,
+          -22.94786938839744
+        ]
+      }
+    }
+  ]
+}

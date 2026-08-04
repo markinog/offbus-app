@@ -1,0 +1,2337 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2789,
+        "ponto_id": 31136,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063314825630854,
+          -22.827956922851403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2790,
+        "ponto_id": 31128,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066465642306824,
+          -22.828157386822213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1781,
+        "ponto_id": 31152,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06772463367872,
+          -22.827042341812163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1782,
+        "ponto_id": 31124,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06683061355144,
+          -22.82824536774697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1783,
+        "ponto_id": 30988,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631426048202,
+          -22.83170739113519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1784,
+        "ponto_id": 30956,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057354628663234,
+          -22.83482841680711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1785,
+        "ponto_id": 30944,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "191",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05476164618748,
+          -22.836152365031733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3571,
+        "ponto_id": 30936,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05275572117931,
+          -22.83746780256268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3572,
+        "ponto_id": 30916,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": "77",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05306621281274,
+          -22.84097849399814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3573,
+        "ponto_id": 30888,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "VD PAULO EGIDIO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0535255580379,
+          -22.84305325373249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 4032,
+        "ponto_id": 30856,
+        "ptseqlinha": 10.3,
+        "ende_logradouro": "R RONALDO STRAZACAPPA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054018175759076,
+          -22.846052861321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3568,
+        "ponto_id": 30754,
+        "ptseqlinha": 10.7,
+        "ende_logradouro": "R ARMANDO STRAZZACAPA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05469379441684,
+          -22.847932617088563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3553,
+        "ponto_id": 30752,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05383983557804,
+          -22.849358327522257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2988,
+        "ponto_id": 30700,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05361200280537,
+          -22.85249804563441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1969,
+        "ponto_id": 30580,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05290683583649,
+          -22.85519884245963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 5903,
+        "ponto_id": 30528,
+        "ptseqlinha": 13.2,
+        "ende_logradouro": "R DAS HORTENCIAS",
+        "ende_numero": "641",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05287462601558,
+          -22.857753720750377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1233,
+        "ponto_id": 30498,
+        "ptseqlinha": 13.3,
+        "ende_logradouro": "R GIRASSOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05328465561882,
+          -22.858842901396127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 534,
+        "ponto_id": 30464,
+        "ptseqlinha": 13.6,
+        "ende_logradouro": "R EUNICE VIRGINIA RAMOS NAVERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05393795364868,
+          -22.860473318810612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 535,
+        "ponto_id": 30388,
+        "ptseqlinha": 13.9,
+        "ende_logradouro": "R EUNICE VIRGINIA RAMOS NAVERO",
+        "ende_numero": "70",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053846709158876,
+          -22.863970403822698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1234,
+        "ponto_id": 30412,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MIOSOTIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05203987269263,
+          -22.86425734158472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1235,
+        "ponto_id": 20622,
+        "ptseqlinha": 14.5,
+        "ende_logradouro": "R MIOSOTIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05014581928834,
+          -22.86406590643584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1236,
+        "ponto_id": 20606,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04898928554824,
+          -22.864420261944808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3574,
+        "ponto_id": 20526,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04945122644305,
+          -22.866016870839278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3567,
+        "ponto_id": 30370,
+        "ptseqlinha": 16.5,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0519309217844,
+          -22.865824652114924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3575,
+        "ponto_id": 30358,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05418870670509,
+          -22.865794424582738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 536,
+        "ponto_id": 30324,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056489169921065,
+          -22.867275437214627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 537,
+        "ponto_id": 30284,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05885007461222,
+          -22.869420539994433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 538,
+        "ponto_id": 30272,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "1939",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332,351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060474248710634,
+          -22.870901073697723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 539,
+        "ponto_id": 30248,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "787",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332,338,351,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06174370236895,
+          -22.87190536966388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 458,
+        "ponto_id": 30244,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,332,338,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06347272469812,
+          -22.87211134922351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1771,
+        "ponto_id": 30256,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066558734736546,
+          -22.872087343051287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 841,
+        "ponto_id": 30236,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "813",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069478802965314,
+          -22.873754017500247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 833,
+        "ponto_id": 30224,
+        "ptseqlinha": 24.5,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "128",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069750033176305,
+          -22.874392371622278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 3559,
+        "ponto_id": 30192,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06824047683515,
+          -22.87498014130029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2215,
+        "ponto_id": 30156,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06769576717971,
+          -22.877883200966778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2216,
+        "ponto_id": 30108,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "955",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06660996551359,
+          -22.881055555429167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2217,
+        "ponto_id": 30060,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "781",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06599675653494,
+          -22.882680426257316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2218,
+        "ponto_id": 30024,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0644127566855,
+          -22.885164364722492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2219,
+        "ponto_id": 30016,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "193",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062366753403396,
+          -22.886583393290156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2220,
+        "ponto_id": 30008,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060441249344144,
+          -22.887500908821107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2221,
+        "ponto_id": 20020,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "99",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05906527007037,
+          -22.8873256839197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1247,
+        "ponto_id": 772,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,244,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06025929535158,
+          -22.889012607820163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2222,
+        "ponto_id": 416,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DA LIBANIA",
+        "ende_numero": "2415",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,309,310,313,316,318,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061049769687315,
+          -22.893646776046232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 7427,
+        "ponto_id": 234,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,317,331,332,357,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063112345976016,
+          -22.904460773377703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 980,
+        "ponto_id": 660,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "650",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "193,213,331,332,357,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069805629438655,
+          -22.902837374956686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 85,
+        "num_linha": "332",
+        "sentido": 1,
+        "nome_linha": "JARDIM GARCIA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17770.59,
+        "ponto_gid": 1531,
+        "ponto_id": 804,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07222936819003,
+          -22.906783483988086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1531,
+        "ponto_id": 804,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07222936819003,
+          -22.906783483988086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 6213,
+        "ponto_id": 317,
+        "ptseqlinha": 43.5,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "427",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064281330374065,
+          -22.906100515220594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2717,
+        "ponto_id": 314,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "651",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0617827423814,
+          -22.905035974726985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3102,
+        "ponto_id": 52,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,331,332,345,348,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05745407928806,
+          -22.903131218528834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1212,
+        "ponto_id": 760,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1706",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06218771809582,
+          -22.890347242174965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1213,
+        "ponto_id": 20012,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1992",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060607571679206,
+          -22.888211520638784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2211,
+        "ponto_id": 30020,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "438",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06186779161416,
+          -22.885238295571224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2212,
+        "ponto_id": 30040,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "812",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065077752720306,
+          -22.88329037748931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 453,
+        "ponto_id": 30096,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1176",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065951180420484,
+          -22.880333218115464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 454,
+        "ponto_id": 30144,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066504558628914,
+          -22.878037087055088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3564,
+        "ponto_id": 30184,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1674",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06724962559265,
+          -22.876078995494876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3565,
+        "ponto_id": 30208,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1848",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06795868302156,
+          -22.874636051222872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1765,
+        "ponto_id": 30252,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "318",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06651959581005,
+          -22.87251162251332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 482,
+        "ponto_id": 30226,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06310746999701,
+          -22.872842025129277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 523,
+        "ponto_id": 30268,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332,351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06034051867486,
+          -22.87107113752258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 524,
+        "ponto_id": 30276,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058644187479835,
+          -22.869562777597743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 525,
+        "ponto_id": 30320,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05628721467566,
+          -22.86749201138663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3566,
+        "ponto_id": 30374,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": "277",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051759286606156,
+          -22.86603812129854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3920,
+        "ponto_id": 20522,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049449820655354,
+          -22.865751826885568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1231,
+        "ponto_id": 20610,
+        "ptseqlinha": 64.5,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04868777482147,
+          -22.864422972104247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1232,
+        "ponto_id": 20620,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R MIOSOTIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050211705217585,
+          -22.863937401307012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 527,
+        "ponto_id": 30420,
+        "ptseqlinha": 65.5,
+        "ende_logradouro": "R DAS HORTENCIAS",
+        "ende_numero": "201",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05249054559712,
+          -22.862732928539213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 4293,
+        "ponto_id": 30536,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DAS HORTENCIAS",
+        "ende_numero": "616",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05266618743814,
+          -22.858006432920984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3570,
+        "ponto_id": 30576,
+        "ptseqlinha": 66.5,
+        "ende_logradouro": "R DAS HORTENCIAS",
+        "ende_numero": "950",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05276366175336,
+          -22.85547152963317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3042,
+        "ponto_id": 30596,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05105609507054,
+          -22.854994122174933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3043,
+        "ponto_id": 20904,
+        "ptseqlinha": 67.5,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04969494939023,
+          -22.855275280697725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3939,
+        "ponto_id": 20976,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV NELSON ALAITE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04793136398802,
+          -22.853297535694058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2987,
+        "ponto_id": 30696,
+        "ptseqlinha": 68.5,
+        "ende_logradouro": "R HERMANTINO COELHO",
+        "ende_numero": "704",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05088439003099,
+          -22.852605629290334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3576,
+        "ponto_id": 30704,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05335136914175,
+          -22.851946999809165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3577,
+        "ponto_id": 30756,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05357549619588,
+          -22.84899872299631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 3578,
+        "ponto_id": 30860,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R JOAO VEDOVELLO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05246272819405,
+          -22.845495315893405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2785,
+        "ponto_id": 30912,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05281119623021,
+          -22.84105129854366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2786,
+        "ponto_id": 30932,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052562412805166,
+          -22.837181167798484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1786,
+        "ponto_id": 30940,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "42",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053409385622786,
+          -22.83639704665756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1787,
+        "ponto_id": 30948,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "276",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05488563985324,
+          -22.835700537979207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 1788,
+        "ponto_id": 30960,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "492",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05739015433185,
+          -22.83442910075574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2787,
+        "ponto_id": 30992,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06293976961592,
+          -22.831482283332974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2788,
+        "ponto_id": 31120,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06454168498407,
+          -22.828495882194623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 367,
+        "num_linha": "332",
+        "sentido": 2,
+        "nome_linha": "HOSPITAL DAS CLINICAS",
+        "extensao_m": 15090.19,
+        "ponto_gid": 2789,
+        "ponto_id": 31136,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063314825630854,
+          -22.827956922851403
+        ]
+      }
+    }
+  ]
+}

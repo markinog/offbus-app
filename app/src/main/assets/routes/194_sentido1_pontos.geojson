@@ -1,0 +1,2262 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 5805,
+        "ponto_id": 81522,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R ANTONIA IMBRUNITO FRATA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11703255385826,
+          -23.046348178047264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1533,
+        "ponto_id": 81546,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R TRES (JD ITAGUACU II)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11726355780046,
+          -23.047851820054877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1534,
+        "ponto_id": 81549,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118286845497764,
+          -23.047335599406782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 7174,
+        "ponto_id": 81411,
+        "ptseqlinha": 7.7,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11764107172096,
+          -23.049188313231532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1536,
+        "ponto_id": 81547,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": "472",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121952460315846,
+          -23.04600064449731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1537,
+        "ponto_id": 81545,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": "342",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12345922316162,
+          -23.045339818615787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1538,
+        "ponto_id": 81531,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": "122",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12500875978612,
+          -23.044645882423758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1464,
+        "ponto_id": 81540,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV CID MAGALHAES LEME",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12737467924684,
+          -23.042960791295545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1465,
+        "ponto_id": 81563,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "1628",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128115682948405,
+          -23.045202017616354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1466,
+        "ponto_id": 81594,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": "1948",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12949872561663,
+          -23.047185870930676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1467,
+        "ponto_id": 81592,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "2162",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131826655248176,
+          -23.0467160430376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1468,
+        "ponto_id": 81564,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130698881805074,
+          -23.04514716657155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1469,
+        "ponto_id": 81552,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "126",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13009499654752,
+          -23.043505529291057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1470,
+        "ponto_id": 81520,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": "590",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129544608883684,
+          -23.041903611151785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1471,
+        "ponto_id": 81518,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ASDRUBAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130471158835,
+          -23.041171636608688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1472,
+        "ponto_id": 81497,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R SATURNINO MARQUES FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129958837276114,
+          -23.039928139834654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 5764,
+        "ponto_id": 81487,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R VITOR BARANAUSKAS",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12955430683725,
+          -23.038721381660302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1473,
+        "ponto_id": 81492,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "180",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128168300145006,
+          -23.039262824839522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1474,
+        "ponto_id": 81484,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12770286888597,
+          -23.038120913675602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1475,
+        "ponto_id": 81468,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126887933686994,
+          -23.035986808400498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1476,
+        "ponto_id": 81436,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "670",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12619239759278,
+          -23.03442483099913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1477,
+        "ponto_id": 81428,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "163",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125003529377906,
+          -23.034998080008474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1478,
+        "ponto_id": 81452,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "233",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1237574751424,
+          -23.035695946413483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1479,
+        "ponto_id": 81420,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DEZESSETE (RUA ERICA DE ANDRADE SILVA- JD ITAGUACU)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12247852001594,
+          -23.03649459900695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1480,
+        "ponto_id": 81372,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R VINTE E DOIS , 27 (RUA ANGELIM DE CASTRO)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12033255503884,
+          -23.0351997226483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 5818,
+        "ponto_id": 81260,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV MARGINAL (RUA UM)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12066933054878,
+          -23.032302148709963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1405,
+        "ponto_id": 81180,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV MARGINAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1218035350689,
+          -23.028678893367285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1406,
+        "ponto_id": 81056,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427374407243,
+          -23.00836313899027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 33.5,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1408,
+        "ponto_id": 80844,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "6523",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104858854370605,
+          -22.983013728501223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 5819,
+        "ponto_id": 80798,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10465457066273,
+          -22.9815385238642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 4929,
+        "ponto_id": 80750,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103831376274876,
+          -22.97897070416257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1409,
+        "ponto_id": 80748,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103312000948684,
+          -22.97714435027694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 220,
+        "num_linha": "194",
+        "sentido": 1,
+        "nome_linha": "TERM. CENTRAL",
+        "extensao_m": 23038.55,
+        "ponto_gid": 1530,
+        "ponto_id": 396,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06243584072481,
+          -22.908863217005695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1530,
+        "ponto_id": 396,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06243584072481,
+          -22.908863217005695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 7339,
+        "ponto_id": 90054,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06391288281925,
+          -22.913611701255196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 347,
+        "ponto_id": 90088,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064523699286596,
+          -22.915609354700894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1413,
+        "ponto_id": 80740,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10323300425128,
+          -22.975080408445812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 7184,
+        "ponto_id": 73221,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10647315812685,
+          -22.985968158600002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1414,
+        "ponto_id": 81016,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11243821010972,
+          -23.00239739216577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 5822,
+        "ponto_id": 81188,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R LUIZ ALVES DE LIMA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1224383068194,
+          -23.029226000861602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 5820,
+        "ponto_id": 81264,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R LEONICE AP OLIVEIRA DA SILVA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12030676154086,
+          -23.03338410261605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1482,
+        "ponto_id": 81296,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R JERONIMO MENDONCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12094507311272,
+          -23.033421083899043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1483,
+        "ponto_id": 81368,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R JERONIMO MENDONCA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121950378566176,
+          -23.03474658505191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1484,
+        "ponto_id": 81424,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JERONIMO MENDONCA",
+        "ende_numero": "310",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122756147727955,
+          -23.035881455902263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 5799,
+        "ponto_id": 81432,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "284",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123637562647964,
+          -23.035549414961178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1485,
+        "ponto_id": 81412,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "194B",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12512859342935,
+          -23.034760148987466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1486,
+        "ponto_id": 81456,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "745",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126437188302674,
+          -23.034536911393875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1487,
+        "ponto_id": 81464,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12713493733276,
+          -23.0360551645298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1488,
+        "ponto_id": 81480,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "355",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793999817622,
+          -23.03804808036932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1489,
+        "ponto_id": 81488,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12837515642193,
+          -23.03922744562539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 5765,
+        "ponto_id": 81489,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R VITOR BARANAUSKAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12953241544352,
+          -23.038452159258895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 5800,
+        "ponto_id": 81496,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R SATURNINO MARQUES FERREIRA",
+        "ende_numero": "70",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129759083274536,
+          -23.03985680508506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1490,
+        "ponto_id": 81523,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1307814462082,
+          -23.04140090632294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1491,
+        "ponto_id": 81524,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R LOURIVAL DE ALMEIDA",
+        "ende_numero": "457",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12952472052806,
+          -23.042199258944606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1492,
+        "ponto_id": 81548,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "139",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13014135265573,
+          -23.043342861084216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1493,
+        "ponto_id": 81568,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13091834427816,
+          -23.045274023835955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1494,
+        "ponto_id": 81596,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "2079",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13188430942554,
+          -23.046911495981487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1495,
+        "ponto_id": 81598,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12953438820695,
+          -23.047302223442383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1496,
+        "ponto_id": 81562,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": "820",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12807539952001,
+          -23.04540780303951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1539,
+        "ponto_id": 81538,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": "5",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126651150314984,
+          -23.04396069615721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1540,
+        "ponto_id": 81539,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": "121",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12508752346333,
+          -23.0447269317624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1541,
+        "ponto_id": 81551,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": "285",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1238947926368,
+          -23.045426499371338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1542,
+        "ponto_id": 81553,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": "401",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122223195993,
+          -23.046108861217274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1543,
+        "ponto_id": 81554,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12031615247094,
+          -23.046867126541848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1544,
+        "ponto_id": 81557,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11819729888069,
+          -23.047690408262795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1545,
+        "ponto_id": 81555,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116977002676904,
+          -23.04804366384694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 7173,
+        "ponto_id": 81533,
+        "ptseqlinha": 84.2,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11767615034361,
+          -23.048958819718074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 1546,
+        "ponto_id": 81506,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R SETE (JD ITAGUACU II)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11620329978108,
+          -23.04630656048846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 171,
+        "num_linha": "194",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 23459.75,
+        "ponto_gid": 5805,
+        "ponto_id": 81522,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R ANTONIA IMBRUNITO FRATA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11703255385826,
+          -23.046348178047264
+        ]
+      }
+    }
+  ]
+}

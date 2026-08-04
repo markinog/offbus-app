@@ -1,0 +1,2187 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2463,
+        "ponto_id": 51026,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R RODRIGO MEDEIROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16378301279903,
+          -22.903097696320348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 5458,
+        "ponto_id": 51027,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MIGUEL GIMENES ALVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16589280612933,
+          -22.902448392407628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2464,
+        "ponto_id": 51018,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R SEBASTIAO LAZARO DA SILVA",
+        "ende_numero": "1301",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16619623022117,
+          -22.900528531325687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2465,
+        "ponto_id": 51022,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R SEBASTIAO LAZARO DONIZETE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16452743139029,
+          -22.898190317228966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2466,
+        "ponto_id": 51078,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R CAP JOAO GONCALVES PIMENTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.162417747827334,
+          -22.896238050499754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2467,
+        "ponto_id": 51030,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R SEBASTIAO L DONIZETE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16217247144323,
+          -22.894808271138462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2468,
+        "ponto_id": 51784,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ANTONIO RIBEIRO DE LIMA",
+        "ende_numero": "100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16135624680282,
+          -22.892739657313427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2469,
+        "ponto_id": 51728,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "505",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15984117647571,
+          -22.893755502797564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2470,
+        "ponto_id": 51664,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15892637056488,
+          -22.89434208599763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2471,
+        "ponto_id": 51034,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15677065390484,
+          -22.89559057678114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2472,
+        "ponto_id": 51604,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R PLACIDA PRETINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15667820902234,
+          -22.895826915485014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2473,
+        "ponto_id": 51652,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R PLACIDA PRETINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15777394791994,
+          -22.896051796361622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2474,
+        "ponto_id": 51669,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ANTONIO PIUNTI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15873024290311,
+          -22.897025203859293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2475,
+        "ponto_id": 51608,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ANTONIO PIUNTI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15699689907304,
+          -22.897678236324282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2476,
+        "ponto_id": 51564,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ARMANDO FRAGNAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15567588542679,
+          -22.897995248615004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2477,
+        "ponto_id": 51520,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R COLOMBA LORENCETTI LUNARDI",
+        "ende_numero": "191",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15432979836062,
+          -22.898551820143762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2478,
+        "ponto_id": 51508,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R COLOMBA LORENCETTI LUNARDI",
+        "ende_numero": "57",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153805972122065,
+          -22.89750351250163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2479,
+        "ponto_id": 51488,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R REGINA ARAUJO LEONE",
+        "ende_numero": "448",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152409056771035,
+          -22.89842456726977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2480,
+        "ponto_id": 51460,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JOSE DE SOUZA ARRUDA FILHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15226641466698,
+          -22.896591920825934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2481,
+        "ponto_id": 51468,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R OLGA FERNANDES SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15197101950784,
+          -22.89504525922615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2482,
+        "ponto_id": 51428,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ALFREDO GROTTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15055882497651,
+          -22.89413029822939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2483,
+        "ponto_id": 51436,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DR NICOLAU SANCHES JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15079908937317,
+          -22.891973160151156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2484,
+        "ponto_id": 51384,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DR NICOLAU SANCHES JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14939028158381,
+          -22.890582026088676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2485,
+        "ponto_id": 51364,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R THEODORO GUEDES DE CAMPOS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14870285926388,
+          -22.892591290863894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2486,
+        "ponto_id": 51328,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R PEDRO GIMENEZ VILLAR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148142886125505,
+          -22.894902247110554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2487,
+        "ponto_id": 51264,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R PROF BENEVENUTO DE FIGUEIREDO TORRES",
+        "ende_numero": "590",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145867595333534,
+          -22.894364074646973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2488,
+        "ponto_id": 51188,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R LEONOR DE MORAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14486678313588,
+          -22.89476496155996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2489,
+        "ponto_id": 51232,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R LEONOR DE MORAES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145151046793124,
+          -22.892890789012082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2490,
+        "ponto_id": 51180,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DR EDWARD PELLIZZER JR",
+        "ende_numero": "85",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14414468429415,
+          -22.89213034641271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2491,
+        "ponto_id": 51266,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R OLGA DE ROCCO COBUCCI",
+        "ende_numero": "256",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145614162067616,
+          -22.891520648771486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2492,
+        "ponto_id": 51228,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R JOAQUIM TARSO GALLACE ZAMBOM",
+        "ende_numero": "233",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14479292862529,
+          -22.8903697041687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2429,
+        "ponto_id": 51240,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14457342566452,
+          -22.888915613448873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2430,
+        "ponto_id": 51164,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13315099239793,
+          -22.893794140265374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2432,
+        "ponto_id": 50824,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ROD JORNALISTA FA PROENCA (AV ROBERTO BOSCH)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11836321052292,
+          -22.899283199532967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2431,
+        "ponto_id": 51008,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124614519447114,
+          -22.894455680641766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2433,
+        "ponto_id": 50792,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11356248009783,
+          -22.89973316570508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2493,
+        "ponto_id": 50570,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289955504064,
+          -22.89796281471168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2494,
+        "ponto_id": 50386,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095284267466454,
+          -22.896986285759557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2459,
+        "ponto_id": 50098,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081671326586786,
+          -22.90167166471254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2071,
+        "ponto_id": 692,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,260,264,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07067432480205,
+          -22.900913858288153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2072,
+        "ponto_id": 496,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "663",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,251,289,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068496391266564,
+          -22.903140071320795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 983,
+        "ponto_id": 440,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "423",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,251,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06754080149111,
+          -22.90500738230847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 984,
+        "ponto_id": 512,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "189",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,251 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066499083469054,
+          -22.906825433734664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 2716,
+        "ponto_id": 310,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "347",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,256,257,261,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06518202935178,
+          -22.906512650848004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 6215,
+        "ponto_id": 319,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "647",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,256,257,261,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06253621461435,
+          -22.905316761653015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 222,
+        "num_linha": "251",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL METROPOLITANO",
+        "extensao_m": 18189.12,
+        "ponto_gid": 7424,
+        "ponto_id": 105,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "251,252 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06334196351957,
+          -22.904175145544325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 7424,
+        "ponto_id": 105,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "251,252 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06334196351957,
+          -22.904175145544325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 979,
+        "ponto_id": 636,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "472",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,212,230,242,251,253,256,260,261,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06905339089645,
+          -22.904253809528534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2046,
+        "ponto_id": 580,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,251,253,256,260,261,264,289,299,318,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070823067941824,
+          -22.90234644940773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 6219,
+        "ponto_id": 747,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO RODOVIARIA BRT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07249816137189,
+          -22.904048545317725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 1902,
+        "ponto_id": 784,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,260,261,264,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07304477812098,
+          -22.90414985767945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2460,
+        "ponto_id": 50168,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081719896848824,
+          -22.901622810821795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2496,
+        "ponto_id": 50384,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09521810648376,
+          -22.896936823406556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2497,
+        "ponto_id": 50571,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV LIX DA CUNHA (C X B)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102912670086376,
+          -22.897922106502136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2438,
+        "ponto_id": 50796,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,254,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115611978090755,
+          -22.899265977996947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2439,
+        "ponto_id": 51040,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11982369328604,
+          -22.898138417382096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2545,
+        "ponto_id": 50908,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12248133259418,
+          -22.895009856127267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2440,
+        "ponto_id": 51000,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "250,251,252,254,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12488047276353,
+          -22.893833277585514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2498,
+        "ponto_id": 51262,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R MARIO ERBOLATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14513158377304,
+          -22.888975335783755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2499,
+        "ponto_id": 51244,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R JOAQUIM TARSO GALLACE ZAMBOM",
+        "ende_numero": "224",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14486556592353,
+          -22.890266892574772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2500,
+        "ponto_id": 51261,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R OLGA DE ROCCO COBUCCI",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145532327501286,
+          -22.89168759046018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2501,
+        "ponto_id": 51196,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DR EDWARD PELLIZZER JR",
+        "ende_numero": "114",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1441446170227,
+          -22.89239702233102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5833,
+        "ponto_id": 51256,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R LEONOR DE MORAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14527439188359,
+          -22.892879825363156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5835,
+        "ponto_id": 51200,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R LEONOR DE MORAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144966821973505,
+          -22.89478961051573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5836,
+        "ponto_id": 51260,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R PROF BENEVENUTO DE FIGUEIREDO TORRES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145763996132104,
+          -22.89432764819929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2502,
+        "ponto_id": 51324,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R PEDRO GIMENEZ VILLAR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14808199557115,
+          -22.8947507752129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2503,
+        "ponto_id": 51360,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R THEODORO GUEDES DE CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14852887428289,
+          -22.892693307866754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5834,
+        "ponto_id": 51388,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R SEBASTIAO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14914869771556,
+          -22.890336042304114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2504,
+        "ponto_id": 51456,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R ADIBA ABDALLA CAAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15095336248306,
+          -22.89162522601656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2505,
+        "ponto_id": 51432,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R ALFREDO GROTTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15084790412995,
+          -22.89424320194713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2506,
+        "ponto_id": 51472,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R OLGA FERNANDES SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152120010757955,
+          -22.89499413129463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5839,
+        "ponto_id": 51464,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R JOSE DE SOUZA ARRUDA FILHO",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15235315685036,
+          -22.89662938364799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5840,
+        "ponto_id": 51480,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R REGINA ARAUJO LEONE",
+        "ende_numero": "417",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15235438385658,
+          -22.898260103830083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5841,
+        "ponto_id": 51504,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R REGINA ARAUJO LEONE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153520942697156,
+          -22.897337207111704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2507,
+        "ponto_id": 51528,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R COLOMBA LORENCETTI LUNARDI",
+        "ende_numero": "190",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154519761871406,
+          -22.898687816750343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5837,
+        "ponto_id": 51556,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R ARMANDO FRAGNAN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15557587478208,
+          -22.89788619883843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5838,
+        "ponto_id": 51632,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ANTONIO PIUNTI",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1570365930576,
+          -22.897505090992325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2508,
+        "ponto_id": 51696,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R TIAGO JOAO DA SILVA",
+        "ende_numero": "176",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15922893759765,
+          -22.896559146775726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2509,
+        "ponto_id": 51038,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15721432734886,
+          -22.895150734884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2510,
+        "ponto_id": 51648,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "412",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15891927345746,
+          -22.894162805474267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2511,
+        "ponto_id": 51732,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "492",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.159755204671825,
+          -22.893623465328982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2512,
+        "ponto_id": 51780,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R ANTONIO RIBEIRO DE LIMA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16123746400704,
+          -22.892501913287365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2513,
+        "ponto_id": 51052,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R CAP JOAO GONCALVES PIMENTA",
+        "ende_numero": "70",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.162823056502575,
+          -22.896309939429752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 5459,
+        "ponto_id": 51031,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R MIGUEL GIMENES ALVES P",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16556333422228,
+          -22.90279466532381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 173,
+        "num_linha": "251",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 18369.85,
+        "ponto_gid": 2463,
+        "ponto_id": 51026,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R RODRIGO MEDEIROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16378301279903,
+          -22.903097696320348
+        ]
+      }
+    }
+  ]
+}

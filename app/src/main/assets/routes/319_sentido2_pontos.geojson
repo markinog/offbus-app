@@ -1,0 +1,1262 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 5441,
+        "ponto_id": 40835,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R ANA CRISTINA ( ANA CRISTINA CRUZ CESAR)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15291598433479,
+          -22.830417683892936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3290,
+        "ponto_id": 40810,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ANA CRISTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152689789523905,
+          -22.83184999029244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3073,
+        "ponto_id": 40768,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R OTAVIO VARANDA",
+        "ende_numero": "155",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15234192322844,
+          -22.83548030896578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3074,
+        "ponto_id": 40788,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R HERMINIA SILVEIRA",
+        "ende_numero": "255",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153733555790836,
+          -22.836359013677924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3291,
+        "ponto_id": 40804,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ANTONIA DE SOUZA PEREIRA",
+        "ende_numero": "961",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15549834381957,
+          -22.836397148869853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3128,
+        "ponto_id": 40824,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R SAO CAETANO",
+        "ende_numero": "36",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15682186414827,
+          -22.8367952241772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3076,
+        "ponto_id": 40828,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV MINASA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15818578382773,
+          -22.836679233002123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3077,
+        "ponto_id": 40816,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV MINASA",
+        "ende_numero": "1103",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15874162694556,
+          -22.839118753420337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3078,
+        "ponto_id": 40808,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV MINASA",
+        "ende_numero": "993",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15907905714578,
+          -22.840332358679674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3079,
+        "ponto_id": 40780,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R S FRANCISCO XAVIER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15708282601862,
+          -22.840756235106667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3080,
+        "ponto_id": 40760,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DR ARMANDO A D'OTTAVIANO",
+        "ende_numero": "391",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15503114055707,
+          -22.840352506055194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3081,
+        "ponto_id": 40744,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV DR ARMANDO A D'OTTAVIANO",
+        "ende_numero": "135",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15330489340216,
+          -22.84193872561713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3082,
+        "ponto_id": 40704,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.150897938342574,
+          -22.84279449699338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3082,
+        "ponto_id": 40704,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.150897938342574,
+          -22.84279449699338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3083,
+        "ponto_id": 40676,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144710463929755,
+          -22.843313213179353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3084,
+        "ponto_id": 40600,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139768939671924,
+          -22.846209480902374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3085,
+        "ponto_id": 40579,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137297393609565,
+          -22.848086646453858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3086,
+        "ponto_id": 40568,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "2305",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12772272523869,
+          -22.84990988346893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3087,
+        "ponto_id": 40548,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "2211",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12358328543297,
+          -22.849978410583834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 3088,
+        "ponto_id": 40484,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "1395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12078279022061,
+          -22.850203047889625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 2810,
+        "ponto_id": 40352,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10933644884669,
+          -22.85675404865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 2784,
+        "ponto_id": 30908,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AC MARG ROD DOM PEDRO I (SP-65)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,314,319,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08885371458188,
+          -22.847132313641904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 106,
+        "num_linha": "319",
+        "sentido": 1,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 15173.4,
+        "ponto_gid": 836,
+        "ponto_id": 31000,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798209378233,
+          -22.833758536871564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3292,
+        "ponto_id": 31076,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079750506261995,
+          -22.830738797680134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 838,
+        "ponto_id": 30996,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0800241053195,
+          -22.833864868431455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 2808,
+        "ponto_id": 30924,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AC MARG ROD DOM PEDRO I (SP-65)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,269,314,319,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08859670969997,
+          -22.846059294691983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 2809,
+        "ponto_id": 30926,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AC MARG ROD DOM PEDRO I (SP-65)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,269,314,319,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098094392012506,
+          -22.847326010990958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3114,
+        "ponto_id": 40460,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R FILINTO DE ALMEIDA",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11791883035135,
+          -22.850186112632915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3115,
+        "ponto_id": 40496,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R FILINTO DE ALMEIDA",
+        "ende_numero": "1366",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1200071680396,
+          -22.84994385904225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3116,
+        "ponto_id": 40552,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "2210",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12345154824761,
+          -22.849705455129484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3117,
+        "ponto_id": 40572,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12738505751173,
+          -22.84935182194135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3118,
+        "ponto_id": 40578,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1373811913998,
+          -22.847358579282005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 7388,
+        "ponto_id": 40581,
+        "ptseqlinha": 34.1,
+        "ende_logradouro": "R MARIA CANDIDA CONCEICAO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13901869539498,
+          -22.84593034967492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3119,
+        "ponto_id": 40592,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140424336778814,
+          -22.844821383007616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3293,
+        "ponto_id": 40604,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R LUIZ RICARDO DE OLIVEIRA",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "313,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14108705814734,
+          -22.847250295042418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3211,
+        "ponto_id": 40588,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R PREF CELSO DANIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "313,315,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13970109613233,
+          -22.84671503885917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3119,
+        "ponto_id": 40592,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140424336778814,
+          -22.844821383007616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3120,
+        "ponto_id": 40680,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14396394127676,
+          -22.842771230538915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3121,
+        "ponto_id": 40688,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14861295920547,
+          -22.842187015529042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3122,
+        "ponto_id": 40712,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151182043824356,
+          -22.842464530147094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3123,
+        "ponto_id": 40740,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DR ARMANDO A D'OTTAVIANO",
+        "ende_numero": "102",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15281470362708,
+          -22.84205088892481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3124,
+        "ponto_id": 40764,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV DR ARMANDO A D'OTTAVIANO",
+        "ende_numero": "396",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154854990745,
+          -22.840098687546394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3125,
+        "ponto_id": 40784,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R S FRANCISCO XAVIER",
+        "ende_numero": "185",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15684442196747,
+          -22.840375522333645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3126,
+        "ponto_id": 40796,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15884838190863,
+          -22.840956544613743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3127,
+        "ponto_id": 40812,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV MINASA",
+        "ende_numero": "1120",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15867597061147,
+          -22.83917927591506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3075,
+        "ponto_id": 40820,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R SAO BARTHOLOMEU",
+        "ende_numero": "256",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15720617938716,
+          -22.836868277134073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3294,
+        "ponto_id": 40800,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R ANTONIA DE SOUZA PEREIRA",
+        "ende_numero": "922",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15576564796337,
+          -22.836660204687867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3072,
+        "ponto_id": 40778,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R OTAVIO VARANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15238317349895,
+          -22.83493674045871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3295,
+        "ponto_id": 40806,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R ANA CRISTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15244179728161,
+          -22.831813704846386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 337,
+        "num_linha": "319",
+        "sentido": 2,
+        "nome_linha": "PARQUE CIDADE / TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 13834.12,
+        "ponto_gid": 3289,
+        "ponto_id": 40832,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R CACASO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152641980122034,
+          -22.829361508061517
+        ]
+      }
+    }
+  ]
+}

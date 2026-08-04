@@ -1,0 +1,737 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 5682,
+        "ponto_id": 61585,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,207,216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18166099457299,
+          -22.942229194589526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1718,
+        "ponto_id": 61688,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R PAUL VERINAUD",
+        "ende_numero": "98",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.184357664678394,
+          -22.947204128039104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1719,
+        "ponto_id": 61624,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R PAUL VERINAUD",
+        "ende_numero": "360",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18181806097082,
+          -22.94661420917514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 7260,
+        "ponto_id": 61666,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CEL JOAO SALLES",
+        "ende_numero": "305",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18226598511719,
+          -22.947573217660082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1720,
+        "ponto_id": 61620,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R CEL JOAO SALLES",
+        "ende_numero": "93",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18382834680808,
+          -22.948665907060732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6037,
+        "ponto_id": 61682,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R EDIS PEDRO DE OLIVEIRA",
+        "ende_numero": "30",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18233623222972,
+          -22.95131385231043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6038,
+        "ponto_id": 61685,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EDIS PEDRO DE OLIVEIRA",
+        "ende_numero": "187",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18200743365357,
+          -22.95196719996905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6039,
+        "ponto_id": 61687,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R GERALDO SESSO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18029098170097,
+          -22.95263420833976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1613,
+        "ponto_id": 61689,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DOIS ( SERRA DOURADA RES)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17847631848978,
+          -22.954030377636524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6009,
+        "ponto_id": 61658,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MARIA BEATRIZ DE CARVALHO MOREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17939762005212,
+          -22.954489036965114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1606,
+        "ponto_id": 61660,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R NOVE (R DULCE DIAS)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17896898370146,
+          -22.95581271140843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6005,
+        "ponto_id": 61791,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R NOVE (R DULCE DIAS)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17684840977127,
+          -22.956308178280345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1608,
+        "ponto_id": 61646,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R TREZE (R BENITO DANIEL OLMOS HERNANDE)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.177214233139445,
+          -22.957537786303384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1609,
+        "ponto_id": 61650,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R VINTE E UM (COLINAS DAS NASCENTES)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.175090129730584,
+          -22.95852761977621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6035,
+        "ponto_id": 61654,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R THEREZA MONTAGNER BAU",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.174600681431485,
+          -22.956749019907992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1611,
+        "ponto_id": 61616,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R NOVE (R DULCE DIAS)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17670651167867,
+          -22.956123315062605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1612,
+        "ponto_id": 61600,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DOIS (SERRA DOURADA RES)",
+        "ende_numero": "365",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17705328200876,
+          -22.955165451463465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 6010,
+        "ponto_id": 61628,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DOIS ( SERRA DOURADA RES)",
+        "ende_numero": "79",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "207,216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17921625275631,
+          -22.953072032646066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1614,
+        "ponto_id": 61656,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R GERALDO SESSO JR",
+        "ende_numero": "8",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "207,216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1800570630875,
+          -22.95264491734299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1615,
+        "ponto_id": 61672,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R WILSON CALSTRON",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "207,216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18164606085795,
+          -22.95179393751922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1600,
+        "ponto_id": 61608,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R CEL JOAO SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.183718876739974,
+          -22.948837851149644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 7261,
+        "ponto_id": 61617,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R CEL JOAO SALLES",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18149956334322,
+          -22.947270723534395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1601,
+        "ponto_id": 61604,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R PAUL VERINAUD",
+        "ende_numero": "385",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1815310523229,
+          -22.94636322381682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1602,
+        "ponto_id": 61684,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R PAUL VERINAUD",
+        "ende_numero": "87",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18434895346074,
+          -22.946994230475106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 413,
+        "num_linha": "216",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 8842.54,
+        "ponto_gid": 5682,
+        "ponto_id": 61585,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,207,216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18166099457299,
+          -22.942229194589526
+        ]
+      }
+    }
+  ]
+}

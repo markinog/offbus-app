@@ -1,0 +1,2012 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4073,
+        "ponto_id": 91076,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R MADALENA BARBOSA FERREIRA",
+        "ende_numero": "495",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03450115975999,
+          -22.924062590270434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4074,
+        "ponto_id": 90936,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R NICOLA DI MARZIO",
+        "ende_numero": "153",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03455780849045,
+          -22.921160444907063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4075,
+        "ponto_id": 90860,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PROF ADRIANO BOUCAULT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03744094669625,
+          -22.922065178579906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4076,
+        "ponto_id": 90812,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R PORTO FERREIRA",
+        "ende_numero": "153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03874878449357,
+          -22.922408423889678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2997,
+        "ponto_id": 90728,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04051969247087,
+          -22.921491416978313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2998,
+        "ponto_id": 90632,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04115020163017,
+          -22.919491952146874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2999,
+        "ponto_id": 90496,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "888",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041880644895045,
+          -22.917036338556613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 3000,
+        "ponto_id": 90396,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04259652315546,
+          -22.914870707965292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4147,
+        "ponto_id": 90164,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,364,367,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04523754210021,
+          -22.91112684884943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4243,
+        "ponto_id": 90312,
+        "ptseqlinha": 9.5,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": "1089",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044595484188996,
+          -22.9141747445554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 6309,
+        "ponto_id": 90397,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ROSA LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043654043779945,
+          -22.91570994843234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 6311,
+        "ponto_id": 90399,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LINO GUEDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045253380158975,
+          -22.91864284043546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 6307,
+        "ponto_id": 90343,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R ROSA LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04744414483024,
+          -22.91927088119588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 7342,
+        "ponto_id": 90345,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": "693",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04514893418938,
+          -22.917209115651673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4079,
+        "ponto_id": 90280,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": "445",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04751683226827,
+          -22.91635982556095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4080,
+        "ponto_id": 90108,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05143733724012,
+          -22.91456843026212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4081,
+        "ponto_id": 632,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "788",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05405194040368,
+          -22.906552199823043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4082,
+        "ponto_id": 252,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "988",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055020275509854,
+          -22.904919971612255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2777,
+        "ponto_id": 316,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R SAO PEDRO",
+        "ende_numero": "202",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255,265,360,364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05271399597576,
+          -22.901676258482848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 3826,
+        "ponto_id": 12,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1185",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,357,360,362,364,381,382,383,386,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060665603814776,
+          -22.902506526175117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 1865,
+        "ponto_id": 56,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062777754100175,
+          -22.902022390699354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 1210,
+        "ponto_id": 264,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DR ANTONIO A LOBO",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066266740489624,
+          -22.900219134259572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 1211,
+        "ponto_id": 388,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "666",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068015785169564,
+          -22.899760418640295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 3164,
+        "ponto_id": 40004,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07017183887202,
+          -22.89931853978919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4083,
+        "ponto_id": 50008,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": "116",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072201905923365,
+          -22.90010792257297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4084,
+        "ponto_id": 50016,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07391624543856,
+          -22.899103459864765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4085,
+        "ponto_id": 50024,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R EMILIO HENKING",
+        "ende_numero": "96",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07693523884433,
+          -22.898828964592305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4086,
+        "ponto_id": 50048,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R EMILIO HENKING",
+        "ende_numero": "328",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07892758938711,
+          -22.897924014958747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4087,
+        "ponto_id": 50076,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "400",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08020683735552,
+          -22.89734637038613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 445,
+        "ponto_id": 50060,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "586",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079140799928616,
+          -22.895055875271897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 446,
+        "ponto_id": 50056,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "910",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07777744550993,
+          -22.892506547450093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 447,
+        "ponto_id": 40120,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07691977775034,
+          -22.89067941563965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 3040,
+        "ponto_id": 40132,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2364",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "134,210,311,360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07724748856681,
+          -22.889000192480378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 827,
+        "ponto_id": 40164,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2538",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311,360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07802270383168,
+          -22.887699253993222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4090,
+        "ponto_id": 50204,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV PAPA PIO XII",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07949064687865,
+          -22.886189193085855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4089,
+        "ponto_id": 50240,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV PAPA PIO XII",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0815126356174,
+          -22.884884200753138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4088,
+        "ponto_id": 50296,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV PAPA PIO XII",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08420277015153,
+          -22.883083029718502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 240,
+        "num_linha": "360",
+        "sentido": 1,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13253.13,
+        "ponto_gid": 4091,
+        "ponto_id": 50344,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV GETULIO VARGAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08534832137351,
+          -22.881724374129554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4091,
+        "ponto_id": 50344,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV GETULIO VARGAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08534832137351,
+          -22.881724374129554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4094,
+        "ponto_id": 50320,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV PAPA PIO XII",
+        "ende_numero": "837",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08480393480696,
+          -22.8829895445716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4093,
+        "ponto_id": 50244,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PAPA PIO XII",
+        "ende_numero": "291",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08170968716985,
+          -22.885090163458877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4092,
+        "ponto_id": 50200,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV PAPA PIO XII",
+        "ende_numero": "63",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07959065541192,
+          -22.886413219941115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 847,
+        "ponto_id": 40160,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2527",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07825078573826,
+          -22.887948149016385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 848,
+        "ponto_id": 40124,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2325",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,311,360,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07755749306163,
+          -22.88952029798353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 492,
+        "ponto_id": 50064,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "785",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,242,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07849871713929,
+          -22.8934028795897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 493,
+        "ponto_id": 50080,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "461",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798725777218,
+          -22.895996659643085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4095,
+        "ponto_id": 50128,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R RAFAEL SALES",
+        "ende_numero": "335",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082279207569435,
+          -22.898462779165282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4096,
+        "ponto_id": 50068,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R SANT'ANNA GOMES",
+        "ende_numero": "219",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08016963822949,
+          -22.898556994383444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 2068,
+        "ponto_id": 50032,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DR JOAQUIM DE SOUZA CAMPOS JR",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07720798232934,
+          -22.89931746532472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 2069,
+        "ponto_id": 50020,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R SALUSTIANO PENTEADO",
+        "ende_numero": "407",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07550858788176,
+          -22.89969316925414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 2070,
+        "ponto_id": 50012,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R. SALUSTIANO PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0729601282385,
+          -22.901023477699905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 561,
+        "ponto_id": 644,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06935239996936,
+          -22.898700473332593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 562,
+        "ponto_id": 556,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06656379160212,
+          -22.895515255382914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 3747,
+        "ponto_id": 28,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1639",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,352,359,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185769774488,
+          -22.900849963136597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 2525,
+        "ponto_id": 237,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "833",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05873811547088,
+          -22.907231275177224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 748,
+        "ponto_id": 708,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "464",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05542831412575,
+          -22.910957810609975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4097,
+        "ponto_id": 90028,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DR QUIRINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054069826996454,
+          -22.913061472773723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4098,
+        "ponto_id": 90112,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0515307856313,
+          -22.91472189813146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4099,
+        "ponto_id": 90180,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0495868188937,
+          -22.915599467224904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4100,
+        "ponto_id": 90288,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": "438",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04750257267716,
+          -22.916540708970164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 7341,
+        "ponto_id": 90401,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04519229242153,
+          -22.917446979709464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 6311,
+        "ponto_id": 90399,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R LINO GUEDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045253380158975,
+          -22.91864284043546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 6307,
+        "ponto_id": 90343,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R ROSA LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04744414483024,
+          -22.91927088119588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 6310,
+        "ponto_id": 90398,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV PRINCESA D'OESTE",
+        "ende_numero": "878",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04316163735612,
+          -22.91554336932025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4238,
+        "ponto_id": 90188,
+        "ptseqlinha": 73.5,
+        "ende_logradouro": "AV. PRINCESA D'OESTE",
+        "ende_numero": "1380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04482058938967,
+          -22.912008292634496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 3029,
+        "ponto_id": 90400,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "1057",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04272188400545,
+          -22.915131358041794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 3030,
+        "ponto_id": 90504,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04211701356288,
+          -22.91718442696697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 3031,
+        "ponto_id": 90604,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "621",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04141928657674,
+          -22.919312627352276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 3032,
+        "ponto_id": 90736,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "399",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04078885291635,
+          -22.92122855272318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4103,
+        "ponto_id": 90820,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R PORTO FERREIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038687801321124,
+          -22.92252846677018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4104,
+        "ponto_id": 90856,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R PROF ADRIANO BOUCAULT",
+        "ende_numero": "388",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0376095422676,
+          -22.92215320428408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4105,
+        "ponto_id": 90940,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R NICOLA DI MARZIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03463092566014,
+          -22.921239044536936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 203,
+        "num_linha": "360",
+        "sentido": 2,
+        "nome_linha": "PROENCA / CASTELO (INCLUSIVO)",
+        "extensao_m": 13017.04,
+        "ponto_gid": 4073,
+        "ponto_id": 91076,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R MADALENA BARBOSA FERREIRA",
+        "ende_numero": "495",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03450115975999,
+          -22.924062590270434
+        ]
+      }
+    }
+  ]
+}

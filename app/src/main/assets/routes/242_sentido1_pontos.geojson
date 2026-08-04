@@ -1,0 +1,2262 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2277,
+        "ponto_id": 60316,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R JOSE CARVALHO MIRANDA",
+        "ende_numero": "690",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09249421632661,
+          -22.91476045575133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2278,
+        "ponto_id": 60296,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R JOSE CARVALHO MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09042224477625,
+          -22.914505670807223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2275,
+        "ponto_id": 70248,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R DR JULIO RIBEIRO DE MENEZES",
+        "ende_numero": "438",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089815082823584,
+          -22.91582476419163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2274,
+        "ponto_id": 70280,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DR JULIO RIBEIRO DE MENEZES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091810365363784,
+          -22.91596956641364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2279,
+        "ponto_id": 60364,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ALCIDES GUERNELLI",
+        "ende_numero": "177",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093766828196145,
+          -22.915863341421606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2280,
+        "ponto_id": 60380,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV ANTONIO CARVALHO MIRANDA",
+        "ende_numero": "196",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095540715181485,
+          -22.915430981788326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2281,
+        "ponto_id": 60372,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ANTONIO CARVALHO MIRANDA",
+        "ende_numero": "556",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095794837144055,
+          -22.913218352769775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2282,
+        "ponto_id": 60348,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR OSWALDO ANHERT",
+        "ende_numero": "270",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09390487183775,
+          -22.91229834882496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2283,
+        "ponto_id": 60336,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DR OSWALDO ANHERT",
+        "ende_numero": "19",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09189540863657,
+          -22.91120006141188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2284,
+        "ponto_id": 60312,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R LUCAS PEREIRA DE CASTRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09066894727008,
+          -22.911372212991335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2285,
+        "ponto_id": 60328,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LUCAS PEREIRA DE CASTRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09087568017571,
+          -22.91313279874651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2286,
+        "ponto_id": 60308,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R OSMANDO MASCARO",
+        "ende_numero": "371",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08992631859061,
+          -22.913539449862142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2287,
+        "ponto_id": 60288,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R JOSE MARGARIDO COSTA",
+        "ende_numero": "130",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08918635084174,
+          -22.912264351585694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2289,
+        "ponto_id": 50376,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV IMPERIO DO SOL NASCENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09411348733837,
+          -22.908566132946724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2290,
+        "ponto_id": 50524,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOSE DOS SANTOS",
+        "ende_numero": "480",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10071207738799,
+          -22.90907734775286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2291,
+        "ponto_id": 50576,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROF JORGE LEME",
+        "ende_numero": "54",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102559884124204,
+          -22.908674206502628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2293,
+        "ponto_id": 50556,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOAQUIM AUGUSTO PALHARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10177585562219,
+          -22.907201841774647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2294,
+        "ponto_id": 50516,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R SUD MENNUCCI",
+        "ende_numero": "347",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09935264214555,
+          -22.908351617462955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2295,
+        "ponto_id": 50416,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": "861",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095926357513946,
+          -22.906451747560507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2292,
+        "ponto_id": 50396,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09585163243846,
+          -22.904273248223607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2296,
+        "ponto_id": 50380,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095446985420466,
+          -22.90185887139652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2297,
+        "ponto_id": 50324,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09235286157278,
+          -22.901426599999684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2298,
+        "ponto_id": 50336,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R JOAQUIM TEODORO TEIXEIRA DE SOUZA",
+        "ende_numero": "9",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0926095571448,
+          -22.900007119195504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 5674,
+        "ponto_id": 50430,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R COMEND BERNARDO ALVES TEIXEIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09720770020774,
+          -22.898944911636594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2299,
+        "ponto_id": 50428,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV. PROF. LÃCIA FREDERICO PETINE",
+        "ende_numero": "46",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09688459553251,
+          -22.897450235196253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2300,
+        "ponto_id": 50408,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "1519",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09556762039205,
+          -22.894976484500184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2301,
+        "ponto_id": 50348,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "1253",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092849885946,
+          -22.893949733236866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2302,
+        "ponto_id": 50308,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08932477714837,
+          -22.89366353965776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 7392,
+        "ponto_id": 50310,
+        "ptseqlinha": 28.1,
+        "ende_logradouro": "AV MAL RONDON",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08691979022808,
+          -22.89401041321213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2303,
+        "ponto_id": 50234,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R PE CAMARGO LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08442102893341,
+          -22.894587934319503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2304,
+        "ponto_id": 50144,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R PE CAMARGO LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08283501627347,
+          -22.895293764756126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2305,
+        "ponto_id": 50108,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R RAFAEL SALES ",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08051213623684,
+          -22.895457362236392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2306,
+        "ponto_id": 50044,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ERASMO BRAGA",
+        "ende_numero": "1134",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077235478004496,
+          -22.894353280658787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2307,
+        "ponto_id": 50028,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R GERMANIA",
+        "ende_numero": "878",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07558304215685,
+          -22.893766356048822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2248,
+        "ponto_id": 40080,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1757",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07490583302719,
+          -22.893958737201967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2249,
+        "ponto_id": 40052,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1553",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07387106157934,
+          -22.89586163969455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2250,
+        "ponto_id": 40024,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1249",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072742571486124,
+          -22.89808413247529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 981,
+        "ponto_id": 50004,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DR OCTAVIO MENDES",
+        "ende_numero": "167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07242198448374,
+          -22.900595666585097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 302,
+        "num_linha": "242",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 13894.89,
+        "ponto_gid": 2405,
+        "ponto_id": 128,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06338612284813,
+          -22.90402903658218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2405,
+        "ponto_id": 128,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06338612284813,
+          -22.90402903658218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 979,
+        "ponto_id": 636,
+        "ptseqlinha": 38.5,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "472",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,212,230,242,251,253,256,260,261,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06905339089645,
+          -22.904253809528534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 560,
+        "ponto_id": 672,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "776",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,241,242,245,364,367,368,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070345560994234,
+          -22.902011509970396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2256,
+        "ponto_id": 40008,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1102",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07177839399669,
+          -22.899339175333814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2257,
+        "ponto_id": 40056,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1550",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07376288401277,
+          -22.8957081333477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2258,
+        "ponto_id": 40076,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1756",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07467777550718,
+          -22.894007666932495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2259,
+        "ponto_id": 50052,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R PROF JORGE HENNINGS",
+        "ende_numero": "313",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07666282786563,
+          -22.892997630465498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 492,
+        "ponto_id": 50064,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "785",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,242,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07849871713929,
+          -22.8934028795897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2273,
+        "ponto_id": 50096,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R RAFAEL SALES",
+        "ende_numero": "837",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08013870473337,
+          -22.89442323290057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2271,
+        "ponto_id": 50124,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R ERASMO BRAGA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08132851110722,
+          -22.894985049283786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 4107,
+        "ponto_id": 50148,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R PE CAMARGO LACERDA",
+        "ende_numero": "650",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08259784842569,
+          -22.895217537784273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2272,
+        "ponto_id": 50230,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PE CAMARGO LACERDA",
+        "ende_numero": "444",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08416058790438,
+          -22.894496547517885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 7393,
+        "ponto_id": 50318,
+        "ptseqlinha": 48.1,
+        "ende_logradouro": "AV MAL RONDON",
+        "ende_numero": "537",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08623808114085,
+          -22.89354217566627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2309,
+        "ponto_id": 50300,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08984601758113,
+          -22.893093652643774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2310,
+        "ponto_id": 50352,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "1192",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092738772999894,
+          -22.893663751581208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2265,
+        "ponto_id": 50410,
+        "ptseqlinha": 56.5,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "1534",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095799059020436,
+          -22.894883235881558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2311,
+        "ponto_id": 50440,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV LICIA FREDERICO PETTINE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09690168381746,
+          -22.897145141578108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2312,
+        "ponto_id": 50332,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": "351",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0924485779514,
+          -22.901216693863415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2313,
+        "ponto_id": 50372,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": "600",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09485577393989,
+          -22.901753550945962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2314,
+        "ponto_id": 50400,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": "446",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0961224195508,
+          -22.90236111293602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2315,
+        "ponto_id": 50412,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09616680440413,
+          -22.904338332316303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2316,
+        "ponto_id": 50424,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": "914",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09622690197279,
+          -22.906871905954844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2269,
+        "ponto_id": 50512,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R SUD MENNUCCI",
+        "ende_numero": "494",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10044728334563,
+          -22.907529435424223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2270,
+        "ponto_id": 50564,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R JOAQUIM AUGUSTO PALHARES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10195987530699,
+          -22.90718256336218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2268,
+        "ponto_id": 50584,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R PROF JORGE LEME",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10257635987473,
+          -22.908988399527924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2267,
+        "ponto_id": 50536,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JOSE DOS SANTOS",
+        "ende_numero": "411",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10099731871068,
+          -22.909164574339954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 438,
+        "ponto_id": 60356,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "3160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,242,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0941415951659,
+          -22.910089110484417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2288,
+        "ponto_id": 60284,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R JOSE MARGARIDO COSTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089874746440564,
+          -22.910580186326932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2276,
+        "ponto_id": 60292,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOSE MARGARIDO COSTA",
+        "ende_numero": "139",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08945827681195,
+          -22.91224948905961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2317,
+        "ponto_id": 60304,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R OSMANDO MASCARO",
+        "ende_numero": "372",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089940224653944,
+          -22.913366565198363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2318,
+        "ponto_id": 60320,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R LUCAS PEREIRA DE CASTRO",
+        "ende_numero": "48",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09064175114756,
+          -22.91310969821976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 6119,
+        "ponto_id": 60333,
+        "ptseqlinha": 71.3,
+        "ende_logradouro": "R LUCAS PEREIRA DE CASTRO",
+        "ende_numero": "238",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09052200243977,
+          -22.911207423037286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2319,
+        "ponto_id": 60332,
+        "ptseqlinha": 71.6,
+        "ende_logradouro": "R DR OSWALDO ANHERT",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09194855510234,
+          -22.911045303605324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2320,
+        "ponto_id": 60344,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DR OSWALDO ANHERT",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09389231075903,
+          -22.912113806158114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2321,
+        "ponto_id": 60376,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV ANTONIO CARVALHO MIRANDA",
+        "ende_numero": "547",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09610877877285,
+          -22.913275236624276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2322,
+        "ponto_id": 60384,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV ANTONIO CARVALHO MIRANDA",
+        "ende_numero": "193",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095818312613545,
+          -22.915502338595946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2323,
+        "ponto_id": 60368,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R MAEST DIOGO HUGO BRATFICHER",
+        "ende_numero": "70",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09386305796213,
+          -22.916214877773147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2324,
+        "ponto_id": 70284,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R RADION PODOLSKY",
+        "ende_numero": "515",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09086331109212,
+          -22.916485700672553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2325,
+        "ponto_id": 70256,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R RODION PODOLSKY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08925086670407,
+          -22.916382974864373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2326,
+        "ponto_id": 70180,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R RODION PODLSKY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08644127062853,
+          -22.915950023201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 1195,
+        "ponto_id": 70164,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "BALAO DO CURTUME",
+        "ende_numero": "1167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08418791724793,
+          -22.914529841447212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2327,
+        "ponto_id": 70188,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R JOSE DE CARVALHO MIRANDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08576272237371,
+          -22.91511863918408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2266,
+        "ponto_id": 60300,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R JOSE DE OLIVEIRA BORGES",
+        "ende_numero": "100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08820379894248,
+          -22.915104962079027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2278,
+        "ponto_id": 60296,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R JOSE CARVALHO MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09042224477625,
+          -22.914505670807223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 139,
+        "num_linha": "242",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 15630.12,
+        "ponto_gid": 2277,
+        "ponto_id": 60316,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R JOSE CARVALHO MIRANDA",
+        "ende_numero": "690",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09249421632661,
+          -22.91476045575133
+        ]
+      }
+    }
+  ]
+}

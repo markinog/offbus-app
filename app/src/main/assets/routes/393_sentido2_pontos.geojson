@@ -1,0 +1,937 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4631,
+        "ponto_id": 11276,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.866640480964165,
+          -22.878448739943117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4632,
+        "ponto_id": 11268,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.869390472783024,
+          -22.878303752452336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4633,
+        "ponto_id": 11260,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.872184460223366,
+          -22.87805075855225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4634,
+        "ponto_id": 11248,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.87862348332773,
+          -22.88707675173293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4635,
+        "ponto_id": 11240,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.90736849428385,
+          -22.8936135071478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4636,
+        "ponto_id": 11244,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.912259543927036,
+          -22.89203468727394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 5619,
+        "ponto_id": 11231,
+        "ptseqlinha": 6.1,
+        "ende_logradouro": "RODV JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.92323086495974,
+          -22.892099331385197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4637,
+        "ponto_id": 11236,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.92999559133678,
+          -22.89602662477052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 5618,
+        "ponto_id": 11237,
+        "ptseqlinha": 7.1,
+        "ende_logradouro": "RODV JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.933227706825434,
+          -22.89538016432785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4590,
+        "ponto_id": 11216,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94109837229681,
+          -22.88850615440999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4591,
+        "ponto_id": 11200,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1233",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94284702728701,
+          -22.887356420092466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4592,
+        "ponto_id": 11184,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1113",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.943834981268736,
+          -22.8867420569104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4593,
+        "ponto_id": 11156,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": "2200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95506778747373,
+          -22.880917149858565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4594,
+        "ponto_id": 11132,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95809274635769,
+          -22.87819182226793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4595,
+        "ponto_id": 11080,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "239",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.963468340647665,
+          -22.87907693049426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 4596,
+        "ponto_id": 11036,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV ISABELITA VIEIRA",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96671780833711,
+          -22.878191991020614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 2918,
+        "ponto_id": 11016,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R QUINZE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96779285159686,
+          -22.878075622038594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 2919,
+        "ponto_id": 10988,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9704730265007,
+          -22.881016126049154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 2920,
+        "ponto_id": 10972,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.972121582542215,
+          -22.882924576504585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 2921,
+        "ponto_id": 10960,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9737574804136,
+          -22.88483803922557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 7,
+        "num_linha": "393",
+        "sentido": 1,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15711.88,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 2948,
+        "ponto_id": 10956,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97431374404123,
+          -22.88587561177923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 2949,
+        "ponto_id": 10976,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "737",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97129104009791,
+          -22.882374402184283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 2950,
+        "ponto_id": 10984,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "365",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96976680879874,
+          -22.88053744045928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4600,
+        "ponto_id": 11040,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV ISABELITA VIEIRA",
+        "ende_numero": "3",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,391,393,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96550871473616,
+          -22.878802869582476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4601,
+        "ponto_id": 11076,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "240",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96302196798506,
+          -22.879246848353052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4602,
+        "ponto_id": 11136,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "1052",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.957408971850185,
+          -22.878349751467518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4603,
+        "ponto_id": 11152,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.955257888414295,
+          -22.8809258264699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4604,
+        "ponto_id": 11180,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1086",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.944195517696876,
+          -22.886748661879068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4605,
+        "ponto_id": 11196,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1230",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94309228316224,
+          -22.8874394625021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4606,
+        "ponto_id": 11212,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1432",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94115613481898,
+          -22.888713643709572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4638,
+        "ponto_id": 11232,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.92985674042277,
+          -22.89632426314967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4639,
+        "ponto_id": 11252,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.878480471489446,
+          -22.887196716976092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4640,
+        "ponto_id": 11256,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.872194457548346,
+          -22.878193745077713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4641,
+        "ponto_id": 11264,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.86943145301446,
+          -22.87850876311692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 392,
+        "num_linha": "393",
+        "sentido": 2,
+        "nome_linha": "CABRAS / ESTACAO SOUSAS",
+        "extensao_m": 15679.82,
+        "ponto_gid": 4642,
+        "ponto_id": 11272,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "393 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.86677243730602,
+          -22.878824769989222
+        ]
+      }
+    }
+  ]
+}

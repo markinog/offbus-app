@@ -1,0 +1,1712 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 5242,
+        "ponto_id": 72932,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1330528987854,
+          -22.965035633592112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 6101,
+        "ponto_id": 72730,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R YVES MONTAND",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13195798790644,
+          -22.961876596743426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 6100,
+        "ponto_id": 72734,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PAULO MACHADO",
+        "ende_numero": "86",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133499675847396,
+          -22.961556627260187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 7268,
+        "ponto_id": 72775,
+        "ptseqlinha": 3.1,
+        "ende_logradouro": "R JOAO CABOCLO DA SILVA",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13431857518763,
+          -22.958375630113856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2155,
+        "ponto_id": 72652,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JOSE PEREIRA",
+        "ende_numero": "823",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13380707134401,
+          -22.957565505884762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2156,
+        "ponto_id": 72612,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JOSE PEREIRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132255931665064,
+          -22.957809354906612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2157,
+        "ponto_id": 72564,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R JORGE ERNESTO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13166749074675,
+          -22.955953975305977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2158,
+        "ponto_id": 72592,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R HENRIQUE THONI FILHO",
+        "ende_numero": "703",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13407926868822,
+          -22.955170439383583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2159,
+        "ponto_id": 72740,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R HELIO MARTINELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13753152422687,
+          -22.95651842502179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 7267,
+        "ponto_id": 72745,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R HELIO MARTINELLI",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140207219902265,
+          -22.956075067061185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 7266,
+        "ponto_id": 72777,
+        "ptseqlinha": 9.5,
+        "ende_logradouro": "R TREZE - VL. DO SOSSEGO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14271390917315,
+          -22.955819093820793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 5560,
+        "ponto_id": 72774,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R. ROQUE PENA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14030510415236,
+          -22.956884436078372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2160,
+        "ponto_id": 73028,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R JOAO LIMA NOGUEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14045407150227,
+          -22.959883193986204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2161,
+        "ponto_id": 72976,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R GUILHERME BUORO",
+        "ende_numero": "339",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13845423835171,
+          -22.959301724789523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 6102,
+        "ponto_id": 72779,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R EDUARDO OLIVEIRA ANTONIETTO ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137706036264426,
+          -22.957002973565558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2163,
+        "ponto_id": 72494,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R HELIO MARTINELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.135301840057075,
+          -22.95733169957247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2155,
+        "ponto_id": 72652,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JOSE PEREIRA",
+        "ende_numero": "823",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13380707134401,
+          -22.957565505884762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2156,
+        "ponto_id": 72612,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOSE PEREIRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132255931665064,
+          -22.957809354906612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2164,
+        "ponto_id": 72480,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R HENRIQUE THONI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13616198018079,
+          -22.95440522847214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2165,
+        "ponto_id": 72482,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R SILVIO GIANFRANCISCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13718190377459,
+          -22.952801888360348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2166,
+        "ponto_id": 72446,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ERNESTO COSMO FIORETI",
+        "ende_numero": "458",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139771319245774,
+          -22.951617852081053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2167,
+        "ponto_id": 72450,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R JULIO G ATLAS",
+        "ende_numero": "1426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13938688689999,
+          -22.949861402208807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2168,
+        "ponto_id": 72455,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DIAMANTINO PEREIRA",
+        "ende_numero": "405",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13768454916555,
+          -22.9494191811666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2169,
+        "ponto_id": 72486,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R SILVIO GEANFRANCESCO",
+        "ende_numero": "207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592861091928,
+          -22.94957163107462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2170,
+        "ponto_id": 72490,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R JOAQUIM AUGUSTO TERRA",
+        "ende_numero": "91",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13507795499845,
+          -22.948673756085075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 713,
+        "ponto_id": 72408,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13318228982712,
+          -22.948690692210807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2171,
+        "ponto_id": 72368,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANACLETO MORELLI",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132079770627435,
+          -22.944893772215906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2172,
+        "ponto_id": 72354,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ANACLETO MORELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133517582771105,
+          -22.942279911307917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2173,
+        "ponto_id": 72276,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R PE JEAN FRANCOIS JOBARD",
+        "ende_numero": "177",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1314592221961,
+          -22.941292614977097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2140,
+        "ponto_id": 72248,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R PADRE JEAN FRANOIS JOBARD",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1297821989517,
+          -22.94165564640092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 715,
+        "ponto_id": 60748,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12908526415171,
+          -22.94031214739226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 716,
+        "ponto_id": 60728,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": "345",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13021739256854,
+          -22.936649175300186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 5468,
+        "ponto_id": 60723,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DR NIVALDO ALVES BONILHA",
+        "ende_numero": "1334",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12900687664717,
+          -22.93484419308436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 6318,
+        "ponto_id": 60721,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1313241617347,
+          -22.934827613331493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 1763,
+        "ponto_id": 60716,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R QUARENTA E CINCO (CIDADE SATELITE IRIS)",
+        "ende_numero": "4863",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,212,213,219,220,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12980817934984,
+          -22.93200069251955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 103,
+        "num_linha": "239",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13287.03,
+        "ponto_gid": 2174,
+        "ponto_id": 60632,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV GILBERTO TARGON",
+        "ende_numero": "120",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119682784984185,
+          -22.922777327342185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 849,
+        "ponto_id": 60636,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "904",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1203915970536,
+          -22.922543301404602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2113,
+        "ponto_id": 60688,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "MARGINAL AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12600701189634,
+          -22.926024507146842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 1710,
+        "ponto_id": 60734,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "5125",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13224028343241,
+          -22.934806365219494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 5471,
+        "ponto_id": 60733,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R JOSEPHA JULIA DOVAL DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13092085760084,
+          -22.934540663844714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 5469,
+        "ponto_id": 60735,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R NIVALDO  ALVES BONILHA",
+        "ende_numero": "307",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12920473867923,
+          -22.93487674581112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 702,
+        "ponto_id": 60740,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13040895125171,
+          -22.936807836304897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 703,
+        "ponto_id": 72232,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1293799479044,
+          -22.940695106698115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2141,
+        "ponto_id": 72230,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R PADRE FRANCOES JOBARD",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130278525208254,
+          -22.941398088744766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2175,
+        "ponto_id": 72272,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R PE JEAN FRANCOIS JOBARD",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13169479209831,
+          -22.941070612678633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2176,
+        "ponto_id": 72356,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JOSEFINA MINGONE BUFFO",
+        "ende_numero": "116",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13364483238472,
+          -22.94184064494491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2177,
+        "ponto_id": 72372,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R ANACLETO MORELLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13208263791237,
+          -22.94507673799619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 705,
+        "ponto_id": 72416,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133300510201444,
+          -22.948345972654764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2178,
+        "ponto_id": 72466,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R JOAQUIM AUGUSTO TERRA",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13470107891203,
+          -22.94866483646295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2179,
+        "ponto_id": 72470,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R SILVIO GEANFRANCESCO",
+        "ende_numero": "216",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.136144071650705,
+          -22.94964459229411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2180,
+        "ponto_id": 72458,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R DIAMANTINO PEREIRA",
+        "ende_numero": "424",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13792810132845,
+          -22.94915831620178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2181,
+        "ponto_id": 72454,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R JULIO G ATLAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13973627156612,
+          -22.949870410541436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2182,
+        "ponto_id": 72442,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R ERNESTO COSMO FIORETI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13958260167696,
+          -22.95190250931682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2183,
+        "ponto_id": 72474,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R SILVIO GEANFRACESCO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137381697980096,
+          -22.952750988381638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2184,
+        "ponto_id": 72478,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R HENRIQUE THONI FILHO",
+        "ende_numero": "490",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13632739374218,
+          -22.95452383130015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2185,
+        "ponto_id": 72600,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R HENRIQUE THONI FILHO",
+        "ende_numero": "726",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13385601314687,
+          -22.95543271581267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2186,
+        "ponto_id": 72572,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R JORGE ERNESTO DOS SANTOS",
+        "ende_numero": "838",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1318626244185,
+          -22.95595920581472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2159,
+        "ponto_id": 72740,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R HELIO MARTINELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13753152422687,
+          -22.95651842502179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 7267,
+        "ponto_id": 72745,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R HELIO MARTINELLI",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140207219902265,
+          -22.956075067061185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 7266,
+        "ponto_id": 72777,
+        "ptseqlinha": 52.5,
+        "ende_logradouro": "R TREZE - VL. DO SOSSEGO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14271390917315,
+          -22.955819093820793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 5560,
+        "ponto_id": 72774,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R. ROQUE PENA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14030510415236,
+          -22.956884436078372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2160,
+        "ponto_id": 73028,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R JOAO LIMA NOGUEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14045407150227,
+          -22.959883193986204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2161,
+        "ponto_id": 72976,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R GUILHERME BUORO",
+        "ende_numero": "339",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13845423835171,
+          -22.959301724789523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 6102,
+        "ponto_id": 72779,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R EDUARDO OLIVEIRA ANTONIETTO ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137706036264426,
+          -22.957002973565558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 2163,
+        "ponto_id": 72494,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R HELIO MARTINELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.135301840057075,
+          -22.95733169957247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 709,
+        "ponto_id": 72732,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R JOAO CABOCLO DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13453603178446,
+          -22.959729350771816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 351,
+        "num_linha": "239",
+        "sentido": 2,
+        "nome_linha": "TERM. OURO VERDE",
+        "extensao_m": 11746.71,
+        "ponto_gid": 5242,
+        "ponto_id": 72932,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1330528987854,
+          -22.965035633592112
+        ]
+      }
+    }
+  ]
+}

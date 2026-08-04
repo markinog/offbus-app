@@ -1,0 +1,2187 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 932,
+        "ponto_id": 71980,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R WILLIAM FARACINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "150,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11955757576118,
+          -22.942717411373835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 933,
+        "ponto_id": 72068,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R WILLIAM FARACINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "150,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12023468330552,
+          -22.9441643402459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 962,
+        "ponto_id": 72044,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R DRA JOANA ZANAGA ABOIM GOMES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119071263645594,
+          -22.944930986574345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 963,
+        "ponto_id": 71992,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DA PADROEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11764622142519,
+          -22.945129216751823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 5613,
+        "ponto_id": 71878,
+        "ptseqlinha": 4.5,
+        "ende_logradouro": "R BEATA MD PLACIDA VIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11548729677458,
+          -22.94425265968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 964,
+        "ponto_id": 71852,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R DA PADROEIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11683672188792,
+          -22.943480468808453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 965,
+        "ponto_id": 71780,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DA PADROEIRA",
+        "ende_numero": "33",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11586645956673,
+          -22.941480246173743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 966,
+        "ponto_id": 71700,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ANGELA STECCA PELEGRINI",
+        "ende_numero": "338",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114805973484685,
+          -22.94112669035074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 516,
+        "ponto_id": 71596,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11293606275687,
+          -22.940325213801763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 517,
+        "ponto_id": 71564,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111641978109986,
+          -22.940158459956614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 967,
+        "ponto_id": 71648,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R RAFFUL ANTONIO KANAWATY",
+        "ende_numero": "23",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11249684658916,
+          -22.94239957342626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 968,
+        "ponto_id": 71600,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ORESTES MONTEIRO DE CARVALHO E SILVA",
+        "ende_numero": "257",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.110800145299656,
+          -22.942663739681983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 969,
+        "ponto_id": 71524,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R NSRA DA RESSUREICAO",
+        "ende_numero": "175",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1098004770786,
+          -22.941747548214956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 970,
+        "ponto_id": 71448,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R NSRA DA RESSUREICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1091405659139,
+          -22.94051528738141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 990,
+        "ponto_id": 71412,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R JOSE DOBNER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108193060809164,
+          -22.939830131242328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 518,
+        "ponto_id": 71360,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10802773460783,
+          -22.939661433893242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 972,
+        "ponto_id": 71236,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R CICERO DE OLIVEIRA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105849695963535,
+          -22.938831193108815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 973,
+        "ponto_id": 71076,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R CICERO DE OLIVEIRA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103891704717846,
+          -22.93730359137467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 974,
+        "ponto_id": 70980,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R LUIZ MARCELINO GUERNELLI",
+        "ende_numero": "654",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10359926306225,
+          -22.93465196707395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 975,
+        "ponto_id": 70960,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R CNEO POMPEO DE CAMARGO",
+        "ende_numero": "1560",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1044738740515,
+          -22.933049054979886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 737,
+        "ponto_id": 70964,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10580329234246,
+          -22.931757789610547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 738,
+        "ponto_id": 70944,
+        "ptseqlinha": 20.5,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10513133171791,
+          -22.930546158340256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 739,
+        "ponto_id": 70860,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "777",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103049629617495,
+          -22.930331905904623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 740,
+        "ponto_id": 70768,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "595",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10129092322389,
+          -22.93033633426041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 741,
+        "ponto_id": 70712,
+        "ptseqlinha": 22.1,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "429",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099455325856574,
+          -22.930343385310366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 742,
+        "ponto_id": 70588,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV PRESIDENTE JUSCELINO",
+        "ende_numero": "105",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,163,164,165,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09649747324829,
+          -22.930145473051134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 7227,
+        "ponto_id": 70805,
+        "ptseqlinha": 23.1,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09595696136582,
+          -22.935274751048908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 580,
+        "ponto_id": 70632,
+        "ptseqlinha": 23.2,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3771",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09256343385697,
+          -22.934316708120974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 581,
+        "ponto_id": 70488,
+        "ptseqlinha": 23.3,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3341",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08954756337886,
+          -22.93237290914576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 7518,
+        "ponto_id": 70489,
+        "ptseqlinha": 27.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08633590732985,
+          -22.930579353730543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 5926,
+        "ponto_id": 70181,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08190582713767,
+          -22.925916814487618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 5527,
+        "ponto_id": 70184,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07948593395305,
+          -22.92351447154542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 584,
+        "ponto_id": 70156,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07782620199902,
+          -22.922015499649664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 585,
+        "ponto_id": 70084,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07408195298589,
+          -22.919479249835813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 586,
+        "ponto_id": 70020,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068293751386115,
+          -22.91551108842579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 587,
+        "ponto_id": 70008,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2045",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06579910500191,
+          -22.915123677347065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 877,
+        "ponto_id": 90020,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "499",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,245,382,401,402,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344812080828,
+          -22.913718089009592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 819,
+        "ponto_id": 400,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,171,193,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259875713149,
+          -22.908633523038432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 976,
+        "ponto_id": 480,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": "152",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06461739357475,
+          -22.908217180333725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 977,
+        "ponto_id": 360,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": "434",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06583407621649,
+          -22.905940142614327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 48,
+        "num_linha": "153",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO (INCLUSIVO)",
+        "extensao_m": 13528.24,
+        "ponto_gid": 961,
+        "ponto_id": 744,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,341,342,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07117770534608,
+          -22.904253659208045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 960,
+        "ponto_id": 560,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "R DR MASCARENHAS",
+        "ende_numero": "276",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,318,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07004600575203,
+          -22.90360395977585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 2072,
+        "ponto_id": 496,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "663",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,251,289,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068496391266564,
+          -22.903140071320795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 961,
+        "ponto_id": 744,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,341,342,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07117770534608,
+          -22.904253659208045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 983,
+        "ponto_id": 440,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "423",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,251,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06754080149111,
+          -22.90500738230847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 984,
+        "ponto_id": 512,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "189",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,251 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066499083469054,
+          -22.906825433734664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 589,
+        "ponto_id": 296,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,153,154,161,211,213,219,264,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06337498011748,
+          -22.906949468394345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 1572,
+        "ponto_id": 90040,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,245,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06327091799696,
+          -22.911755920938795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 590,
+        "ponto_id": 70004,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06601996953021,
+          -22.914990079927378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 591,
+        "ponto_id": 70016,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068507893756326,
+          -22.91553312549965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 592,
+        "ponto_id": 70088,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07502278049115,
+          -22.91968114129561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 593,
+        "ponto_id": 70168,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "4528",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078118527778706,
+          -22.921892686314123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 5540,
+        "ponto_id": 70200,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1999",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07990750806758,
+          -22.92357232159311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 5925,
+        "ponto_id": 70170,
+        "ptseqlinha": 52.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082247321373295,
+          -22.925949987225074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 770,
+        "ponto_id": 70368,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2754",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084498336474404,
+          -22.929063290855797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 7517,
+        "ponto_id": 70477,
+        "ptseqlinha": 53.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086483185645434,
+          -22.93029655833481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 596,
+        "ponto_id": 70472,
+        "ptseqlinha": 53.2,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089389071096214,
+          -22.931954948446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 820,
+        "ponto_id": 70600,
+        "ptseqlinha": 53.3,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092072027019064,
+          -22.933590404327173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 7227,
+        "ponto_id": 70805,
+        "ptseqlinha": 53.4,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09595696136582,
+          -22.935274751048908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 775,
+        "ponto_id": 70756,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101281326126184,
+          -22.929823866905625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 776,
+        "ponto_id": 70828,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10340741728208,
+          -22.92986801433046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 777,
+        "ponto_id": 70948,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "115 A",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1055206800467,
+          -22.93008103357809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 778,
+        "ponto_id": 70992,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "150",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105975008582874,
+          -22.931888308455356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 985,
+        "ponto_id": 70972,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R CNEO POMPEO DE CAMARGO",
+        "ende_numero": "1571",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10483286960894,
+          -22.932876378138744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 986,
+        "ponto_id": 71000,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R LUIZ MARCELINO GUERNELLI",
+        "ende_numero": "617",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103747128122684,
+          -22.934804741743505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 987,
+        "ponto_id": 71096,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R CICERO DE OLIVEIRA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10401625348562,
+          -22.937284335742913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 988,
+        "ponto_id": 71238,
+        "ptseqlinha": 64.5,
+        "ende_logradouro": "R CNEO POMPEO DE CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105812644753925,
+          -22.93912273798934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 989,
+        "ponto_id": 71328,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R JOSE PESSOTTO SOBR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107011939030514,
+          -22.939871370582296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 971,
+        "ponto_id": 71392,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JOSE DOBNER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108341463674364,
+          -22.93983529099416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 991,
+        "ponto_id": 71456,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R NSRA DA RESSUREICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1094060295841,
+          -22.94059363897741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 992,
+        "ponto_id": 71536,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R NSRA DA RESSUREICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11004031203911,
+          -22.941800871629898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 993,
+        "ponto_id": 71604,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ORESTES MONTEIRO DE CARVALHO E SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111019360886345,
+          -22.942714446994543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 994,
+        "ponto_id": 71632,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R RAFFUL ANTONIO KANAWATY",
+        "ende_numero": "46",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11222192893833,
+          -22.94223559034819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 995,
+        "ponto_id": 71540,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R RAFFUL ANTONIO KANAWATY",
+        "ende_numero": "260",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111398163654194,
+          -22.940392542755166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 996,
+        "ponto_id": 71680,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R ANGELA STECCA PELEGRINI",
+        "ende_numero": "263",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11460946486404,
+          -22.940958318949818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 7519,
+        "ponto_id": 70670,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "386",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099331251369655,
+          -22.929896979072318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 997,
+        "ponto_id": 71784,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R DA PADROEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116053458547945,
+          -22.941599535028207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 998,
+        "ponto_id": 71876,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R DA PADROEIRA",
+        "ende_numero": "300",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11701934533783,
+          -22.943633487804316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 5612,
+        "ponto_id": 71877,
+        "ptseqlinha": 74.5,
+        "ende_logradouro": "R BEATA MD PLACIDA VIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11564765577078,
+          -22.94427047551157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 999,
+        "ponto_id": 71996,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R DA PADROEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11779610191735,
+          -22.945182464891435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 1000,
+        "ponto_id": 72036,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R DRA JOANA ZANAGA ABOIM GOMES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11923398323242,
+          -22.944693642597997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 945,
+        "ponto_id": 72056,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R WILLIAM FARACINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "150,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12002913762188,
+          -22.94409865802847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 946,
+        "ponto_id": 71972,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R WILLIAM FARACINI",
+        "ende_numero": "215",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "150,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119304618610606,
+          -22.94260126507286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 399,
+        "num_linha": "153",
+        "sentido": 2,
+        "nome_linha": "TERM. VL. UNIÃO",
+        "extensao_m": 13426.79,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1537 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1030,
+        "ponto_id": 71484,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R SOCORRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101988959628635,
+          -22.94786938839744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1031,
+        "ponto_id": 71572,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R NELSON LEITE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101558940906905,
+          -22.949744364261758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1032,
+        "ponto_id": 71460,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R JOSE ALBERTO MISSIO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09986099983198,
+          -22.94880585445183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1033,
+        "ponto_id": 71432,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R CAPIVARI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10111911842667,
+          -22.94713883606372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1034,
+        "ponto_id": 71404,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R CAPIVARI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10224556410442,
+          -22.94558396332621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1035,
+        "ponto_id": 71400,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CAPIVARI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10352258073828,
+          -22.944399389819896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1036,
+        "ponto_id": 71344,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R INDAIATUBA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1043257265521,
+          -22.94329755877194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1037,
+        "ponto_id": 71268,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R INDAIATUBA",
+        "ende_numero": "768",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10402881109156,
+          -22.94152331017005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1038,
+        "ponto_id": 71256,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R VINHEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103054584480475,
+          -22.942432047977505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1039,
+        "ponto_id": 71312,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R VINHEDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10293996078253,
+          -22.943416323953965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1040,
+        "ponto_id": 71264,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R PEDREIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10108320131351,
+          -22.94392291786722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1041,
+        "ponto_id": 71276,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0996347093312,
+          -22.94507272902139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1042,
+        "ponto_id": 71100,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10016951753188,
+          -22.9409591195184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1043,
+        "ponto_id": 71020,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": "701",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09961432857689,
+          -22.939354477718872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1044,
+        "ponto_id": 70912,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R SUMARE",
+        "ende_numero": "65",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09773094541022,
+          -22.937844405875495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1045,
+        "ponto_id": 70848,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09677302708934,
+          -22.937188293281736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 580,
+        "ponto_id": 70632,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3771",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09256343385697,
+          -22.934316708120974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 581,
+        "ponto_id": 70488,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3341",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08954756337886,
+          -22.93237290914576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 7518,
+        "ponto_id": 70489,
+        "ptseqlinha": 18.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08633590732985,
+          -22.930579353730543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 5926,
+        "ponto_id": 70181,
+        "ptseqlinha": 19.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08190582713767,
+          -22.925916814487618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 5527,
+        "ponto_id": 70184,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07948593395305,
+          -22.92351447154542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 584,
+        "ponto_id": 70156,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07782620199902,
+          -22.922015499649664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 585,
+        "ponto_id": 70084,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07408195298589,
+          -22.919479249835813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 586,
+        "ponto_id": 70020,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068293751386115,
+          -22.91551108842579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 587,
+        "ponto_id": 70008,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2045",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06579910500191,
+          -22.915123677347065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 877,
+        "ponto_id": 90020,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "499",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,245,382,401,402,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344812080828,
+          -22.913718089009592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 149,
+        "num_linha": "161",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 8998.35,
+        "ponto_gid": 1850,
+        "ponto_id": 268,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "589",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,133,154,161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0587737543474,
+          -22.9075527488956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1850,
+        "ponto_id": 268,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "589",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,133,154,161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0587737543474,
+          -22.9075527488956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 340,
+        "ponto_id": 16,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,410,413,416,BRT10,BRT11,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058078348641764,
+          -22.90079632306945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 344,
+        "ponto_id": 228,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "810",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,211,219,220,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06489354260516,
+          -22.90428961424405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 589,
+        "ponto_id": 296,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,153,154,161,211,213,219,264,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06337498011748,
+          -22.906949468394345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1572,
+        "ponto_id": 90040,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,245,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06327091799696,
+          -22.911755920938795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 590,
+        "ponto_id": 70004,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06601996953021,
+          -22.914990079927378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 591,
+        "ponto_id": 70016,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068507893756326,
+          -22.91553312549965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 592,
+        "ponto_id": 70088,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07502278049115,
+          -22.91968114129561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 593,
+        "ponto_id": 70168,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "4528",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078118527778706,
+          -22.921892686314123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 5540,
+        "ponto_id": 70200,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1999",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07990750806758,
+          -22.92357232159311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 5925,
+        "ponto_id": 70170,
+        "ptseqlinha": 40.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082247321373295,
+          -22.925949987225074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 770,
+        "ponto_id": 70368,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2754",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084498336474404,
+          -22.929063290855797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 7517,
+        "ponto_id": 70477,
+        "ptseqlinha": 41.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086483185645434,
+          -22.93029655833481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 596,
+        "ponto_id": 70472,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089389071096214,
+          -22.931954948446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 820,
+        "ponto_id": 70600,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092072027019064,
+          -22.933590404327173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1047,
+        "ponto_id": 70924,
+        "ptseqlinha": 46.5,
+        "ende_logradouro": "R SUMARE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09811588839777,
+          -22.937856829639873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1048,
+        "ponto_id": 71016,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": "658",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09968461048927,
+          -22.939063938128808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1049,
+        "ponto_id": 71116,
+        "ptseqlinha": 47.5,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10034108398053,
+          -22.941063826660923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1050,
+        "ponto_id": 71204,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10011291258898,
+          -22.943021349083516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1051,
+        "ponto_id": 71272,
+        "ptseqlinha": 48.5,
+        "ende_logradouro": "R MOGI MIRIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099791442391655,
+          -22.94522656300942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1052,
+        "ponto_id": 71252,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PEDREIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1009298931864,
+          -22.943772199472946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1053,
+        "ponto_id": 71304,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R VINHEDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10273350050497,
+          -22.943316957464205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1054,
+        "ponto_id": 71244,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R VINHEDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10290854525853,
+          -22.942189874714757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1055,
+        "ponto_id": 71288,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R INDAIATUBA",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104310615333176,
+          -22.941758987082736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1056,
+        "ponto_id": 71340,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R INDAIATUBA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104488534500206,
+          -22.94318905259513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1057,
+        "ponto_id": 71408,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R CAPIVARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10341696225281,
+          -22.94480631493698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1058,
+        "ponto_id": 71416,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R CAPIVARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10227390467284,
+          -22.9458103637638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1059,
+        "ponto_id": 71436,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R CAPIVARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1012169542897,
+          -22.94731538591149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1060,
+        "ponto_id": 71544,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R NELSON LEITE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10143792289449,
+          -22.94954537215087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 299,
+        "num_linha": "161",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 12291.94,
+        "ponto_gid": 1030,
+        "ponto_id": 71484,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R SOCORRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101988959628635,
+          -22.94786938839744
+        ]
+      }
+    }
+  ]
+}

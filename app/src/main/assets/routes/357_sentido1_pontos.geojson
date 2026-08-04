@@ -1,0 +1,1912 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3921,
+        "ponto_id": 30976,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV CARD DOM AGNELO ROSSI (PUCC)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04537076635632,
+          -22.83375735084951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3922,
+        "ponto_id": 30980,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R DOM HUMBERTO MAZZONI (PUCC)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04989959012742,
+          -22.832796396808003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3923,
+        "ponto_id": 30968,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051307045034235,
+          -22.834102230828204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3571,
+        "ponto_id": 30936,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05275572117931,
+          -22.83746780256268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3572,
+        "ponto_id": 30916,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": "77",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05306621281274,
+          -22.84097849399814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3573,
+        "ponto_id": 30888,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "VD PAULO EGIDIO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0535255580379,
+          -22.84305325373249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 4032,
+        "ponto_id": 30856,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R RONALDO STRAZACAPPA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054018175759076,
+          -22.846052861321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3568,
+        "ponto_id": 30754,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ARMANDO STRAZZACAPA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05469379441684,
+          -22.847932617088563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3940,
+        "ponto_id": 30792,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R OLGA DI GIORGIO GERACCI",
+        "ende_numero": "435",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052395827473205,
+          -22.848686681059274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3925,
+        "ponto_id": 30764,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R OLGA DI GIORGIO GERACCI",
+        "ende_numero": "560",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05152543936297,
+          -22.84632484551349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3545,
+        "ponto_id": 30852,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "851",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04963193983343,
+          -22.846272905614267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3546,
+        "ponto_id": 21192,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "515",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04640067950792,
+          -22.846517435716162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3547,
+        "ponto_id": 21172,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044368610200294,
+          -22.847518398616298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3548,
+        "ponto_id": 21120,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04307932731359,
+          -22.84872304542179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3549,
+        "ponto_id": 21108,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R LUIZ OTAVIO",
+        "ende_numero": "1281",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04333080881286,
+          -22.851538307900192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 5933,
+        "ponto_id": 21111,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R LUIZ OTAVIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044302036091445,
+          -22.854107849471394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2097,
+        "ponto_id": 20780,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044052683192,
+          -22.86177239270054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2098,
+        "ponto_id": 20564,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04415418240289,
+          -22.866675742035344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2099,
+        "ponto_id": 20480,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04463979138665,
+          -22.869045854485837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2100,
+        "ponto_id": 20256,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04483082332286,
+          -22.87687095458897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2106,
+        "ponto_id": 712,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R MAJOR SOLON",
+        "ende_numero": "850",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058037876230784,
+          -22.891084232967252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 566,
+        "ponto_id": 324,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R MAJ SOLON",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058651325684366,
+          -22.89486657593452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 567,
+        "ponto_id": 216,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636459139415,
+          -22.89759761810051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 568,
+        "ponto_id": 204,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05533635544883,
+          -22.899341399579587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 3826,
+        "ponto_id": 12,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1185",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,357,360,362,364,381,382,383,386,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060665603814776,
+          -22.902506526175117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 7427,
+        "ponto_id": 234,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,317,331,332,357,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063112345976016,
+          -22.904460773377703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 980,
+        "ponto_id": 660,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "650",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "193,213,331,332,357,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069805629438655,
+          -22.902837374956686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 326,
+        "num_linha": "357",
+        "sentido": 1,
+        "nome_linha": "PUCC",
+        "extensao_m": 16948.49,
+        "ponto_gid": 2208,
+        "ponto_id": 780,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,349,357,362,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07220067753917,
+          -22.90658797426865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2208,
+        "ponto_id": 780,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,349,357,362,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07220067753917,
+          -22.90658797426865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 5927,
+        "ponto_id": 29,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1531",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06154500611738,
+          -22.90157397587873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 6047,
+        "ponto_id": 42,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059726545672966,
+          -22.90395563997701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2083,
+        "ponto_id": 20260,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044665683096724,
+          -22.876575425012113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2084,
+        "ponto_id": 20508,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423663691774,
+          -22.86854483629112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2085,
+        "ponto_id": 20588,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0437874360404,
+          -22.86643245552569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2086,
+        "ponto_id": 20788,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043621739755025,
+          -22.861624904626677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2984,
+        "ponto_id": 20908,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": "12",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04511609301711,
+          -22.8561203625999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2985,
+        "ponto_id": 20980,
+        "ptseqlinha": 58.5,
+        "ende_logradouro": "R IZABEL NEGRAO BERTOTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,339,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04545643334974,
+          -22.85384444579937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3551,
+        "ponto_id": 21124,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04292089728427,
+          -22.848739253301655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3552,
+        "ponto_id": 21188,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04441730935581,
+          -22.847234563490517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3924,
+        "ponto_id": 30800,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R OLGA DI GIORGIO GERACCI",
+        "ende_numero": "295",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052292323799996,
+          -22.847865649878646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3578,
+        "ponto_id": 30860,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JOAO VEDOVELLO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05246272819405,
+          -22.845495315893405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2785,
+        "ponto_id": 30912,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05281119623021,
+          -22.84105129854366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 2786,
+        "ponto_id": 30932,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052562412805166,
+          -22.837181167798484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3941,
+        "ponto_id": 30964,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05139419436625,
+          -22.83459972574081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3942,
+        "ponto_id": 30984,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DOM HUMBERTO MAZZONI (PUCC)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04965056430883,
+          -22.832780282575836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 3943,
+        "ponto_id": 30972,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV CARD DOM AGNELO ROSSI (PUCC)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045542653786576,
+          -22.83400837941576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 52,
+        "num_linha": "357",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 17702.48,
+        "ponto_gid": 5664,
+        "ponto_id": 30952,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV DR CAIO PINTO GUIMARAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04550926193631,
+          -22.83594990026613
+        ]
+      }
+    }
+  ]
+}

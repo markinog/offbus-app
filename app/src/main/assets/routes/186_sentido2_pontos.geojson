@@ -1,0 +1,1237 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1464,
+        "ponto_id": 81540,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV CID MAGALHAES LEME",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12737467924684,
+          -23.042960791295545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1465,
+        "ponto_id": 81563,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "1628",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128115682948405,
+          -23.045202017616354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1466,
+        "ponto_id": 81594,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": "1948",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12949872561663,
+          -23.047185870930676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1467,
+        "ponto_id": 81592,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "2162",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131826655248176,
+          -23.0467160430376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1468,
+        "ponto_id": 81564,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130698881805074,
+          -23.04514716657155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1469,
+        "ponto_id": 81552,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "126",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13009499654752,
+          -23.043505529291057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1470,
+        "ponto_id": 81520,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": "590",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129544608883684,
+          -23.041903611151785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1502,
+        "ponto_id": 81532,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R LOURIVAL DE ALMEIDA",
+        "ende_numero": "830",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131646455156925,
+          -23.04151824912922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1503,
+        "ponto_id": 81514,
+        "ptseqlinha": 8.3,
+        "ende_logradouro": "R PEDRO PAULO COLOMBARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13302629437845,
+          -23.042198728136018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1504,
+        "ponto_id": 81508,
+        "ptseqlinha": 8.6,
+        "ende_logradouro": "R GERALDO NUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13355080067548,
+          -23.042849844879772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1505,
+        "ponto_id": 81536,
+        "ptseqlinha": 8.9,
+        "ende_logradouro": "R GERALDO NUCCI",
+        "ende_numero": "38",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13302066682009,
+          -23.041233675171725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1506,
+        "ponto_id": 81498,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": "41",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13204186717151,
+          -23.039882642265805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1451,
+        "ponto_id": 74824,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R F",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143983160756214,
+          -23.009775367951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1453,
+        "ponto_id": 74836,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14505426400336,
+          -23.012113955312397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 7183,
+        "ponto_id": 74773,
+        "ptseqlinha": 16.1,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106464206207136,
+          -22.98701052606298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 5333,
+        "ponto_id": 74811,
+        "ptseqlinha": 25.8,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14043415199295,
+          -23.01275508075005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 321,
+        "num_linha": "186",
+        "sentido": 1,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 28456.97,
+        "ponto_gid": 1501,
+        "ponto_id": 456,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06244333077719,
+          -22.909123883025664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1501,
+        "ponto_id": 456,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06244333077719,
+          -22.909123883025664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 7339,
+        "ponto_id": 90054,
+        "ptseqlinha": 30.5,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06391288281925,
+          -22.913611701255196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 347,
+        "ponto_id": 90088,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064523699286596,
+          -22.915609354700894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1414,
+        "ponto_id": 81016,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11243821010972,
+          -23.00239739216577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1451,
+        "ponto_id": 74824,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R F",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143983160756214,
+          -23.009775367951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 5512,
+        "ponto_id": 74843,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R CIRILO JOSE PANSANI",
+        "ende_numero": "18",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13957315227803,
+          -23.04393688161058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 5514,
+        "ponto_id": 74847,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R CIRILO JOSE PANSANI",
+        "ende_numero": "12",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13925264760926,
+          -23.044080602944643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1453,
+        "ponto_id": 74836,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14505426400336,
+          -23.012113955312397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1521,
+        "ponto_id": 81600,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "MARG ROD SANTOS DUMONT (SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14211421925716,
+          -23.05194339749697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1516,
+        "ponto_id": 81500,
+        "ptseqlinha": 49.5,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132363270809314,
+          -23.039847163180966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1517,
+        "ponto_id": 81502,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R GERALDO NUCCI AO LADO N 96",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13335054208697,
+          -23.041429363861596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1518,
+        "ponto_id": 81504,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R GERALDO NUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1338155201717,
+          -23.042877417039218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1519,
+        "ponto_id": 81510,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R PEDRO PAULO COLOMBARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13276192596693,
+          -23.042193357448344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1520,
+        "ponto_id": 81516,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13174929941116,
+          -23.041673308977153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1491,
+        "ponto_id": 81524,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R LOURIVAL DE ALMEIDA",
+        "ende_numero": "457",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12952472052806,
+          -23.042199258944606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1492,
+        "ponto_id": 81548,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "139",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13014135265573,
+          -23.043342861084216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1493,
+        "ponto_id": 81568,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13091834427816,
+          -23.045274023835955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1494,
+        "ponto_id": 81596,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "2079",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13188430942554,
+          -23.046911495981487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1495,
+        "ponto_id": 81598,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12953438820695,
+          -23.047302223442383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1496,
+        "ponto_id": 81562,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": "820",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12807539952001,
+          -23.04540780303951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 61,
+        "num_linha": "186",
+        "sentido": 2,
+        "nome_linha": "JD. SANTA MARIA",
+        "extensao_m": 32437.38,
+        "ponto_gid": 1464,
+        "ponto_id": 81540,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV CID MAGALHAES LEME",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12737467924684,
+          -23.042960791295545
+        ]
+      }
+    }
+  ]
+}

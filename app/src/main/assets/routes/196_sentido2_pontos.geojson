@@ -1,0 +1,2087 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5296,
+        "ponto_id": 72940,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13334485708987,
+          -22.964813561152738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 113,
+        "ponto_id": 72840,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12863426888093,
+          -22.968090877001593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 114,
+        "ponto_id": 72836,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "605",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,107,109,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12848573461977,
+          -22.969449987836203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 115,
+        "ponto_id": 72992,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "1373",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,120,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1268720453425,
+          -22.971219301524492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 116,
+        "ponto_id": 72780,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12433346308438,
+          -22.971183625327225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 117,
+        "ponto_id": 72760,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV ITAMARATI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12280428809451,
+          -22.971436428013536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 118,
+        "ponto_id": 72972,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ITAMARATI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12283599395806,
+          -22.974083346672813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5768,
+        "ponto_id": 73024,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R WALDEMAR MAFUZ",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12253922182544,
+          -22.975171085230297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 121,
+        "ponto_id": 73096,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EUGENIO DE MORAES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12153018598644,
+          -22.97769534515002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 122,
+        "ponto_id": 73164,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R EUGENIO DE MORAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,114,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1208550728872,
+          -22.979240348552153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 548,
+        "ponto_id": 73340,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": "325",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121160050023605,
+          -22.981493345885468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 549,
+        "ponto_id": 73440,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": "75",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12083643070008,
+          -22.983757466693138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 89,
+        "ponto_id": 73540,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "516",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,104,117,120,135,177,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1204807277706,
+          -22.985769965977227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 316,
+        "ponto_id": 73608,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "351",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119525513771066,
+          -22.98777387745872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 317,
+        "ponto_id": 73732,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV PR JOAO PRATA VIEIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11885220848303,
+          -22.98993614892601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 318,
+        "ponto_id": 73664,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ARMANDO ALVES DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116722890412014,
+          -22.99041119711833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 319,
+        "ponto_id": 73512,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ARMANDO ALVES DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114361550587645,
+          -22.989129511608507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 320,
+        "ponto_id": 73432,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ARMANDO ALVES DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112709415083046,
+          -22.98829944087329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 6301,
+        "ponto_id": 73445,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ANTONIO LUCHIARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11252510849142,
+          -22.988697979317088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 394,
+        "ponto_id": 73600,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ANTONIO LUCHIARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112309027253524,
+          -22.99131441067047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 395,
+        "ponto_id": 73812,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ANTONIO LUCHIARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111858022795204,
+          -22.994731854442016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 389,
+        "ponto_id": 73972,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R CRODA",
+        "ende_numero": "580",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116179000693826,
+          -22.99503771278597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 397,
+        "ponto_id": 74012,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": "8",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117684081821096,
+          -22.99495134765254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 398,
+        "ponto_id": 74076,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": "111",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12319210373983,
+          -22.993888350094355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 399,
+        "ponto_id": 74148,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125915100583484,
+          -22.994208316513348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1548,
+        "ponto_id": 74248,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12498210634952,
+          -22.997336342928893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1549,
+        "ponto_id": 74292,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12213010252335,
+          -22.999321360490146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1550,
+        "ponto_id": 74280,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "679",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119509153696804,
+          -23.000351507702423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1551,
+        "ponto_id": 74272,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "461",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11684136745977,
+          -23.00114013969183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1552,
+        "ponto_id": 74208,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "1",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1131751114399,
+          -23.002299252528413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 7523,
+        "ponto_id": 74848,
+        "ptseqlinha": 30.1,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "465",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13877548950197,
+          -23.01287571073185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 6325,
+        "ponto_id": 74802,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13360027285604,
+          -23.013526458616997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 6324,
+        "ponto_id": 74814,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12941702631448,
+          -23.016370538592106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5659,
+        "ponto_id": 74797,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793671819422,
+          -23.019561979165978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 6323,
+        "ponto_id": 74793,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12726861288158,
+          -23.017307447709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5335,
+        "ponto_id": 74795,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12909479814414,
+          -23.015972526651097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5740,
+        "ponto_id": 74799,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13121202636493,
+          -23.0144863636971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5334,
+        "ponto_id": 74807,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13342460578203,
+          -23.013186998410152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 7180,
+        "ponto_id": 74813,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13713260691007,
+          -23.01234708897931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 5333,
+        "ponto_id": 74811,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14043415199295,
+          -23.01275508075005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1451,
+        "ponto_id": 74824,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R F",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143983160756214,
+          -23.009775367951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 137,
+        "num_linha": "196",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 19336.68,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1453,
+        "ponto_id": 74836,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14505426400336,
+          -23.012113955312397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1406,
+        "ponto_id": 81056,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427374407243,
+          -23.00836313899027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 7183,
+        "ponto_id": 74773,
+        "ptseqlinha": 36.1,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106464206207136,
+          -22.98701052606298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1553,
+        "ponto_id": 74178,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113123665767894,
+          -23.00189450467759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1554,
+        "ponto_id": 74192,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11509831554232,
+          -23.001204749738523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1555,
+        "ponto_id": 74220,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "460",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11760747678209,
+          -23.00036991490589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1556,
+        "ponto_id": 74244,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1194901901461,
+          -22.999693176508124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1557,
+        "ponto_id": 74236,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "1000",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122572205576816,
+          -22.9985530440938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 1558,
+        "ponto_id": 74216,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV MERCEDES BENZ",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12389074590458,
+          -22.997594007878583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 384,
+        "ponto_id": 74184,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": "1420",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12477108734278,
+          -22.996171368640763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 385,
+        "ponto_id": 74140,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": "10",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125382090543326,
+          -22.99423632490833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 386,
+        "ponto_id": 74088,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12336507090685,
+          -22.99408734587402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 387,
+        "ponto_id": 74096,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": "5",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122513645676015,
+          -22.994921623927457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 388,
+        "ponto_id": 74028,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV CELSO DELLE DONNE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1177023101214,
+          -22.995227890029998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 396,
+        "ponto_id": 73944,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R CRODA",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11648702041703,
+          -22.995262964136447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 390,
+        "ponto_id": 73936,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R CRODA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111476663150185,
+          -22.996520817744102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 391,
+        "ponto_id": 73816,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ANTONIO LUCHIARI",
+        "ende_numero": "900",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11177222123831,
+          -22.994318809805545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 392,
+        "ponto_id": 73568,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R ANTONIO LUCHIARI",
+        "ende_numero": "1100",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112058006626796,
+          -22.99108033195918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 6302,
+        "ponto_id": 73462,
+        "ptseqlinha": 51.1,
+        "ende_logradouro": "R ANTONIO LUCHIARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "115,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11229503193652,
+          -22.988841091674225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 365,
+        "ponto_id": 73424,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R ARMANDO ALVES DE OLIVEIRA",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,117,120,135,177,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11301636336618,
+          -22.988008680841023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 366,
+        "ponto_id": 73508,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R ARMANDO ALVES DE OLIVEIRA",
+        "ende_numero": "310",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11468652518073,
+          -22.988918163702415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 367,
+        "ponto_id": 73660,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R ARMANDO ALVES DE OLIVEIRA",
+        "ende_numero": "40",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,117,120,135,177,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11686329439886,
+          -22.990223768480114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 368,
+        "ponto_id": 73716,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "76",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,117,120,135,177,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118145462786586,
+          -22.99009564116479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 369,
+        "ponto_id": 73604,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "342",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119188374613366,
+          -22.987813867033612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 95,
+        "ponto_id": 73536,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV PR JOAO PRATA VIEIRA",
+        "ende_numero": "636",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,104,117,120,135,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12034834067543,
+          -22.98548556335161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 550,
+        "ponto_id": 73420,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,120,135,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12058642738917,
+          -22.983511200498533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 551,
+        "ponto_id": 73324,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,120,135,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12088003489567,
+          -22.98150323356191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 99,
+        "ponto_id": 73128,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R EUGENIO DE MORAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,114,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12078300875316,
+          -22.97888932703501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 100,
+        "ponto_id": 73060,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R EUGENIO DE MORAES",
+        "ende_numero": "81",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,114,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121549533134804,
+          -22.977098439980285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 104,
+        "ponto_id": 73020,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R WALDEMAR MAFUZ",
+        "ende_numero": "25",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12241605563893,
+          -22.975265358148608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 105,
+        "ponto_id": 72944,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV ITAMARATI",
+        "ende_numero": "907",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12254504255059,
+          -22.974061334889626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 106,
+        "ponto_id": 72764,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV ITAMARATI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "103,120,135,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12255920156526,
+          -22.971709455473817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 107,
+        "ponto_id": 72784,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12473498538056,
+          -22.970951320976415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 108,
+        "ponto_id": 72980,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "509",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,120,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12693004364868,
+          -22.97094336239115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 109,
+        "ponto_id": 73008,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "484",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12817826795056,
+          -22.970606216519304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 110,
+        "ponto_id": 72892,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "638",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12819652058821,
+          -22.96913267039724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 111,
+        "ponto_id": 72800,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,109,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12849456984745,
+          -22.967914368149508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 112,
+        "ponto_id": 72864,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R ARMANDO FREDERICO RENGANESCHI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,109,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13129500033523,
+          -22.966201308852263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 300,
+        "num_linha": "196",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / AEROPORTO DE VIRACOPOS (VIA DIC IV)",
+        "extensao_m": 16746.4,
+        "ponto_gid": 5296,
+        "ponto_id": 72940,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13334485708987,
+          -22.964813561152738
+        ]
+      }
+    }
+  ]
+}

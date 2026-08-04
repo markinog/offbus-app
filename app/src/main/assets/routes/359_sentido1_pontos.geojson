@@ -1,0 +1,3787 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4059,
+        "ponto_id": 92724,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV EDMUNDO VIGNATTI",
+        "ende_numero": "83",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01345080796444,
+          -22.935883680803006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 7346,
+        "ponto_id": 92729,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ACHILLES BRASIL",
+        "ende_numero": "554",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01143029036856,
+          -22.935688094164572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 7439,
+        "ponto_id": 92730,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R. GASTAO TEPEDINO",
+        "ende_numero": "139",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.012471322341014,
+          -22.93790426068225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 7441,
+        "ponto_id": 92734,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV. EDMUNDO VIGNATTI",
+        "ende_numero": "ANT. 2",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01341398526659,
+          -22.937234059702124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4060,
+        "ponto_id": 92640,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R MARINES CARICCHIO BOSELI DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01462476785008,
+          -22.93492110372291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 6055,
+        "ponto_id": 92608,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R AMABILIO BETIM",
+        "ende_numero": "28",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01628832714319,
+          -22.93591454771105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3645,
+        "ponto_id": 92632,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JULIA BAZIOTTI PEREIRA",
+        "ende_numero": "386",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01688376905337,
+          -22.937117191364866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4057,
+        "ponto_id": 92634,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOAQUIM HILARIO RIBEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01811791382767,
+          -22.937720733022402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 5921,
+        "ponto_id": 92642,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R IBERE GOMES GROSSO",
+        "ende_numero": "650",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01921044541339,
+          -22.937179178186913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 6057,
+        "ponto_id": 92548,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R AURELIO MARTINS",
+        "ende_numero": "216",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01800804871171,
+          -22.93539126771593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 6058,
+        "ponto_id": 92564,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R JULIA BAZIOTTI PEREIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01687365927958,
+          -22.934512721754544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3646,
+        "ponto_id": 92500,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R VITOR MEIRELLES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01743976433909,
+          -22.93398154041505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 6059,
+        "ponto_id": 92396,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R VITOR MEIRELLES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019170816227344,
+          -22.93304254411629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3647,
+        "ponto_id": 92320,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ANTONIO LOURENCO",
+        "ende_numero": "153",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021252677146556,
+          -22.932883960608933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4061,
+        "ponto_id": 92264,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DR HENRIQUE AUGUSTO VOGEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022642811701196,
+          -22.93337750611244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4062,
+        "ponto_id": 92212,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R DR HENRIQUE AUGUSTO VOGEL",
+        "ende_numero": "286",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024191802824014,
+          -22.93425450943458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 6077,
+        "ponto_id": 92244,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R KIYOSHI YAMAMOTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02482186559491,
+          -22.935322880751603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4063,
+        "ponto_id": 92200,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02649259545428,
+          -22.93608979092813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4064,
+        "ponto_id": 92060,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1679",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02806632404069,
+          -22.9350838250897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 6075,
+        "ponto_id": 91882,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1423",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030201565437146,
+          -22.933769592064674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3632,
+        "ponto_id": 91736,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": "1277",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031216684304866,
+          -22.932899468518023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4065,
+        "ponto_id": 91724,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R FERNAO DIAS PAIS",
+        "ende_numero": "164",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032688826530574,
+          -22.933908456067478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2531,
+        "ponto_id": 91728,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3177",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03339750356919,
+          -22.934400249772093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2532,
+        "ponto_id": 91520,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03503582608598,
+          -22.932994531008127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 5923,
+        "ponto_id": 91251,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2727",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03692892185657,
+          -22.93126485164383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3678,
+        "ponto_id": 91236,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04025281798243,
+          -22.93137744330423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1335,
+        "ponto_id": 91064,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "1101",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04364362526542,
+          -22.929893313054574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1337,
+        "ponto_id": 90648,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046234202308796,
+          -22.927677787348323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1336,
+        "ponto_id": 90764,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047664880061035,
+          -22.926493196332167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1338,
+        "ponto_id": 91712,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04993717463877,
+          -22.92374428920849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3102,
+        "ponto_id": 52,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,331,332,345,348,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05745407928806,
+          -22.903131218528834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2378,
+        "ponto_id": 20280,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04264061716342,
+          -22.87689260833314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2379,
+        "ponto_id": 20312,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1750",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040786023854956,
+          -22.87677748325782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 4008,
+        "ponto_id": 20364,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R ANALANDIA",
+        "ende_numero": "27",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,355,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040039744601415,
+          -22.876074368783673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2970,
+        "ponto_id": 20436,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R LEONARDO DA VINCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038245260905065,
+          -22.87410933996884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2971,
+        "ponto_id": 20496,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R ARLINDO CARPINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037010830857064,
+          -22.872607725113106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2972,
+        "ponto_id": 20440,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04027819076352,
+          -22.872740889279466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2973,
+        "ponto_id": 20468,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R NUNO ALVARES PEREIRA",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040997132075155,
+          -22.8708438122375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2974,
+        "ponto_id": 20520,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R NUNO ALVARES PEREIRA",
+        "ende_numero": "400",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04094412612949,
+          -22.86965748729903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2975,
+        "ponto_id": 20604,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R NUNO ALVARES PEREIRA",
+        "ende_numero": "594",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0397235883209,
+          -22.868023453825057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2976,
+        "ponto_id": 20760,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "1711",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03757111496528,
+          -22.864904500626732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2977,
+        "ponto_id": 20864,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666356843845,
+          -22.862226667305794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2978,
+        "ponto_id": 20884,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0365585989126,
+          -22.860413372194568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2979,
+        "ponto_id": 20948,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "981",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036636065175685,
+          -22.858328163282852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2980,
+        "ponto_id": 20992,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "731",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03764319902105,
+          -22.856161805155473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2981,
+        "ponto_id": 21028,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "545",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03858545805238,
+          -22.854657397618123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3525,
+        "ponto_id": 21060,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "241",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04058805081524,
+          -22.85264618873683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3526,
+        "ponto_id": 21072,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "45",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04215020135131,
+          -22.85162764645687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3522,
+        "ponto_id": 21148,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV FRANCISCO XAVIER ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042028253468835,
+          -22.850090381353795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3725,
+        "ponto_id": 21204,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R URBANO DA ROCHA",
+        "ende_numero": "84",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040265648464576,
+          -22.847485194060784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3726,
+        "ponto_id": 21224,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R URBANO DA ROCHA",
+        "ende_numero": "264",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03952968426801,
+          -22.846620079355866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3727,
+        "ponto_id": 21240,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R ANGELO SANTIN",
+        "ende_numero": "132",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03764536302222,
+          -22.84633148322718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 2367,
+        "ponto_id": 21232,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R ANGELO SANTIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03615161402848,
+          -22.84722135788659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3728,
+        "ponto_id": 21196,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R ANA ARRUDA CAMARGO",
+        "ende_numero": "227",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03613100826807,
+          -22.849555946889904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 129,
+        "num_linha": "359",
+        "sentido": 1,
+        "nome_linha": "JARDIM ESMERALDINA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21343.29,
+        "ponto_gid": 3729,
+        "ponto_id": 21164,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R ADOLFO SEGALLIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03686021529869,
+          -22.849879903679827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3729,
+        "ponto_id": 21164,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R ADOLFO SEGALLIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03686021529869,
+          -22.849879903679827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3730,
+        "ponto_id": 21216,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R ANA ARRUDA CAMARGO",
+        "ende_numero": "350",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035865659503195,
+          -22.84848741126488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3731,
+        "ponto_id": 21236,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R ANGELO SANTIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03630287748325,
+          -22.846848098049158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3732,
+        "ponto_id": 21248,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R ANGELO SANTIN",
+        "ende_numero": "133",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03753747708779,
+          -22.846272827796774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3733,
+        "ponto_id": 21228,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R URBANO DA ROCHA",
+        "ende_numero": "207",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03956666389069,
+          -22.846540880800955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3734,
+        "ponto_id": 21200,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R URBANO DA ROCHA",
+        "ende_numero": "65",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04048433620815,
+          -22.847630721288784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3523,
+        "ponto_id": 21189,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03906449005464,
+          -22.84882644878013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3524,
+        "ponto_id": 21100,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039259627217405,
+          -22.85186838919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3045,
+        "ponto_id": 21020,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038874615467954,
+          -22.854783904766172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3046,
+        "ponto_id": 20984,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "734",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0379299378298,
+          -22.856252566058107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3047,
+        "ponto_id": 20940,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03690857554302,
+          -22.85837505100894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3048,
+        "ponto_id": 20876,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "1236",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03686236304447,
+          -22.86060539186527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3049,
+        "ponto_id": 20860,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV. DIOGO ALVARES",
+        "ende_numero": "141",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03695670029368,
+          -22.86213642515772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3050,
+        "ponto_id": 20752,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03811374964294,
+          -22.86534272121587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3051,
+        "ponto_id": 20632,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "2077",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039908692452975,
+          -22.8673384699266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3052,
+        "ponto_id": 20528,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R NUNO ALVARES PEREIRA",
+        "ende_numero": "483",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04086567949038,
+          -22.869091443474474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3053,
+        "ponto_id": 20472,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R NUNO ALVARES PEREIRA",
+        "ende_numero": "291",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04181570619891,
+          -22.8704524116908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3054,
+        "ponto_id": 20408,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R NUNO ALVARES PEREIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04266673678911,
+          -22.872859457333682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3055,
+        "ponto_id": 20372,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R DR ALFREDO MAIA BONATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04462826702662,
+          -22.87334739964209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3056,
+        "ponto_id": 20444,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040013751000274,
+          -22.872865077098897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3057,
+        "ponto_id": 20484,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03747001856519,
+          -22.87245432395423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3058,
+        "ponto_id": 20428,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "R LEONARDO DA VINCI",
+        "ende_numero": "1165",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03846844956479,
+          -22.874490507011615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2398,
+        "ponto_id": 20332,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04038242899076,
+          -22.876516607336274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2399,
+        "ponto_id": 20284,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043309125145015,
+          -22.876920671958285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1822,
+        "ponto_id": 756,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1309",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05838047038377,
+          -22.890226655458324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1823,
+        "ponto_id": 568,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "945",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06028123954559,
+          -22.893002619065115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3747,
+        "ponto_id": 28,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1639",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,352,359,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185769774488,
+          -22.900849963136597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1358,
+        "ponto_id": 236,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,345,346,349,359,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058813453540964,
+          -22.907030871822027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1307,
+        "ponto_id": 488,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "565",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05757097351104,
+          -22.909343315874935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 118.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 7340,
+        "ponto_id": 90014,
+        "ptseqlinha": 119.0,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173,253,341,342,344,345,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05536770427731,
+          -22.915383581991176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 120.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 121.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 122.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1363,
+        "ponto_id": 91708,
+        "ptseqlinha": 123.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "130",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050185878805515,
+          -22.92378666834866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1364,
+        "ponto_id": 90776,
+        "ptseqlinha": 124.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "544",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047712792349465,
+          -22.926680449778747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1303,
+        "ponto_id": 90650,
+        "ptseqlinha": 125.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "790",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04631778416084,
+          -22.92793319383763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 1365,
+        "ponto_id": 91072,
+        "ptseqlinha": 126.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "1160",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043317202539384,
+          -22.93044731882295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4066,
+        "ponto_id": 91260,
+        "ptseqlinha": 127.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03984805588377,
+          -22.931515277470538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 5924,
+        "ponto_id": 91249,
+        "ptseqlinha": 128.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2714",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03714008334664,
+          -22.93139559764845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2601,
+        "ponto_id": 91572,
+        "ptseqlinha": 129.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3050",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03472278841449,
+          -22.93347748338671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 2602,
+        "ponto_id": 91716,
+        "ptseqlinha": 130.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3178",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03358584510384,
+          -22.934501477567323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4068,
+        "ponto_id": 91752,
+        "ptseqlinha": 131.0,
+        "ende_logradouro": "R ANTONIO JOAQUIM VIANA",
+        "ende_numero": "222",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03255480839839,
+          -22.934166477610738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3635,
+        "ponto_id": 91876,
+        "ptseqlinha": 132.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "341,349,359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03033565403651,
+          -22.93391623210577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4069,
+        "ponto_id": 92052,
+        "ptseqlinha": 133.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.028000534026745,
+          -22.935298269534467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4070,
+        "ponto_id": 92192,
+        "ptseqlinha": 134.0,
+        "ende_logradouro": "AV ENG AUGUSTO FIGUEIREDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.026652701932036,
+          -22.936152206110513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6076,
+        "ponto_id": 92228,
+        "ptseqlinha": 135.0,
+        "ende_logradouro": "R KIYOSHI YAMAMOTO",
+        "ende_numero": "5B",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0248185836143,
+          -22.935102239784342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6078,
+        "ponto_id": 92312,
+        "ptseqlinha": 136.0,
+        "ende_logradouro": "R JOAO SULINSKI",
+        "ende_numero": "681",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02540290369796,
+          -22.936459137478412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6079,
+        "ponto_id": 92240,
+        "ptseqlinha": 137.0,
+        "ende_logradouro": "R DR HENRIQUE AUGUSTO VOGEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02401095750384,
+          -22.934354228688218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6080,
+        "ponto_id": 92276,
+        "ptseqlinha": 138.0,
+        "ende_logradouro": "R DR HENRIQUE AUGUSTO VOGEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02258883566465,
+          -22.933483461007743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 3658,
+        "ponto_id": 92332,
+        "ptseqlinha": 139.0,
+        "ende_logradouro": "R ANTONIO LOURENCO",
+        "ende_numero": "476",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02119279452914,
+          -22.933106542366176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6063,
+        "ponto_id": 92400,
+        "ptseqlinha": 140.0,
+        "ende_logradouro": "R VITOR MEIRELLES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01921551276079,
+          -22.93324303009974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6064,
+        "ponto_id": 92512,
+        "ptseqlinha": 141.0,
+        "ende_logradouro": "R VITOR MEIRELLES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.017486763406254,
+          -22.934158524774723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6065,
+        "ponto_id": 92556,
+        "ptseqlinha": 142.0,
+        "ende_logradouro": "R JULIA BAZIOTTI PEREIRA",
+        "ende_numero": "30",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.016702064908486,
+          -22.934919613592353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6066,
+        "ponto_id": 92532,
+        "ptseqlinha": 143.0,
+        "ende_logradouro": "R AURELIO MARTINS",
+        "ende_numero": "215",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.018155940258346,
+          -22.935470549012187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 5922,
+        "ponto_id": 92650,
+        "ptseqlinha": 144.0,
+        "ende_logradouro": "R IBERE GOMES GROSSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019362922100726,
+          -22.937245630735056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4056,
+        "ponto_id": 92630,
+        "ptseqlinha": 145.0,
+        "ende_logradouro": "R JOAQUIM HILARIO RIBEIRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01788861593538,
+          -22.93775226830348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6068,
+        "ponto_id": 92636,
+        "ptseqlinha": 146.0,
+        "ende_logradouro": "R JULIA BAZIOTTI PEREIRA",
+        "ende_numero": "297",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.016689445405646,
+          -22.937159745929197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6069,
+        "ponto_id": 92628,
+        "ptseqlinha": 147.0,
+        "ende_logradouro": "R AMABILIO BETIM",
+        "ende_numero": "33",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01587883514384,
+          -22.93604677544189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4071,
+        "ponto_id": 92644,
+        "ptseqlinha": 148.0,
+        "ende_logradouro": "R ACHILLES BRASIL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0151578639268,
+          -22.935781445352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4072,
+        "ponto_id": 92676,
+        "ptseqlinha": 149.0,
+        "ende_logradouro": "R ACHILLES BRASIL",
+        "ende_numero": "72",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.013955271892556,
+          -22.935823832622898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 6081,
+        "ponto_id": 92760,
+        "ptseqlinha": 150.0,
+        "ende_logradouro": "AV EDMUNDO VIGNATTI",
+        "ende_numero": "250",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01389992667301,
+          -22.937456990456923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 7440,
+        "ponto_id": 92742,
+        "ptseqlinha": 151.0,
+        "ende_logradouro": "R. GASTAO TEPEDINO",
+        "ende_numero": "OP. 20",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01158454635791,
+          -22.937445308546266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 7442,
+        "ponto_id": 92758,
+        "ptseqlinha": 152.0,
+        "ende_logradouro": "R. JOSE MAURICIO GARCIA",
+        "ende_numero": "491",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01147591602354,
+          -22.93611154810285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 275,
+        "num_linha": "359",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 21009.47,
+        "ponto_gid": 4059,
+        "ponto_id": 92724,
+        "ptseqlinha": 153.0,
+        "ende_logradouro": "AV EDMUNDO VIGNATTI",
+        "ende_numero": "83",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01345080796444,
+          -22.935883680803006
+        ]
+      }
+    }
+  ]
+}

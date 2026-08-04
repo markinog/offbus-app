@@ -1,0 +1,1537 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4589,
+        "ponto_id": 11228,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R THEODOSIO RODRIGUEZ OTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.93709754584282,
+          -22.88897758678901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4590,
+        "ponto_id": 11216,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94109837229681,
+          -22.88850615440999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4591,
+        "ponto_id": 11200,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1233",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94284702728701,
+          -22.887356420092466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4592,
+        "ponto_id": 11184,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1113",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.943834981268736,
+          -22.8867420569104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4593,
+        "ponto_id": 11156,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": "2200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95506778747373,
+          -22.880917149858565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4594,
+        "ponto_id": 11132,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.95809274635769,
+          -22.87819182226793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4595,
+        "ponto_id": 11080,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "239",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.963468340647665,
+          -22.87907693049426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4596,
+        "ponto_id": 11036,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ISABELITA VIEIRA",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96671780833711,
+          -22.878191991020614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2918,
+        "ponto_id": 11016,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R QUINZE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96779285159686,
+          -22.878075622038594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2919,
+        "ponto_id": 10988,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9704730265007,
+          -22.881016126049154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2920,
+        "ponto_id": 10972,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.972121582542215,
+          -22.882924576504585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2921,
+        "ponto_id": 10960,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9737574804136,
+          -22.88483803922557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2923,
+        "ponto_id": 10868,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "2070",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.983330793366626,
+          -22.889203381687853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2924,
+        "ponto_id": 10856,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "2366",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98573355085243,
+          -22.890029344438343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2925,
+        "ponto_id": 10844,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.993629296929754,
+          -22.892661519858517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2926,
+        "ponto_id": 10792,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": "1601",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99928712460286,
+          -22.894466039407114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2927,
+        "ponto_id": 10772,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00255467980488,
+          -22.895626540251314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 6210,
+        "ponto_id": 10777,
+        "ptseqlinha": 18.5,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01563093579784,
+          -22.89881414282668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4584,
+        "ponto_id": 10684,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0178667974839,
+          -22.899423073666114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4585,
+        "ponto_id": 10636,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02408122471172,
+          -22.901063850127375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4586,
+        "ponto_id": 10472,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03194215138062,
+          -22.903544973873824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 763,
+        "ponto_id": 10396,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "3124",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03627146414297,
+          -22.90491848930732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 764,
+        "ponto_id": 10344,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2701",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038898332697165,
+          -22.905779286525746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 765,
+        "ponto_id": 10320,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2511",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040792961719575,
+          -22.906421491484966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 766,
+        "ponto_id": 10196,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0436884782394,
+          -22.906117755181867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4597,
+        "ponto_id": 10036,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1411",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051330103135705,
+          -22.904984102264617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 4598,
+        "ponto_id": 352,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1151",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05374575874646,
+          -22.90538144326178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 3826,
+        "ponto_id": 12,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1185",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,357,360,362,364,381,382,383,386,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060665603814776,
+          -22.902506526175117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 272,
+        "num_linha": "399",
+        "sentido": 1,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15623.15,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 589,
+        "ponto_id": 296,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,153,154,161,211,213,219,264,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06337498011748,
+          -22.906949468394345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 3143,
+        "ponto_id": 320,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "488",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,390,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059647518275135,
+          -22.90793124573756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4572,
+        "ponto_id": 308,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "988",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05483630164866,
+          -22.90615168617093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 570,
+        "ponto_id": 10044,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1464",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,220,364,385,389,390,391,392,396,397,398,399,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05102595765796,
+          -22.90538923217221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 751,
+        "ponto_id": 10168,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2206",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044517762877646,
+          -22.906352463167597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 752,
+        "ponto_id": 10360,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2612",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03846615224035,
+          -22.90596683819847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 753,
+        "ponto_id": 10408,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03550034353859,
+          -22.904955186132913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 754,
+        "ponto_id": 10476,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03185048666922,
+          -22.90372029712935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4587,
+        "ponto_id": 10660,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022988888809756,
+          -22.900993351564868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4588,
+        "ponto_id": 10688,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01604625661596,
+          -22.899224781027115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2943,
+        "ponto_id": 10776,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.002320676792706,
+          -22.895825851630864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2944,
+        "ponto_id": 10796,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99923256414681,
+          -22.894856020463514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2945,
+        "ponto_id": 10840,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99359967161876,
+          -22.892905562402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2946,
+        "ponto_id": 10860,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98527471405492,
+          -22.890193431977565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2947,
+        "ponto_id": 10872,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "2111",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98293170449978,
+          -22.88941420535511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2948,
+        "ponto_id": 10956,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97431374404123,
+          -22.88587561177923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2949,
+        "ponto_id": 10976,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "737",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97129104009791,
+          -22.882374402184283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 2950,
+        "ponto_id": 10984,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "365",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96976680879874,
+          -22.88053744045928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4600,
+        "ponto_id": 11040,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV ISABELITA VIEIRA",
+        "ende_numero": "3",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,391,393,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96550871473616,
+          -22.878802869582476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4601,
+        "ponto_id": 11076,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "240",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96302196798506,
+          -22.879246848353052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4602,
+        "ponto_id": 11136,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R CEL ALFREDO AUGUSTO DO NASCIMENTO",
+        "ende_numero": "1052",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.957408971850185,
+          -22.878349751467518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4603,
+        "ponto_id": 11152,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.955257888414295,
+          -22.8809258264699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4604,
+        "ponto_id": 11180,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1086",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.944195517696876,
+          -22.886748661879068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4605,
+        "ponto_id": 11196,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1230",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94309228316224,
+          -22.8874394625021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4606,
+        "ponto_id": 11212,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R DR HEITOR PENTEADO",
+        "ende_numero": "1432",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "390,393,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94115613481898,
+          -22.888713643709572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 126,
+        "num_linha": "399",
+        "sentido": 2,
+        "nome_linha": "JOAQUIM EGIDIO/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 15472.28,
+        "ponto_gid": 4589,
+        "ponto_id": 11228,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R THEODOSIO RODRIGUEZ OTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.93709754584282,
+          -22.88897758678901
+        ]
+      }
+    }
+  ]
+}

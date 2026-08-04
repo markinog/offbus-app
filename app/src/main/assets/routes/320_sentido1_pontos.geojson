@@ -1,0 +1,937 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 5259,
+        "ponto_id": 31048,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07943861897979,
+          -22.830977727114337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3298,
+        "ponto_id": 31208,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07989348290145,
+          -22.827313341022144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3299,
+        "ponto_id": 31284,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08205861253185,
+          -22.82494880739181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3300,
+        "ponto_id": 31308,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "554",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083038008489005,
+          -22.824093426623428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3301,
+        "ponto_id": 31412,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "723",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08482156976207,
+          -22.823208450401157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3302,
+        "ponto_id": 31464,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R GILBERTO PATTARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08777665923071,
+          -22.823076773305782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3303,
+        "ponto_id": 31428,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV JOAQUIM JOSE DA SILVA XAVIER",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09066733428631,
+          -22.82429589839531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3304,
+        "ponto_id": 31392,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV DR EDUARDO PEREIRA DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09260910449508,
+          -22.825930351938744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3305,
+        "ponto_id": 31344,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R UIRAPURU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0958073274479,
+          -22.827886431740033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3306,
+        "ponto_id": 31256,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R SILVESTRE JOAQUIM DA SILVA",
+        "ende_numero": "4",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09477734833116,
+          -22.829967091100606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3307,
+        "ponto_id": 31216,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R ANTONIO MENEGHETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094344744111,
+          -22.831921285339632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3308,
+        "ponto_id": 31156,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ANTONIO MENEGHETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09350967015475,
+          -22.833356298578522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3309,
+        "ponto_id": 31100,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R FRANCISCO SANCHES FILHO",
+        "ende_numero": "64",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09316967917049,
+          -22.835128332396476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3310,
+        "ponto_id": 31192,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R PEDRO JOAO WALTER VANNUCCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09635606571764,
+          -22.833087510395426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3311,
+        "ponto_id": 31240,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ETELVINA MARIA DE JESUS DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09649073741641,
+          -22.831639610885798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3312,
+        "ponto_id": 31328,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOAO BAPTISTA DALMEDICO",
+        "ende_numero": "850",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09786612793943,
+          -22.828942123331405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3313,
+        "ponto_id": 31444,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ANTONIO MARCOS PENSAMENTO DA SILVA",
+        "ende_numero": "188",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09905105123568,
+          -22.82718946274824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3314,
+        "ponto_id": 31488,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ANTONIO MARCOS PENSAMENTO DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10011960427594,
+          -22.825591802621123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3315,
+        "ponto_id": 31514,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV MARTINHO LAUER FILHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09787546901881,
+          -22.823447202723635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3316,
+        "ponto_id": 31548,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R GUIDO DE CAMARGO PENTEADO SOBR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09979176293825,
+          -22.8196312507438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3296,
+        "ponto_id": 31574,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R N SRA DA ASSUNCAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10144662469073,
+          -22.818976019933775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3317,
+        "ponto_id": 31572,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R NSRA SENHORA DA ASSUNCAO",
+        "ende_numero": "34",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10298917200196,
+          -22.821288584036918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3318,
+        "ponto_id": 31604,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R NIKITA KRUSCHEV",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10347241273597,
+          -22.822658381367244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3319,
+        "ponto_id": 31556,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R NIKITA KRUSCHEV",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10261371456178,
+          -22.82388928845937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3320,
+        "ponto_id": 31492,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CELIA APARECIDA DE SOUZA BOUFFIER",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10375669496453,
+          -22.82712728061784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3321,
+        "ponto_id": 31408,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R CELIA APARECIDA DE SOUZA BOUFFIER",
+        "ende_numero": "167",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10234476338157,
+          -22.8295962607161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3322,
+        "ponto_id": 31324,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV DR EDUARDO PEREIRA DE ALMEIDA",
+        "ende_numero": "941",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09973065164141,
+          -22.82977826332228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3323,
+        "ponto_id": 31348,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV DR EDUARDO PEREIRA DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098186059676586,
+          -22.829030533951833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3324,
+        "ponto_id": 31368,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DR EDUARDO PEREIRA DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095653923171106,
+          -22.827656886115832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3325,
+        "ponto_id": 31388,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DR EDUARDO PEREIRA DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09224668394089,
+          -22.82589927286769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3326,
+        "ponto_id": 31396,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R GILBERTO PATTARO",
+        "ende_numero": "330",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08911373780903,
+          -22.82426957287705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3327,
+        "ponto_id": 31448,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R GILBERTO PATTARO",
+        "ende_numero": "105",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08745990038127,
+          -22.822836991393366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3328,
+        "ponto_id": 31420,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085768724803735,
+          -22.822934348705743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3329,
+        "ponto_id": 31304,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "541",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08310286657952,
+          -22.824248851427758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3330,
+        "ponto_id": 31268,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "369",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08202168430781,
+          -22.825330358203118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 3331,
+        "ponto_id": 31212,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08010166489951,
+          -22.827396296930687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 96,
+        "num_linha": "320",
+        "sentido": 1,
+        "nome_linha": "REAL PARQUE   II",
+        "extensao_m": 11269.35,
+        "ponto_gid": 5259,
+        "ponto_id": 31048,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07943861897979,
+          -22.830977727114337
+        ]
+      }
+    }
+  ]
+}

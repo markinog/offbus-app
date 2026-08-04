@@ -1,0 +1,587 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 5684,
+        "ponto_id": 61587,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,202,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18125779851665,
+          -22.942272570532424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1641,
+        "ponto_id": 61592,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R LUIZ RAPHAEL LOT",
+        "ende_numero": "288",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18287404133363,
+          -22.941135048669032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 5457,
+        "ponto_id": 61591,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R LUIZ RAPHAEL LOT",
+        "ende_numero": "544",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18345557536573,
+          -22.939134203733104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1622,
+        "ponto_id": 61578,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R EUDES BATISTA RIBEIRO",
+        "ende_numero": "79",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.183723297053994,
+          -22.93782751813959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1623,
+        "ponto_id": 61572,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R EUDES BATISTA RIBEIRO",
+        "ende_numero": "368",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18273820555338,
+          -22.935846521334998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1624,
+        "ponto_id": 61500,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R HELENA TEODORO FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18168961769048,
+          -22.934510594099937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1625,
+        "ponto_id": 61552,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R RUTE APARECIDA ROBIN CONCEICAO",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.183093107701055,
+          -22.934092175871015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1626,
+        "ponto_id": 61512,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ANTONIO RODRIGUES MONTEIRO",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1833685149626,
+          -22.931738234007337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1635,
+        "ponto_id": 61502,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ANTONIO RODRIGUES MONTEIRO",
+        "ende_numero": "316",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18303581331712,
+          -22.929322470480912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1636,
+        "ponto_id": 61418,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R FRANCISCO SOUSA FILHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17963756713617,
+          -22.928715628068623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1637,
+        "ponto_id": 61386,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R FRANCISCO SOUSA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17787883573817,
+          -22.927641038431656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1638,
+        "ponto_id": 61375,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R RUTH HESSE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17664736898329,
+          -22.92579110272591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1638,
+        "ponto_id": 61375,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R RUTH HESSE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17664736898329,
+          -22.92579110272591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1639,
+        "ponto_id": 61374,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R RUTH HESSE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1758407640573,
+          -22.92787196412275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1640,
+        "ponto_id": 61392,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ANTONINHO FENILLE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.177254783658896,
+          -22.930646982169364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1630,
+        "ponto_id": 61416,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MARINA GIOVANI DE SOUZA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.178274617683094,
+          -22.9326325038517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1631,
+        "ponto_id": 61428,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ANTONIO LOPES DA SILVA",
+        "ende_numero": "142",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17837525447616,
+          -22.934300603328044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1632,
+        "ponto_id": 61476,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ANTONIO LOPES DA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18046843774846,
+          -22.936159041291322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1620,
+        "ponto_id": 61532,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R CEL SIDNEY TEIXEIRA ALVARES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18198873322734,
+          -22.937077777076826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 1621,
+        "ponto_id": 61576,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ADEMAR MANARINI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18344264291675,
+          -22.937923064961065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 5456,
+        "ponto_id": 61593,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R LUIZ RAPHAEL LOT",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18363741141159,
+          -22.9395849585645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 5763,
+        "ponto_id": 61594,
+        "ptseqlinha": 20.5,
+        "ende_logradouro": "R WALDEMAR PADOVANI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "201,209 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18299981765812,
+          -22.94187759831835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 263,
+        "num_linha": "209",
+        "sentido": 1,
+        "nome_linha": "CHACARA CRUZEIRO DO SUL",
+        "extensao_m": 5952.91,
+        "ponto_gid": 687,
+        "ponto_id": 61580,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,201,202,203,204,206,207,208,209,217,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180489559938,
+          -22.94242597483818
+        ]
+      }
+    }
+  ]
+}

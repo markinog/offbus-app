@@ -1,0 +1,1687 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5266,
+        "ponto_id": 31104,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07938369907791,
+          -22.83067144261778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3298,
+        "ponto_id": 31208,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07989348290145,
+          -22.827313341022144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3299,
+        "ponto_id": 31284,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08205861253185,
+          -22.82494880739181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3300,
+        "ponto_id": 31308,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "554",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083038008489005,
+          -22.824093426623428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3435,
+        "ponto_id": 31400,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R AGOSTINHO PATTARO",
+        "ende_numero": "47",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08256431260233,
+          -22.822518834187157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3436,
+        "ponto_id": 31436,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R MARIA FERREIRA ANTUNES",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08122265152272,
+          -22.821276344132688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3397,
+        "ponto_id": 31524,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080992982726535,
+          -22.817792672037676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5361,
+        "ponto_id": 31525,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ABINO J B DE OLIVEIRA PX N 2394",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080740213698675,
+          -22.815964117847482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3398,
+        "ponto_id": 31640,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08030360967607,
+          -22.81449014232028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3399,
+        "ponto_id": 31756,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077184606792,
+          -22.805383362374556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3437,
+        "ponto_id": 31776,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R JUAN MARIO CAPUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083522574641215,
+          -22.80407527161103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3399,
+        "ponto_id": 31756,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077184606792,
+          -22.805383362374556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3400,
+        "ponto_id": 31792,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07737367987851,
+          -22.801364272871595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3438,
+        "ponto_id": 31856,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07931073656466,
+          -22.7950837320456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3439,
+        "ponto_id": 31928,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08128228234169,
+          -22.79051388124463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3440,
+        "ponto_id": 31920,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083160571084235,
+          -22.79108727436506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3441,
+        "ponto_id": 31904,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08552856292673,
+          -22.79221929798496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3442,
+        "ponto_id": 31888,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087453748939055,
+          -22.79314339100538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3443,
+        "ponto_id": 31880,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089263995832354,
+          -22.793980220901037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3444,
+        "ponto_id": 31980,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "EST DO MORRO AZUL",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099289622764154,
+          -22.789120541949266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3445,
+        "ponto_id": 31872,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": "875",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08923289586534,
+          -22.794262158876858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3446,
+        "ponto_id": 31884,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": "643",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087432082835576,
+          -22.793354245915793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3447,
+        "ponto_id": 31892,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085474595350064,
+          -22.792393340080327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3448,
+        "ponto_id": 31912,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": "171",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083217665825835,
+          -22.791298504432053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3449,
+        "ponto_id": 31924,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ESTRELA CADENTE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08166655662375,
+          -22.790779342306266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3439,
+        "ponto_id": 31928,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08128228234169,
+          -22.79051388124463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3450,
+        "ponto_id": 31956,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": "5501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082455773535365,
+          -22.788150572582488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3451,
+        "ponto_id": 31992,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08554959705331,
+          -22.78338690658382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5867,
+        "ponto_id": 32000,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": "6690",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08660358998638,
+          -22.780788243153044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3434,
+        "ponto_id": 32002,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ESTRADA DA RODHIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0877954587968,
+          -22.778867573324728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3452,
+        "ponto_id": 32012,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09011031382714,
+          -22.775697257237432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3453,
+        "ponto_id": 32016,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CERQUILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08962795437738,
+          -22.774304066569563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3454,
+        "ponto_id": 32032,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R CAMINHO DA SERVIDAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08973855453694,
+          -22.772967296950135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5872,
+        "ponto_id": 32024,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R CAIEIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09174860933643,
+          -22.774359588420957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3456,
+        "ponto_id": 32052,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09518698639535,
+          -22.76989604862996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5868,
+        "ponto_id": 32072,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09768128818771,
+          -22.76621546362604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5869,
+        "ponto_id": 32076,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098773803911705,
+          -22.764950735189533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 6117,
+        "ponto_id": 32074,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10818455416249,
+          -22.768566499459414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5870,
+        "ponto_id": 32068,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09785432057573,
+          -22.766625674015124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5871,
+        "ponto_id": 32056,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0953719267818,
+          -22.769945169537824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3457,
+        "ponto_id": 32044,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV MAGALI GPAGNI",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094057361025286,
+          -22.772931025276126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 6118,
+        "ponto_id": 32022,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV ANTONIO MARQUES DA SILVA FILHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09625006754083,
+          -22.779070149676176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3458,
+        "ponto_id": 32040,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV MAGALI GPAGNI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093890378339765,
+          -22.773127587753596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3459,
+        "ponto_id": 32020,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091837719980624,
+          -22.774481943208123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3460,
+        "ponto_id": 32008,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089561590455865,
+          -22.776336309871525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3433,
+        "ponto_id": 31998,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "ESTRADA DA RODHIA S/N",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08804206719779,
+          -22.778794649873717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3461,
+        "ponto_id": 31996,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086744878183744,
+          -22.78092709022318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5857,
+        "ponto_id": 31988,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085641945431234,
+          -22.783841158372166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3462,
+        "ponto_id": 31948,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08271054116461,
+          -22.788259282212604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3440,
+        "ponto_id": 31920,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083160571084235,
+          -22.79108727436506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3441,
+        "ponto_id": 31904,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08552856292673,
+          -22.79221929798496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3447,
+        "ponto_id": 31892,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085474595350064,
+          -22.792393340080327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3448,
+        "ponto_id": 31912,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R DO SOL",
+        "ende_numero": "171",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083217665825835,
+          -22.791298504432053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3449,
+        "ponto_id": 31924,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R ESTRELA CADENTE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08166655662375,
+          -22.790779342306266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3463,
+        "ponto_id": 31848,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07977578178633,
+          -22.795384345610934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3420,
+        "ponto_id": 31788,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07750143839588,
+          -22.80171803821554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3437,
+        "ponto_id": 31776,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JUAN MARIO CAPUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083522574641215,
+          -22.80407527161103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3421,
+        "ponto_id": 31744,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077924628226334,
+          -22.80644831203574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3422,
+        "ponto_id": 31624,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08058963188698,
+          -22.814633291841506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 7540,
+        "ponto_id": 31629,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08106100929977,
+          -22.815992702167662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3423,
+        "ponto_id": 31528,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08133036978898,
+          -22.817831096996656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3464,
+        "ponto_id": 31452,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R MARIA FERREIRA ANTUNES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08166252142303,
+          -22.82113517757704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3465,
+        "ponto_id": 31404,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R AGOSTINHO PATTARO",
+        "ende_numero": "56",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08271240577167,
+          -22.822401160041817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3329,
+        "ponto_id": 31304,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "541",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08310286657952,
+          -22.824248851427758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 5266,
+        "ponto_id": 31104,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07938369907791,
+          -22.83067144261778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3330,
+        "ponto_id": 31268,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "369",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08202168430781,
+          -22.825330358203118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 51,
+        "num_linha": "323",
+        "sentido": 1,
+        "nome_linha": "VILA HOLANDIA (INCLUSIVO)",
+        "extensao_m": 34050.75,
+        "ponto_gid": 3331,
+        "ponto_id": 31212,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08010166489951,
+          -22.827396296930687
+        ]
+      }
+    }
+  ]
+}

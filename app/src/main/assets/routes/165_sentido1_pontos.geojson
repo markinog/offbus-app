@@ -1,0 +1,762 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 7241,
+        "ponto_id": 70699,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R BRAGANCA PAULISTA",
+        "ende_numero": "92",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "163,165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097648566575096,
+          -22.93091489417268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 742,
+        "ponto_id": 70588,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PRESIDENTE JUSCELINO",
+        "ende_numero": "105",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,163,164,165,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09649747324829,
+          -22.930145473051134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1079,
+        "ponto_id": 70568,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ANGELO AMILCARE BELTRAME",
+        "ende_numero": "38",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095782221591335,
+          -22.929612298291037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1080,
+        "ponto_id": 70512,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DR SYLVIO CARVALHAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09556425422692,
+          -22.928042722541118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1081,
+        "ponto_id": 70580,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ANTONIO MENITTO",
+        "ende_numero": "272",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09741622770664,
+          -22.92845872277652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1082,
+        "ponto_id": 70644,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R BENEDITO RODRIGUES GOUVEIA",
+        "ende_numero": "220",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09923415552181,
+          -22.92742177532104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1083,
+        "ponto_id": 70564,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R BENEDITO RODRIGUES GOUVEIA",
+        "ende_numero": "471",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09847083687674,
+          -22.92643168583154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1072,
+        "ponto_id": 70608,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR SYLVIO CARVALHAES",
+        "ende_numero": "656",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099773868373255,
+          -22.925274520268623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1085,
+        "ponto_id": 70556,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R CONS ANTONIO CARLOS",
+        "ende_numero": "223",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10008755990653,
+          -22.92378070297821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1086,
+        "ponto_id": 70504,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R LUIZ LIBERMANN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099354960309114,
+          -22.92190901199046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1087,
+        "ponto_id": 70528,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LUIZ LIBERMANN",
+        "ende_numero": "252",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10098806715919,
+          -22.920809133097418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1068,
+        "ponto_id": 70560,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R LUIZ LIBERMANN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102525191984334,
+          -22.919252171992966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1061,
+        "ponto_id": 70640,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ERNESTO CARLOS REIMANN",
+        "ende_numero": "726",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10392184158229,
+          -22.920140143430814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1062,
+        "ponto_id": 70704,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DR ODILON TREFIGLIO",
+        "ende_numero": "608",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104833260681005,
+          -22.92120046526875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1063,
+        "ponto_id": 70700,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R DR SYLVIO CARVALHAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105565511945656,
+          -22.920351628076375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1064,
+        "ponto_id": 70616,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R FERDINANDO PANATTONI",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104228790309946,
+          -22.917651193196036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1065,
+        "ponto_id": 70536,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R WILLIAM BOOTH",
+        "ende_numero": "295",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103072203207454,
+          -22.91771788569492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1066,
+        "ponto_id": 70484,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R WILLIAM BOOTH",
+        "ende_numero": "17",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101004567473154,
+          -22.916189714430836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1067,
+        "ponto_id": 70480,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R ERNESTO NAPOLI",
+        "ende_numero": "1183",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100542801988325,
+          -22.917277685052202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1088,
+        "ponto_id": 70540,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R LUIZ LIBERMANN",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10262696578791,
+          -22.919388406775564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1069,
+        "ponto_id": 70532,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R LUIZ LIBERMANN",
+        "ende_numero": "257",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10114420148349,
+          -22.920920816153746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1070,
+        "ponto_id": 70508,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R LUIZ LIBERMANN",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09933087343209,
+          -22.92216635041368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1071,
+        "ponto_id": 70548,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CONS ANTONIO CARLOS",
+        "ende_numero": "230",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10025446225258,
+          -22.92369390482435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1084,
+        "ponto_id": 70596,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DR SYLVIO CARVALHAES",
+        "ende_numero": "671",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10003151743251,
+          -22.925296660146877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1073,
+        "ponto_id": 70576,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R BENEDITO RODRIGUES GOUVEIA",
+        "ende_numero": "337",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098721744622075,
+          -22.926438750237033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1074,
+        "ponto_id": 70636,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R BENEDITO RODRIGUES GOUVEIA",
+        "ende_numero": "209",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09945676215402,
+          -22.927397074019364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1076,
+        "ponto_id": 70584,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ANTONIO MENITTO",
+        "ende_numero": "241",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09712822568001,
+          -22.928506945106285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1077,
+        "ponto_id": 70520,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR SYLVIO CARVALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09586351744161,
+          -22.928099437408456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 1078,
+        "ponto_id": 70552,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ENRICO CARUSO",
+        "ende_numero": "8",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09552035543976,
+          -22.929791977913712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 270,
+        "num_linha": "165",
+        "sentido": 1,
+        "nome_linha": "JARDIM PAULICEIA",
+        "extensao_m": 8324.31,
+        "ponto_gid": 7235,
+        "ponto_id": 70797,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "165 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0968044481497,
+          -22.934237683426737
+        ]
+      }
+    }
+  ]
+}

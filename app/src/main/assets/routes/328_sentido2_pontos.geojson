@@ -1,0 +1,1487 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3395,
+        "ponto_id": 31064,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07941677221568,
+          -22.830847807580405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3333,
+        "ponto_id": 31172,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1226",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079104443571644,
+          -22.827572904821405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3334,
+        "ponto_id": 31272,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "62",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07913195535006,
+          -22.824588366566704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3335,
+        "ponto_id": 31336,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07671564883042,
+          -22.82230332334916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3336,
+        "ponto_id": 31424,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07466216886957,
+          -22.82042166625413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3337,
+        "ponto_id": 31480,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07320060253941,
+          -22.81893031906354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3338,
+        "ponto_id": 31652,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV OSCAR PEDROSO HORTA",
+        "ende_numero": "82",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07448586846894,
+          -22.812380511526776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3339,
+        "ponto_id": 31680,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07525977655269,
+          -22.810215732836006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3340,
+        "ponto_id": 31684,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "490",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07226171857973,
+          -22.809822283614306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3341,
+        "ponto_id": 31688,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07064863400728,
+          -22.80944532597049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3515,
+        "ponto_id": 31728,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "840",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06936996764743,
+          -22.80757210950333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3516,
+        "ponto_id": 31748,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06919915991734,
+          -22.804537676035963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3517,
+        "ponto_id": 31768,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "1436",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06910401697533,
+          -22.802258262166145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3518,
+        "ponto_id": 31808,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "1660",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068956393258794,
+          -22.800225902409494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3385,
+        "ponto_id": 31796,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": "1056",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06813254771085,
+          -22.8003153173306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3386,
+        "ponto_id": 31780,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065148570944096,
+          -22.800820300437792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 5914,
+        "ponto_id": 31749,
+        "ptseqlinha": 19.1,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06295839645093,
+          -22.801163263416065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3519,
+        "ponto_id": 31778,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06066944668928,
+          -22.801579203088007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3520,
+        "ponto_id": 31782,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV GIUSEPPINA VIANELLI DI NAPOLI",
+        "ende_numero": "900",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05046153632621,
+          -22.80889057195062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3521,
+        "ponto_id": 31770,
+        "ptseqlinha": 21.1,
+        "ende_logradouro": "AV GIUSEPPINA VIANELLI DI NAPOLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04979434887208,
+          -22.8110306716777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 5591,
+        "ponto_id": 31790,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV GIUSEPPINA VIANELLI DI NAPOLI",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04931630520115,
+          -22.813157360216515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 5393,
+        "ponto_id": 31781,
+        "ptseqlinha": 22.1,
+        "ende_logradouro": "R DR RICARDO BENETTON MARTINS",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04377013532229,
+          -22.81691447727833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 5391,
+        "ponto_id": 31773,
+        "ptseqlinha": 22.2,
+        "ende_logradouro": "R DR RICARDO BENETTON MARTINS",
+        "ende_numero": "400",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03977687955208,
+          -22.816187885055356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 5386,
+        "ponto_id": 31775,
+        "ptseqlinha": 22.3,
+        "ende_logradouro": "R RICARDO BENETTON MARTINS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03673870102162,
+          -22.81575449431366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3522,
+        "ponto_id": 21148,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV FRANCISCO XAVIER ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042028253468835,
+          -22.850090381353795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 172,
+        "num_linha": "328",
+        "sentido": 1,
+        "nome_linha": "PARQUE DOS ALECRINS / CIDADE JUDICIARIA",
+        "extensao_m": 17180.14,
+        "ponto_gid": 3802,
+        "ponto_id": 21184,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039033008284605,
+          -22.848832285079784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3802,
+        "ponto_id": 21184,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039033008284605,
+          -22.848832285079784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3524,
+        "ponto_id": 21100,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039259627217405,
+          -22.85186838919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3525,
+        "ponto_id": 21060,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "241",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04058805081524,
+          -22.85264618873683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3526,
+        "ponto_id": 21072,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "45",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04215020135131,
+          -22.85162764645687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 5385,
+        "ponto_id": 31777,
+        "ptseqlinha": 35.1,
+        "ende_logradouro": "R RICARDO BENETTON MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036900931260035,
+          -22.81559126874289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 5390,
+        "ponto_id": 31771,
+        "ptseqlinha": 35.2,
+        "ende_logradouro": "R DR RICARDO BENETTON MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03961780316331,
+          -22.815904814633328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 5392,
+        "ponto_id": 31779,
+        "ptseqlinha": 35.3,
+        "ende_logradouro": "R DR RICARDO BENETTON MARTINS",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044015011088845,
+          -22.8166922244498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 5592,
+        "ponto_id": 31794,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV GIUSEPPINA VIANELLI DI NAPOLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048726403349946,
+          -22.813784931776066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3527,
+        "ponto_id": 31774,
+        "ptseqlinha": 36.1,
+        "ende_logradouro": "AV GIUSEPPINA VIANELLI DI NAPOLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049403341835294,
+          -22.811238246001253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3528,
+        "ponto_id": 31786,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV GIUSEPPINA VIANELLI DI NAPOLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04995859282397,
+          -22.808358242107378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3529,
+        "ponto_id": 21460,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05323058544944,
+          -22.802054376460674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3346,
+        "ponto_id": 31784,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06509489793853,
+          -22.800605497399985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3347,
+        "ponto_id": 31800,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994543928904,
+          -22.800089873238644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3530,
+        "ponto_id": 31804,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "1669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069265336674306,
+          -22.800261113860547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3531,
+        "ponto_id": 31772,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "1445",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069389580877555,
+          -22.802203366292133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3532,
+        "ponto_id": 31752,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069514579791566,
+          -22.8045183234104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3533,
+        "ponto_id": 31732,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "851",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06961351598862,
+          -22.807568946794344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3391,
+        "ponto_id": 31708,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07056158838657,
+          -22.80913833236073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3392,
+        "ponto_id": 31700,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072331645562635,
+          -22.809566360607718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3393,
+        "ponto_id": 31692,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "35",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07645786372043,
+          -22.810141894954903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 3394,
+        "ponto_id": 31656,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV OSCAR PEDROSO HORTA",
+        "ende_numero": "121",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074983642609745,
+          -22.81229332012087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 2800,
+        "ponto_id": 31484,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "939",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0733166318091,
+          -22.818448352546394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 2801,
+        "ponto_id": 31432,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0752946733747,
+          -22.820419295337366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 2802,
+        "ponto_id": 31376,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "399",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07699185970501,
+          -22.822053078783068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 2803,
+        "ponto_id": 31280,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07952165498369,
+          -22.824390352265247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 221,
+        "num_linha": "328",
+        "sentido": 2,
+        "nome_linha": "GUARA (INCLUSIVO)",
+        "extensao_m": 16202.22,
+        "ponto_gid": 2804,
+        "ponto_id": 31184,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1249",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,322,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07935969139741,
+          -22.82748633489524
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1962 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 5824,
+        "ponto_id": 81184,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV JOSE LOPES SERRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105626041575306,
+          -23.03317325534983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1463,
+        "ponto_id": 81216,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105156333450275,
+          -23.03490488062471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1393,
+        "ponto_id": 81228,
+        "ptseqlinha": 2.5,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10434419458712,
+          -23.036228740474286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1394,
+        "ponto_id": 81244,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "385",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10337800273266,
+          -23.037263922245756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1395,
+        "ponto_id": 81272,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101211236364676,
+          -23.039649800943597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1396,
+        "ponto_id": 81320,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "950",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100007483735475,
+          -23.04096391543476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1397,
+        "ponto_id": 81356,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": "199",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100523352501035,
+          -23.04140136220587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1398,
+        "ponto_id": 81444,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10221398745734,
+          -23.042495427666093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1399,
+        "ponto_id": 81440,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10335468955299,
+          -23.042130255619796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1400,
+        "ponto_id": 81396,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": "133",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104540098336656,
+          -23.04127098158584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1401,
+        "ponto_id": 81300,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JUVENAL DE OLIVEIRA",
+        "ende_numero": "350",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10505822842894,
+          -23.03904253085242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1402,
+        "ponto_id": 81348,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R EXP ALCIDES TURATO",
+        "ende_numero": "126",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10666657762901,
+          -23.03957779247539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1403,
+        "ponto_id": 81408,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R EXP ALCIDES TURATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10758531136059,
+          -23.040827697008705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1404,
+        "ponto_id": 81472,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R EXP ALCIDES TURATO",
+        "ende_numero": "438",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10852990021776,
+          -23.041960199362915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 5816,
+        "ponto_id": 81380,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R JUARES DE PAULA CAMARGO",
+        "ende_numero": "200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,190,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11619348674506,
+          -23.037405610044154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 5817,
+        "ponto_id": 81328,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV MARGINAL(RUA UM)",
+        "ende_numero": "57",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,190,192,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11862286435673,
+          -23.0344696983678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 5818,
+        "ponto_id": 81260,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV MARGINAL (RUA UM)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12066933054878,
+          -23.032302148709963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1405,
+        "ponto_id": 81180,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV MARGINAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1218035350689,
+          -23.028678893367285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1406,
+        "ponto_id": 81056,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427374407243,
+          -23.00836313899027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 18.5,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1408,
+        "ponto_id": 80844,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "6523",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104858854370605,
+          -22.983013728501223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 5819,
+        "ponto_id": 80798,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10465457066273,
+          -22.9815385238642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 4929,
+        "ponto_id": 80750,
+        "ptseqlinha": 20.5,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103831376274876,
+          -22.97897070416257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1409,
+        "ponto_id": 80748,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103312000948684,
+          -22.97714435027694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 236,
+        "num_linha": "190",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 22258.11,
+        "ponto_gid": 588,
+        "ponto_id": 292,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05947340031833,
+          -22.907839071624117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 588,
+        "ponto_id": 292,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05947340031833,
+          -22.907839071624117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 340,
+        "ponto_id": 16,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,410,413,416,BRT10,BRT11,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058078348641764,
+          -22.90079632306945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 344,
+        "ponto_id": 228,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "810",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,211,219,220,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06489354260516,
+          -22.90428961424405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 7339,
+        "ponto_id": 90054,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06391288281925,
+          -22.913611701255196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 347,
+        "ponto_id": 90088,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064523699286596,
+          -22.915609354700894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1413,
+        "ponto_id": 80740,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10323300425128,
+          -22.975080408445812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 7184,
+        "ponto_id": 73221,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10647315812685,
+          -22.985968158600002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1414,
+        "ponto_id": 81016,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11243821010972,
+          -23.00239739216577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 5822,
+        "ponto_id": 81188,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R LUIZ ALVES DE LIMA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1224383068194,
+          -23.029226000861602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 5820,
+        "ponto_id": 81264,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R LEONICE AP OLIVEIRA DA SILVA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12030676154086,
+          -23.03338410261605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 5821,
+        "ponto_id": 81340,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R LEONICE AP OLIVEIRA DA SILVA",
+        "ende_numero": "800",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,190,192,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11902499358839,
+          -23.035207608071886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1415,
+        "ponto_id": 81388,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R ANTONIO GRASSI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,190,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11639436904381,
+          -23.037601257059357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1416,
+        "ponto_id": 81476,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R EXP ALCIDES TURATO",
+        "ende_numero": "453",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10830805015653,
+          -23.042019954515148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1417,
+        "ponto_id": 81416,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R EXP ALCIDES TURATO",
+        "ende_numero": "305",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10744003156765,
+          -23.040964285039024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1418,
+        "ponto_id": 81344,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R EXP ALCIDES TURATO",
+        "ende_numero": "127",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10639367092565,
+          -23.039665796202815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 7182,
+        "ponto_id": 81331,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JUSTINO FERNANDES SERRA",
+        "ende_numero": "480",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10471293148074,
+          -23.04041112279836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1422,
+        "ponto_id": 81448,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": "285",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10186733713523,
+          -23.042579750415324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1420,
+        "ponto_id": 81404,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": "273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104644051348004,
+          -23.04150562954988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1423,
+        "ponto_id": 81352,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": "202",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10046305373013,
+          -23.04169962343238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1421,
+        "ponto_id": 81460,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": "634",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10356214545905,
+          -23.04222661869579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1424,
+        "ponto_id": 81316,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099806490315636,
+          -23.040740402711915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1425,
+        "ponto_id": 81268,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "713",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10106036776046,
+          -23.039311283884956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1426,
+        "ponto_id": 81240,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "385",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10319627662437,
+          -23.0370469683548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1427,
+        "ponto_id": 81224,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1043076336416,
+          -23.035837970302588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1431,
+        "ponto_id": 81212,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10499864079963,
+          -23.034312767065988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1500,
+        "ponto_id": 81248,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R MARIO JOSE DE OLIVEIRA",
+        "ende_numero": "67",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106205462102736,
+          -23.03510575292013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 1441,
+        "ponto_id": 81164,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1059328917027,
+          -23.031570470369925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 161,
+        "num_linha": "190",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAO DOMINGOS",
+        "extensao_m": 26086.03,
+        "ponto_gid": 5824,
+        "ponto_id": 81184,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV JOSE LOPES SERRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105626041575306,
+          -23.03317325534983
+        ]
+      }
+    }
+  ]
+}

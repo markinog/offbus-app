@@ -1,0 +1,1537 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4995,
+        "ponto_id": 80752,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R AYRES PEREIRA DE CASTRO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08922400361727,
+          -22.983007369189746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 7272,
+        "ponto_id": 80777,
+        "ptseqlinha": 1.1,
+        "ende_logradouro": "R ADO ASTOLFI",
+        "ende_numero": "264",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09020609671332,
+          -22.98457629583695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4996,
+        "ponto_id": 80772,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ADO ASTOLFI",
+        "ende_numero": "394",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09139697915064,
+          -22.98520041773878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 5961,
+        "ponto_id": 80775,
+        "ptseqlinha": 2.5,
+        "ende_logradouro": "R MERCEDES FAVALLI MAGALHAES",
+        "ende_numero": "91",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09331687837269,
+          -22.985164125477144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4997,
+        "ponto_id": 80816,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R JAIR FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095261049284815,
+          -22.985732363090126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4938,
+        "ponto_id": 80856,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MANOELLA MARCOLINO DA SILVA DERIGO",
+        "ende_numero": "439",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09737178916251,
+          -22.987089276931396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4939,
+        "ponto_id": 80864,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JAIR FERREIRA",
+        "ende_numero": "484",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098825485686945,
+          -22.98770972293897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4940,
+        "ponto_id": 80881,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1002213154028,
+          -22.98847726066634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4941,
+        "ponto_id": 80887,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10026799561891,
+          -22.990335439795004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4943,
+        "ponto_id": 80883,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0999653562231,
+          -22.98852019568773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4944,
+        "ponto_id": 80885,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "503",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101434211907595,
+          -22.987795833742595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4998,
+        "ponto_id": 80888,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "295",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103509491093114,
+          -22.987320153586893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4999,
+        "ponto_id": 80896,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "4",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10516968354887,
+          -22.986920741131783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 1408,
+        "ponto_id": 80844,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "6523",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104858854370605,
+          -22.983013728501223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 5819,
+        "ponto_id": 80798,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10465457066273,
+          -22.9815385238642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4929,
+        "ponto_id": 80750,
+        "ptseqlinha": 13.5,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103831376274876,
+          -22.97897070416257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 1409,
+        "ponto_id": 80748,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103312000948684,
+          -22.97714435027694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4854,
+        "ponto_id": 80704,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV ARY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10053274614911,
+          -22.974082375153287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4817,
+        "ponto_id": 80700,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV ARY RODRIGUEZ",
+        "ende_numero": "315",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100091401394245,
+          -22.973892414182625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 328,
+        "ponto_id": 80732,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10254796283547,
+          -22.974794384682248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 44,
+        "num_linha": "412",
+        "sentido": 1,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14898.09,
+        "ponto_gid": 4994,
+        "ponto_id": 448,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0623228336166,
+          -22.90910531946598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4994,
+        "ponto_id": 448,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0623228336166,
+          -22.90910531946598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 350,
+        "ponto_id": 90872,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,214,405,411,412,413,414,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06982180598191,
+          -22.929273021394312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4854,
+        "ponto_id": 80704,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV ARY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10053274614911,
+          -22.974082375153287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4817,
+        "ponto_id": 80700,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ARY RODRIGUEZ",
+        "ende_numero": "315",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100091401394245,
+          -22.973892414182625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 328,
+        "ponto_id": 80732,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10254796283547,
+          -22.974794384682248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4952,
+        "ponto_id": 80820,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104776439358126,
+          -22.981587640278274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 7185,
+        "ponto_id": 80850,
+        "ptseqlinha": 44.1,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10508172084028,
+          -22.982976211197418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 5000,
+        "ponto_id": 80900,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105542733875176,
+          -22.986971483290834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 5001,
+        "ponto_id": 80892,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102860199794,
+          -22.987607097913166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4961,
+        "ponto_id": 80886,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "526",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10123012310449,
+          -22.98803605936463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4940,
+        "ponto_id": 80881,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1002213154028,
+          -22.98847726066634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4941,
+        "ponto_id": 80887,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10026799561891,
+          -22.990335439795004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4943,
+        "ponto_id": 80883,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0999653562231,
+          -22.98852019568773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4962,
+        "ponto_id": 80860,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R MANOELLA MARCOLINO DA SILVA DERIGO",
+        "ende_numero": "464",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09710399833668,
+          -22.987167932984494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 5002,
+        "ponto_id": 80808,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R JAIR FERREIRA",
+        "ende_numero": "5",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09478994574058,
+          -22.985643351622087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 5962,
+        "ponto_id": 80805,
+        "ptseqlinha": 52.5,
+        "ende_logradouro": "R MARCELO VIRTI ARMANDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093917916068996,
+          -22.985733426710613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 5003,
+        "ponto_id": 80776,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R ADO ASTOLFI",
+        "ende_numero": "403",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09122200007499,
+          -22.985368386409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 7273,
+        "ponto_id": 80771,
+        "ptseqlinha": 53.1,
+        "ende_logradouro": "R ADO ASTOLFI",
+        "ende_numero": "98",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08854100714428,
+          -22.98431768224145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 396,
+        "num_linha": "412",
+        "sentido": 2,
+        "nome_linha": "PARQUE ELDORADO (INCLUSIVO)",
+        "extensao_m": 14956.92,
+        "ponto_gid": 4995,
+        "ponto_id": 80752,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R AYRES PEREIRA DE CASTRO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08922400361727,
+          -22.983007369189746
+        ]
+      }
+    }
+  ]
+}

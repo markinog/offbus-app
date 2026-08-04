@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 68,
+        "num_linha": "329.1",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18031.11,
+        "ponto_gid": 3297,
+        "ponto_id": 31068,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,329.1 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07957249959301,
+          -22.83081985936514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 313,
+        "num_linha": "329.1",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE/ TERMINAL BARAO GERALDO (INCLUSIVO)",
+        "extensao_m": 17494.04,
+        "ponto_gid": 5255,
+        "ponto_id": 30688,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,329.1,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060185667091915,
+          -22.852135099303485
+        ]
+      }
+    }
+  ]
+}

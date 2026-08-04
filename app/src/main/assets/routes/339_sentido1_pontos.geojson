@@ -1,0 +1,2137 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3334,
+        "ponto_id": 31272,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "62",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07913195535006,
+          -22.824588366566704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3335,
+        "ponto_id": 31336,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07671564883042,
+          -22.82230332334916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3336,
+        "ponto_id": 31424,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07466216886957,
+          -22.82042166625413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3337,
+        "ponto_id": 31480,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07320060253941,
+          -22.81893031906354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 5202,
+        "ponto_id": 31316,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07038344791382,
+          -22.82164230344076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1780,
+        "ponto_id": 31228,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ROXO MOREIRA",
+        "ende_numero": "1768",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06745762772203,
+          -22.82486239434844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1781,
+        "ponto_id": 31152,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06772463367872,
+          -22.827042341812163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1782,
+        "ponto_id": 31124,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06683061355144,
+          -22.82824536774697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2788,
+        "ponto_id": 31120,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06454168498407,
+          -22.828495882194623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2789,
+        "ponto_id": 31136,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063314825630854,
+          -22.827956922851403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2790,
+        "ponto_id": 31128,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066465642306824,
+          -22.828157386822213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1781,
+        "ponto_id": 31152,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06772463367872,
+          -22.827042341812163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1782,
+        "ponto_id": 31124,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06683061355144,
+          -22.82824536774697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1783,
+        "ponto_id": 30988,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631426048202,
+          -22.83170739113519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1784,
+        "ponto_id": 30956,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057354628663234,
+          -22.83482841680711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1785,
+        "ponto_id": 30944,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "191",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05476164618748,
+          -22.836152365031733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3571,
+        "ponto_id": 30936,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05275572117931,
+          -22.83746780256268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3572,
+        "ponto_id": 30916,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": "77",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05306621281274,
+          -22.84097849399814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1769,
+        "ponto_id": 30784,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,339,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06052439037364,
+          -22.847769160104214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 531,
+        "ponto_id": 30584,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ZERILLO PEREIRA LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795950650012,
+          -22.85464330573258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3041,
+        "ponto_id": 30608,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ALVARO BOSCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05352480223055,
+          -22.854501219340555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3042,
+        "ponto_id": 30596,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05105609507054,
+          -22.854994122174933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2097,
+        "ponto_id": 20780,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044052683192,
+          -22.86177239270054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2098,
+        "ponto_id": 20564,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04415418240289,
+          -22.866675742035344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2099,
+        "ponto_id": 20480,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04463979138665,
+          -22.869045854485837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2100,
+        "ponto_id": 20256,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04483082332286,
+          -22.87687095458897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1822,
+        "ponto_id": 756,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1309",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05838047038377,
+          -22.890226655458324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1823,
+        "ponto_id": 568,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "945",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06028123954559,
+          -22.893002619065115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 37,
+        "num_linha": "339",
+        "sentido": 1,
+        "nome_linha": "TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19144.95,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3101,
+        "ponto_id": 44,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1116",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05903018645532,
+          -22.903754758294898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2083,
+        "ponto_id": 20260,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044665683096724,
+          -22.876575425012113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2084,
+        "ponto_id": 20508,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423663691774,
+          -22.86854483629112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2085,
+        "ponto_id": 20588,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0437874360404,
+          -22.86643245552569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2086,
+        "ponto_id": 20788,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043621739755025,
+          -22.861624904626677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2984,
+        "ponto_id": 20908,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": "12",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04511609301711,
+          -22.8561203625999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2985,
+        "ponto_id": 20980,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R IZABEL NEGRAO BERTOTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,339,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04545643334974,
+          -22.85384444579937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2986,
+        "ponto_id": 20988,
+        "ptseqlinha": 62.5,
+        "ende_logradouro": "R HERMANTINO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046908610621024,
+          -22.85318279537414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2987,
+        "ponto_id": 30696,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R HERMANTINO COELHO",
+        "ende_numero": "704",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05088439003099,
+          -22.852605629290334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2988,
+        "ponto_id": 30700,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05361200280537,
+          -22.85249804563441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2989,
+        "ponto_id": 30604,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R ALVARO BOSCO",
+        "ende_numero": "157",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05362350898847,
+          -22.854375900730894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 530,
+        "ponto_id": 30620,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05821929817237,
+          -22.85339394831159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 1767,
+        "ponto_id": 30780,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,339,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05999265642404,
+          -22.847756412872414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 6116,
+        "ponto_id": 30891,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R. ARMANDO STRAZZACAPPA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05571496606436,
+          -22.842678184209422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2785,
+        "ponto_id": 30912,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05281119623021,
+          -22.84105129854366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2786,
+        "ponto_id": 30932,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052562412805166,
+          -22.837181167798484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 1786,
+        "ponto_id": 30940,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "42",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053409385622786,
+          -22.83639704665756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 1787,
+        "ponto_id": 30948,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "276",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05488563985324,
+          -22.835700537979207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 1788,
+        "ponto_id": 30960,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "492",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05739015433185,
+          -22.83442910075574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2787,
+        "ponto_id": 30992,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06293976961592,
+          -22.831482283332974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2788,
+        "ponto_id": 31120,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06454168498407,
+          -22.828495882194623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2789,
+        "ponto_id": 31136,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063314825630854,
+          -22.827956922851403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2790,
+        "ponto_id": 31128,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066465642306824,
+          -22.828157386822213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2791,
+        "ponto_id": 31220,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV OSVALDO CRUZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066453567176005,
+          -22.825192757946024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 2792,
+        "ponto_id": 31236,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV MARTIN LUTHER KING (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06760631580193,
+          -22.824288542404645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3555,
+        "ponto_id": 31292,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07032437966702,
+          -22.82264810382907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3556,
+        "ponto_id": 31204,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07258705326271,
+          -22.826097507461533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3557,
+        "ponto_id": 31032,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07575462552302,
+          -22.83052531130657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3558,
+        "ponto_id": 31012,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": "345",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07688740793472,
+          -22.832222094962063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3466,
+        "ponto_id": 31144,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078860624606584,
+          -22.8293052953785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 412,
+        "num_linha": "339",
+        "sentido": 2,
+        "nome_linha": "CIDADE UNIVERSITARIA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 19704.66,
+        "ponto_gid": 3333,
+        "ponto_id": 31172,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1226",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079104443571644,
+          -22.827572904821405
+        ]
+      }
+    }
+  ]
+}

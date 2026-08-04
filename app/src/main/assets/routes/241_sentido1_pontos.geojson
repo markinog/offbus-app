@@ -1,0 +1,1762 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2197,
+        "ponto_id": 60628,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12029472907826,
+          -22.907156559737427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2240,
+        "ponto_id": 60624,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R DO CISNE",
+        "ende_numero": "81",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119733083722906,
+          -22.90938360091465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2198,
+        "ponto_id": 60616,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": "69",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118707581067994,
+          -22.910814540635354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2199,
+        "ponto_id": 60608,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117637880545075,
+          -22.913359357613647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2241,
+        "ponto_id": 60584,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R PELICANO",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116521759521575,
+          -22.91451705278719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2242,
+        "ponto_id": 60588,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R PELICANO",
+        "ende_numero": "277",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115908857341815,
+          -22.916849308144755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 5484,
+        "ponto_id": 60595,
+        "ptseqlinha": 6.3,
+        "ende_logradouro": "R MILLOR FERNANDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11608907063992,
+          -22.91842801434101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 5483,
+        "ponto_id": 60594,
+        "ptseqlinha": 6.5,
+        "ende_logradouro": "R ENGÃÂº NACIB ABDALLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11808401221948,
+          -22.919835367101868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 5482,
+        "ponto_id": 60602,
+        "ptseqlinha": 6.7,
+        "ende_logradouro": "R JAIR ANDRADE E SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11743973044095,
+          -22.91745406558872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2243,
+        "ponto_id": 60592,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R PELICANO",
+        "ende_numero": "75",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11540993439112,
+          -22.918670340199863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2237,
+        "ponto_id": 60590,
+        "ptseqlinha": 7.5,
+        "ende_logradouro": "R JOSE AMANCIO CUCATTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11391787731632,
+          -22.918630180003415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2244,
+        "ponto_id": 60534,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV IBIRAPUERA",
+        "ende_numero": "300",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11393633875906,
+          -22.916608273431226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2245,
+        "ponto_id": 60516,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV IBIRAPUERA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112050869186305,
+          -22.917165368172096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2246,
+        "ponto_id": 60480,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R GERALDO NOGUEIRA PORTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10992574631221,
+          -22.9178348616894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 435,
+        "ponto_id": 60484,
+        "ptseqlinha": 10.5,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "1213",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11077843043799,
+          -22.919838754157905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 5666,
+        "ponto_id": 60452,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10758233988883,
+          -22.918768450383777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 436,
+        "ponto_id": 60412,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "613",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1055452451984,
+          -22.917671383985603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 437,
+        "ponto_id": 60392,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "293",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289353601174,
+          -22.915618157092656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 438,
+        "ponto_id": 60356,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "3160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,242,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0941415951659,
+          -22.910089110484417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 439,
+        "ponto_id": 60232,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JOSE MARIA LISBOA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,245,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08660990823094,
+          -22.909068314966888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 440,
+        "ponto_id": 60196,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R CAD JOAO TEIXEIRA",
+        "ende_numero": "550",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085045687073375,
+          -22.908224389275663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 441,
+        "ponto_id": 60148,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV BR DE MONTE ALEGRE",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08345633555803,
+          -22.905808456998923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 442,
+        "ponto_id": 60132,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,220,230,240,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08276150392695,
+          -22.90366145360983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 443,
+        "ponto_id": 50112,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "4",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,230,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08207882151804,
+          -22.90058739832326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 444,
+        "ponto_id": 50084,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "286",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08072084251693,
+          -22.89802936685601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 4087,
+        "ponto_id": 50076,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "400",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08020683735552,
+          -22.89734637038613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 445,
+        "ponto_id": 50060,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "586",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079140799928616,
+          -22.895055875271897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 446,
+        "ponto_id": 50056,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "910",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07777744550993,
+          -22.892506547450093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2247,
+        "ponto_id": 40100,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1991",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07588328306837,
+          -22.892229321439753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2248,
+        "ponto_id": 40080,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1757",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07490583302719,
+          -22.893958737201967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2249,
+        "ponto_id": 40052,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1553",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07387106157934,
+          -22.89586163969455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2250,
+        "ponto_id": 40024,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1249",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072742571486124,
+          -22.89808413247529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 981,
+        "ponto_id": 50004,
+        "ptseqlinha": 27.5,
+        "ende_logradouro": "R DR OCTAVIO MENDES",
+        "ende_numero": "167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07242198448374,
+          -22.900595666585097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2251,
+        "ponto_id": 724,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R BR DE PARNAIBA",
+        "ende_numero": "615",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07131238963069,
+          -22.902538412193223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 982,
+        "ponto_id": 800,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "73",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,244,253,273,341,342,383,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07338580881725,
+          -22.90425635899394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 109,
+        "num_linha": "241",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 14397.37,
+        "ponto_gid": 2190,
+        "ponto_id": 148,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06339610954937,
+          -22.904275193003286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2190,
+        "ponto_id": 148,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06339610954937,
+          -22.904275193003286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 560,
+        "ponto_id": 672,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "776",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,241,242,245,364,367,368,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070345560994234,
+          -22.902011509970396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2256,
+        "ponto_id": 40008,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1102",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07177839399669,
+          -22.899339175333814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2257,
+        "ponto_id": 40056,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1550",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07376288401277,
+          -22.8957081333477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2258,
+        "ponto_id": 40076,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1756",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07467777550718,
+          -22.894007666932495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2259,
+        "ponto_id": 50052,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R PROF JORGE HENNINGS",
+        "ende_numero": "313",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07666282786563,
+          -22.892997630465498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 492,
+        "ponto_id": 50064,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "785",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,242,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07849871713929,
+          -22.8934028795897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 493,
+        "ponto_id": 50080,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "461",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798725777218,
+          -22.895996659643085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 494,
+        "ponto_id": 50092,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08169924411183,
+          -22.899461365305882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 495,
+        "ponto_id": 60140,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,134,210,230,240,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08301080098858,
+          -22.903455329319353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 496,
+        "ponto_id": 60176,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084612856301646,
+          -22.90635237515265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 497,
+        "ponto_id": 60248,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087805701198135,
+          -22.908595194290964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 498,
+        "ponto_id": 60352,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV. JOSE MARIO DE ARRUDA TOLEDO",
+        "ende_numero": "2184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09500481518596,
+          -22.909730272500486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 499,
+        "ponto_id": 60396,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R JOSE ROSOLEN",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10444483882563,
+          -22.916194442096366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2239,
+        "ponto_id": 60474,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV IBIRAPUERA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10771725713836,
+          -22.917622651671955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2260,
+        "ponto_id": 60476,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV IBIRAPUERA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10956860950333,
+          -22.91760037324462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2261,
+        "ponto_id": 60512,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV IBIRAPUERA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11196606959767,
+          -22.916937192682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 5485,
+        "ponto_id": 60601,
+        "ptseqlinha": 55.3,
+        "ende_logradouro": "R JAIR ANDRADE E SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11791205263244,
+          -22.91757424333707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 7316,
+        "ponto_id": 60666,
+        "ptseqlinha": 55.4,
+        "ende_logradouro": "R JAIR ANDRADE E SILVA",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1190325269491,
+          -22.91794875979903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 5486,
+        "ponto_id": 60593,
+        "ptseqlinha": 55.5,
+        "ende_logradouro": "R ENG NACIB ABDALLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11838658833635,
+          -22.919775087494035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 5206,
+        "ponto_id": 60598,
+        "ptseqlinha": 55.7,
+        "ende_logradouro": "R MILLOR FERNANDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11591779140634,
+          -22.918149084925425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2262,
+        "ponto_id": 60580,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R PELICANO",
+        "ende_numero": "300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11572857931978,
+          -22.91668948311803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2263,
+        "ponto_id": 60576,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R PELICANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1163098646527,
+          -22.914437996048875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2231,
+        "ponto_id": 60604,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R PARDAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11715108215969,
+          -22.91311867100005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2232,
+        "ponto_id": 60612,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R PARDAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11830850595128,
+          -22.91069970610229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2238,
+        "ponto_id": 60622,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R PARDAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "240,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11925186390825,
+          -22.908362623650195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2196,
+        "ponto_id": 60620,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R CORMORAO",
+        "ende_numero": "196",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119667430029736,
+          -22.907802918868693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 341,
+        "num_linha": "241",
+        "sentido": 2,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 11746.85,
+        "ponto_gid": 2197,
+        "ponto_id": 60628,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12029472907826,
+          -22.907156559737427
+        ]
+      }
+    }
+  ]
+}

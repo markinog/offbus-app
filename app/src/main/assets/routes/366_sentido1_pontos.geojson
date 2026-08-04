@@ -1,0 +1,2287 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3695,
+        "ponto_id": 91884,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0182587139537,
+          -22.919712424416232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3696,
+        "ponto_id": 92032,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": "694",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01730773721684,
+          -22.922443547633694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3697,
+        "ponto_id": 91952,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01853178964475,
+          -22.92246753096733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3698,
+        "ponto_id": 91868,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": "376",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.020632777630055,
+          -22.92334351748053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3699,
+        "ponto_id": 91788,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": "530",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021803975317376,
+          -22.923846183106768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3700,
+        "ponto_id": 91828,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": "184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02218447145271,
+          -22.92515852869831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3701,
+        "ponto_id": 92066,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": "334",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02084306736102,
+          -22.926697109648664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3702,
+        "ponto_id": 92164,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01929988484963,
+          -22.928394613995987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3703,
+        "ponto_id": 92172,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "546",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01972368360102,
+          -22.928589192922825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3704,
+        "ponto_id": 91980,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JOSE BURGHI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0224393196323,
+          -22.928392897179485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3758,
+        "ponto_id": 91744,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": "414",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023884918752124,
+          -22.9264447567126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 3706,
+        "ponto_id": 91488,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02697848535234,
+          -22.925630216762293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4150,
+        "ponto_id": 91364,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": "58",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02732735669914,
+          -22.922640909367818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4151,
+        "ponto_id": 91328,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DR MANOEL RIOS MURARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.028387684160414,
+          -22.922761002171484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4152,
+        "ponto_id": 91188,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R BENEDITO DE LIMA",
+        "ende_numero": "207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02977472769553,
+          -22.922145786307496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4153,
+        "ponto_id": 91180,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ARNALDO SIMOES PINTO",
+        "ende_numero": "128",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030459888636244,
+          -22.922947373426492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4154,
+        "ponto_id": 91272,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JOSE DE OLIVEIRA MATIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03025389106773,
+          -22.923995452662997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4156,
+        "ponto_id": 91144,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DA HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": "193",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03243671639492,
+          -22.924440225911486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4157,
+        "ponto_id": 91212,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032883782670744,
+          -22.925762520779713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 7350,
+        "ponto_id": 91222,
+        "ptseqlinha": 21.1,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03449092858539,
+          -22.92454124626371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4158,
+        "ponto_id": 91032,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": "201",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03556804520773,
+          -22.92391318241989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4159,
+        "ponto_id": 90908,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R NICOTA BAYEUX",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03788481020242,
+          -22.923799066446545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4160,
+        "ponto_id": 90772,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS DE SALLES JR",
+        "ende_numero": "573",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041479610319904,
+          -22.923187230445365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4161,
+        "ponto_id": 90664,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS DE SALLES JR",
+        "ende_numero": "325",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043015011264536,
+          -22.9217392227483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4162,
+        "ponto_id": 90520,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CAPISTRANO DE ABREU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045595238752774,
+          -22.920364988626613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4163,
+        "ponto_id": 90508,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R CAPISTRANO DE ABREU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04696897477814,
+          -22.920895553421367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4164,
+        "ponto_id": 90488,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R BAURU",
+        "ende_numero": "193",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047952836169806,
+          -22.920974242999204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4165,
+        "ponto_id": 90412,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R BAURU",
+        "ende_numero": "33",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0483842015283,
+          -22.91989326442305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4166,
+        "ponto_id": 90376,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R AFONSO PENA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04904539442688,
+          -22.91920652650982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4167,
+        "ponto_id": 90268,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R AFONSO PENA",
+        "ende_numero": "575",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0494574240474,
+          -22.917605696179972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4168,
+        "ponto_id": 90260,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "250",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05226253409529,
+          -22.918793206218016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 2538,
+        "ponto_id": 90044,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,364,366,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053426767393965,
+          -22.913160430164165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 4081,
+        "ponto_id": 632,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "788",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05405194040368,
+          -22.906552199823043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 1853,
+        "ponto_id": 312,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV JOAO PENIDO BURNIER",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06678260358723,
+          -22.902692163281756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 5339,
+        "ponto_id": 620,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06949723742806,
+          -22.9017037893688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 64,
+        "num_linha": "366",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14348.21,
+        "ponto_gid": 2208,
+        "ponto_id": 780,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,349,357,362,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07220067753917,
+          -22.90658797426865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 2208,
+        "ponto_id": 780,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,349,357,362,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07220067753917,
+          -22.90658797426865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 1358,
+        "ponto_id": 236,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,345,346,349,359,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058813453540964,
+          -22.907030871822027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 51.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 7340,
+        "ponto_id": 90014,
+        "ptseqlinha": 51.6,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173,253,341,342,344,345,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05536770427731,
+          -22.915383581991176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4169,
+        "ponto_id": 90272,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "189",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05168205986314,
+          -22.918641094688216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4170,
+        "ponto_id": 90284,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R AFONSO PENA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04964883941871,
+          -22.917777291165926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4171,
+        "ponto_id": 90364,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R AFONSO PENA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049230775665094,
+          -22.919193214279854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4172,
+        "ponto_id": 90404,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R BAURU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04846870615728,
+          -22.920055829065756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4173,
+        "ponto_id": 90500,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R BAURU",
+        "ende_numero": "212",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04792225139448,
+          -22.921268471712338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4174,
+        "ponto_id": 90512,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R CAPISTRANO DE ABREU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04678182009299,
+          -22.920982458199827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4175,
+        "ponto_id": 90516,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R CAPISTRANO DE ABREU",
+        "ende_numero": "651",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04495979247494,
+          -22.920351411594936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4176,
+        "ponto_id": 90640,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS DE SALLES JR",
+        "ende_numero": "274",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043423545398916,
+          -22.92145156976615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4177,
+        "ponto_id": 90780,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS DE SALLES JR",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04151391053335,
+          -22.92344875142448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4178,
+        "ponto_id": 90852,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS DE SALLES JR",
+        "ende_numero": "744",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04012392086028,
+          -22.924179922244836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4179,
+        "ponto_id": 90916,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037364611187364,
+          -22.92378680303614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4244,
+        "ponto_id": 91020,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03568680547643,
+          -22.924006492854122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 7349,
+        "ponto_id": 91221,
+        "ptseqlinha": 65.1,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03463391192856,
+          -22.92462344918132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4180,
+        "ponto_id": 91220,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DA HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": "59",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03281087766078,
+          -22.925849039975244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4181,
+        "ponto_id": 91156,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R DA HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03231308824855,
+          -22.924585986092783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4183,
+        "ponto_id": 91288,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOSE DE OLIVEIRA MATIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0301374122654,
+          -22.924016984581304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4184,
+        "ponto_id": 91168,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R ARNALDO SIMOES PINTO",
+        "ende_numero": "109",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03052774884859,
+          -22.922779332326822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4185,
+        "ponto_id": 91200,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R BENEDITO DE LIMA",
+        "ende_numero": "202",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02980210465031,
+          -22.92226794076497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4186,
+        "ponto_id": 91332,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DR MANOEL RIOS MURARO",
+        "ende_numero": "356",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.028283029094865,
+          -22.922906679603877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4148,
+        "ponto_id": 91474,
+        "ptseqlinha": 72.5,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027767009481906,
+          -22.92551244098001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 4149,
+        "ponto_id": 91472,
+        "ptseqlinha": 73.5,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027390001482075,
+          -22.92560446753385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3705,
+        "ponto_id": 91760,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": "427",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023867805339606,
+          -22.92667071464078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3759,
+        "ponto_id": 91940,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": "626",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02290994358455,
+          -22.92820437476488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3760,
+        "ponto_id": 92088,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "521",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01977689362228,
+          -22.92872420743564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3761,
+        "ponto_id": 91982,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01919723892935,
+          -22.928272546626914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3762,
+        "ponto_id": 91936,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02071177463558,
+          -22.926560290866757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3763,
+        "ponto_id": 91844,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021953664712235,
+          -22.925168149671975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3764,
+        "ponto_id": 91860,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02078271768398,
+          -22.92361588113043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3765,
+        "ponto_id": 91968,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.018386759734675,
+          -22.922607504415687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3766,
+        "ponto_id": 92056,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": "105",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01703911914804,
+          -22.92240200112792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3767,
+        "ponto_id": 91920,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R JANGADEIRO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01833644858334,
+          -22.920915562221204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3768,
+        "ponto_id": 91772,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R JANGADEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0206692442576,
+          -22.921889445936117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3769,
+        "ponto_id": 91764,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "AV ITATIAIA",
+        "ende_numero": "236",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0194556069302,
+          -22.920583090623207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 322,
+        "num_linha": "366",
+        "sentido": 2,
+        "nome_linha": "VL OROSIMBO MAIA",
+        "extensao_m": 14292.6,
+        "ponto_gid": 3695,
+        "ponto_id": 91884,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0182587139537,
+          -22.919712424416232
+        ]
+      }
+    }
+  ]
+}

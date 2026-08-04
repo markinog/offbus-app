@@ -1,0 +1,862 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4643,
+        "ponto_id": 11020,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R TITO DE LEMOS JR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97058755352152,
+          -22.869748566109234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4644,
+        "ponto_id": 11000,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R TITO DE LEMOS JR",
+        "ende_numero": "374",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.972334575000914,
+          -22.86951059120019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4645,
+        "ponto_id": 10992,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R EVARISTO JULIO CIRILO FRANCESCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9718492917669,
+          -22.871155284928467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4646,
+        "ponto_id": 11068,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R EVARISTO JULIO CIRILO FRANCESCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96875027280521,
+          -22.87080934606631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4647,
+        "ponto_id": 11060,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R EVARISTO JULIO CIRILO FRANCESCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.966812356322734,
+          -22.870772294035824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 2917,
+        "ponto_id": 11056,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392,394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96694061085816,
+          -22.87198452446136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 2918,
+        "ponto_id": 11016,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R QUINZE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96779285159686,
+          -22.878075622038594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 2919,
+        "ponto_id": 10988,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9704730265007,
+          -22.881016126049154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 2920,
+        "ponto_id": 10972,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.972121582542215,
+          -22.882924576504585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 2921,
+        "ponto_id": 10960,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9737574804136,
+          -22.88483803922557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4583,
+        "ponto_id": 10888,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R REINALDO ALVES FERREIRA",
+        "ende_numero": "34",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98227441215727,
+          -22.888647059938737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4582,
+        "ponto_id": 10876,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R JOAO PUGGINA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.982745861602574,
+          -22.887071698210683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 269,
+        "num_linha": "394",
+        "sentido": 1,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 5287.87,
+        "ponto_gid": 4581,
+        "ponto_id": 10900,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MIGUEL ABRAO KEIRALLA",
+        "ende_numero": "164",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.982182165831965,
+          -22.88254024361866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4581,
+        "ponto_id": 10900,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MIGUEL ABRAO KEIRALLA",
+        "ende_numero": "164",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.982182165831965,
+          -22.88254024361866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4580,
+        "ponto_id": 10880,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MARIA ALFREDO SAID DAHER",
+        "ende_numero": "254",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98471726475804,
+          -22.882887527326115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4648,
+        "ponto_id": 10864,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R SD PAULO AUGUSTO ANDRELE SILVA",
+        "ende_numero": "371",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.985630155718376,
+          -22.88128381748732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4579,
+        "ponto_id": 10884,
+        "ptseqlinha": 16.5,
+        "ende_logradouro": "R SD PAULO AUGUSTO ANDRELE SILVA",
+        "ende_numero": "157",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98445205526649,
+          -22.880675850682113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4649,
+        "ponto_id": 10896,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R FRANCISCO CAETANO CEZAR",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98325406311827,
+          -22.880401625940113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4650,
+        "ponto_id": 10904,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R MIGUEL ABRAO KEIRALLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98252659950487,
+          -22.881306572338545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4650,
+        "ponto_id": 10904,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R MIGUEL ABRAO KEIRALLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98252659950487,
+          -22.881306572338545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4578,
+        "ponto_id": 10910,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JOAO MARIA BATISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98099145069506,
+          -22.882762736375724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4652,
+        "ponto_id": 10940,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOAO MARIA BATISTA",
+        "ende_numero": "384",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9789363729063,
+          -22.884472103237215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 2948,
+        "ponto_id": 10956,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97431374404123,
+          -22.88587561177923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 2949,
+        "ponto_id": 10976,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "737",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97129104009791,
+          -22.882374402184283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 2950,
+        "ponto_id": 10984,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "365",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96976680879874,
+          -22.88053744045928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4596,
+        "ponto_id": 11036,
+        "ptseqlinha": 24.5,
+        "ende_logradouro": "AV ISABELITA VIEIRA",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96671780833711,
+          -22.878191991020614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 2951,
+        "ponto_id": 11032,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392,394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96654834771444,
+          -22.87737647969229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 2952,
+        "ponto_id": 11064,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392,394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.966498585193996,
+          -22.871310520213957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4653,
+        "ponto_id": 11044,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R EVARISTO JULIO CIRILO FRANCESCHINI",
+        "ende_numero": "220",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.968553586697,
+          -22.87045557392843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4654,
+        "ponto_id": 10996,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R EVARISTO JULIO CIRILO FRANCESCHINI",
+        "ende_numero": "648",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97177659375508,
+          -22.87093558487608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4655,
+        "ponto_id": 11008,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R TITO DE LEMOS JR",
+        "ende_numero": "329",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97202957547508,
+          -22.86960158682815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 132,
+        "num_linha": "394",
+        "sentido": 2,
+        "nome_linha": "PARQUE JATIBAIA",
+        "extensao_m": 6315.54,
+        "ponto_gid": 4643,
+        "ponto_id": 11020,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R TITO DE LEMOS JR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97058755352152,
+          -22.869748566109234
+        ]
+      }
+    }
+  ]
+}

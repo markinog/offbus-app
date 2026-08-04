@@ -1,0 +1,962 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5295,
+        "ponto_id": 72920,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13313854492055,
+          -22.964839091041963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 113,
+        "ponto_id": 72840,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12863426888093,
+          -22.968090877001593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 114,
+        "ponto_id": 72836,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "605",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "104,107,109,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12848573461977,
+          -22.969449987836203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 169,
+        "ponto_id": 73088,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "299",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,109,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128458478807495,
+          -22.972340262040795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5789,
+        "ponto_id": 73208,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,109,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12845811093204,
+          -22.974046569010213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 210,
+        "ponto_id": 73428,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,114,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128478619484554,
+          -22.97792679561605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 545,
+        "ponto_id": 73480,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.127249321606314,
+          -22.980149192783564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 546,
+        "ponto_id": 73500,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": "1023",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125907817644375,
+          -22.981241070097916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 547,
+        "ponto_id": 73352,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12297486999505,
+          -22.98078686183851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 548,
+        "ponto_id": 73340,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": "325",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121160050023605,
+          -22.981493345885468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 549,
+        "ponto_id": 73440,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": "75",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12083643070008,
+          -22.983757466693138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 89,
+        "ponto_id": 73540,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "516",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,104,117,120,135,177,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1204807277706,
+          -22.985769965977227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 316,
+        "ponto_id": 73608,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "351",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119525513771066,
+          -22.98777387745872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 317,
+        "ponto_id": 73732,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV PR JOAO PRATA VIEIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11885220848303,
+          -22.98993614892601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 1429,
+        "ponto_id": 73974,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ABROLHOS",
+        "ende_numero": "20",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12179428959697,
+          -22.99130714112036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 1428,
+        "ponto_id": 73968,
+        "ptseqlinha": 15.5,
+        "ende_logradouro": "R MARAJO",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12329939292525,
+          -22.990942657404446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5376,
+        "ponto_id": 73970,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R MARINICA, S/N",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124866122023334,
+          -22.991520443547373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5376,
+        "ponto_id": 73970,
+        "ptseqlinha": 16.1,
+        "ende_logradouro": "R MARINICA, S/N",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124866122023334,
+          -22.991520443547373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5476,
+        "ponto_id": 73971,
+        "ptseqlinha": 16.1,
+        "ende_logradouro": "R MARTINICA",
+        "ende_numero": "67",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123151184631816,
+          -22.992624586498373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5477,
+        "ponto_id": 73973,
+        "ptseqlinha": 16.2,
+        "ende_logradouro": "R MARTINICA",
+        "ende_numero": "103",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12117766246325,
+          -22.993620956465815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5478,
+        "ponto_id": 73975,
+        "ptseqlinha": 16.3,
+        "ende_logradouro": "R CANARIAS",
+        "ende_numero": "44",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11984412371675,
+          -22.992830482711632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5479,
+        "ponto_id": 73977,
+        "ptseqlinha": 16.4,
+        "ende_logradouro": "R CANARIAS",
+        "ende_numero": "82",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1195664743512,
+          -22.99109801231441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 369,
+        "ponto_id": 73604,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV PR JOAO PRATAVIEIRA",
+        "ende_numero": "342",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,120,135,177,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119188374613366,
+          -22.987813867033612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 95,
+        "ponto_id": 73536,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV PR JOAO PRATA VIEIRA",
+        "ende_numero": "636",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,104,117,120,135,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12034834067543,
+          -22.98548556335161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 550,
+        "ponto_id": 73420,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,120,135,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12058642738917,
+          -22.983511200498533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 551,
+        "ponto_id": 73324,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R CARMEM DE ANGELIS NICOLETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,120,135,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12088003489567,
+          -22.98150323356191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5886,
+        "ponto_id": 73360,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": "744",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12319206502079,
+          -22.980494305965284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 552,
+        "ponto_id": 73460,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": "960",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "117,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125460136935835,
+          -22.98104653417021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 179,
+        "ponto_id": 73488,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": "38",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,114,117,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12695313005946,
+          -22.980003943655408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 180,
+        "ponto_id": 73396,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128224023015584,
+          -22.97755168950666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 181,
+        "ponto_id": 73276,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV EMILLY CRISTIENNE GIOVANINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12818504067072,
+          -22.975756357988608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 182,
+        "ponto_id": 73188,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "94",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12819659399629,
+          -22.97406587971169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 183,
+        "ponto_id": 73072,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "296",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12817232893829,
+          -22.97230627953888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 109,
+        "ponto_id": 73008,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "484",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12817826795056,
+          -22.970606216519304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 110,
+        "ponto_id": 72892,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": "638",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12819652058821,
+          -22.96913267039724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 111,
+        "ponto_id": 72800,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV SUACUNA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,109,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12849456984745,
+          -22.967914368149508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 112,
+        "ponto_id": 72864,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R ARMANDO FREDERICO RENGANESCHI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,107,109,120,180,196 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13129500033523,
+          -22.966201308852263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 124,
+        "num_linha": "180",
+        "sentido": 1,
+        "nome_linha": "JARDIM SANTO ANTONIO (INCLUSIVO)",
+        "extensao_m": 9662.6,
+        "ponto_gid": 5295,
+        "ponto_id": 72920,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "180 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13313854492055,
+          -22.964839091041963
+        ]
+      }
+    }
+  ]
+}

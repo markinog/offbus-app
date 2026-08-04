@@ -1,0 +1,2362 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3695,
+        "ponto_id": 91884,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0182587139537,
+          -22.919712424416232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3696,
+        "ponto_id": 92032,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": "694",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01730773721684,
+          -22.922443547633694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3770,
+        "ponto_id": 92142,
+        "ptseqlinha": 2.5,
+        "ende_logradouro": "AV ITAMARACA",
+        "ende_numero": "250",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01479244528222,
+          -22.923173722874463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3771,
+        "ponto_id": 92140,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ROBERTO ESTEVAM DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01652140405611,
+          -22.923577713699583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3772,
+        "ponto_id": 92288,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R ROBERTO ESTEVAM DE OLIVEIRA",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01550762373399,
+          -22.92466149898129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3773,
+        "ponto_id": 92328,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R PROF FLAVIO WUSTEMBERG",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01547698610488,
+          -22.926132832058148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 6366,
+        "ponto_id": 92489,
+        "ptseqlinha": 5.1,
+        "ende_logradouro": "R GABRIEL MASCARO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01407205702564,
+          -22.927192884552134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3774,
+        "ponto_id": 92516,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R JOAQUIM FLORIANO TEIXEIRA DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.012706952730206,
+          -22.92808708058032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3775,
+        "ponto_id": 92484,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JOAQUIM FLORIANO TEIXEIRA DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01365064814748,
+          -22.9289308821772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3776,
+        "ponto_id": 92388,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOAQUIM FLORIANO TEIXEIRA DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0155290408143,
+          -22.928546137053768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3777,
+        "ponto_id": 92404,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MANUEL DA RESSURREICAO PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.016019801456615,
+          -22.929518506483014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3778,
+        "ponto_id": 92464,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JOSE VON ZUBEN",
+        "ende_numero": "252",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01564679398012,
+          -22.930946519181045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 6094,
+        "ponto_id": 92475,
+        "ptseqlinha": 10.5,
+        "ende_logradouro": "R OSVALDO ANTONIO BOSSONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.013039547837224,
+          -22.9308033245143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3779,
+        "ponto_id": 92416,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R OSVALDO ANTONIO BOSSONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0171417866005,
+          -22.931173268284358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3780,
+        "ponto_id": 92348,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01853745603191,
+          -22.930854707812244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3781,
+        "ponto_id": 92300,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01843289699888,
+          -22.929224306524524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3782,
+        "ponto_id": 92216,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "461",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019462599819605,
+          -22.92924623659226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3783,
+        "ponto_id": 92156,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "218",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02112720649758,
+          -22.930253431972275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3784,
+        "ponto_id": 92028,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "9",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0223073607625,
+          -22.92929812750847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3704,
+        "ponto_id": 91980,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOSE BURGHI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0224393196323,
+          -22.928392897179485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3758,
+        "ponto_id": 91744,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": "414",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023884918752124,
+          -22.9264447567126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3706,
+        "ponto_id": 91488,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02697848535234,
+          -22.925630216762293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3707,
+        "ponto_id": 91536,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": "204",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02822781197972,
+          -22.927689529515696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3708,
+        "ponto_id": 91640,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02863877940368,
+          -22.929574473706346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3709,
+        "ponto_id": 91692,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R OSVALDO ANTONIO BOSSONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029204886982676,
+          -22.930675606064995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3710,
+        "ponto_id": 91576,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R VERGILIO MARQUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029924229852014,
+          -22.929868149864213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3711,
+        "ponto_id": 91384,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV ALBERTO MEDALJON",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032464909886265,
+          -22.928672284572087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3712,
+        "ponto_id": 91360,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ALBERTO MEDALJON",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03436799017654,
+          -22.92958545984785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3713,
+        "ponto_id": 91324,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03670578827796,
+          -22.930339466278024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 2533,
+        "ponto_id": 90036,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038233928312664,
+          -22.930164295582077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 2534,
+        "ponto_id": 91124,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2375",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03968052293307,
+          -22.92895699694896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 2535,
+        "ponto_id": 90968,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04196795406078,
+          -22.927187713493705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 2536,
+        "ponto_id": 90700,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1657",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04452428921101,
+          -22.92519311981067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 2537,
+        "ponto_id": 90600,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047320154839525,
+          -22.922961936981704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 3785,
+        "ponto_id": 48,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0586115321213,
+          -22.90355813958467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 160,
+        "num_linha": "346",
+        "sentido": 1,
+        "nome_linha": "JARDIM CARLOS LOURENCO (INCLUSIVO)",
+        "extensao_m": 13280.8,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3747,
+        "ponto_id": 28,
+        "ptseqlinha": 43.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1639",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,352,359,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185769774488,
+          -22.900849963136597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1358,
+        "ponto_id": 236,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,345,346,349,359,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058813453540964,
+          -22.907030871822027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1307,
+        "ponto_id": 488,
+        "ptseqlinha": 45.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "565",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05757097351104,
+          -22.909343315874935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 2596,
+        "ponto_id": 90584,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0472673320709,
+          -22.923169809723422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 2597,
+        "ponto_id": 90788,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1680",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044524881837745,
+          -22.925398588550916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 2598,
+        "ponto_id": 90964,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1992",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04225744507441,
+          -22.927247906871223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 2599,
+        "ponto_id": 91128,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2334",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0397171024441,
+          -22.929230887011204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 2600,
+        "ponto_id": 91248,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03839957176587,
+          -22.93036583935628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3749,
+        "ponto_id": 91336,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "415",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03692235338505,
+          -22.930699341015824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3750,
+        "ponto_id": 91372,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03468184133149,
+          -22.930011439861797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3751,
+        "ponto_id": 91400,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV ALBERTO MEDALJON",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032353344764616,
+          -22.92892631679633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3752,
+        "ponto_id": 91428,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV ALBERTO MEDALJON",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03090579624109,
+          -22.928182521354326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3753,
+        "ponto_id": 91552,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R VERGILIO MARQUES",
+        "ende_numero": "240",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03026280348293,
+          -22.929893521157073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3754,
+        "ponto_id": 91696,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R OSVALDO ANTONIO BOSSONI",
+        "ende_numero": "362",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02923287416206,
+          -22.93088135778928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3755,
+        "ponto_id": 91680,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": "421",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.028148516447494,
+          -22.929619469796343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3756,
+        "ponto_id": 91564,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": "221",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02784779883118,
+          -22.92790401586987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 4149,
+        "ponto_id": 91472,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027390001482075,
+          -22.92560446753385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3705,
+        "ponto_id": 91760,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": "427",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023867805339606,
+          -22.92667071464078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3759,
+        "ponto_id": 91940,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": "626",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02290994358455,
+          -22.92820437476488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3786,
+        "ponto_id": 92020,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "36",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022377074443696,
+          -22.929445389375807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3787,
+        "ponto_id": 92176,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "197",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02107580115784,
+          -22.930440515789606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3788,
+        "ponto_id": 92224,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R MANOEL LUIZ DE SOUZA NETO",
+        "ende_numero": "478",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019314306541396,
+          -22.929253269426923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3789,
+        "ponto_id": 92304,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": "726",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01841507766909,
+          -22.92941051114874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3790,
+        "ponto_id": 92344,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": "906",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01875781870148,
+          -22.930866530305035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3791,
+        "ponto_id": 92428,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R OSVALDO ANTONIO BOSSONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.017135789690144,
+          -22.93131652956313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 6094,
+        "ponto_id": 92475,
+        "ptseqlinha": 72.5,
+        "ende_logradouro": "R OSVALDO ANTONIO BOSSONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.013039547837224,
+          -22.9308033245143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3792,
+        "ponto_id": 92472,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R JOSE VON ZUBEN",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01528982468177,
+          -22.930905912252243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3793,
+        "ponto_id": 92420,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R MANUEL DA RESSURREICAO PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.015783181201485,
+          -22.92961928598076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3794,
+        "ponto_id": 92392,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R JOAQUIM FLORIANO TEIXEIRA DE CAMARGO",
+        "ende_numero": "178",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.015554490836486,
+          -22.928702591262347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3795,
+        "ponto_id": 92488,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R JOAQUIM FLORIANO TEIXEIRA DE CAMARGO",
+        "ende_numero": "374",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01384504487345,
+          -22.929383159875577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3796,
+        "ponto_id": 92524,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R JOAQUIM FLORIANO TEIXEIRA DE CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.012565071806804,
+          -22.928255989526882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 7347,
+        "ponto_id": 92486,
+        "ptseqlinha": 77.1,
+        "ende_logradouro": "R GABRIEL MASCARO",
+        "ende_numero": "105",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01398324524316,
+          -22.927075254199742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3797,
+        "ponto_id": 92280,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R PROF FLAVIO WESTEMBERG",
+        "ende_numero": "195",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01535796960566,
+          -22.92601580464608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3798,
+        "ponto_id": 92272,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R ROBERTO ESTEVAM DE OLIVEIRA",
+        "ende_numero": "42",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01544443109776,
+          -22.924459891907528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3799,
+        "ponto_id": 92152,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R ROBERTO ESTEVAM DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.016367418240456,
+          -22.92366137379222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3800,
+        "ponto_id": 92150,
+        "ptseqlinha": 80.5,
+        "ende_logradouro": "AV ITAMARACA",
+        "ende_numero": "45",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0149953171676,
+          -22.92313973015545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3766,
+        "ponto_id": 92056,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": "105",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01703911914804,
+          -22.92240200112792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3767,
+        "ponto_id": 91920,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R JANGADEIRO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01833644858334,
+          -22.920915562221204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3768,
+        "ponto_id": 91772,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R JANGADEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0206692442576,
+          -22.921889445936117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3769,
+        "ponto_id": 91764,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV ITATIAIA",
+        "ende_numero": "236",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0194556069302,
+          -22.920583090623207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 235,
+        "num_linha": "346",
+        "sentido": 2,
+        "nome_linha": "JD CARLOS LOURENCO",
+        "extensao_m": 13256.96,
+        "ponto_gid": 3695,
+        "ponto_id": 91884,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0182587139537,
+          -22.919712424416232
+        ]
+      }
+    }
+  ]
+}

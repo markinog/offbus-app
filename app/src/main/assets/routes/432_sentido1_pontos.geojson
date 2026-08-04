@@ -1,0 +1,2012 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5082,
+        "ponto_id": 484,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,433 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06226332003166,
+          -22.90928189575692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5028,
+        "ponto_id": 80020,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07322310738965,
+          -22.938080962682097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5029,
+        "ponto_id": 80040,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07119923841481,
+          -22.941324466718648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5153,
+        "ponto_id": 80056,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07152120078923,
+          -22.943269302985872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5024,
+        "ponto_id": 80090,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07247909829441,
+          -22.946667979023804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5146,
+        "ponto_id": 80168,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R THEREZINHA BARIANI MANTOVANELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07590658683546,
+          -22.950374080670013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5147,
+        "ponto_id": 80126,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R TEN DIVALDO CARNEIRO PEREIRA",
+        "ende_numero": "312",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077029950436845,
+          -22.951713091883047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5083,
+        "ponto_id": 80180,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV RAFAEL DE PAULA OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07542610883166,
+          -22.95278122531807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5084,
+        "ponto_id": 80236,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV ALBERTO DUARTE",
+        "ende_numero": "57",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077581374268675,
+          -22.954442105136074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5085,
+        "ponto_id": 80292,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV GEORGES ZAOUK",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07836532453453,
+          -22.956217259204024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5086,
+        "ponto_id": 80320,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R CELSO LUGLIO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0778043817711,
+          -22.95768702358431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5087,
+        "ponto_id": 80300,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R CINCO (PQ RES CARVALHO DE MOURA)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07702414760204,
+          -22.956571208958138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5088,
+        "ponto_id": 80412,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0788073150138,
+          -22.96123010435647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 7504,
+        "ponto_id": 80389,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV WELLMAN GALVAO DE FRANCA RANGEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "429,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0731138938056,
+          -22.96179303598967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5090,
+        "ponto_id": 80544,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081415819382094,
+          -22.96682180756194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5957,
+        "ponto_id": 80287,
+        "ptseqlinha": 19.5,
+        "ende_logradouro": "AV FRANCISCO ALFREDO JUNIOR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "429,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06557973772843,
+          -22.961043621725196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 4785,
+        "ponto_id": 80428,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064034578989975,
+          -22.964993136255313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 4786,
+        "ponto_id": 80332,
+        "ptseqlinha": 20.5,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06555560070253,
+          -22.97269726744634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 4787,
+        "ponto_id": 80604,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06921030862363,
+          -22.976036013168088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 4788,
+        "ponto_id": 80680,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07448070799266,
+          -22.978660181888028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 4789,
+        "ponto_id": 80696,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08188467604478,
+          -22.978019688205425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5092,
+        "ponto_id": 80616,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R JOSE IFANGER",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08543646020451,
+          -22.973249354083844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5093,
+        "ponto_id": 80640,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R JOSE IFANGER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087404052307775,
+          -22.972976865683485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5094,
+        "ponto_id": 80660,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR DIRCEU DE CAMARGO FRANCO",
+        "ende_numero": "7",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08827996649919,
+          -22.973612376449346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5095,
+        "ponto_id": 80682,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV BENEDITA CAVALCANTE FERREIRA",
+        "ende_numero": "195",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08775121129743,
+          -22.974551470778454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 6338,
+        "ponto_id": 80807,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "R DR FERNANDO VAQUEIRO FERREIRA",
+        "ende_numero": "356",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08683993136526,
+          -22.97523557549143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5096,
+        "ponto_id": 80728,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08559901521787,
+          -22.98116544752738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5119,
+        "ponto_id": 80720,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R ANTONIO AFONSO DE LIMA",
+        "ende_numero": "52",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082890947242646,
+          -22.98138442786916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 7626,
+        "ponto_id": 80945,
+        "ptseqlinha": 28.1,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09073819547195,
+          -23.008013859498046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5120,
+        "ponto_id": 80712,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R ANTONIO AFONSO DE LIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07887521680942,
+          -22.981598035593688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 5904,
+        "ponto_id": 80735,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ANTONIO AFONSO DE LIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071528294841215,
+          -22.983487098228792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 6083,
+        "ponto_id": 80751,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R HILARIO GERALDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06859487362781,
+          -22.984383607507773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 6084,
+        "ponto_id": 80753,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R MANOEL QUIRINO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0674660651133,
+          -22.985006566760926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 318,
+        "num_linha": "432",
+        "sentido": 1,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 15437.25,
+        "ponto_gid": 6085,
+        "ponto_id": 80755,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R BENEDITO MARIANO",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06549558389228,
+          -22.984993175137774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5080,
+        "ponto_id": 81062,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD JOSE BONIFACIO COUTINHO NOGUEIRA (SP-81)",
+        "ende_numero": "8",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0845837559803,
+          -23.017454972282383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5101,
+        "ponto_id": 81070,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "ESTR VICINAL DR JOSE BONIFACIO COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08766099853318,
+          -23.02125923564476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5123,
+        "ponto_id": 80940,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08850390775374,
+          -23.002919480791117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5124,
+        "ponto_id": 80928,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087641064568764,
+          -23.000401382517417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5125,
+        "ponto_id": 80920,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08485267000548,
+          -22.99895523449223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 7624,
+        "ponto_id": 80786,
+        "ptseqlinha": 31.5,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08589955243613,
+          -22.990850152854282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5126,
+        "ponto_id": 80784,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08531589424589,
+          -22.98732970647956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5127,
+        "ponto_id": 80736,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08536977499104,
+          -22.981334936717232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 6337,
+        "ponto_id": 80801,
+        "ptseqlinha": 34.5,
+        "ende_logradouro": "R DR FERNANDO VAQUEIRO FERREIRA",
+        "ende_numero": "312",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086674245255246,
+          -22.975157128775937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5107,
+        "ponto_id": 80678,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R ANTONIO CORREA DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087878320790416,
+          -22.97433722155377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5108,
+        "ponto_id": 80656,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR DIRCEU DE CAMARGO FRANCO",
+        "ende_numero": "151",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08802115644868,
+          -22.973682251560486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5109,
+        "ponto_id": 80644,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R JOSE IFANGER",
+        "ende_numero": "221",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08724855307444,
+          -22.973175209767764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5110,
+        "ponto_id": 80620,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R JOSE IFANGER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08539514162735,
+          -22.97343803342995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4777,
+        "ponto_id": 80688,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08450804031466,
+          -22.977406026636363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4778,
+        "ponto_id": 80692,
+        "ptseqlinha": 39.1,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08213881894821,
+          -22.978253648291687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4779,
+        "ponto_id": 80684,
+        "ptseqlinha": 39.2,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074319937768145,
+          -22.978923420520786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4780,
+        "ponto_id": 80608,
+        "ptseqlinha": 39.3,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068497339325795,
+          -22.976057469256936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4781,
+        "ponto_id": 80336,
+        "ptseqlinha": 39.4,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0652117444381,
+          -22.972368531626557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4782,
+        "ponto_id": 80424,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06361597467879,
+          -22.965019711497433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 4776,
+        "ponto_id": 80226,
+        "ptseqlinha": 39.6,
+        "ende_logradouro": "AV DERMIVAL BERNARDES SIQUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "430,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06307782078767,
+          -22.96266986615272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5956,
+        "ponto_id": 80233,
+        "ptseqlinha": 39.7,
+        "ende_logradouro": "AV FRANCISCO DE ALFREDO JUNIOR",
+        "ende_numero": "497",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "429,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06527172646724,
+          -22.96083264312561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 7503,
+        "ponto_id": 80381,
+        "ptseqlinha": 39.8,
+        "ende_logradouro": "AV WELLMAN GALVAO DE FRANCA RANGEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "429,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073363108553394,
+          -22.961453433539756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5112,
+        "ponto_id": 80548,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "429,431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078962970735525,
+          -22.967753706972776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5443,
+        "ponto_id": 80549,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AC SWISS PARK",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0806594610909,
+          -22.96687741844485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5826,
+        "ponto_id": 80404,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078568156732324,
+          -22.9612490387918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5087,
+        "ponto_id": 80300,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R CINCO (PQ RES CARVALHO DE MOURA)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07702414760204,
+          -22.956571208958138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5114,
+        "ponto_id": 80308,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R CELSO LUGLIO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07773826683537,
+          -22.957527646603822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5115,
+        "ponto_id": 80284,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV GEORGES ZAOUK",
+        "ende_numero": "201",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07822816521774,
+          -22.956207230559624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5116,
+        "ponto_id": 80240,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV ALBERTO DUARTE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07760461988699,
+          -22.95457956479868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5117,
+        "ponto_id": 80212,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV RAFAEL DE PAULA OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "431,432 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07576343396079,
+          -22.95356376427843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5118,
+        "ponto_id": 80184,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV RAFAEL DE PAULA OLIVEIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.075113638732866,
+          -22.952441806233868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5149,
+        "ponto_id": 80088,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0716480773176,
+          -22.944783128078704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5150,
+        "ponto_id": 80064,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07111071956694,
+          -22.943119718531854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5151,
+        "ponto_id": 80044,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07093682963914,
+          -22.94197934132903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5152,
+        "ponto_id": 80024,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,414,415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07299952813828,
+          -22.938101488339495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 72,
+        "num_linha": "432",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 26331.04,
+        "ponto_gid": 5082,
+        "ponto_id": 484,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "431,432,433 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06226332003166,
+          -22.90928189575692
+        ]
+      }
+    }
+  ]
+}

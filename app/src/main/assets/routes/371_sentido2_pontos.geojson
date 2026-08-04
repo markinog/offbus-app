@@ -1,0 +1,2912 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4294,
+        "ponto_id": 91444,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04891440203502,
+          -22.93808979577029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4295,
+        "ponto_id": 91648,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R DA EGLANTINA PENTEADO DA SILVA PRADO",
+        "ende_numero": "170",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0490158115089,
+          -22.940430872509992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 5578,
+        "ponto_id": 91565,
+        "ptseqlinha": 2.5,
+        "ende_logradouro": "AV MARIA EMILIA ALVES DO SANTOS DE ANGELIS",
+        "ende_numero": "324",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049571949981384,
+          -22.941929739513757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4296,
+        "ponto_id": 91888,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV MARIA EMILIA ALVES DOS SANTOS DE ANGELIS",
+        "ende_numero": "520",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04938656953741,
+          -22.943098381131517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 6314,
+        "ponto_id": 91971,
+        "ptseqlinha": 3.5,
+        "ende_logradouro": "AV MARIA  A. DOS SANTOS DE ANGELIS",
+        "ende_numero": "730",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04967803006247,
+          -22.945569192734112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 6203,
+        "ponto_id": 91969,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05173411729262,
+          -22.945738598300956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4298,
+        "ponto_id": 92108,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": "1730",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05411359991379,
+          -22.946564181614498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4300,
+        "ponto_id": 92268,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R EVA DE SOUZA SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05867727764527,
+          -22.948269745294162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4301,
+        "ponto_id": 92120,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R OTAVIO ROCHA",
+        "ende_numero": "521",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05800661873553,
+          -22.94709696965001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4302,
+        "ponto_id": 92008,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056359519682,
+          -22.945433005357618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4303,
+        "ponto_id": 91932,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05562799872354,
+          -22.944444001694148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4304,
+        "ponto_id": 91848,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1507",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055457323495276,
+          -22.943614202253322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4305,
+        "ponto_id": 91776,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1413",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05661885541844,
+          -22.94281444288585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4306,
+        "ponto_id": 91688,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05783906962001,
+          -22.94212152699951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4307,
+        "ponto_id": 91548,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05974956466347,
+          -22.940936378938108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4308,
+        "ponto_id": 91480,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06137639928558,
+          -22.93992118908683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4309,
+        "ponto_id": 91388,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06372643429733,
+          -22.93844545572387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4310,
+        "ponto_id": 91340,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "321",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06534970300853,
+          -22.937421788531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4311,
+        "ponto_id": 91080,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV RALPHO LEITE DE BARROS",
+        "ende_numero": "356",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06716680542007,
+          -22.93315006483497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4312,
+        "ponto_id": 90960,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV RALPHO LEITE DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06844397926009,
+          -22.93095084717141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4313,
+        "ponto_id": 90880,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV RALPHO LEITE DE BARROS",
+        "ende_numero": "276",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06929446043437,
+          -22.929462983003702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 5474,
+        "ponto_id": 90023,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ESTACAO BRS JOAO JORGE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06340202295382,
+          -22.91280493283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 6050,
+        "ponto_id": 402,
+        "ptseqlinha": 24.9,
+        "ende_logradouro": "VD MIGUEL VICENTE CURY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259567527385,
+          -22.908513288351152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 976,
+        "ponto_id": 480,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": "152",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06461739357475,
+          -22.908217180333725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 6213,
+        "ponto_id": 317,
+        "ptseqlinha": 25.5,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "427",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064281330374065,
+          -22.906100515220594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 2717,
+        "ponto_id": 314,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "651",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0617827423814,
+          -22.905035974726985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 3102,
+        "ponto_id": 52,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,331,332,345,348,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05745407928806,
+          -22.903131218528834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 3984,
+        "ponto_id": 20032,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R CASTRO MENDES",
+        "ende_numero": "68",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05631858576159,
+          -22.886847735108994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4314,
+        "ponto_id": 20072,
+        "ptseqlinha": 33.5,
+        "ende_logradouro": "R BSA GERALDO DE REZENDE",
+        "ende_numero": "186",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05742151352376,
+          -22.88466485809521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4315,
+        "ponto_id": 30032,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R BSA GERALDO DE REZENDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059734228528825,
+          -22.883195761360582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 1218,
+        "ponto_id": 30052,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "511",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06110969326602,
+          -22.88203192592217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 1219,
+        "ponto_id": 30064,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "227",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063956067846355,
+          -22.881992556538815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 453,
+        "ponto_id": 30096,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1176",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065951180420484,
+          -22.880333218115464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4316,
+        "ponto_id": 30120,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV MONS LUIZ GONZAGA DE MOURA",
+        "ende_numero": "757",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065110750328394,
+          -22.87935837901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 3601,
+        "ponto_id": 30116,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": "204",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06416779845404,
+          -22.87934543734221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 3602,
+        "ponto_id": 30132,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06332483303203,
+          -22.87788266071253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 3603,
+        "ponto_id": 30176,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV MACHADO DE ASSIS",
+        "ende_numero": "312",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06424807396559,
+          -22.875545893738995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 457,
+        "ponto_id": 30200,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "510",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631018233907,
+          -22.87389349204495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 458,
+        "ponto_id": 30244,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,332,338,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06347272469812,
+          -22.87211134922351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 459,
+        "ponto_id": 30261,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": "1735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063893419368355,
+          -22.870397171864866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4317,
+        "ponto_id": 30332,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": "284",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06524217368635,
+          -22.86797715969374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4318,
+        "ponto_id": 30360,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": "574",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06580391899586,
+          -22.865757285926815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4319,
+        "ponto_id": 30400,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06631271617747,
+          -22.864096398082204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4320,
+        "ponto_id": 30426,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": "972",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066579670380555,
+          -22.862202751294753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4321,
+        "ponto_id": 30468,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R DOS IGUAS",
+        "ende_numero": "466",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067628365130645,
+          -22.860424228825625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4322,
+        "ponto_id": 30472,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R DOS IGUAS",
+        "ende_numero": "672",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06859209027257,
+          -22.858584043061665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4323,
+        "ponto_id": 30548,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R DOS IMARES",
+        "ende_numero": "406",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06893251926972,
+          -22.85695117485621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4324,
+        "ponto_id": 30600,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DOS IMARES",
+        "ende_numero": "9",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0699498798568,
+          -22.85502511206353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4327,
+        "ponto_id": 30668,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DOS AIMORES",
+        "ende_numero": "306",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071127069546,
+          -22.853433336906313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 468,
+        "ponto_id": 30708,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06819371186835,
+          -22.852097391378816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 469,
+        "ponto_id": 30716,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0668832013031,
+          -22.851540874034907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 400,
+        "num_linha": "371",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 18418.09,
+        "ponto_gid": 4326,
+        "ponto_id": 30644,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06079098281907,
+          -22.85262668823345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 471,
+        "ponto_id": 30724,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": "323",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06704665612026,
+          -22.851251391382547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 472,
+        "ponto_id": 30712,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06896863116666,
+          -22.85208688596178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4325,
+        "ponto_id": 30636,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DOS IBITURANAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07135968227009,
+          -22.85374840451863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4328,
+        "ponto_id": 30592,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R DOS JAMARIS",
+        "ende_numero": "433",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070991706295914,
+          -22.855497389548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4329,
+        "ponto_id": 30544,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R DOS JAMARIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07006372332412,
+          -22.857209334376307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4330,
+        "ponto_id": 30508,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R DOS IGUAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068787269155635,
+          -22.858645941034485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4331,
+        "ponto_id": 30484,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R DOS IGUAS",
+        "ende_numero": "446",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06781672078615,
+          -22.86045240943382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4332,
+        "ponto_id": 30424,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06693254544676,
+          -22.862281674810212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4333,
+        "ponto_id": 30396,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06650374430445,
+          -22.86417336214592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4334,
+        "ponto_id": 30356,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06592576400415,
+          -22.86599864500504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4335,
+        "ponto_id": 30328,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065388644076364,
+          -22.868156909269842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 480,
+        "ponto_id": 30288,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV PE MANUEL BERNARDES",
+        "ende_numero": "1085",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064024594541785,
+          -22.869809736769433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 539,
+        "ponto_id": 30248,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "787",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332,338,351,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06174370236895,
+          -22.87190536966388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 2213,
+        "ponto_id": 30204,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "535",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0633987007742,
+          -22.873785005985592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 2214,
+        "ponto_id": 30188,
+        "ptseqlinha": 71.5,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06501575581973,
+          -22.87546397248563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 3592,
+        "ponto_id": 30152,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06315239365655,
+          -22.877340785019335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 3593,
+        "ponto_id": 30124,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": "205",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06439726000765,
+          -22.879225907272946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 486,
+        "ponto_id": 30092,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "95",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06423976408573,
+          -22.88068740702943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4336,
+        "ponto_id": 30036,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R OSWALDO CRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06419132459956,
+          -22.8835787775845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4337,
+        "ponto_id": 30028,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R OSWALDO CRUZ",
+        "ende_numero": "627",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06208464246875,
+          -22.88358089640875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4338,
+        "ponto_id": 20056,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R OSWALDO CRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05863478354667,
+          -22.8852334374188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 1822,
+        "ponto_id": 756,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1309",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05838047038377,
+          -22.890226655458324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 1823,
+        "ponto_id": 568,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "945",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06028123954559,
+          -22.893002619065115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 7427,
+        "ponto_id": 234,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,317,331,332,357,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063112345976016,
+          -22.904460773377703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 3252,
+        "ponto_id": 300,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,330,333,348,371,377,390,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344523434786,
+          -22.906907478723305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 5461,
+        "ponto_id": 90041,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "ESTACAO BRS JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344725983195,
+          -22.91287639998039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 87.5,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4339,
+        "ponto_id": 90870,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV BENEDICTO CAMPOS",
+        "ende_numero": "311",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06969052826091,
+          -22.92872791615798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4340,
+        "ponto_id": 90896,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV PAPA PAULO VI",
+        "ende_numero": "170",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06960928478854,
+          -22.929708136955714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4341,
+        "ponto_id": 90976,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV RALPHO LEITE DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06858492966352,
+          -22.930958128122143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4342,
+        "ponto_id": 91088,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "AV RALPHO LEITE DE BARROS",
+        "ende_numero": "343",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06731050563044,
+          -22.933242985374445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4343,
+        "ponto_id": 91160,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "AV RALPHO LEITE DE BARROS",
+        "ende_numero": "151",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,429,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0669883136382,
+          -22.93500129612511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4344,
+        "ponto_id": 91352,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "368",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06528620073482,
+          -22.937846112316766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4345,
+        "ponto_id": 91416,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "646",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06341361428265,
+          -22.93904382919841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4346,
+        "ponto_id": 91476,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "774",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06204465253748,
+          -22.939906727091827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4347,
+        "ponto_id": 91556,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "974",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06041209901868,
+          -22.940920824150492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4348,
+        "ponto_id": 91720,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1280",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05792828740344,
+          -22.942471012914318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4349,
+        "ponto_id": 91832,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "1470",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05620405921583,
+          -22.943503683091482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4350,
+        "ponto_id": 91904,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": "600",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05556831788321,
+          -22.9440324709924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4351,
+        "ponto_id": 92036,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R STA CRUZ DO RIO PARDO",
+        "ende_numero": "808",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05673611146355,
+          -22.945731640511017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 5657,
+        "ponto_id": 92525,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "R EVA DE SOUZA SANTOS",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05869555057531,
+          -22.94844426442288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4299,
+        "ponto_id": 92528,
+        "ptseqlinha": 102.5,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": "2094",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05766774078333,
+          -22.947770824199136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4353,
+        "ponto_id": 92180,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "AV S JOSE DOS CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05619596980502,
+          -22.94751145064441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4354,
+        "ponto_id": 92136,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "AV SAO JOSE DOS CAMPOS",
+        "ende_numero": "1671",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05304033129756,
+          -22.94603962562473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 6204,
+        "ponto_id": 92123,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05121320847024,
+          -22.94667709345841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 6315,
+        "ponto_id": 92122,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "AV MARIA  A. DOS SANTOS DE ANGELIS",
+        "ende_numero": "759",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959936648008,
+          -22.945465494484047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4357,
+        "ponto_id": 91890,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "AV MARIA EMILIA ALVES  DOS SANTOS ANGELIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04901851121764,
+          -22.942900697689392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 5579,
+        "ponto_id": 91569,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "AV MARIA EMILIA ALVES DOS SANTOS DE ANGELIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049425466515494,
+          -22.941596367611364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4358,
+        "ponto_id": 91656,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "R DA EGLANTINA PENTEADO DA SILVA PRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04875339797129,
+          -22.940547923098368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 47,
+        "num_linha": "371",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 18790.71,
+        "ponto_gid": 4294,
+        "ponto_id": 91444,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04891440203502,
+          -22.93808979577029
+        ]
+      }
+    }
+  ]
+}

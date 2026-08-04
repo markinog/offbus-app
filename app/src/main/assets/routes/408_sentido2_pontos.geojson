@@ -1,0 +1,2787 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4869,
+        "ponto_id": 93040,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0419346710342,
+          -22.966184097117267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4865,
+        "ponto_id": 93034,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": "515",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043146484425954,
+          -22.96779155391044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4868,
+        "ponto_id": 93032,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04488191451036,
+          -22.96685651031249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4870,
+        "ponto_id": 93024,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04620859441249,
+          -22.96605495412049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4871,
+        "ponto_id": 93008,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DR OCTACILIO FERREIRA DE SOUSA",
+        "ende_numero": "60",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04732831555987,
+          -22.9649457715436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4872,
+        "ponto_id": 93004,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04588481346974,
+          -22.96291552284935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4873,
+        "ponto_id": 92992,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04603599810576,
+          -22.961981800321002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4874,
+        "ponto_id": 92972,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04812667932675,
+          -22.962239002742507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4875,
+        "ponto_id": 92976,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "256",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049716207085794,
+          -22.962438830242608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4876,
+        "ponto_id": 92980,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "422",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05130687837004,
+          -22.962687557896075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4877,
+        "ponto_id": 92944,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ODILON FIGUEIREDO DANTAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052772132921326,
+          -22.96120661459783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4878,
+        "ponto_id": 92912,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053345041143125,
+          -22.96015331434293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4879,
+        "ponto_id": 92796,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05272703860901,
+          -22.956984220395857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4880,
+        "ponto_id": 92824,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R TEOFILO TAVARES FILHO",
+        "ende_numero": "293",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05143185292585,
+          -22.957088282496073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4881,
+        "ponto_id": 92820,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05021933687863,
+          -22.95678284271109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4882,
+        "ponto_id": 92728,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04919680915245,
+          -22.955505611255333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4883,
+        "ponto_id": 92648,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R GORO KIYONO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05036331090509,
+          -22.954669173049954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4884,
+        "ponto_id": 92604,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R MASAO MURAYAMA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049745544303036,
+          -22.95316263728884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4885,
+        "ponto_id": 92460,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04827590313095,
+          -22.950254504246725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 7604,
+        "ponto_id": 92466,
+        "ptseqlinha": 18.1,
+        "ende_logradouro": "AV WASHINGTON LUIZ",
+        "ende_numero": "3771",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04779262067733,
+          -22.948023987411663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4886,
+        "ponto_id": 92174,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04638854569792,
+          -22.945778083994536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4887,
+        "ponto_id": 92148,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R BARTIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04571084020377,
+          -22.945262483269385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4888,
+        "ponto_id": 92188,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R CAC CAIUBI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423266622704,
+          -22.94548259219602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4889,
+        "ponto_id": 92076,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R CAC PIQUEROBI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04428382785434,
+          -22.943873875836815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4890,
+        "ponto_id": 92004,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R CAC PIQUEROBI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04558987060214,
+          -22.943558485474195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4891,
+        "ponto_id": 91824,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R LUX AETERNA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046381555938424,
+          -22.941566010720916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3840,
+        "ponto_id": 91412,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04915725712929,
+          -22.937688527720695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3661,
+        "ponto_id": 91664,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "609",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046008069519466,
+          -22.940493795915458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3662,
+        "ponto_id": 91840,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04390716460893,
+          -22.940973552919356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3663,
+        "ponto_id": 91880,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04146540231736,
+          -22.940194716974602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3804,
+        "ponto_id": 91836,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R ARISTIDES XAVIER DE BRITO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04122179248645,
+          -22.93969117341795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3805,
+        "ponto_id": 91632,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R MARIO AUGUSTO MDE ARAGAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04137850058524,
+          -22.937958290776685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4379,
+        "ponto_id": 91500,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R MARIO AUGUSTO MUNIZ DE ARAGAO",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04203879148256,
+          -22.936618754385506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4892,
+        "ponto_id": 91436,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ANTENOR BATISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044176258438696,
+          -22.936571305703296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4380,
+        "ponto_id": 91532,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R LUIZ MARIANO BUENO",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04521696057387,
+          -22.938247554357357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3812,
+        "ponto_id": 91192,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1517",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046941970777915,
+          -22.933958069255446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3813,
+        "ponto_id": 91136,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R SYNIRA DE ARRUDA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04600393569085,
+          -22.932880403308378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3814,
+        "ponto_id": 91008,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R POMPEU CARVALHO DE MOURA",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04903814808096,
+          -22.931078820122153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4893,
+        "ponto_id": 90924,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R POMPEU CARVALHO DE MOURA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05047585918514,
+          -22.930307411404353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4894,
+        "ponto_id": 90892,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R ANTONIO EGYDIO DE VASCONCELOS ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05214763279567,
+          -22.930239399357795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4895,
+        "ponto_id": 90792,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV JOSE ADEMAR ETTER",
+        "ende_numero": "39",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05312178723234,
+          -22.928470146724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3834,
+        "ponto_id": 90720,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "603",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05221845712224,
+          -22.927263330401292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4896,
+        "ponto_id": 90608,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R LEOPOLDO AMARAL",
+        "ende_numero": "286",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052502831761686,
+          -22.92496240669355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4897,
+        "ponto_id": 90544,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R LEOPOLDO AMARAL",
+        "ende_numero": "474",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05255703905075,
+          -22.924030835964185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4898,
+        "ponto_id": 90472,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R LEOPOLDO AMARAL",
+        "ende_numero": "670",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052975859572285,
+          -22.92285341411097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4899,
+        "ponto_id": 90418,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV ENG ROBERTO MANGE",
+        "ende_numero": "260",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053259890571724,
+          -22.921922572296317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4900,
+        "ponto_id": 90336,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV MAL CARMONA",
+        "ende_numero": "987",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05612893705503,
+          -22.92094346478531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3823,
+        "ponto_id": 90196,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05674733831161,
+          -22.918740586941126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 4926,
+        "ponto_id": 90146,
+        "ptseqlinha": 46.5,
+        "ende_logradouro": "R VICTORIANO DOS ANJOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055463073236666,
+          -22.917402398474785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1209,
+        "ponto_id": 60,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1360",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,349,362,385,386,403,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06235994236859,
+          -22.902805931348283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 1853,
+        "ponto_id": 312,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV JOAO PENIDO BURNIER",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06678260358723,
+          -22.902692163281756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 5339,
+        "ponto_id": 620,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06949723742806,
+          -22.9017037893688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 345,
+        "num_linha": "408",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/RODOVIARIA (INCLUSIVO)",
+        "extensao_m": 17700.57,
+        "ponto_gid": 5663,
+        "ponto_id": 799,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071674034503516,
+          -22.906919542306042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 43.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 5663,
+        "ponto_id": 799,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071674034503516,
+          -22.906919542306042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 6212,
+        "ponto_id": 315,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065865515895325,
+          -22.906805076249466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 6214,
+        "ponto_id": 318,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "561",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,353,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0633492801133,
+          -22.9057352835379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3677,
+        "ponto_id": 72,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "957",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05930243407126,
+          -22.90621581151629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4901,
+        "ponto_id": 90092,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "398",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636334818002,
+          -22.91593878024918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3829,
+        "ponto_id": 90184,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05690363879418,
+          -22.918264054668192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4902,
+        "ponto_id": 90464,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R LEOPOLDO AMARAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05308672486059,
+          -22.92280115304102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4903,
+        "ponto_id": 90552,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R LEOPOLDO AMARAL",
+        "ende_numero": "443",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05261085000601,
+          -22.924198420750212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4904,
+        "ponto_id": 90592,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R LEOPOLDO AMARAL",
+        "ende_numero": "309",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05259883219348,
+          -22.92483044090641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3818,
+        "ponto_id": 90732,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "594",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05240485554576,
+          -22.927347498000426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3833,
+        "ponto_id": 90796,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV JOSE ADEMAR ETTER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05320494322552,
+          -22.92851897263758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4905,
+        "ponto_id": 90904,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ANTONIO EGYDIO DE VASCONCELOS ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05172644486569,
+          -22.930210448672458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3837,
+        "ponto_id": 91000,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R PHILEMON DE CUVILLON",
+        "ende_numero": "144",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049470516151985,
+          -22.931140043729407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3838,
+        "ponto_id": 91109,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R PAULO VIRGILIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04740670246874,
+          -22.932776365020988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4906,
+        "ponto_id": 91198,
+        "ptseqlinha": 71.5,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "869",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0468943985149,
+          -22.93535492705637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4411,
+        "ponto_id": 91550,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R LUIZ MARIANO BUENO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0451931026541,
+          -22.9384062089715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 6327,
+        "ponto_id": 91456,
+        "ptseqlinha": 73.5,
+        "ende_logradouro": "R LUIZ MARIANO BUENO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04458858792598,
+          -22.937029212879803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 5951,
+        "ponto_id": 91455,
+        "ptseqlinha": 73.7,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "11",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04111583564028,
+          -22.937987902777643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3844,
+        "ponto_id": 91852,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R MANOEL JOSE PEDRO",
+        "ende_numero": "96",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04105478270531,
+          -22.93989151481011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3692,
+        "ponto_id": 91732,
+        "ptseqlinha": 74.5,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041697900380804,
+          -22.94007129214672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3693,
+        "ponto_id": 91816,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "394",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04421254090457,
+          -22.94080672624557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3694,
+        "ponto_id": 91704,
+        "ptseqlinha": 75.5,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "648",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04628113557128,
+          -22.940015042407026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 3809,
+        "ponto_id": 91408,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049120172811925,
+          -22.937702999956542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4908,
+        "ponto_id": 91830,
+        "ptseqlinha": 76.5,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04679055818755,
+          -22.941712493931423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4887,
+        "ponto_id": 92148,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R BARTIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04571084020377,
+          -22.945262483269385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4888,
+        "ponto_id": 92188,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R CAC CAIUBI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423266622704,
+          -22.94548259219602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4889,
+        "ponto_id": 92076,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R CAC PIQUEROBI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04428382785434,
+          -22.943873875836815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4890,
+        "ponto_id": 92004,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R CAC PIQUEROBI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04558987060214,
+          -22.943558485474195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4866,
+        "ponto_id": 92006,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04655491929708,
+          -22.94424615431084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4867,
+        "ponto_id": 92454,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04794804233588,
+          -22.947552979376987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4909,
+        "ponto_id": 92456,
+        "ptseqlinha": 82.5,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "4150",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04864002326857,
+          -22.9502857323151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4910,
+        "ponto_id": 92612,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R MASAO MURAYAMA",
+        "ende_numero": "421",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04988281107458,
+          -22.953164022743213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4911,
+        "ponto_id": 92660,
+        "ptseqlinha": 83.5,
+        "ende_logradouro": "R GORO KIYONO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05047955920986,
+          -22.9547962273009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4912,
+        "ponto_id": 92720,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049389377290055,
+          -22.955431079820247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4913,
+        "ponto_id": 92784,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050583804336526,
+          -22.957001209196875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4914,
+        "ponto_id": 92816,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R TEOFILO TAVARES FILHO",
+        "ende_numero": "322",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05171451999946,
+          -22.956920858998657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4915,
+        "ponto_id": 92828,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": "559",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053185962888094,
+          -22.957492818330962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4916,
+        "ponto_id": 92916,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05375298300196,
+          -22.960177461330826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4917,
+        "ponto_id": 92928,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R EDUARDO MONKECEVIC",
+        "ende_numero": "577",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05338346650615,
+          -22.96054137707988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4918,
+        "ponto_id": 92968,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050784479088605,
+          -22.96285862442581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4919,
+        "ponto_id": 92988,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049683266748964,
+          -22.962675245519716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4920,
+        "ponto_id": 92984,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048045854591024,
+          -22.9624141050192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4921,
+        "ponto_id": 92996,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04603180913641,
+          -22.962141558248355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4922,
+        "ponto_id": 93000,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": "267",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04598755444734,
+          -22.962796653414152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4923,
+        "ponto_id": 93012,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": "45",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04718748000744,
+          -22.964297129478634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4924,
+        "ponto_id": 93028,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0462591541509,
+          -22.96615219271228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 5174,
+        "ponto_id": 93036,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04479498273394,
+          -22.9665299183601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4925,
+        "ponto_id": 93020,
+        "ptseqlinha": 97.5,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04350098581548,
+          -22.96490668345171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 99,
+        "num_linha": "408",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 15408.39,
+        "ponto_gid": 4869,
+        "ponto_id": 93040,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0419346710342,
+          -22.966184097117267
+        ]
+      }
+    }
+  ]
+}

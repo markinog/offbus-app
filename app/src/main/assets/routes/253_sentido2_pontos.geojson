@@ -1,0 +1,3337 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2526,
+        "ponto_id": 91964,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R AVELINO DE OLIVEIRA VALENTE",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03422526547276,
+          -22.937997225167063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2527,
+        "ponto_id": 92104,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R AVELINO DE OLIVEIRA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03333551545041,
+          -22.939625272528634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2528,
+        "ponto_id": 92128,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R DEOCLESIO CAMARGO MATTOS",
+        "ende_numero": "365",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03252123658456,
+          -22.939498480880747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2529,
+        "ponto_id": 91944,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DEOCLESIO DE CAMARGO MATTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.033706577125116,
+          -22.93735223411633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2530,
+        "ponto_id": 91912,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R DEOCLESIO CAMARA MATTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032786839285194,
+          -22.93638051046177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2531,
+        "ponto_id": 91728,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3177",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03339750356919,
+          -22.934400249772093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2532,
+        "ponto_id": 91520,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03503582608598,
+          -22.932994531008127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 5923,
+        "ponto_id": 91251,
+        "ptseqlinha": 7.5,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2727",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03692892185657,
+          -22.93126485164383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2533,
+        "ponto_id": 90036,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038233928312664,
+          -22.930164295582077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2534,
+        "ponto_id": 91124,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2375",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03968052293307,
+          -22.92895699694896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2535,
+        "ponto_id": 90968,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04196795406078,
+          -22.927187713493705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2536,
+        "ponto_id": 90700,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1657",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04452428921101,
+          -22.92519311981067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2537,
+        "ponto_id": 90600,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047320154839525,
+          -22.922961936981704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2538,
+        "ponto_id": 90044,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,364,366,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053426767393965,
+          -22.913160430164165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 4081,
+        "ponto_id": 632,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "788",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05405194040368,
+          -22.906552199823043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 4082,
+        "ponto_id": 252,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "988",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055020275509854,
+          -22.904919971612255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2777,
+        "ponto_id": 316,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R SAO PEDRO",
+        "ende_numero": "202",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255,265,360,364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05271399597576,
+          -22.901676258482848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 22.5,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2495,
+        "ponto_id": 88,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06305216376929,
+          -22.90390389146436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 979,
+        "ponto_id": 636,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "472",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,212,230,242,251,253,256,260,261,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06905339089645,
+          -22.904253809528534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2046,
+        "ponto_id": 580,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,251,253,256,260,261,264,289,299,318,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070823067941824,
+          -22.90234644940773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2111,
+        "ponto_id": 704,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "136",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,245,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07311216884708,
+          -22.90333568965631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 1903,
+        "ponto_id": 50022,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "442",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07567378599286,
+          -22.90207793706982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 1904,
+        "ponto_id": 50036,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "638",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07820392019202,
+          -22.90128082958847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2112,
+        "ponto_id": 50088,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08105245898399,
+          -22.90004220417862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2541,
+        "ponto_id": 50140,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "1284",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083415773546946,
+          -22.899225355337062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2542,
+        "ponto_id": 50228,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R QUINTINO BOCAIUVA",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08647182746941,
+          -22.898077354309443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2543,
+        "ponto_id": 50252,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R QUINTINO BOCAIUVA",
+        "ende_numero": "324",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08919309005045,
+          -22.898056759589977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2544,
+        "ponto_id": 50316,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R QUINTINO BOCAIUVA",
+        "ende_numero": "510",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090900840683176,
+          -22.898325078892043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2436,
+        "ponto_id": 50340,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "2322",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,254,255,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09297082239031,
+          -22.898295385004662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2437,
+        "ponto_id": 50392,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "2654",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,254,255,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09550248379794,
+          -22.896443636529746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2406,
+        "ponto_id": 50624,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV LIX DA CUNHA (C X B)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10273467271998,
+          -22.897756365665956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2438,
+        "ponto_id": 50796,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,254,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115611978090755,
+          -22.899265977996947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2439,
+        "ponto_id": 51040,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11982369328604,
+          -22.898138417382096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2545,
+        "ponto_id": 50908,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12248133259418,
+          -22.895009856127267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2546,
+        "ponto_id": 50884,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DAS FIGUEIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12132761090781,
+          -22.892765921645204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2547,
+        "ponto_id": 50880,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R DOS ALAMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12113981583477,
+          -22.89176427924023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2548,
+        "ponto_id": 50916,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R DOS ALAMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12237559288426,
+          -22.889881305608988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2549,
+        "ponto_id": 50928,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R DOS IPES AMARELOS",
+        "ende_numero": "154",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12245607817935,
+          -22.888820019669105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2550,
+        "ponto_id": 50944,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R DOS IPES ROXOS",
+        "ende_numero": "217",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12259955687409,
+          -22.88754122792473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2551,
+        "ponto_id": 50964,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12397910692625,
+          -22.88752595667906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2552,
+        "ponto_id": 50984,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": "290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12488288108302,
+          -22.886130294230355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2553,
+        "ponto_id": 51016,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126349069357765,
+          -22.884958843349764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2554,
+        "ponto_id": 51044,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R JOSE BERTOLDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128207952506344,
+          -22.88339176964489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2555,
+        "ponto_id": 51056,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ANDRE BERTOLDI",
+        "ende_numero": "344",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12837458574213,
+          -22.882235802964463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2556,
+        "ponto_id": 51036,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R GIOVANI BERTOLDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12690260867904,
+          -22.881793253005622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2557,
+        "ponto_id": 50996,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R JOAO PURCHIO",
+        "ende_numero": "170",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12380717049922,
+          -22.88216382573526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2558,
+        "ponto_id": 50940,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R JOAO PURCHIO",
+        "ende_numero": "420",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121984801966995,
+          -22.884048319422796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 7398,
+        "ponto_id": 50938,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "R BENEDITA BARBARA POLEZEL",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12048790842356,
+          -22.88486704528414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2559,
+        "ponto_id": 50952,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R PEDRO GIANFRANCISCO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12151855798294,
+          -22.881861536210803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2560,
+        "ponto_id": 50976,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R PEDRO GIANFRANCISCO",
+        "ende_numero": "59",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12204458181574,
+          -22.880724970018758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2561,
+        "ponto_id": 51028,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R SALVADOR MINIACCI CARUSO",
+        "ende_numero": "455",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12519526873326,
+          -22.879354560256893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2562,
+        "ponto_id": 51064,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R JOAO D'AGOSTINO",
+        "ende_numero": "657",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12659556565542,
+          -22.877996926347116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2563,
+        "ponto_id": 51088,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R OCTAVIANO CARLOS SAMPAIO FERRAZ",
+        "ende_numero": "195",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128202197378045,
+          -22.877214936018444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2568,
+        "ponto_id": 51096,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R FRANCISCO LOPES MESQUITA",
+        "ende_numero": "164",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12864682981486,
+          -22.875774215881293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2564,
+        "ponto_id": 51098,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R FRANCISCO LOPES MESQUITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129026291976366,
+          -22.872540569314424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2565,
+        "ponto_id": 51099,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DR ALBERTO FRANCO LAMOUNIER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129551373658266,
+          -22.87021098905543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 5924,
+        "ponto_id": 91249,
+        "ptseqlinha": 115.1,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2714",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03714008334664,
+          -22.93139559764845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 243,
+        "num_linha": "253",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 20821.28,
+        "ponto_gid": 2526,
+        "ponto_id": 91964,
+        "ptseqlinha": 121.0,
+        "ende_logradouro": "R AVELINO DE OLIVEIRA VALENTE",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03422526547276,
+          -22.937997225167063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2566,
+        "ponto_id": 51101,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R FRANCISCO LOPES MESQUITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1293825390466,
+          -22.870817742878756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2567,
+        "ponto_id": 51097,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R FRANCISCO LOPES MESQUITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12912898042727,
+          -22.872550840037626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2568,
+        "ponto_id": 51096,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R FRANCISCO LOPES MESQUITA",
+        "ende_numero": "164",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12864682981486,
+          -22.875774215881293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2569,
+        "ponto_id": 51068,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R JOAO D'AGOSTINO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12670920376099,
+          -22.878090828748874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2570,
+        "ponto_id": 51054,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R OCTAVIANAO C SAMPAIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.127911602869425,
+          -22.87733131054577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2571,
+        "ponto_id": 51012,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R SALVADOR MINIACCI CARUSO",
+        "ende_numero": "455",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12499538020528,
+          -22.879545175229712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2572,
+        "ponto_id": 50972,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R PEDRO GIANFRANCISCO",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122116826150155,
+          -22.881009461219442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2573,
+        "ponto_id": 50956,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R PEDRO GIANFRANCISCO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12168187878088,
+          -22.881899981001826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 7397,
+        "ponto_id": 50934,
+        "ptseqlinha": 68.5,
+        "ende_logradouro": "R BENEDITA BARBARA POLEZEL",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1206708716176,
+          -22.884749100219786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2574,
+        "ponto_id": 50936,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOAO PURCHIO",
+        "ende_numero": "423",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12189379457362,
+          -22.883880265189227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2575,
+        "ponto_id": 50992,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R JOAO PURCHIO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123697620909105,
+          -22.882069415375557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2576,
+        "ponto_id": 51024,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV MARIA EDNA VILAGELIN ZAKIA ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12568287690309,
+          -22.881132618923186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2577,
+        "ponto_id": 51032,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R GIOVANI BERTOLDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1264933954701,
+          -22.881827174685963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2578,
+        "ponto_id": 51060,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R ANDRE BERTOLDI",
+        "ende_numero": "427",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12805518851818,
+          -22.881536372674653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2579,
+        "ponto_id": 51080,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R JOSE BERTOLDI",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12825788694021,
+          -22.883579327853216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2580,
+        "ponto_id": 51020,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12677588680074,
+          -22.88495855081194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2581,
+        "ponto_id": 50988,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12497028126812,
+          -22.886262464469453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2582,
+        "ponto_id": 50968,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124078371635676,
+          -22.887594323699474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2583,
+        "ponto_id": 50960,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12416050814698,
+          -22.889086493846463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2584,
+        "ponto_id": 50920,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R DOS ALAMOS",
+        "ende_numero": "141",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122391444475106,
+          -22.890125382975565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2585,
+        "ponto_id": 50888,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R DOS ALAMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12128082902855,
+          -22.891871270742744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2586,
+        "ponto_id": 50892,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R DAS FIGUEIRAS",
+        "ende_numero": "203",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121414475718495,
+          -22.892677554546086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2587,
+        "ponto_id": 50904,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R DOS CEDROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12271470329445,
+          -22.893407411251296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2588,
+        "ponto_id": 50912,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1229994492148,
+          -22.894487560035458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2432,
+        "ponto_id": 50824,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "ROD JORNALISTA FA PROENCA (AV ROBERTO BOSCH)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11836321052292,
+          -22.899283199532967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2433,
+        "ponto_id": 50792,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11356248009783,
+          -22.89973316570508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2407,
+        "ponto_id": 50550,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10199636962684,
+          -22.897852170094467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2434,
+        "ponto_id": 50456,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R STA MARGARIDA MARIA ALACOQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09718568816745,
+          -22.89683598325378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2300,
+        "ponto_id": 50408,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "1519",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09556762039205,
+          -22.894976484500184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2589,
+        "ponto_id": 50356,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R REINALDO LAUBENSTEIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09395819506469,
+          -22.89653504550061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2590,
+        "ponto_id": 50328,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R REINALDO LAUBENSTEIN",
+        "ende_numero": "57",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09219942832963,
+          -22.8981838507513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2591,
+        "ponto_id": 50304,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R CLODOMIRO FERREIRA DE CAMARGO",
+        "ende_numero": "162",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0911596899383,
+          -22.897894295884438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2592,
+        "ponto_id": 50268,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "1171",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0893250715176,
+          -22.89721336135276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2593,
+        "ponto_id": 50232,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "931",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086987147216384,
+          -22.897168887328842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2594,
+        "ponto_id": 50188,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "697",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084771846288035,
+          -22.897591223722124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2595,
+        "ponto_id": 50132,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08251537129169,
+          -22.898528656329695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2066,
+        "ponto_id": 50072,
+        "ptseqlinha": 95.5,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080404843725205,
+          -22.899552349482093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2067,
+        "ponto_id": 50040,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07884264873252,
+          -22.900228856250443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2068,
+        "ponto_id": 50032,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "R DR JOAQUIM DE SOUZA CAMPOS JR",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07720798232934,
+          -22.89931746532472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2069,
+        "ponto_id": 50020,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "R SALUSTIANO PENTEADO",
+        "ende_numero": "407",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07550858788176,
+          -22.89969316925414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2070,
+        "ponto_id": 50012,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "R. SALUSTIANO PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0729601282385,
+          -22.901023477699905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2251,
+        "ponto_id": 724,
+        "ptseqlinha": 99.5,
+        "ende_logradouro": "R BR DE PARNAIBA",
+        "ende_numero": "615",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07131238963069,
+          -22.902538412193223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 982,
+        "ponto_id": 800,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "73",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,244,253,273,341,342,383,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07338580881725,
+          -22.90425635899394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1358,
+        "ponto_id": 236,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,345,346,349,359,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058813453540964,
+          -22.907030871822027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1307,
+        "ponto_id": 488,
+        "ptseqlinha": 105.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "565",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05757097351104,
+          -22.909343315874935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 7340,
+        "ponto_id": 90014,
+        "ptseqlinha": 106.1,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173,253,341,342,344,345,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05536770427731,
+          -22.915383581991176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2596,
+        "ponto_id": 90584,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0472673320709,
+          -22.923169809723422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2597,
+        "ponto_id": 90788,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1680",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044524881837745,
+          -22.925398588550916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2598,
+        "ponto_id": 90964,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1992",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04225744507441,
+          -22.927247906871223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2599,
+        "ponto_id": 91128,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2334",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0397171024441,
+          -22.929230887011204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2600,
+        "ponto_id": 91248,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03839957176587,
+          -22.93036583935628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2601,
+        "ponto_id": 91572,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3050",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03472278841449,
+          -22.93347748338671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2602,
+        "ponto_id": 91716,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "3178",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03358584510384,
+          -22.934501477567323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2603,
+        "ponto_id": 91900,
+        "ptseqlinha": 118.0,
+        "ende_logradouro": "R RAFAEL SPINA",
+        "ende_numero": "239",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03253682099669,
+          -22.935971495006225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2523,
+        "ponto_id": 92134,
+        "ptseqlinha": 118.5,
+        "ende_logradouro": "R DEOCLESIO CAMARA MATTOS",
+        "ende_numero": "170",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03374187856928,
+          -22.9376541290351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2604,
+        "ponto_id": 92126,
+        "ptseqlinha": 119.0,
+        "ende_logradouro": "R DEOCLESIO CAMARA MATTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032872483108314,
+          -22.93924038438443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 206,
+        "num_linha": "253",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 21702.43,
+        "ponto_gid": 2605,
+        "ponto_id": 92130,
+        "ptseqlinha": 120.0,
+        "ende_logradouro": "R AVELINO DE OLIVEIRA VALENTE",
+        "ende_numero": "561",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.033289148588615,
+          -22.939432938616875
+        ]
+      }
+    }
+  ]
+}

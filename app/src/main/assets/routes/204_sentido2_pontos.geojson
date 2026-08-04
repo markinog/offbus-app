@@ -1,0 +1,1212 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 5694,
+        "ponto_id": 61597,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208,215,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180730596821554,
+          -22.9423739058455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1656,
+        "ponto_id": 61848,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18800618686535,
+          -22.951104476602158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1657,
+        "ponto_id": 61868,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "EST MUNIC DA PAZ",
+        "ende_numero": "1430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18943564432449,
+          -22.95211982259341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1679,
+        "ponto_id": 61900,
+        "ptseqlinha": 5.5,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "17",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190654051893894,
+          -22.953213177438236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1680,
+        "ponto_id": 61860,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1888396171283,
+          -22.95222157401554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 5347,
+        "ponto_id": 61861,
+        "ptseqlinha": 6.1,
+        "ende_logradouro": "R EDUARDO HENRIQUE",
+        "ende_numero": "76",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.187836121560146,
+          -22.953186724207104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 5348,
+        "ponto_id": 61862,
+        "ptseqlinha": 6.2,
+        "ende_logradouro": "R EDUARDO HENRIQUE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.187292458191706,
+          -22.955234856668223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 5349,
+        "ponto_id": 61863,
+        "ptseqlinha": 6.3,
+        "ende_logradouro": "R MERCEDES GASPARI CONCON",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18865023131498,
+          -22.95729349258715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 7466,
+        "ponto_id": 61875,
+        "ptseqlinha": 6.3,
+        "ende_logradouro": "R. EDUARDO HENRIQUE R. DOMINGOS",
+        "ende_numero": "500",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186890551474036,
+          -22.956902331307965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 5349,
+        "ponto_id": 61863,
+        "ptseqlinha": 6.4,
+        "ende_logradouro": "R MERCEDES GASPARI CONCON",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18865023131498,
+          -22.95729349258715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1683,
+        "ponto_id": 61980,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R PAULO GLIWKOFF",
+        "ende_numero": "162",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19145576606514,
+          -22.957922400586025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1684,
+        "ponto_id": 62072,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R PAULO GLIWKOFF",
+        "ende_numero": "376",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19433677781374,
+          -22.958384380717472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1685,
+        "ponto_id": 62112,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R WILSON ROMERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19682128168863,
+          -22.960225125630426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1686,
+        "ponto_id": 62124,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R PROF PAULO JOSE OCTAVIANO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1971784526233,
+          -22.961241885791797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1687,
+        "ponto_id": 62160,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R OVIDIO COLUCCINI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.198514194082954,
+          -22.961452930937842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1687,
+        "ponto_id": 62160,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R OVIDIO COLUCCINI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.198514194082954,
+          -22.961452930937842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1688,
+        "ponto_id": 62168,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R OVIDIO COLUCCINI",
+        "ende_numero": "25",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19807133177673,
+          -22.96357607190827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1689,
+        "ponto_id": 62192,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R BENEDITO MOREIRA LOPES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.198282760279405,
+          -22.965293552868065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1690,
+        "ponto_id": 62196,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R BENEDITO MOREIRA LOPES",
+        "ende_numero": "157",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19793811600493,
+          -22.96691719675033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1691,
+        "ponto_id": 62200,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R BENEDITO MOREIRA LOPES",
+        "ende_numero": "33",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19760914204408,
+          -22.968103160258917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1692,
+        "ponto_id": 62228,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R WILSON ROMERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19985210905206,
+          -22.96793816902575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1693,
+        "ponto_id": 62224,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV DOIS (CJ RES PQ SAO BENTO)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208,215 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20030757191864,
+          -22.966381771981492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1694,
+        "ponto_id": 62212,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AVENIDA ADOLPHO BLOCK(AVDOIS)",
+        "ende_numero": "366",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20070699579559,
+          -22.9648806768679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1695,
+        "ponto_id": 62204,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV FREI ANTONIO DE SANT'ANA GALVAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.200161115538876,
+          -22.963687174599787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1696,
+        "ponto_id": 62176,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R PE PEDRO SCHOUTEN",
+        "ende_numero": "80",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.199002112231796,
+          -22.962976470065392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1697,
+        "ponto_id": 62208,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOSE DE SOUZA",
+        "ende_numero": "216",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,215 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.201091892958026,
+          -22.962363762111604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1698,
+        "ponto_id": 62216,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R JOSE GOMES DA SILVA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20234573239757,
+          -22.96227783028979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1699,
+        "ponto_id": 62232,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R JOVENAL FERNANDES",
+        "ende_numero": "1875",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2032877092683,
+          -22.961686994971455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1700,
+        "ponto_id": 62220,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R JOVENAL FERNANDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20320518792243,
+          -22.960484625527524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1701,
+        "ponto_id": 62180,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ADOLPHO BLOCH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,215 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20111412589824,
+          -22.959501172305597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1702,
+        "ponto_id": 62164,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV ADOLPHO BLOCH",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,215 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2003609396252,
+          -22.958179831710687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1703,
+        "ponto_id": 62136,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R OVIDIO COLUCCINI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19935123703186,
+          -22.958012844531403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1704,
+        "ponto_id": 62140,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R OVIDIO COLUCCINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.199150318610826,
+          -22.9588428929178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1705,
+        "ponto_id": 62148,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R OVIDIO COLUCCINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19894094113488,
+          -22.959716750569292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1706,
+        "ponto_id": 62132,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R JULIO ROALD MARTIN JONSSON",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.197773219206404,
+          -22.960702204157382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1707,
+        "ponto_id": 62116,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ARNALDO MACHADO FLORENCE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.196949791209086,
+          -22.95992842280272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1708,
+        "ponto_id": 62092,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R ALEXANDRE VANUCCHI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,212,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19534508534982,
+          -22.95938617485693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1709,
+        "ponto_id": 62060,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R PAULO GLIWKOFF",
+        "ende_numero": "375",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19394783927572,
+          -22.958506125540044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1863,
+        "ponto_id": 61992,
+        "ptseqlinha": 34.1,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "341",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19245647953351,
+          -22.95635062955629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1864,
+        "ponto_id": 61940,
+        "ptseqlinha": 34.2,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19243031510966,
+          -22.95485751046994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1679,
+        "ponto_id": 61900,
+        "ptseqlinha": 34.3,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "17",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190654051893894,
+          -22.953213177438236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1680,
+        "ponto_id": 61860,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1888396171283,
+          -22.95222157401554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1681,
+        "ponto_id": 61792,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1061",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,207,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186662101189405,
+          -22.94935220956497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 348,
+        "num_linha": "204",
+        "sentido": 1,
+        "nome_linha": "PQ. DA FLORESTA",
+        "extensao_m": 11971.6,
+        "ponto_gid": 687,
+        "ponto_id": 61580,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,201,202,203,204,206,207,208,209,217,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180489559938,
+          -22.94242597483818
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2162 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5824,
+        "ponto_id": 81184,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV JOSE LOPES SERRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105626041575306,
+          -23.03317325534983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1463,
+        "ponto_id": 81216,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105156333450275,
+          -23.03490488062471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5965,
+        "ponto_id": 81302,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R JUVENAL DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10757758348059,
+          -23.037596848370416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1419,
+        "ponto_id": 81308,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JUVENAL DE OLIVEIRA",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10608654039555,
+          -23.038534799783903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 7182,
+        "ponto_id": 81331,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JUSTINO FERNANDES SERRA",
+        "ende_numero": "480",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10471293148074,
+          -23.04041112279836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1420,
+        "ponto_id": 81404,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": "273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104644051348004,
+          -23.04150562954988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1421,
+        "ponto_id": 81460,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": "634",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10356214545905,
+          -23.04222661869579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1422,
+        "ponto_id": 81448,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": "285",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10186733713523,
+          -23.042579750415324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1423,
+        "ponto_id": 81352,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": "202",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10046305373013,
+          -23.04169962343238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1424,
+        "ponto_id": 81316,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099806490315636,
+          -23.040740402711915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1425,
+        "ponto_id": 81268,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "713",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10106036776046,
+          -23.039311283884956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1426,
+        "ponto_id": 81240,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "385",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10319627662437,
+          -23.0370469683548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1427,
+        "ponto_id": 81224,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1043076336416,
+          -23.035837970302588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1431,
+        "ponto_id": 81212,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10499864079963,
+          -23.034312767065988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1500,
+        "ponto_id": 81248,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MARIO JOSE DE OLIVEIRA",
+        "ende_numero": "67",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106205462102736,
+          -23.03510575292013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1432,
+        "ponto_id": 81140,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10362312149151,
+          -23.031700422343174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1433,
+        "ponto_id": 81112,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101590272472485,
+          -23.03133447508341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1434,
+        "ponto_id": 81092,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": "451",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10060961751472,
+          -23.030124619685143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1435,
+        "ponto_id": 81080,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10099274247153,
+          -23.029364730683778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1436,
+        "ponto_id": 81060,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10051703489021,
+          -23.027348948923603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1437,
+        "ponto_id": 81064,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10183337698074,
+          -23.027754719016887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1438,
+        "ponto_id": 81096,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100810617481066,
+          -23.030282140444502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1439,
+        "ponto_id": 81108,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": "94",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10179508647872,
+          -23.031235789767642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1440,
+        "ponto_id": 81144,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10377218311457,
+          -23.031527948107414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1441,
+        "ponto_id": 81164,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1059328917027,
+          -23.031570470369925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1442,
+        "ponto_id": 81176,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANGELINO MACHADO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10770879350391,
+          -23.031294401947193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5963,
+        "ponto_id": 81171,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R PROJETADA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10782144418926,
+          -23.028603045975444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1443,
+        "ponto_id": 81124,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R LAZARO FERREIRA BARBOSA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11085914237482,
+          -23.028831368272606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1444,
+        "ponto_id": 81128,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R IRINEU DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11178630078964,
+          -23.02841789508346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1446,
+        "ponto_id": 81148,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113124877064195,
+          -23.028795106923045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1447,
+        "ponto_id": 81200,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114428133004964,
+          -23.030913394570266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1448,
+        "ponto_id": 81232,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": "243",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,192 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117705765566924,
+          -23.032171587924303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1449,
+        "ponto_id": 81276,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": "890",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,192 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118642415712976,
+          -23.033663514086886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5818,
+        "ponto_id": 81260,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV MARGINAL (RUA UM)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12066933054878,
+          -23.032302148709963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1405,
+        "ponto_id": 81180,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV MARGINAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1218035350689,
+          -23.028678893367285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 7523,
+        "ponto_id": 74848,
+        "ptseqlinha": 35.1,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "465",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13877548950197,
+          -23.01287571073185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 6325,
+        "ponto_id": 74802,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13360027285604,
+          -23.013526458616997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 6324,
+        "ponto_id": 74814,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12941702631448,
+          -23.016370538592106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5659,
+        "ponto_id": 74797,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793671819422,
+          -23.019561979165978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 6323,
+        "ponto_id": 74793,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12726861288158,
+          -23.017307447709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5335,
+        "ponto_id": 74795,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12909479814414,
+          -23.015972526651097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5740,
+        "ponto_id": 74799,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13121202636493,
+          -23.0144863636971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5334,
+        "ponto_id": 74807,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13342460578203,
+          -23.013186998410152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 7180,
+        "ponto_id": 74813,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13713260691007,
+          -23.01234708897931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 5333,
+        "ponto_id": 74811,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14043415199295,
+          -23.01275508075005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1451,
+        "ponto_id": 74824,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R F",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143983160756214,
+          -23.009775367951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 290,
+        "num_linha": "187",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 16614.01,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1453,
+        "ponto_id": 74836,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14505426400336,
+          -23.012113955312397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5822,
+        "ponto_id": 81188,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R LUIZ ALVES DE LIMA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1224383068194,
+          -23.029226000861602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5820,
+        "ponto_id": 81264,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R LEONICE AP OLIVEIRA DA SILVA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12030676154086,
+          -23.03338410261605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1454,
+        "ponto_id": 81284,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": "90",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,192 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118302393178304,
+          -23.03336683204968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1455,
+        "ponto_id": 81236,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": "230",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,192 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11721386664078,
+          -23.031640720378387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5823,
+        "ponto_id": 81208,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MARIA DA GLORIA LEITE PENTEADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11554142164971,
+          -23.03064760750353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1456,
+        "ponto_id": 81204,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11426816607004,
+          -23.03099840620384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1457,
+        "ponto_id": 81152,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": "414",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11298316184301,
+          -23.028875409642108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1459,
+        "ponto_id": 81136,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R IRINEU DOS SANTOS",
+        "ende_numero": "520",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11185426885341,
+          -23.02857457033141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1460,
+        "ponto_id": 81116,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ALVARO SALVETTI",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111094169135484,
+          -23.028535158048008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1461,
+        "ponto_id": 81172,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ANGELINO MACHADO DOS SANTOS",
+        "ende_numero": "42",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10791750495068,
+          -23.031312113088177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5964,
+        "ponto_id": 81173,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROJETADA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10808585780041,
+          -23.028599522418965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1462,
+        "ponto_id": 81168,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105865156483155,
+          -23.031782708616834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1432,
+        "ponto_id": 81140,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10362312149151,
+          -23.031700422343174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1433,
+        "ponto_id": 81112,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101590272472485,
+          -23.03133447508341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1434,
+        "ponto_id": 81092,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": "451",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10060961751472,
+          -23.030124619685143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1435,
+        "ponto_id": 81080,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10099274247153,
+          -23.029364730683778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1436,
+        "ponto_id": 81060,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10051703489021,
+          -23.027348948923603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1437,
+        "ponto_id": 81064,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10183337698074,
+          -23.027754719016887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1438,
+        "ponto_id": 81096,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100810617481066,
+          -23.030282140444502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1439,
+        "ponto_id": 81108,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": "94",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10179508647872,
+          -23.031235789767642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1440,
+        "ponto_id": 81144,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10377218311457,
+          -23.031527948107414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5824,
+        "ponto_id": 81184,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV JOSE LOPES SERRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105626041575306,
+          -23.03317325534983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1463,
+        "ponto_id": 81216,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105156333450275,
+          -23.03490488062471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1393,
+        "ponto_id": 81228,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10434419458712,
+          -23.036228740474286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1394,
+        "ponto_id": 81244,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "385",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10337800273266,
+          -23.037263922245756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1395,
+        "ponto_id": 81272,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101211236364676,
+          -23.039649800943597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1396,
+        "ponto_id": 81320,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": "950",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100007483735475,
+          -23.04096391543476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1397,
+        "ponto_id": 81356,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": "199",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100523352501035,
+          -23.04140136220587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1398,
+        "ponto_id": 81444,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R EDSON MAZZOCO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10221398745734,
+          -23.042495427666093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1399,
+        "ponto_id": 81440,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10335468955299,
+          -23.042130255619796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1400,
+        "ponto_id": 81396,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CAROLINA BREGA PEREIRA",
+        "ende_numero": "133",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104540098336656,
+          -23.04127098158584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1401,
+        "ponto_id": 81300,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R JUVENAL DE OLIVEIRA",
+        "ende_numero": "350",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10505822842894,
+          -23.03904253085242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5966,
+        "ponto_id": 81306,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R JUVENAL DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10738205517756,
+          -23.0373379895005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1431,
+        "ponto_id": 81212,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV JOSE ARNOLDO AMBIEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10499864079963,
+          -23.034312767065988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1500,
+        "ponto_id": 81248,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R MARIO JOSE DE OLIVEIRA",
+        "ende_numero": "67",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106205462102736,
+          -23.03510575292013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 1441,
+        "ponto_id": 81164,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1059328917027,
+          -23.031570470369925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 153,
+        "num_linha": "187",
+        "sentido": 2,
+        "nome_linha": "SÃO DOMINGOS / VIRACOPOS",
+        "extensao_m": 12793.24,
+        "ponto_gid": 5824,
+        "ponto_id": 81184,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV JOSE LOPES SERRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,190 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105626041575306,
+          -23.03317325534983
+        ]
+      }
+    }
+  ]
+}

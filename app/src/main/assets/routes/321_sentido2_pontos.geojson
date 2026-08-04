@@ -1,0 +1,2037 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3332,
+        "ponto_id": 31080,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07939781582992,
+          -22.830741417188754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3298,
+        "ponto_id": 31208,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07989348290145,
+          -22.827313341022144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3299,
+        "ponto_id": 31284,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08205861253185,
+          -22.82494880739181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3300,
+        "ponto_id": 31308,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "554",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083038008489005,
+          -22.824093426623428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3435,
+        "ponto_id": 31400,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R AGOSTINHO PATTARO",
+        "ende_numero": "47",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08256431260233,
+          -22.822518834187157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3436,
+        "ponto_id": 31436,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R MARIA FERREIRA ANTUNES",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08122265152272,
+          -22.821276344132688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3397,
+        "ponto_id": 31524,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080992982726535,
+          -22.817792672037676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 5361,
+        "ponto_id": 31525,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ABINO J B DE OLIVEIRA PX N 2394",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080740213698675,
+          -22.815964117847482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3398,
+        "ponto_id": 31640,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08030360967607,
+          -22.81449014232028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3514,
+        "ponto_id": 31720,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV OSCAR PEDROSO HORTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07828662706012,
+          -22.809059347591507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3339,
+        "ponto_id": 31680,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07525977655269,
+          -22.810215732836006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3340,
+        "ponto_id": 31684,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "490",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07226171857973,
+          -22.809822283614306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3341,
+        "ponto_id": 31688,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07064863400728,
+          -22.80944532597049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3342,
+        "ponto_id": 31696,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MONS LOSCHI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066880611751486,
+          -22.809111366425572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3343,
+        "ponto_id": 31716,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DR GABRIEL PORTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064959592436246,
+          -22.807677346997764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3344,
+        "ponto_id": 31736,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R MARCIA MENDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06287182038528,
+          -22.806116720853655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3345,
+        "ponto_id": 31764,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R MARCIA MENDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063206835837086,
+          -22.80321195687186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 5913,
+        "ponto_id": 31746,
+        "ptseqlinha": 17.5,
+        "ende_logradouro": "R MARCIA MENDES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06341003990325,
+          -22.80131444151105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3346,
+        "ponto_id": 31784,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06509489793853,
+          -22.800605497399985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3347,
+        "ponto_id": 31800,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994543928904,
+          -22.800089873238644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3348,
+        "ponto_id": 31816,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149199853714,
+          -22.799279490225757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3349,
+        "ponto_id": 31824,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072243299056346,
+          -22.796515140240757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3350,
+        "ponto_id": 31840,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073079476295725,
+          -22.79460406100496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3351,
+        "ponto_id": 31876,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": "886",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074302290484525,
+          -22.79190116103737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3352,
+        "ponto_id": 31908,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072987531480564,
+          -22.78984128259019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3353,
+        "ponto_id": 31940,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "514",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070953542873504,
+          -22.788276347838366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3354,
+        "ponto_id": 31964,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068196933986286,
+          -22.786204355222758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3355,
+        "ponto_id": 31984,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06367245696479,
+          -22.78271630717771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3356,
+        "ponto_id": 31966,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R JOSE SABINO FILHO",
+        "ende_numero": "68",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061688024880816,
+          -22.78478095131494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3357,
+        "ponto_id": 31962,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R JOSE SABINO FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0626948588429,
+          -22.78603050238672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3358,
+        "ponto_id": 31942,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R JOSE SABINO FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063967879196824,
+          -22.78753353839177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3359,
+        "ponto_id": 31934,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DILERMANDO TABLAS",
+        "ende_numero": "82",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065817179491766,
+          -22.788433429649597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3360,
+        "ponto_id": 31954,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R JOAQUIM JOSE DOS REIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06504655055074,
+          -22.78674126893066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3361,
+        "ponto_id": 31974,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R JOAQUIM JOSE DOS REIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06338294795003,
+          -22.785463127798057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3362,
+        "ponto_id": 21512,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04538320424643,
+          -22.784651834463933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3363,
+        "ponto_id": 21504,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04447960544605,
+          -22.785362500439973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 6120,
+        "ponto_id": 21522,
+        "ptseqlinha": 35.1,
+        "ende_logradouro": "R MARIA ANTOIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04299646790743,
+          -22.786458257278834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3364,
+        "ponto_id": 21496,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04167151289699,
+          -22.78746736914497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 6121,
+        "ponto_id": 21530,
+        "ptseqlinha": 36.1,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037377802264814,
+          -22.79023683936392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3365,
+        "ponto_id": 21484,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03898980313742,
+          -22.78941518859579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 6122,
+        "ponto_id": 21555,
+        "ptseqlinha": 37.1,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04041536244548,
+          -22.78839833308757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3366,
+        "ponto_id": 21480,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035448226737586,
+          -22.790961179577884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3367,
+        "ponto_id": 21470,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03549717193345,
+          -22.795901196993032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 6126,
+        "ponto_id": 21477,
+        "ptseqlinha": 39.1,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03819786025592,
+          -22.792989106740624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3368,
+        "ponto_id": 21476,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04080635342903,
+          -22.790334756395136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3369,
+        "ponto_id": 21500,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04465949970347,
+          -22.786553362209702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3370,
+        "ponto_id": 31970,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R JOAQUIM JOSE DOS REIS",
+        "ende_numero": "46",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0619754934196,
+          -22.78413389754922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3371,
+        "ponto_id": 31972,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R JOAQUIM JOSE DOS REIS",
+        "ende_numero": "254",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063635314925925,
+          -22.785424201827045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3372,
+        "ponto_id": 31952,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R JOAQUIM JOSE DOS REIS",
+        "ende_numero": "428",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064917552743296,
+          -22.786339296639106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3373,
+        "ponto_id": 31932,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R DILERMANDO TABLAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0657693872998,
+          -22.788763119760816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3374,
+        "ponto_id": 31944,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R JOSE SABINO FILHO",
+        "ende_numero": "445",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0637934424305,
+          -22.78779914326622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3375,
+        "ponto_id": 31960,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R JOSE SABINO FILHO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06251064980568,
+          -22.786239084919675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3376,
+        "ponto_id": 31958,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R JOSE SABINO FILHO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06142173560565,
+          -22.785020837543403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3377,
+        "ponto_id": 31986,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06361879227805,
+          -22.78243189646185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3378,
+        "ponto_id": 31968,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "20",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06834153547286,
+          -22.786096310595465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3379,
+        "ponto_id": 31936,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "495",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07123755272006,
+          -22.788301277991405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3380,
+        "ponto_id": 31916,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07310653567176,
+          -22.78971334376037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3381,
+        "ponto_id": 31868,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07438257508498,
+          -22.792117329607724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3382,
+        "ponto_id": 31836,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": "519",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073313608765524,
+          -22.794638302004444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3383,
+        "ponto_id": 31820,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": "401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07240343062939,
+          -22.796552059574115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3384,
+        "ponto_id": 31812,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07181257385665,
+          -22.79954628443849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3385,
+        "ponto_id": 31796,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": "1056",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06813254771085,
+          -22.8003153173306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3386,
+        "ponto_id": 31780,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R GIUSEPPE MAXIMO SCOLFARO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065148570944096,
+          -22.800820300437792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 5912,
+        "ponto_id": 31741,
+        "ptseqlinha": 58.5,
+        "ende_logradouro": "R MARCIA MENDES",
+        "ende_numero": "50",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063579063122134,
+          -22.801291756328755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3387,
+        "ponto_id": 31760,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R MARCIA MENDES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06329824260338,
+          -22.803761933399443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3388,
+        "ponto_id": 31740,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R MARCIA MENDES",
+        "ende_numero": "530",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06314656493055,
+          -22.805657340453287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3389,
+        "ponto_id": 31724,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R DR GABRIEL PORTO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06483957868014,
+          -22.80756930216583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3390,
+        "ponto_id": 31704,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R MONS LOSCHI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066845248755385,
+          -22.80892882780204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3391,
+        "ponto_id": 31708,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07056158838657,
+          -22.80913833236073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3392,
+        "ponto_id": 31700,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072331645562635,
+          -22.809566360607718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3393,
+        "ponto_id": 31692,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV LUIZ DE TELLA",
+        "ende_numero": "35",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,328 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07645786372043,
+          -22.810141894954903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3534,
+        "ponto_id": 31712,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV OSCAR PEDROSO HORTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07744160887984,
+          -22.809524290967193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3422,
+        "ponto_id": 31624,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08058963188698,
+          -22.814633291841506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 7540,
+        "ponto_id": 31629,
+        "ptseqlinha": 67.1,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08106100929977,
+          -22.815992702167662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3423,
+        "ponto_id": 31528,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08133036978898,
+          -22.817831096996656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3464,
+        "ponto_id": 31452,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R MARIA FERREIRA ANTUNES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08166252142303,
+          -22.82113517757704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3465,
+        "ponto_id": 31404,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R AGOSTINHO PATTARO",
+        "ende_numero": "56",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08271240577167,
+          -22.822401160041817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3329,
+        "ponto_id": 31304,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "541",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08310286657952,
+          -22.824248851427758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3330,
+        "ponto_id": 31268,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "369",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08202168430781,
+          -22.825330358203118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3331,
+        "ponto_id": 31212,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV STA IZABEL",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "320,321,323,324,325 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08010166489951,
+          -22.827396296930687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 63,
+        "num_linha": "321",
+        "sentido": 1,
+        "nome_linha": "JOCKEY CLUB",
+        "extensao_m": 29411.12,
+        "ponto_gid": 3332,
+        "ponto_id": 31080,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07939781582992,
+          -22.830741417188754
+        ]
+      }
+    }
+  ]
+}

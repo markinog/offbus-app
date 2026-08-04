@@ -1,0 +1,1512 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3945,
+        "ponto_id": 21668,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R MARIA LEONOR PINHEIRO PORTO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0156600098337,
+          -22.756193510867437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3946,
+        "ponto_id": 21644,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R DR AVANTE SMANIO",
+        "ende_numero": "81",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01944790297227,
+          -22.75694933375827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3947,
+        "ponto_id": 21646,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R GERALDO ANIBAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01954135946378,
+          -22.752554564621647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 5475,
+        "ponto_id": 21647,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "ESTRADA VELHA CAMPINAS - JAGUARIUNA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01623859547494,
+          -22.747155523668148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3948,
+        "ponto_id": 21648,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "ROD GOV DR ADHEMAR PEREIRA DE BARROS (SP-340)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02109674539367,
+          -22.756533573418334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3899,
+        "ponto_id": 21516,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "ROD GOV DR ADHEMAR PEREIRA DE BARROS (SP-340)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030157527957165,
+          -22.786958375171626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 6156,
+        "ponto_id": 21482,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R MARIA ANTONIA DA CONCEICAO RIBEIRO SANTOS",
+        "ende_numero": "232",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03454397555054,
+          -22.79090092039567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3949,
+        "ponto_id": 21472,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04111221581882,
+          -22.79053812693152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 6127,
+        "ponto_id": 21489,
+        "ptseqlinha": 10.1,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03869173628351,
+          -22.793028530012336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3944,
+        "ponto_id": 21474,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ENG LUIZ ANTONIO LALONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03671474265542,
+          -22.79510119384125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2097,
+        "ponto_id": 20780,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044052683192,
+          -22.86177239270054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2098,
+        "ponto_id": 20564,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04415418240289,
+          -22.866675742035344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2099,
+        "ponto_id": 20480,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04463979138665,
+          -22.869045854485837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2100,
+        "ponto_id": 20256,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04483082332286,
+          -22.87687095458897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3600,
+        "ponto_id": 20144,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1287",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05294341081091,
+          -22.881407689576076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1244,
+        "ponto_id": 20112,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R CASTRO ALVES",
+        "ende_numero": "413",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05578596450754,
+          -22.88259776356269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1247,
+        "ponto_id": 772,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,244,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06025929535158,
+          -22.889012607820163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1248,
+        "ponto_id": 664,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06288674497044,
+          -22.89239035651576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1249,
+        "ponto_id": 540,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06442777082549,
+          -22.894186398668257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 3747,
+        "ponto_id": 28,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1639",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,352,359,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185769774488,
+          -22.900849963136597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 98,
+        "num_linha": "352",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO VICENTE / PARQUE ITALIA (INCLUSIVO)",
+        "extensao_m": 27760.27,
+        "ponto_gid": 2109,
+        "ponto_id": 96,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "352,355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313240634584,
+          -22.903937974001497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2109,
+        "ponto_id": 96,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "352,355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313240634584,
+          -22.903937974001497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 6048,
+        "ponto_id": 266,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,352,353,355,356,369,375,385,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05803446057681,
+          -22.90725317882054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1212,
+        "ponto_id": 760,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1706",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06218771809582,
+          -22.890347242174965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1213,
+        "ponto_id": 20012,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1992",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060607571679206,
+          -22.888211520638784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1214,
+        "ponto_id": 20044,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "2294",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058857933551295,
+          -22.885982344011627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1215,
+        "ponto_id": 20080,
+        "ptseqlinha": 45.5,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "2564",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05740025912028,
+          -22.88409194868159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 1216,
+        "ponto_id": 20104,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "2738",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05631210112393,
+          -22.88271112035216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 3597,
+        "ponto_id": 20136,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "282",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05334481805626,
+          -22.881745026264053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2083,
+        "ponto_id": 20260,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044665683096724,
+          -22.876575425012113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2084,
+        "ponto_id": 20508,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423663691774,
+          -22.86854483629112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2085,
+        "ponto_id": 20588,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0437874360404,
+          -22.86643245552569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2086,
+        "ponto_id": 20788,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043621739755025,
+          -22.861624904626677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 3901,
+        "ponto_id": 21508,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV IVAN DE ABREU AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029875477762005,
+          -22.787499411466086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 3950,
+        "ponto_id": 21636,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "ROD GOV DR ADHEMAR PEREIRA DE BARROS (SP-340)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.020696726029705,
+          -22.75691348887633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 3951,
+        "ponto_id": 21640,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DR AVANTE SMANIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019082531682656,
+          -22.7571087893031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 344,
+        "num_linha": "352",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 21018.93,
+        "ponto_gid": 3945,
+        "ponto_id": 21668,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R MARIA LEONOR PINHEIRO PORTO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0156600098337,
+          -22.756193510867437
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1487 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1464,
+        "ponto_id": 81540,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV CID MAGALHAES LEME",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12737467924684,
+          -23.042960791295545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1465,
+        "ponto_id": 81563,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "1628",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128115682948405,
+          -23.045202017616354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1466,
+        "ponto_id": 81594,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": "1948",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12949872561663,
+          -23.047185870930676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1467,
+        "ponto_id": 81592,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "2162",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131826655248176,
+          -23.0467160430376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1468,
+        "ponto_id": 81564,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130698881805074,
+          -23.04514716657155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1469,
+        "ponto_id": 81552,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "126",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13009499654752,
+          -23.043505529291057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1470,
+        "ponto_id": 81520,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": "590",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129544608883684,
+          -23.041903611151785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1471,
+        "ponto_id": 81518,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ASDRUBAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130471158835,
+          -23.041171636608688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1472,
+        "ponto_id": 81497,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R SATURNINO MARQUES FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129958837276114,
+          -23.039928139834654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5764,
+        "ponto_id": 81487,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R VITOR BARANAUSKAS",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12955430683725,
+          -23.038721381660302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1473,
+        "ponto_id": 81492,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "180",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128168300145006,
+          -23.039262824839522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1474,
+        "ponto_id": 81484,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12770286888597,
+          -23.038120913675602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1475,
+        "ponto_id": 81468,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126887933686994,
+          -23.035986808400498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1476,
+        "ponto_id": 81436,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "670",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12619239759278,
+          -23.03442483099913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1477,
+        "ponto_id": 81428,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "163",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125003529377906,
+          -23.034998080008474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1478,
+        "ponto_id": 81452,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "233",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1237574751424,
+          -23.035695946413483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1479,
+        "ponto_id": 81420,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DEZESSETE (RUA ERICA DE ANDRADE SILVA- JD ITAGUACU)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12247852001594,
+          -23.03649459900695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1480,
+        "ponto_id": 81372,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R VINTE E DOIS , 27 (RUA ANGELIM DE CASTRO)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12033255503884,
+          -23.0351997226483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5818,
+        "ponto_id": 81260,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV MARGINAL (RUA UM)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12066933054878,
+          -23.032302148709963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1405,
+        "ponto_id": 81180,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV MARGINAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1218035350689,
+          -23.028678893367285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 7523,
+        "ponto_id": 74848,
+        "ptseqlinha": 20.1,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "465",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13877548950197,
+          -23.01287571073185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 6325,
+        "ponto_id": 74802,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13360027285604,
+          -23.013526458616997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 6324,
+        "ponto_id": 74814,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12941702631448,
+          -23.016370538592106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5659,
+        "ponto_id": 74797,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793671819422,
+          -23.019561979165978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 6323,
+        "ponto_id": 74793,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12726861288158,
+          -23.017307447709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5335,
+        "ponto_id": 74795,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12909479814414,
+          -23.015972526651097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5740,
+        "ponto_id": 74799,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13121202636493,
+          -23.0144863636971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5334,
+        "ponto_id": 74807,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13342460578203,
+          -23.013186998410152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 7180,
+        "ponto_id": 74813,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "185,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13713260691007,
+          -23.01234708897931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 5333,
+        "ponto_id": 74811,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV VIRACOPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14043415199295,
+          -23.01275508075005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1451,
+        "ponto_id": 74824,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R F",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143983160756214,
+          -23.009775367951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 401,
+        "num_linha": "188",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 13270.01,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1452,
+        "ponto_id": 74818,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14803930285977,
+          -23.00945288704141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1453,
+        "ponto_id": 74836,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DESEMBARQUE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "185,186,187,188,193,196,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14505426400336,
+          -23.012113955312397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5512,
+        "ponto_id": 74843,
+        "ptseqlinha": 24.2,
+        "ende_logradouro": "R CIRILO JOSE PANSANI",
+        "ende_numero": "18",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13957315227803,
+          -23.04393688161058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5513,
+        "ponto_id": 74845,
+        "ptseqlinha": 24.4,
+        "ende_logradouro": "R OTTO GUILHERME FRITZ, 33",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14027324091792,
+          -23.044664135958747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5514,
+        "ponto_id": 74847,
+        "ptseqlinha": 24.6,
+        "ende_logradouro": "R CIRILO JOSE PANSANI",
+        "ende_numero": "12",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13925264760926,
+          -23.044080602944643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1521,
+        "ponto_id": 81600,
+        "ptseqlinha": 24.8,
+        "ende_logradouro": "MARG ROD SANTOS DUMONT (SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14211421925716,
+          -23.05194339749697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5822,
+        "ponto_id": 81188,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R LUIZ ALVES DE LIMA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,191,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1224383068194,
+          -23.029226000861602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5820,
+        "ponto_id": 81264,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R LEONICE AP OLIVEIRA DA SILVA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,187,188,190,194,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12030676154086,
+          -23.03338410261605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1482,
+        "ponto_id": 81296,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R JERONIMO MENDONCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12094507311272,
+          -23.033421083899043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1483,
+        "ponto_id": 81368,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R JERONIMO MENDONCA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121950378566176,
+          -23.03474658505191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1484,
+        "ponto_id": 81424,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R JERONIMO MENDONCA",
+        "ende_numero": "310",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122756147727955,
+          -23.035881455902263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5799,
+        "ponto_id": 81432,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "284",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123637562647964,
+          -23.035549414961178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1485,
+        "ponto_id": 81412,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R ERICA DE ANDRADE SILVA",
+        "ende_numero": "194B",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12512859342935,
+          -23.034760148987466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1486,
+        "ponto_id": 81456,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "745",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126437188302674,
+          -23.034536911393875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1487,
+        "ponto_id": 81464,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12713493733276,
+          -23.0360551645298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1488,
+        "ponto_id": 81480,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": "355",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793999817622,
+          -23.03804808036932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1489,
+        "ponto_id": 81488,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12837515642193,
+          -23.03922744562539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5765,
+        "ponto_id": 81489,
+        "ptseqlinha": 35.1,
+        "ende_logradouro": "R VITOR BARANAUSKAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12953241544352,
+          -23.038452159258895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 5800,
+        "ponto_id": 81496,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R SATURNINO MARQUES FERREIRA",
+        "ende_numero": "70",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129759083274536,
+          -23.03985680508506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1490,
+        "ponto_id": 81523,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "188,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1307814462082,
+          -23.04140090632294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1491,
+        "ponto_id": 81524,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R LOURIVAL DE ALMEIDA",
+        "ende_numero": "457",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12952472052806,
+          -23.042199258944606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1492,
+        "ponto_id": 81548,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "139",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13014135265573,
+          -23.043342861084216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1493,
+        "ponto_id": 81568,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13091834427816,
+          -23.045274023835955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1494,
+        "ponto_id": 81596,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R PROF ESTEVAM GUEDES",
+        "ende_numero": "2079",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13188430942554,
+          -23.046911495981487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1495,
+        "ponto_id": 81598,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12953438820695,
+          -23.047302223442383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1496,
+        "ponto_id": 81562,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R PROF ESTEVAN GUEDES",
+        "ende_numero": "820",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12807539952001,
+          -23.04540780303951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 49,
+        "num_linha": "188",
+        "sentido": 2,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 18100.35,
+        "ponto_gid": 1464,
+        "ponto_id": 81540,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV CID MAGALHAES LEME",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12737467924684,
+          -23.042960791295545
+        ]
+      }
+    }
+  ]
+}

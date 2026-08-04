@@ -1,0 +1,1212 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2463,
+        "ponto_id": 51026,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R RODRIGO MEDEIROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16378301279903,
+          -22.903097696320348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 5458,
+        "ponto_id": 51027,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MIGUEL GIMENES ALVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16589280612933,
+          -22.902448392407628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2464,
+        "ponto_id": 51018,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R SEBASTIAO LAZARO DA SILVA",
+        "ende_numero": "1301",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16619623022117,
+          -22.900528531325687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2465,
+        "ponto_id": 51022,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R SEBASTIAO LAZARO DONIZETE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16452743139029,
+          -22.898190317228966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2467,
+        "ponto_id": 51030,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R SEBASTIAO L DONIZETE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16217247144323,
+          -22.894808271138462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2468,
+        "ponto_id": 51784,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ANTONIO RIBEIRO DE LIMA",
+        "ende_numero": "100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16135624680282,
+          -22.892739657313427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2469,
+        "ponto_id": 51728,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "505",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15984117647571,
+          -22.893755502797564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2470,
+        "ponto_id": 51664,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15892637056488,
+          -22.89434208599763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2471,
+        "ponto_id": 51034,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15677065390484,
+          -22.89559057678114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2522,
+        "ponto_id": 51046,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R LUCINDO SILVA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154858084766204,
+          -22.89534529480863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2516,
+        "ponto_id": 51048,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LUCINDO SILVA",
+        "ende_numero": "145",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "252 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15272689180864,
+          -22.89331229188501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2483,
+        "ponto_id": 51436,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DR NICOLAU SANCHES JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15079908937317,
+          -22.891973160151156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2484,
+        "ponto_id": 51384,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DR NICOLAU SANCHES JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14939028158381,
+          -22.890582026088676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2517,
+        "ponto_id": 51066,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DR NICOLAU SANCHES JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "252,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14887311707768,
+          -22.888691875884984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2518,
+        "ponto_id": 51070,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV DR ALCIDES MODESTO DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "252 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146142772558505,
+          -22.888802526881953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2429,
+        "ponto_id": 51240,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14457342566452,
+          -22.888915613448873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2430,
+        "ponto_id": 51164,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13315099239793,
+          -22.893794140265374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2431,
+        "ponto_id": 51008,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124614519447114,
+          -22.894455680641766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2432,
+        "ponto_id": 50824,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ROD JORNALISTA FA PROENCA (AV ROBERTO BOSCH)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11836321052292,
+          -22.899283199532967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2433,
+        "ponto_id": 50792,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11356248009783,
+          -22.89973316570508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2493,
+        "ponto_id": 50570,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289955504064,
+          -22.89796281471168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2494,
+        "ponto_id": 50386,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095284267466454,
+          -22.896986285759557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2459,
+        "ponto_id": 50098,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081671326586786,
+          -22.90167166471254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 2716,
+        "ponto_id": 310,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "347",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,256,257,261,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06518202935178,
+          -22.906512650848004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 6215,
+        "ponto_id": 319,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "647",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,256,257,261,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06253621461435,
+          -22.905316761653015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 226,
+        "num_linha": "252",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14216.53,
+        "ponto_gid": 7424,
+        "ponto_id": 105,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "251,252 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06334196351957,
+          -22.904175145544325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 7424,
+        "ponto_id": 105,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "251,252 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06334196351957,
+          -22.904175145544325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2460,
+        "ponto_id": 50168,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081719896848824,
+          -22.901622810821795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2496,
+        "ponto_id": 50384,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09521810648376,
+          -22.896936823406556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2497,
+        "ponto_id": 50571,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV LIX DA CUNHA (C X B)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102912670086376,
+          -22.897922106502136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2438,
+        "ponto_id": 50796,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,254,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115611978090755,
+          -22.899265977996947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2439,
+        "ponto_id": 51040,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11982369328604,
+          -22.898138417382096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2545,
+        "ponto_id": 50908,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12248133259418,
+          -22.895009856127267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2440,
+        "ponto_id": 51000,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "250,251,252,254,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12488047276353,
+          -22.893833277585514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2519,
+        "ponto_id": 51074,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DR ALCIDES MODESTO DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "252,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14605524774738,
+          -22.888456776765807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2520,
+        "ponto_id": 51062,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR NICOLAU SANCHES JR",
+        "ende_numero": "166",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "252,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14906933579825,
+          -22.8887823870946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 5834,
+        "ponto_id": 51388,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "R SEBASTIAO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14914869771556,
+          -22.890336042304114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2504,
+        "ponto_id": 51456,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R ADIBA ABDALLA CAAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15095336248306,
+          -22.89162522601656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2521,
+        "ponto_id": 51050,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R LUCINDO SILVA",
+        "ende_numero": "157",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "252,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15273346353525,
+          -22.892990370565258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2515,
+        "ponto_id": 51042,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R LUCINDO SILVA",
+        "ende_numero": "469",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "252,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15515321875091,
+          -22.89565283222162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2509,
+        "ponto_id": 51038,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15721432734886,
+          -22.895150734884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2510,
+        "ponto_id": 51648,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "412",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15891927345746,
+          -22.894162805474267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2511,
+        "ponto_id": 51732,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R BERNARDINO BONAVITA",
+        "ende_numero": "492",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.159755204671825,
+          -22.893623465328982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2512,
+        "ponto_id": 51780,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R ANTONIO RIBEIRO DE LIMA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16123746400704,
+          -22.892501913287365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 2513,
+        "ponto_id": 51052,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R CAP JOAO GONCALVES PIMENTA",
+        "ende_numero": "70",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.162823056502575,
+          -22.896309939429752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 163,
+        "num_linha": "252",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 14069.68,
+        "ponto_gid": 5459,
+        "ponto_id": 51031,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R MIGUEL GIMENES ALVES P",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16556333422228,
+          -22.90279466532381
+        ]
+      }
+    }
+  ]
+}
