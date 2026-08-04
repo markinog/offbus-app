@@ -3,6 +3,7 @@ package com.offbuss
 import android.content.Context
 import android.graphics.RectF
 import android.os.Bundle
+import android.text.method.LinkMovementMethod
 import android.view.Gravity
 import android.view.View
 import android.view.inputmethod.InputMethodManager
@@ -24,6 +25,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import androidx.core.text.HtmlCompat
 import androidx.core.widget.doAfterTextChanged
 import org.maplibre.android.MapLibre
 import org.maplibre.android.camera.CameraUpdateFactory
@@ -60,6 +62,9 @@ class MainActivity : AppCompatActivity() {
 
         /** Quantas buscas exibem a dica das paradas antes de ela parar de aparecer. */
         const val MAX_DICAS = 2
+
+        /** Formulário de contribuição com a pesquisa do TCC. */
+        const val FORMULARIO_TCC = "https://forms.gle/UqjAV5m4uQm2AYpx7"
     }
 
     /**
@@ -104,6 +109,30 @@ class MainActivity : AppCompatActivity() {
 
         initMap(savedInstanceState)
         setupListeners()
+        mostrarConviteDoTcc()
+    }
+
+    /**
+     * Convite para responder o formulário da pesquisa, na abertura do app.
+     *
+     * O link vem como HTML porque o MaterialAlertDialog não ativa o toque em
+     * links sozinho: sem o LinkMovementMethod, a âncora fica só com cara de
+     * link e não abre o navegador.
+     */
+    private fun mostrarConviteDoTcc() {
+        val mensagem = HtmlCompat.fromHtml(
+            "Lembre-se de avaliar este TCC!<br><br>" +
+                    "<a href=\"$FORMULARIO_TCC\">$FORMULARIO_TCC</a>",
+            HtmlCompat.FROM_HTML_MODE_LEGACY
+        )
+
+        val dialog = MaterialAlertDialogBuilder(this)
+            .setMessage(mensagem)
+            .setPositiveButton("Fechar", null)
+            .show()
+
+        dialog.findViewById<TextView>(android.R.id.message)?.movementMethod =
+            LinkMovementMethod.getInstance()
     }
 
     private fun initMap(savedInstanceState: Bundle?) {
