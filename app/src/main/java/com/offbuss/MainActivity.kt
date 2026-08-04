@@ -24,9 +24,11 @@ import org.maplibre.android.geometry.LatLng
 import org.maplibre.android.geometry.LatLngBounds
 import org.maplibre.android.maps.MapLibreMap
 import org.maplibre.android.maps.Style
+import org.maplibre.android.style.expressions.Expression
 import org.maplibre.android.style.layers.CircleLayer
 import org.maplibre.android.style.layers.LineLayer
 import org.maplibre.android.style.layers.PropertyFactory
+import org.maplibre.android.style.layers.SymbolLayer
 import org.maplibre.android.style.sources.GeoJsonSource
 import org.json.JSONObject
 
@@ -197,13 +199,52 @@ class MainActivity : AppCompatActivity() {
                 stopsSource.setGeoJson(stopsJson)
             } else {
                 style.addSource(GeoJsonSource("stops-source", stopsJson))
+
+                // A bolinha cresce com o zoom para o número caber e ficar legível
                 style.addLayer(
                     CircleLayer("stops-layer", "stops-source").withProperties(
                         PropertyFactory.circleColor("#2196F3"),
-                        PropertyFactory.circleRadius(6f),
+                        PropertyFactory.circleRadius(
+                            Expression.interpolate(
+                                Expression.linear(), Expression.zoom(),
+                                Expression.stop(10, 3f),
+                                Expression.stop(13, 5f),
+                                Expression.stop(15, 9f),
+                                Expression.stop(17, 14f),
+                                Expression.stop(19, 18f)
+                            )
+                        ),
                         PropertyFactory.circleStrokeColor("#FFFFFF"),
-                        PropertyFactory.circleStrokeWidth(2f)
+                        PropertyFactory.circleStrokeWidth(
+                            Expression.interpolate(
+                                Expression.linear(), Expression.zoom(),
+                                Expression.stop(13, 1.5f),
+                                Expression.stop(15, 2f),
+                                Expression.stop(17, 3f)
+                            )
+                        )
                     )
+                )
+
+                // Número da parada na ordem do trajeto — só a partir do z15,
+                // quando a bolinha já é grande o bastante para comportá-lo
+                style.addLayer(
+                    SymbolLayer("stops-number-layer", "stops-source").withProperties(
+                        PropertyFactory.textField(Expression.get("ordem")),
+                        // Único fontstack embarcado em assets/fonts/
+                        PropertyFactory.textFont(arrayOf("noto-sans")),
+                        PropertyFactory.textSize(
+                            Expression.interpolate(
+                                Expression.linear(), Expression.zoom(),
+                                Expression.stop(15, 9f),
+                                Expression.stop(17, 13f),
+                                Expression.stop(19, 16f)
+                            )
+                        ),
+                        PropertyFactory.textColor("#FFFFFF"),
+                        PropertyFactory.textAllowOverlap(true),
+                        PropertyFactory.textIgnorePlacement(true)
+                    ).apply { minZoom = 15f }
                 )
             }
 
@@ -217,28 +258,31 @@ class MainActivity : AppCompatActivity() {
             val features = json.getJSONArray("features")
             if (features.length() == 0) return
 
-            val geometry = features.getJSONObject(0).getJSONObject("geometry")
-            val tipo     = geometry.getString("type")
-            val bounds   = LatLngBounds.Builder()
-            var count    = 0
+            val bounds = LatLngBounds.Builder()
+            var count  = 0
 
-            when (tipo) {
-                "LineString" -> {
-                    val coords = geometry.getJSONArray("coordinates")
-                    for (i in 0 until coords.length()) {
-                        val c = coords.getJSONArray(i)
-                        bounds.include(LatLng(c.getDouble(1), c.getDouble(0)))
-                        count++
-                    }
-                }
-                "MultiLineString" -> {
-                    val lines = geometry.getJSONArray("coordinates")
-                    for (i in 0 until lines.length()) {
-                        val line = lines.getJSONArray(i)
-                        for (j in 0 until line.length()) {
-                            val c = line.getJSONArray(j)
+            // Percorre todas as features: um sentido pode vir quebrado em trechos
+            for (f in 0 until features.length()) {
+                val geometry = features.getJSONObject(f).optJSONObject("geometry") ?: continue
+
+                when (geometry.getString("type")) {
+                    "LineString" -> {
+                        val coords = geometry.getJSONArray("coordinates")
+                        for (i in 0 until coords.length()) {
+                            val c = coords.getJSONArray(i)
                             bounds.include(LatLng(c.getDouble(1), c.getDouble(0)))
                             count++
+                        }
+                    }
+                    "MultiLineString" -> {
+                        val lines = geometry.getJSONArray("coordinates")
+                        for (i in 0 until lines.length()) {
+                            val line = lines.getJSONArray(i)
+                            for (j in 0 until line.length()) {
+                                val c = line.getJSONArray(j)
+                                bounds.include(LatLng(c.getDouble(1), c.getDouble(0)))
+                                count++
+                            }
                         }
                     }
                 }

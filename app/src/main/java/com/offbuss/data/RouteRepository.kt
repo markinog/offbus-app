@@ -3,6 +3,8 @@ package com.offbuss.data
 import android.content.Context
 import com.google.gson.Gson
 import com.offbuss.model.Horarios
+import org.json.JSONArray
+import org.json.JSONObject
 
 class RouteRepository(private val context: Context) {
 
@@ -12,18 +14,22 @@ class RouteRepository(private val context: Context) {
      * Índice de linhas disponíveis no app.
      * Para adicionar uma nova linha: copie os .geojson para assets/routes/,
      * crie o .json de horários em assets/horarios/ e adicione uma entrada aqui.
+     *
+     * O terceiro campo da Triple indica se a linha tem volta. Só marque true
+     * quando o GeoJSON realmente trouxer features com "sentido": 2 — as linhas
+     * circulares têm apenas o sentido 1, e o botão de volta ficaria vazio.
      */
     private val linhasDisponiveis = mapOf(
-        "101" to Triple("Parque Universitário",  "Parque Universitário",   true),
-        "102" to Triple("Recanto do Sol",        "Recanto do Sol",         true),
-        "105" to Triple("Cohab I",               "Cohab I",                true),
-        "106" to Triple("Cohab II",              "Cohab II",               true),
-        "108" to Triple("Jardim Aeronave I",     "Jardim Aeronave I",      true),
-        "109" to Triple("DIC VI",                "Vila Aeroporto",         true),
-        "110" to Triple("Adhemar de Barros",     "Adhemar de Barros",      true),
-        "111" to Triple("Jardim Aeronave II",    "Jardim Aeronave II",     true),
-        "112" to Triple("Jardim Planalto I",     "Jardim Planalto I",      true),
-        "113" to Triple("Jardim Planalto II",    "Jardim Planalto II",     true),
+        "101" to Triple("Parque Universitário",  "Parque Universitário",   false),
+        "102" to Triple("Recanto do Sol",        "Recanto do Sol",         false),
+        "105" to Triple("Cohab I",               "Cohab I",                false),
+        "106" to Triple("Cohab II",              "Cohab II",               false),
+        "108" to Triple("Jardim Aeronave I",     "Jardim Aeronave I",      false),
+        "109" to Triple("DIC VI",                "Vila Aeroporto",         false),
+        "110" to Triple("Adhemar de Barros",     "Adhemar de Barros",      false),
+        "111" to Triple("Jardim Aeronave II",    "Jardim Aeronave II",     false),
+        "112" to Triple("Jardim Planalto I",     "Jardim Planalto I",      false),
+        "113" to Triple("Jardim Planalto II",    "Jardim Planalto II",     false),
         "114" to Triple("Jardim Melina",         "Corredor Central",       true),
         "116" to Triple("Terminal Ouro Verde",   "Shopping Dom Pedro",     true),
         "117" to Triple("Terminal Ouro Verde",   "Jardim Itatinga",        true),
@@ -34,7 +40,8 @@ class RouteRepository(private val context: Context) {
         "131" to Triple("Vida Nova",             "Terminal Mercado I",     true),
         "133" to Triple("Vida Nova",             "Vida Nova",              true),
         "134" to Triple("Terminal Ouro Verde",   "Terminal Ouro Verde",    true),
-        "138" to Triple("Terminal Ouro Verde",   "Recanto do Sol I e II",  true)
+        // Circular: o GeoJSON da 138 só traz features de sentido 1
+        "138" to Triple("Terminal Ouro Verde",   "Recanto do Sol I e II",  false)
     )
 
     /** Busca por número da linha, ponto inicial ou final (case-insensitive) */
@@ -58,11 +65,84 @@ class RouteRepository(private val context: Context) {
         return Pair(info.first, info.second)
     }
 
-    fun loadGeoJsonRota(linha: String, sentido: Int): String? =
-        readAsset("routes/${linha}_sentido${sentido}_rota.geojson")
+    fun loadGeoJsonRota(linha: String, sentido: Int): String? {
+        val json = readAsset("routes/${linha}_sentido${sentido}_rota.geojson") ?: return null
+        // GeoJSON inesperado: devolve o arquivo cru em vez de sumir com a rota
+        val root = runCatching { JSONObject(json) }.getOrNull() ?: return json
+        return filtrarPorSentido(root, sentido)?.toString()
+    }
 
-    fun loadGeoJsonPontos(linha: String, sentido: Int): String? =
-        readAsset("routes/${linha}_sentido${sentido}_pontos.geojson")
+    /**
+     * Lê as paradas do sentido e injeta a propriedade "ordem" em cada feature,
+     * usada como rótulo numérico no mapa.
+     *
+     * A numeração segue a posição da parada ao longo do traçado, e não a ordem
+     * em que ela aparece no arquivo — ver [OrdenadorDeParadas].
+     */
+    fun loadGeoJsonPontos(linha: String, sentido: Int): String? {
+        val json = readAsset("routes/${linha}_sentido${sentido}_pontos.geojson") ?: return null
+        val root = runCatching { JSONObject(json) }.getOrNull() ?: return json
+        val doSentido = filtrarPorSentido(root, sentido) ?: return null
+
+        val paradas = doSentido.optJSONArray("features") ?: return null
+        val ordem = runCatching {
+            val rota = readAsset("routes/${linha}_sentido${sentido}_rota.geojson")
+                ?.let { JSONObject(it) }
+                ?.let { filtrarPorSentido(it, sentido) }
+                ?.optJSONArray("features")
+            rota?.let { OrdenadorDeParadas.ordem(paradas, it) }
+        }.getOrNull()
+
+        return runCatching { numerarPontos(doSentido, ordem).toString() }.getOrNull()
+    }
+
+    /**
+     * Mantém só as features do sentido pedido.
+     *
+     * Os arquivos da EMDEC trazem ida e volta no mesmo GeoJSON, cada feature
+     * marcada com a propriedade "sentido". Sem este filtro o mapa desenha os
+     * dois trajetos sobrepostos e as paradas de ambos.
+     *
+     * Devolve null quando o sentido não existe no arquivo — caso das linhas
+     * circulares, que só têm sentido 1.
+     */
+    private fun filtrarPorSentido(root: JSONObject, sentido: Int): JSONObject? {
+        val features = root.optJSONArray("features") ?: return null
+        val filtradas = JSONArray()
+
+        for (i in 0 until features.length()) {
+            val feature = features.optJSONObject(i) ?: continue
+            if (feature.optJSONObject("properties")?.optInt("sentido", -1) == sentido) {
+                filtradas.put(feature)
+            }
+        }
+
+        if (filtradas.length() == 0) return null
+        return root.put("features", filtradas)
+    }
+
+    /**
+     * Numera as paradas de 1 a n.
+     *
+     * [ordem] traz os índices na sequência do percurso, calculada a partir do
+     * traçado. Quando é null — traçado inutilizável ou linha que refaz o mesmo
+     * corredor nos dois sentidos — cai para a ordem do próprio arquivo.
+     */
+    private fun numerarPontos(root: JSONObject, ordem: List<Int>?): JSONObject {
+        val features = root.getJSONArray("features")
+        val sequencia = ordem?.takeIf { it.size == features.length() }
+            ?: List(features.length()) { it }
+
+        sequencia.forEachIndexed { posicao, indice ->
+            val feature = features.getJSONObject(indice)
+            val props   = feature.optJSONObject("properties")
+                ?: JSONObject().also { feature.put("properties", it) }
+
+            // Gravado como texto: o text-field do MapLibre espera string
+            props.put("ordem", (posicao + 1).toString())
+        }
+        return root
+    }
 
     fun loadHorarios(linha: String, sentido: Int): Horarios? {
         val json = readAsset("horarios/${linha}_sentido${sentido}.json") ?: return null
