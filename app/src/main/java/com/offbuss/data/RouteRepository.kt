@@ -75,12 +75,25 @@ class RouteRepository(private val context: Context) {
     /**
      * Lê as paradas do sentido e injeta a propriedade "ordem" em cada feature,
      * usada como rótulo numérico no mapa.
+     *
+     * A numeração segue a posição da parada ao longo do traçado, e não a ordem
+     * em que ela aparece no arquivo — ver [OrdenadorDeParadas].
      */
     fun loadGeoJsonPontos(linha: String, sentido: Int): String? {
         val json = readAsset("routes/${linha}_sentido${sentido}_pontos.geojson") ?: return null
         val root = runCatching { JSONObject(json) }.getOrNull() ?: return json
         val doSentido = filtrarPorSentido(root, sentido) ?: return null
-        return runCatching { numerarPontos(doSentido).toString() }.getOrNull()
+
+        val paradas = doSentido.optJSONArray("features") ?: return null
+        val ordem = runCatching {
+            val rota = readAsset("routes/${linha}_sentido${sentido}_rota.geojson")
+                ?.let { JSONObject(it) }
+                ?.let { filtrarPorSentido(it, sentido) }
+                ?.optJSONArray("features")
+            rota?.let { OrdenadorDeParadas.ordem(paradas, it) }
+        }.getOrNull()
+
+        return runCatching { numerarPontos(doSentido, ordem).toString() }.getOrNull()
     }
 
     /**
@@ -109,20 +122,24 @@ class RouteRepository(private val context: Context) {
     }
 
     /**
-     * Numera as paradas na ordem em que aparecem no arquivo, que é a ordem de
-     * viagem: dentro de cada sentido a EMDEC entrega ptseqlinha crescente, e a
-     * volta já começa onde a ida termina.
+     * Numera as paradas de 1 a n.
+     *
+     * [ordem] traz os índices na sequência do percurso, calculada a partir do
+     * traçado. Quando é null — traçado inutilizável ou linha que refaz o mesmo
+     * corredor nos dois sentidos — cai para a ordem do próprio arquivo.
      */
-    private fun numerarPontos(root: JSONObject): JSONObject {
+    private fun numerarPontos(root: JSONObject, ordem: List<Int>?): JSONObject {
         val features = root.getJSONArray("features")
+        val sequencia = ordem?.takeIf { it.size == features.length() }
+            ?: List(features.length()) { it }
 
-        for (i in 0 until features.length()) {
-            val feature = features.getJSONObject(i)
+        sequencia.forEachIndexed { posicao, indice ->
+            val feature = features.getJSONObject(indice)
             val props   = feature.optJSONObject("properties")
                 ?: JSONObject().also { feature.put("properties", it) }
 
             // Gravado como texto: o text-field do MapLibre espera string
-            props.put("ordem", (i + 1).toString())
+            props.put("ordem", (posicao + 1).toString())
         }
         return root
     }
