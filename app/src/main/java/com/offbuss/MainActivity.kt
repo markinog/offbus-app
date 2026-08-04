@@ -1,5 +1,6 @@
 package com.offbuss
 
+import android.graphics.RectF
 import android.os.Bundle
 import android.view.View
 import android.widget.LinearLayout
@@ -30,9 +31,26 @@ import org.maplibre.android.style.layers.LineLayer
 import org.maplibre.android.style.layers.PropertyFactory
 import org.maplibre.android.style.layers.SymbolLayer
 import org.maplibre.android.style.sources.GeoJsonSource
+import org.maplibre.geojson.Feature
 import org.json.JSONObject
 
 class MainActivity : AppCompatActivity() {
+
+    private companion object {
+        /** Raio da área de toque das paradas, em pixels de tela. */
+        const val TOLERANCIA_TOQUE_PX = 24f
+
+        /** Azul do traçado da rota. */
+        const val COR_ROTA = "#2196F3"
+
+        /**
+         * Roxo das paradas. Vizinho do azul no círculo cromático, então combina
+         * com o traçado, mas é escuro e saturado o bastante para se destacar
+         * dele — e o mapa base não tem roxo em nenhuma camada, ao contrário do
+         * amarelo e do laranja, que são usados na hierarquia viária.
+         */
+        const val COR_PARADA = "#673AB7"
+    }
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var repository: RouteRepository
@@ -68,6 +86,7 @@ class MainActivity : AppCompatActivity() {
         binding.mapView.onCreate(savedInstanceState)
         binding.mapView.getMapAsync { map ->
             mapLibreMap = map
+            configurarCliqueNasParadas(map)
             lifecycleScope.launch(Dispatchers.IO) {
                 // 1. Copia mbtiles se necessário e lê o estilo
                 val styleJson = MapStyleHelper.prepareOfflineStyle(this@MainActivity)
@@ -89,6 +108,81 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }
+    }
+
+    // ─── Toque nas paradas ───────────────────────────────────────────
+    private fun configurarCliqueNasParadas(map: MapLibreMap) {
+        map.addOnMapClickListener { latLng ->
+            val tela = map.projection.toScreenLocation(latLng)
+            // Área de toque maior que a bolinha, para não exigir precisão do dedo
+            val alvo = RectF(
+                tela.x - TOLERANCIA_TOQUE_PX, tela.y - TOLERANCIA_TOQUE_PX,
+                tela.x + TOLERANCIA_TOQUE_PX, tela.y + TOLERANCIA_TOQUE_PX
+            )
+            // A camada só existe depois que uma linha é buscada
+            val paradas = runCatching { map.queryRenderedFeatures(alvo, "stops-layer") }
+                .getOrDefault(emptyList())
+
+            val parada = paradas.firstOrNull()
+            if (parada != null) {
+                mostrarInfoParada(parada)
+                true
+            } else {
+                false
+            }
+        }
+    }
+
+    /**
+     * Lê uma propriedade como texto.
+     *
+     * O GeoJSON da EMDEC traz campos presentes porém nulos — 218 paradas têm
+     * "linhas": null. Nesses casos getStringProperty chama getAsString() sobre
+     * um JsonNull e lança UnsupportedOperationException, então o valor precisa
+     * ser checado antes de converter.
+     */
+    private fun Feature.textoOuNulo(nome: String): String? =
+        runCatching { getProperty(nome)?.takeUnless { it.isJsonNull }?.asString }.getOrNull()
+
+    private fun Feature.inteiroOuNulo(nome: String): Int? =
+        runCatching { getProperty(nome)?.takeUnless { it.isJsonNull }?.asInt }.getOrNull()
+
+    private fun mostrarInfoParada(parada: Feature) {
+        val numero = parada.textoOuNulo("ordem")
+
+        val sentido = when (parada.inteiroOuNulo("sentido")) {
+            1    -> "Ida"
+            2    -> "Volta"
+            else -> null
+        }
+
+        val texto = buildString {
+            append("Sentido: ").append(sentido ?: "não informado")
+            append("\n\nLinhas que atendem esta parada:\n")
+            append(formatarLinhas(parada.textoOuNulo("linhas")))
+        }
+
+        AlertDialog.Builder(this)
+            .setTitle(if (numero != null) "Parada $numero" else "Parada")
+            .setMessage(texto)
+            .setPositiveButton("Fechar", null)
+            .show()
+    }
+
+    /** "116,119 [15/04/2026]" → "116, 119" mais a data de atualização. */
+    private fun formatarLinhas(bruto: String?): String {
+        if (bruto.isNullOrBlank()) return "não informado"
+
+        val numeros = bruto.substringBefore("[")
+            .split(",")
+            .map { it.trim() }
+            .filter { it.isNotEmpty() }
+
+        if (numeros.isEmpty()) return bruto
+
+        val data = bruto.substringAfter("[", "").substringBefore("]").trim()
+        val lista = numeros.joinToString(", ")
+        return if (data.isEmpty()) lista else "$lista\n\nDados de $data"
     }
 
     // ─── Listeners ───────────────────────────────────────────────────
@@ -184,7 +278,7 @@ class MainActivity : AppCompatActivity() {
                 style.addSource(GeoJsonSource("route-source", geoJsonRota))
                 style.addLayer(
                     LineLayer("route-layer", "route-source").withProperties(
-                        PropertyFactory.lineColor("#2196F3"),
+                        PropertyFactory.lineColor(COR_ROTA),
                         PropertyFactory.lineWidth(5f),
                         PropertyFactory.lineCap("round"),
                         PropertyFactory.lineJoin("round")
@@ -203,30 +297,30 @@ class MainActivity : AppCompatActivity() {
                 // A bolinha cresce com o zoom para o número caber e ficar legível
                 style.addLayer(
                     CircleLayer("stops-layer", "stops-source").withProperties(
-                        PropertyFactory.circleColor("#2196F3"),
+                        PropertyFactory.circleColor(COR_PARADA),
                         PropertyFactory.circleRadius(
                             Expression.interpolate(
                                 Expression.linear(), Expression.zoom(),
-                                Expression.stop(10, 3f),
-                                Expression.stop(13, 5f),
-                                Expression.stop(15, 9f),
-                                Expression.stop(17, 14f),
-                                Expression.stop(19, 18f)
+                                Expression.stop(9, 3f),
+                                Expression.stop(12, 5f),
+                                Expression.stop(14, 9f),
+                                Expression.stop(16, 14f),
+                                Expression.stop(18, 18f)
                             )
                         ),
                         PropertyFactory.circleStrokeColor("#FFFFFF"),
                         PropertyFactory.circleStrokeWidth(
                             Expression.interpolate(
                                 Expression.linear(), Expression.zoom(),
-                                Expression.stop(13, 1.5f),
-                                Expression.stop(15, 2f),
-                                Expression.stop(17, 3f)
+                                Expression.stop(12, 1.5f),
+                                Expression.stop(14, 2f),
+                                Expression.stop(16, 3f)
                             )
                         )
                     )
                 )
 
-                // Número da parada na ordem do trajeto — só a partir do z15,
+                // Número da parada na ordem do trajeto — a partir do z14,
                 // quando a bolinha já é grande o bastante para comportá-lo
                 style.addLayer(
                     SymbolLayer("stops-number-layer", "stops-source").withProperties(
@@ -236,15 +330,15 @@ class MainActivity : AppCompatActivity() {
                         PropertyFactory.textSize(
                             Expression.interpolate(
                                 Expression.linear(), Expression.zoom(),
-                                Expression.stop(15, 9f),
-                                Expression.stop(17, 13f),
-                                Expression.stop(19, 16f)
+                                Expression.stop(14, 9f),
+                                Expression.stop(16, 13f),
+                                Expression.stop(18, 16f)
                             )
                         ),
                         PropertyFactory.textColor("#FFFFFF"),
                         PropertyFactory.textAllowOverlap(true),
                         PropertyFactory.textIgnorePlacement(true)
-                    ).apply { minZoom = 15f }
+                    ).apply { minZoom = 14f }
                 )
             }
 
