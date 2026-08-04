@@ -109,11 +109,10 @@ class MainActivity : AppCompatActivity() {
 
         initMap(savedInstanceState)
         setupListeners()
-        mostrarConviteDoTcc()
     }
 
     /**
-     * Convite para responder o formulário da pesquisa, na abertura do app.
+     * Convite para responder o formulário da pesquisa, atrás do botão "Avalie!".
      *
      * O link vem como HTML porque o MaterialAlertDialog não ativa o toque em
      * links sozinho: sem o LinkMovementMethod, a âncora fica só com cara de
@@ -266,6 +265,7 @@ class MainActivity : AppCompatActivity() {
             if (currentSentido != 2) { currentSentido = 2; trocarSentido() }
         }
         binding.btnItinerarios.setOnClickListener { mostrarHorarios() }
+        binding.fabAvaliar.setOnClickListener { mostrarConviteDoTcc() }
     }
 
     /**
