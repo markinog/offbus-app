@@ -1,0 +1,1262 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5288,
+        "ponto_id": 72960,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13325651307618,
+          -22.96504941674296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 3,
+        "ponto_id": 73292,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592503837853,
+          -22.969142360359864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 4,
+        "ponto_id": 73368,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "665",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13716781298306,
+          -22.969207938057604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 184,
+        "ponto_id": 73466,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "381",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14017003674292,
+          -22.969367836785455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 6303,
+        "ponto_id": 73790,
+        "ptseqlinha": 6.1,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "OP 299",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144142236630984,
+          -22.97000960181879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 185,
+        "ponto_id": 73784,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "422",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144690042590305,
+          -22.97113733425804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 186,
+        "ponto_id": 73916,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "664",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14560902070741,
+          -22.972740276938424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 187,
+        "ponto_id": 74032,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "824",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146635147790086,
+          -22.974532794490152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 188,
+        "ponto_id": 74128,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1042",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147539073941516,
+          -22.975994273604456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5790,
+        "ponto_id": 74168,
+        "ptseqlinha": 10.5,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1212",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14812316754913,
+          -22.977427143709566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 189,
+        "ponto_id": 74224,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1444",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14801718029317,
+          -22.979745666367492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 190,
+        "ponto_id": 74288,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14754092501325,
+          -22.98130380595925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 191,
+        "ponto_id": 74396,
+        "ptseqlinha": 12.5,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "697",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148177663340256,
+          -22.98343004491627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 225,
+        "ponto_id": 74432,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ELIANE TRABULSI VALENTE",
+        "ende_numero": "112",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14955604473094,
+          -22.98458627334596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 226,
+        "ponto_id": 74570,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV PAULO MACHADO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151916197213794,
+          -22.985447638167205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 227,
+        "ponto_id": 74622,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R SEBASTAO GUIDO DA SILVA",
+        "ende_numero": "519",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154189568177124,
+          -22.985852892870646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 228,
+        "ponto_id": 74626,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R DEJAIR MENAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15554913078097,
+          -22.984750200282342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5611,
+        "ponto_id": 74623,
+        "ptseqlinha": 16.2,
+        "ende_logradouro": "R CARLOS ALBERTO SANTANNA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15408935828459,
+          -22.984719692384253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5610,
+        "ponto_id": 74625,
+        "ptseqlinha": 16.4,
+        "ende_logradouro": "R FRANCISCO DE SA COSTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15324877592529,
+          -22.983186398915944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5609,
+        "ponto_id": 74627,
+        "ptseqlinha": 16.6,
+        "ende_logradouro": "R ROSA ROTTA CAPPELETTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15594273985027,
+          -22.98254300346147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 229,
+        "ponto_id": 74634,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DEJANIR MENAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15639142228481,
+          -22.981834665292457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 230,
+        "ponto_id": 74638,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV ANTONIO GATTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15831707985796,
+          -22.981320177773384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5670,
+        "ponto_id": 74641,
+        "ptseqlinha": 18.1,
+        "ende_logradouro": "R HELENA CIPPICIANI VITAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15764551656068,
+          -22.980755779869906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5668,
+        "ponto_id": 74647,
+        "ptseqlinha": 18.2,
+        "ende_logradouro": "R PROFA ADRIANA MARA GUSSON BERGO",
+        "ende_numero": "29",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.157821045404596,
+          -22.979503595548575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5667,
+        "ponto_id": 74645,
+        "ptseqlinha": 18.3,
+        "ende_logradouro": "R RAIMUNDO ALVES FERREIRA",
+        "ende_numero": "113",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.159067705478805,
+          -22.9798730521802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5669,
+        "ponto_id": 74639,
+        "ptseqlinha": 18.4,
+        "ende_logradouro": "R HELENA CIPPICIANI VITAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1590055955915,
+          -22.98092866531634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 231,
+        "ponto_id": 74646,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JOSE FINOTELI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15875058229416,
+          -22.98319622196222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 232,
+        "ponto_id": 74658,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOSE FINOTELI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.157119951530774,
+          -22.985446318307126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 233,
+        "ponto_id": 74662,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ELIPHAS MARIA CHINELLATO VILLELA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15440609980548,
+          -22.987102687925365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 234,
+        "ponto_id": 74660,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R ELIPHAS MARIA CHINELLATO VILLELA",
+        "ende_numero": "202",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15374308795291,
+          -22.988296287561248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 235,
+        "ponto_id": 74684,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R PEDRO CORTADO",
+        "ende_numero": "762",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15564810439117,
+          -22.98936332462638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 236,
+        "ponto_id": 74696,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R RODNEY RICCI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15478120344997,
+          -22.990550224548958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 237,
+        "ponto_id": 74668,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R RODNEY RICCI",
+        "ende_numero": "300",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152924796046726,
+          -22.989653497093798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 238,
+        "ponto_id": 74640,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R RODNEY RICCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15119726245512,
+          -22.988788397507406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 256,
+        "ponto_id": 74536,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "228",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148990625598636,
+          -22.9876902797869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 239,
+        "ponto_id": 74448,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "510",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148508443680726,
+          -22.985754558958746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 240,
+        "ponto_id": 74372,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14792010056121,
+          -22.983278174417958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 202,
+        "ponto_id": 74256,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147149736656935,
+          -22.981117958030907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 203,
+        "ponto_id": 74164,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147867376416514,
+          -22.977523865408276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 204,
+        "ponto_id": 74116,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "883",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147208048672084,
+          -22.97611828377621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 205,
+        "ponto_id": 74048,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "751",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146399643686415,
+          -22.974661184652266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 206,
+        "ponto_id": 73920,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "643",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145399545730164,
+          -22.972918066075568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 207,
+        "ponto_id": 73764,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "419",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14429304795236,
+          -22.971080326206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 208,
+        "ponto_id": 73620,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "143",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14327105044994,
+          -22.969255336052626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 34,
+        "ponto_id": 73468,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4377",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14104420926855,
+          -22.967549350554567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 209,
+        "ponto_id": 73312,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CAIRU",
+        "ende_numero": "23",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13819199541887,
+          -22.967078339334307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 64,
+        "ponto_id": 73124,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105,108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13577803393606,
+          -22.96668532694984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 387,
+        "num_linha": "110",
+        "sentido": 1,
+        "nome_linha": "ADHEMAR DE BARROS",
+        "extensao_m": 12782.53,
+        "ponto_gid": 5288,
+        "ponto_id": 72960,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "110 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13325651307618,
+          -22.96504941674296
+        ]
+      }
+    }
+  ]
+}

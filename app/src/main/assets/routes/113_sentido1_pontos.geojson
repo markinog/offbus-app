@@ -1,0 +1,1362 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 5292,
+        "ponto_id": 72868,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13272999959053,
+          -22.964901562121405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 5779,
+        "ponto_id": 73284,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "1968",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133504031289974,
+          -22.97132434049106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 5782,
+        "ponto_id": 73416,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "2154",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134655050055784,
+          -22.972913307365395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 291,
+        "ponto_id": 73520,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "2366",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1355889581071,
+          -22.97409648844735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 292,
+        "ponto_id": 73656,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "2594",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13723480080402,
+          -22.976024599368284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 145,
+        "ponto_id": 73772,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JULIO DIAS CARNEIRO",
+        "ende_numero": "40",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137960617102756,
+          -22.97714670387374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 293,
+        "ponto_id": 73848,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JULIO DIAS CARNEIRO",
+        "ende_numero": "200",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13827741355703,
+          -22.978315136749355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 294,
+        "ponto_id": 73892,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANTONIO XAVIER DOS ANJOS",
+        "ende_numero": "435",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13817644552062,
+          -22.979061947212962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 173,
+        "ponto_id": 73980,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R TEREZINHA DE ASSIS SANTOS TOMAZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13719734392162,
+          -22.981494006329307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 174,
+        "ponto_id": 74016,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R TAVARES DE MIRANDA",
+        "ende_numero": "93",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "107,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1363746453822,
+          -22.982736289796666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 295,
+        "ponto_id": 74172,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV JOSEPH GORSIN",
+        "ende_numero": "405",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13738708455655,
+          -22.98686428199908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 296,
+        "ponto_id": 74232,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV JOSEPH GORSIN",
+        "ende_numero": "247",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13811206241789,
+          -22.988483333141332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 297,
+        "ponto_id": 74370,
+        "ptseqlinha": 14.5,
+        "ende_logradouro": "AV JOSEPH GORSIN",
+        "ende_numero": "293",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139266890551426,
+          -22.99017791191736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 253,
+        "ponto_id": 74384,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14182768214357,
+          -22.988646270311904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 254,
+        "ponto_id": 74416,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14496206936701,
+          -22.98840434552314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 265,
+        "ponto_id": 74516,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": "198",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146237924947734,
+          -22.98975264982149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 266,
+        "ponto_id": 74552,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145879800267835,
+          -22.991274981985697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 267,
+        "ponto_id": 74568,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R FELIPE RUTSCHMANN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14477532047626,
+          -22.992297362215226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 298,
+        "ponto_id": 74500,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14353978178523,
+          -22.991616295762398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 299,
+        "ponto_id": 74456,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14142730337516,
+          -22.991778051345264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 300,
+        "ponto_id": 74452,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "344",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13894562158852,
+          -22.993506272066227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 301,
+        "ponto_id": 74488,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "862",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13745708559728,
+          -22.99574334838583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 302,
+        "ponto_id": 74548,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "1140",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13668923467712,
+          -22.997906413449943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 303,
+        "ponto_id": 74592,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": "847",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137344080218725,
+          -22.998865212494746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 304,
+        "ponto_id": 74600,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13845498453373,
+          -22.998065562987858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 305,
+        "ponto_id": 74604,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": "499",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14006562973005,
+          -22.996941633595586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 6398,
+        "ponto_id": 74614,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14198171989819,
+          -22.99555004390924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 306,
+        "ponto_id": 74608,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R ISABEL LOPES VENTURA",
+        "ende_numero": "75",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143602950117064,
+          -22.994569614850178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 307,
+        "ponto_id": 74584,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R HOMERO SILVA",
+        "ende_numero": "220",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143909381003404,
+          -22.993445558523508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 308,
+        "ponto_id": 74512,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R HOMERO SILVA",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14373272314427,
+          -22.99174157323619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 281,
+        "ponto_id": 74576,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R FELIPE RUTSCHMANN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144994056060455,
+          -22.992296656545374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 282,
+        "ponto_id": 74572,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145690119403916,
+          -22.991661622305546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 283,
+        "ponto_id": 74508,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14609873178083,
+          -22.98961108925046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 255,
+        "ponto_id": 74492,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147324145708865,
+          -22.98822654526959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 256,
+        "ponto_id": 74536,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "228",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148990625598636,
+          -22.9876902797869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 239,
+        "ponto_id": 74448,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "510",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148508443680726,
+          -22.985754558958746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 240,
+        "ponto_id": 74372,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14792010056121,
+          -22.983278174417958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 202,
+        "ponto_id": 74256,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147149736656935,
+          -22.981117958030907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 309,
+        "ponto_id": 74230,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R GRAVATAI",
+        "ende_numero": "385",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148979581765765,
+          -22.978897302013895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 310,
+        "ponto_id": 74222,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R AZAIAS MENDES",
+        "ende_numero": "1028",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1500407235601,
+          -22.97870461269525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 261,
+        "ponto_id": 74210,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151034306409024,
+          -22.975586395920725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 262,
+        "ponto_id": 74202,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15106206070893,
+          -22.97581062284726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 311,
+        "ponto_id": 74238,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R GARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14881408414121,
+          -22.976385752592027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 204,
+        "ponto_id": 74116,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "883",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147208048672084,
+          -22.97611828377621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 205,
+        "ponto_id": 74048,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "751",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146399643686415,
+          -22.974661184652266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 206,
+        "ponto_id": 73920,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "643",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145399545730164,
+          -22.972918066075568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 207,
+        "ponto_id": 73764,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "419",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14429304795236,
+          -22.971080326206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 208,
+        "ponto_id": 73620,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "143",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14327105044994,
+          -22.969255336052626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 34,
+        "ponto_id": 73468,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4377",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14104420926855,
+          -22.967549350554567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 209,
+        "ponto_id": 73312,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R CAIRU",
+        "ende_numero": "23",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13819199541887,
+          -22.967078339334307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 64,
+        "ponto_id": 73124,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105,108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13577803393606,
+          -22.96668532694984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 134,
+        "num_linha": "113",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO II",
+        "extensao_m": 14095.14,
+        "ponto_gid": 5292,
+        "ponto_id": 72868,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13272999959053,
+          -22.964901562121405
+        ]
+      }
+    }
+  ]
+}

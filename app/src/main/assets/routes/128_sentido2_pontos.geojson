@@ -1,0 +1,1987 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 598,
+        "ponto_id": 74680,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R JOSE ESTEVAM DE ARAUJO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,131,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16983747251801,
+          -22.97348662837542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 599,
+        "ponto_id": 74656,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R EDUARDO CAETANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,131,133,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.168871374728774,
+          -22.971765327871548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 600,
+        "ponto_id": 74642,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JOSE FERREIRA DE BRITO",
+        "ende_numero": "13",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,126,128,131,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.168299497500236,
+          -22.970450746324516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5435,
+        "ponto_id": 74643,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "ESTRADA DO FRIBURGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,131,132,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16652075691078,
+          -22.969175514508844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 799,
+        "ponto_id": 74424,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R FERNANDO FERREIRA DA SILVA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16402378269545,
+          -22.968576692018242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5549,
+        "ponto_id": 74774,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16414908052106,
+          -22.972591107335088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5552,
+        "ponto_id": 74777,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16608350552405,
+          -22.974182398064887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5553,
+        "ponto_id": 74776,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16607561795546,
+          -22.97621962132749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5554,
+        "ponto_id": 74761,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16392615281673,
+          -22.977364972126804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5551,
+        "ponto_id": 74762,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.163221447351404,
+          -22.975786759094902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5550,
+        "ponto_id": 74772,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16232999936866,
+          -22.97364939694339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 798,
+        "ponto_id": 74468,
+        "ptseqlinha": 12.5,
+        "ende_logradouro": "R EDES TARGA",
+        "ende_numero": "65",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.164657187852626,
+          -22.96991627164735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 601,
+        "ponto_id": 74480,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DALMO DE MIRANDA GOMES",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16450074435756,
+          -22.968543181695456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 805,
+        "ponto_id": 74316,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15976288388357,
+          -22.96750970055872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5438,
+        "ponto_id": 74295,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": "221",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16001692526688,
+          -22.96708582715416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 6003,
+        "ponto_id": 74413,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JOSE SEBASTIAO NAPOLE",
+        "ende_numero": "146",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16261857416994,
+          -22.967509584950587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 608,
+        "ponto_id": 74412,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R COMEND ARLY GOMES RIBEIRO",
+        "ende_numero": "83",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16312885401871,
+          -22.96709193920969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5894,
+        "ponto_id": 74388,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R COMEND ARLY GOMES RIBEIRO",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.163505032591985,
+          -22.96590982315565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 6001,
+        "ponto_id": 74307,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R AURELIO BRESSAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16333228562039,
+          -22.964715006573613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5321,
+        "ponto_id": 74724,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "TERMINAL VIDA NOVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17121644923399,
+          -22.974257497000284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5734,
+        "ponto_id": 70305,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R AURELIO BRESSAN",
+        "ende_numero": "35",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16148130120326,
+          -22.964308856647285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 604,
+        "ponto_id": 74206,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R UM (RES SAO JOSE)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16118459683306,
+          -22.96396681491435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 800,
+        "ponto_id": 74182,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R UM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16130111997444,
+          -22.961429325210162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 801,
+        "ponto_id": 74186,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16227839208585,
+          -22.960174273087528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 802,
+        "ponto_id": 74134,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R S/ DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.163228688616165,
+          -22.960398279449098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 803,
+        "ponto_id": 74240,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16555025941174,
+          -22.961385330047147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 678,
+        "ponto_id": 74308,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R THERESINHA DE ARRUDA SERRA VON ZUBEN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16417854296807,
+          -22.963104380253906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 679,
+        "ponto_id": 74188,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R THERESINHA DE ARRUDA SERRA VON ZUBEN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16208553382131,
+          -22.962562045440887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5735,
+        "ponto_id": 74205,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R UM (SAO JOSE)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16135353848624,
+          -22.96384082016711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 6002,
+        "ponto_id": 74261,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R UM (SAO JOSE)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16115930175663,
+          -22.965868229002137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 602,
+        "ponto_id": 74296,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R JOSE ROBERTO DA SILVA QUITERIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16107861439109,
+          -22.966688952955714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 805,
+        "ponto_id": 74316,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15976288388357,
+          -22.96750970055872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 609,
+        "ponto_id": 74160,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15662126334758,
+          -22.96760582826485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 610,
+        "ponto_id": 74040,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": "285",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152307092182326,
+          -22.967913269060816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 611,
+        "ponto_id": 73904,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14959548935342,
+          -22.968093696044438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 612,
+        "ponto_id": 73808,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14789608517715,
+          -22.968185254101922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 32,
+        "ponto_id": 73696,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4925",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14580602857542,
+          -22.968132317123306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 33,
+        "ponto_id": 73560,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4663",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143471075913226,
+          -22.96773429263364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 34,
+        "ponto_id": 73468,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4377",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14104420926855,
+          -22.967549350554567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 209,
+        "ponto_id": 73312,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R CAIRU",
+        "ende_numero": "23",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13819199541887,
+          -22.967078339334307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 64,
+        "ponto_id": 73124,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105,108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13577803393606,
+          -22.96668532694984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 32,
+        "num_linha": "128",
+        "sentido": 1,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 11793.12,
+        "ponto_gid": 5302,
+        "ponto_id": 72904,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133221910413454,
+          -22.96464014128821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5302,
+        "ponto_id": 72904,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133221910413454,
+          -22.96464014128821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 672,
+        "ponto_id": 73204,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "3920",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.136929019804626,
+          -22.966585857327257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 673,
+        "ponto_id": 73448,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4440",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14129610615977,
+          -22.967252191857018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 41,
+        "ponto_id": 73576,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4718",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,128,129,131,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143930021303404,
+          -22.96747829387295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 674,
+        "ponto_id": 73800,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "5004",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14698176713584,
+          -22.967965906242284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 675,
+        "ponto_id": 73908,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14976739426949,
+          -22.967793457201317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5895,
+        "ponto_id": 74000,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": "190",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151745390189404,
+          -22.967630441373274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 676,
+        "ponto_id": 74144,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": "195",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15656665154086,
+          -22.967177028114033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5438,
+        "ponto_id": 74295,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV CAMUCIM",
+        "ende_numero": "221",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16001692526688,
+          -22.96708582715416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 6003,
+        "ponto_id": 74413,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R JOSE SEBASTIAO NAPOLE",
+        "ende_numero": "146",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16261857416994,
+          -22.967509584950587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 608,
+        "ponto_id": 74412,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R COMEND ARLY GOMES RIBEIRO",
+        "ende_numero": "83",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16312885401871,
+          -22.96709193920969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5894,
+        "ponto_id": 74388,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R COMEND ARLY GOMES RIBEIRO",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.163505032591985,
+          -22.96590982315565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 6304,
+        "ponto_id": 74301,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R COMEND ARLY GOMES RIBEIRO",
+        "ende_numero": "412",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16406995986572,
+          -22.964075339333625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 678,
+        "ponto_id": 74308,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R THERESINHA DE ARRUDA SERRA VON ZUBEN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16417854296807,
+          -22.963104380253906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 679,
+        "ponto_id": 74188,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R THERESINHA DE ARRUDA SERRA VON ZUBEN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16208553382131,
+          -22.962562045440887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 800,
+        "ponto_id": 74182,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R UM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16130111997444,
+          -22.961429325210162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 801,
+        "ponto_id": 74186,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16227839208585,
+          -22.960174273087528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 802,
+        "ponto_id": 74134,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R S/ DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.163228688616165,
+          -22.960398279449098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 803,
+        "ponto_id": 74240,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16555025941174,
+          -22.961385330047147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 606,
+        "ponto_id": 74352,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R COMEND ARLY GOMES RIBEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.164230612217004,
+          -22.964244517731927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 6001,
+        "ponto_id": 74307,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R AURELIO BRESSAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16333228562039,
+          -22.964715006573613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 6002,
+        "ponto_id": 74261,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R UM (SAO JOSE)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16115930175663,
+          -22.965868229002137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 602,
+        "ponto_id": 74296,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R JOSE ROBERTO DA SILVA QUITERIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,132 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16107861439109,
+          -22.966688952955714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 681,
+        "ponto_id": 74476,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "EST FRIBURGO ( AV PEDRO DEGRECCI JR )",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16537159436362,
+          -22.968415262147065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 799,
+        "ponto_id": 74424,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R FERNANDO FERREIRA DA SILVA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16402378269545,
+          -22.968576692018242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5553,
+        "ponto_id": 74776,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16607561795546,
+          -22.97621962132749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5549,
+        "ponto_id": 74774,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16414908052106,
+          -22.972591107335088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5550,
+        "ponto_id": 74772,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16232999936866,
+          -22.97364939694339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5551,
+        "ponto_id": 74762,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.163221447351404,
+          -22.975786759094902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5554,
+        "ponto_id": 74761,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16392615281673,
+          -22.977364972126804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5552,
+        "ponto_id": 74777,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16608350552405,
+          -22.974182398064887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 798,
+        "ponto_id": 74468,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R EDES TARGA",
+        "ende_numero": "65",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "128 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.164657187852626,
+          -22.96991627164735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 601,
+        "ponto_id": 74480,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DALMO DE MIRANDA GOMES",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16450074435756,
+          -22.968543181695456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 5434,
+        "ponto_id": 74519,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV LUIS ANTONIO PINHEIRO PORTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,129,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16662429167874,
+          -22.96877700101934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 823,
+        "ponto_id": 74636,
+        "ptseqlinha": 60.5,
+        "ende_logradouro": " EST FRIBURGO (AV PEDRO DEGRECCI JR)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,128,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.168688433686036,
+          -22.970051759706006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 408,
+        "num_linha": "128",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA / TERMINAL OURO VERDE (INCLUSIVO)",
+        "extensao_m": 11996.16,
+        "ponto_gid": 814,
+        "ponto_id": 74666,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV LUIS ANTONIO PINHEIRO PORTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,128,131,132,133,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1700950703486,
+          -22.970994917311952
+        ]
+      }
+    }
+  ]
+}

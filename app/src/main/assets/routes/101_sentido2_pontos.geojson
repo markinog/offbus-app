@@ -1,0 +1,1212 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5289,
+        "ponto_id": 72916,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13297059705117,
+          -22.96497308583662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5289,
+        "ponto_id": 72916,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13297059705117,
+          -22.96497308583662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5989,
+        "ponto_id": 73213,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "39",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13598545545318,
+          -22.966103930233423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5900,
+        "ponto_id": 73217,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13709296517971,
+          -22.965207559844696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5388,
+        "ponto_id": 73247,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R NORBERTO LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14041242113125,
+          -22.96189216648123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5559,
+        "ponto_id": 73257,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOSE DUTRA DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15153747422945,
+          -22.959478687855082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5405,
+        "ponto_id": 73374,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R MARCOS TEODORO",
+        "ende_numero": "382",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14126863550024,
+          -22.963681362257084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5404,
+        "ponto_id": 73375,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R SEVERINO DO AMARAL CAMPOS",
+        "ende_numero": "13",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14007878884658,
+          -22.963702216744743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5370,
+        "ponto_id": 73377,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ANTONIO CANDIDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140008772207544,
+          -22.96489678105651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5371,
+        "ponto_id": 73378,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DR RENATO LUIZ PEREIRA DA SILVA",
+        "ende_numero": "370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13915464231678,
+          -22.963436730727715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5372,
+        "ponto_id": 73379,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOSE OCTAVIANO SOARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138773772739526,
+          -22.963856234149922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5373,
+        "ponto_id": 73381,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13843212514766,
+          -22.965005716431204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 29,
+        "ponto_id": 73472,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS DOS SANTOS CARDOSO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145500451242114,
+          -22.962300822690366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5582,
+        "ponto_id": 73474,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JANET KRISTINE AYLSWORTH",
+        "ende_numero": "4",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145449990539866,
+          -22.964039690734086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 30,
+        "ponto_id": 73572,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR CARLOS DE OLIVEIRA",
+        "ende_numero": "387",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146450512892514,
+          -22.964579932287375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 28,
+        "ponto_id": 73584,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOSE ZANCHETTA",
+        "ende_numero": "460",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14697249991335,
+          -22.96405035094275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 3,
+        "ponto_id": 73292,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592503837853,
+          -22.969142360359864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5896,
+        "ponto_id": 73617,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R CB ALADARQUE CANDIDO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14247341174058,
+          -22.96427138676272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 4,
+        "ponto_id": 73368,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "665",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13716781298306,
+          -22.969207938057604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5902,
+        "ponto_id": 73621,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R SEVERINO ALVES BATISTA",
+        "ende_numero": "246",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14478330543816,
+          -22.965371039665342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5,
+        "ponto_id": 73464,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "690",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "101,106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138974007096984,
+          -22.96997330064281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 7197,
+        "ponto_id": 73601,
+        "ptseqlinha": 24.1,
+        "ende_logradouro": "AV UM LOT JD VISTA ALEGRE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14876217199028,
+          -22.962017055857277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 7196,
+        "ponto_id": 73585,
+        "ptseqlinha": 24.2,
+        "ende_logradouro": "AV UM LOT JD VISTA ALEGRE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148925564030165,
+          -22.960619235314216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 5898,
+        "ponto_id": 73623,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR CARLOS DE OLIVEIRA",
+        "ende_numero": "233",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14625423958914,
+          -22.965934729500947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 6,
+        "ponto_id": 73552,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": "34",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14007424368994,
+          -22.97116840743157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 7,
+        "ponto_id": 73632,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": "216",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.141784048726215,
+          -22.971213286368727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 27,
+        "ponto_id": 73704,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148426038005645,
+          -22.965229328857742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 8,
+        "ponto_id": 73748,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": "390",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143686066220134,
+          -22.971311336894505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 26,
+        "ponto_id": 73756,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R ABA",
+        "ende_numero": "643",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14974437160188,
+          -22.964762065987664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 25,
+        "ponto_id": 73804,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV AGLAIA",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15157804941327,
+          -22.96371825422742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 23,
+        "ponto_id": 73824,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R CAUIM",
+        "ende_numero": "448",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14963341479711,
+          -22.965972171899722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 9,
+        "ponto_id": 73856,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ARAGUAIA",
+        "ende_numero": "22",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145816085252726,
+          -22.97137630601207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 24,
+        "ponto_id": 73860,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": "89",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151693078692674,
+          -22.96479827626019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 10,
+        "ponto_id": 73992,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R ARAGUAIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14840704556516,
+          -22.971428317808922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 22,
+        "ponto_id": 74044,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R CAUIM",
+        "ende_numero": "38",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14981803732195,
+          -22.968992162896296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 11,
+        "ponto_id": 74064,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R ARAGUAIA",
+        "ende_numero": "450",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.150004802653406,
+          -22.971404753705027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 21,
+        "ponto_id": 74124,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R ANEYRI",
+        "ende_numero": "841",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152674063442355,
+          -22.970476242101473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 16,
+        "ponto_id": 74138,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155629589993474,
+          -22.975536676240573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 17,
+        "ponto_id": 74142,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154063219277596,
+          -22.97569140365498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 12,
+        "ponto_id": 74146,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R ANGELO BUFFO",
+        "ende_numero": "48",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15253972732325,
+          -22.971482915371155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 13,
+        "ponto_id": 74150,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R ANGELO BUFFO",
+        "ende_numero": "280",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154320135043776,
+          -22.972532269167154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 19,
+        "ponto_id": 74154,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R ANTONIO TOSSINI",
+        "ende_numero": "173",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15305025436502,
+          -22.972828295925247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 20,
+        "ponto_id": 74158,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R ANTONIO TOSSINI",
+        "ende_numero": "25",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15147115787259,
+          -22.972243727866807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 18,
+        "ponto_id": 74190,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R MANOEL MENDES",
+        "ende_numero": "453",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153164581610625,
+          -22.974182037122844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 14,
+        "ponto_id": 74194,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R MANOEL MENDES",
+        "ende_numero": "446",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15324169613114,
+          -22.974456056349617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 255,
+        "num_linha": "101",
+        "sentido": 1,
+        "nome_linha": "PARQUE UNIVERSITARIO",
+        "extensao_m": 12580.24,
+        "ponto_gid": 15,
+        "ponto_id": 74198,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": "592",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15410545930082,
+          -22.975398790853852
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1512 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 7317,
+        "ponto_id": 72876,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133085629046036,
+          -22.964624700516676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 3,
+        "ponto_id": 73292,
+        "ptseqlinha": 2.5,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592503837853,
+          -22.969142360359864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 4,
+        "ponto_id": 73368,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "665",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13716781298306,
+          -22.969207938057604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 184,
+        "ponto_id": 73466,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "381",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14017003674292,
+          -22.969367836785455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 6303,
+        "ponto_id": 73790,
+        "ptseqlinha": 4.1,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "OP 299",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144142236630984,
+          -22.97000960181879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 185,
+        "ponto_id": 73784,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "422",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144690042590305,
+          -22.97113733425804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 186,
+        "ponto_id": 73916,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "664",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14560902070741,
+          -22.972740276938424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 187,
+        "ponto_id": 74032,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "824",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146635147790086,
+          -22.974532794490152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 188,
+        "ponto_id": 74128,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1042",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147539073941516,
+          -22.975994273604456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 260,
+        "ponto_id": 74234,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R GARA",
+        "ende_numero": "46",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14901643118451,
+          -22.976143689630504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 261,
+        "ponto_id": 74210,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151034306409024,
+          -22.975586395920725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 262,
+        "ponto_id": 74202,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15106206070893,
+          -22.97581062284726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 263,
+        "ponto_id": 74218,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R IZAIAS MENDES",
+        "ende_numero": "1033",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15025669813012,
+          -22.978561394659852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 264,
+        "ponto_id": 74226,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R GRAVATAI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14890004732723,
+          -22.979044355217475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 189,
+        "ponto_id": 74224,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1444",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14801718029317,
+          -22.979745666367492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 190,
+        "ponto_id": 74288,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14754092501325,
+          -22.98130380595925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 191,
+        "ponto_id": 74396,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "697",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148177663340256,
+          -22.98343004491627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 5791,
+        "ponto_id": 74460,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "425",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14875773905375,
+          -22.985805432506897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 192,
+        "ponto_id": 74580,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14948009259405,
+          -22.98868830564404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 194,
+        "ponto_id": 74484,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "615",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14709491915395,
+          -22.98830078941712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 265,
+        "ponto_id": 74516,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": "198",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146237924947734,
+          -22.98975264982149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 266,
+        "ponto_id": 74552,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145879800267835,
+          -22.991274981985697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 267,
+        "ponto_id": 74568,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R FELIPE RUTSCHMANN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14477532047626,
+          -22.992297362215226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 268,
+        "ponto_id": 74528,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R HOMERO SILVA",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14398808626278,
+          -22.99180428785699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 269,
+        "ponto_id": 74588,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R HOMERO SILVA",
+        "ende_numero": "247",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14415879687224,
+          -22.993487951039217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 270,
+        "ponto_id": 74628,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ISABEL LOPES VENTURA",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14375716870405,
+          -22.994837847140232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 271,
+        "ponto_id": 74612,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14199458632964,
+          -22.995788467842633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 272,
+        "ponto_id": 74620,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": "38",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140340233863405,
+          -22.99696933763071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 273,
+        "ponto_id": 74616,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": "17",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138530550416924,
+          -22.998221621049158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 274,
+        "ponto_id": 74624,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV DOLORES FRANCO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13746751931952,
+          -22.998953752878553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 5658,
+        "ponto_id": 74597,
+        "ptseqlinha": 29.5,
+        "ende_logradouro": "R TRES (JD PLANALTO DE VIRACOPOS)",
+        "ende_numero": "13",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13484450209921,
+          -23.00100443960215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 275,
+        "ponto_id": 74596,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "1195",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13697098848694,
+          -22.999057049720058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 276,
+        "ponto_id": 74540,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "1035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.136451820519994,
+          -22.99794735212875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 277,
+        "ponto_id": 74472,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "715",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13720962327141,
+          -22.995641337449733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 278,
+        "ponto_id": 74436,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "335",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13868422159606,
+          -22.993428013295656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 7255,
+        "ponto_id": 74450,
+        "ptseqlinha": 33.1,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": "208",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14204018714284,
+          -22.991505622057883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 280,
+        "ponto_id": 74496,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R LUIZ TERCIO ROCCATO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14350965421927,
+          -22.99147534241515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 281,
+        "ponto_id": 74576,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R FELIPE RUTSCHMANN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144994056060455,
+          -22.992296656545374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 282,
+        "ponto_id": 74572,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145690119403916,
+          -22.991661622305546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 283,
+        "ponto_id": 74508,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R NEHME ANTONIO HADDAD",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112,113,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14609873178083,
+          -22.98961108925046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 193,
+        "ponto_id": 74428,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "345",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14499051705049,
+          -22.98863208499589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 195,
+        "ponto_id": 74400,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "27",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14188178828759,
+          -22.989042839117506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 196,
+        "ponto_id": 74380,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": "264",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139892502361455,
+          -22.990169008872194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 5793,
+        "ponto_id": 74354,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138051830595266,
+          -22.990929430514683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 197,
+        "ponto_id": 74382,
+        "ptseqlinha": 43.5,
+        "ende_logradouro": "AV JOSEPH GORSIN",
+        "ende_numero": "54",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,112,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13893649459127,
+          -22.99009444638353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 198,
+        "ponto_id": 74228,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV JOSEPH GORSIN",
+        "ende_numero": "246",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13790005221211,
+          -22.988461369326256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 285,
+        "ponto_id": 74156,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV JOSEPH GORSIN",
+        "ende_numero": "456",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13710375463057,
+          -22.98669983192886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 286,
+        "ponto_id": 73976,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R TEREZINHA DE ASSIS SANTOS TOMAZ",
+        "ende_numero": "197",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13700865966464,
+          -22.981579771457596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 287,
+        "ponto_id": 73884,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R ANTONIO XAVIER DOS ANJOS",
+        "ende_numero": "430",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13794280122572,
+          -22.979105641226393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 288,
+        "ponto_id": 73832,
+        "ptseqlinha": 47.5,
+        "ende_logradouro": "R JULIO DIAS CARNEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13802516076554,
+          -22.97830409433568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 162,
+        "ponto_id": 73768,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R JULIO DIAS CARNEIRO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137743146705475,
+          -22.977214106456618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 289,
+        "ponto_id": 73652,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "2517",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13647559627182,
+          -22.975636832170398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 290,
+        "ponto_id": 73516,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "2351",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.135460474027305,
+          -22.97421054301623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 165,
+        "ponto_id": 73388,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134057539170904,
+          -22.97253569794559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 166,
+        "ponto_id": 73280,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "1949",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "106,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133281749382085,
+          -22.97141462928595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 258,
+        "ponto_id": 73184,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13424388459997,
+          -22.968805801575453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 259,
+        "ponto_id": 73044,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "173",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13325343435507,
+          -22.96739305214704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 93,
+        "num_linha": "112",
+        "sentido": 1,
+        "nome_linha": "JARDIM PLANALTO I",
+        "extensao_m": 15723.36,
+        "ponto_gid": 7317,
+        "ponto_id": 72876,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133085629046036,
+          -22.964624700516676
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2037 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 5303,
+        "ponto_id": 72824,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132707271901474,
+          -22.964596503246014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 65,
+        "ponto_id": 72676,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "103,116,118,119,122,125,131,132,133,134,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12962199807741,
+          -22.962189280056123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 410,
+        "ponto_id": 72328,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,122,125,131,132,133,134,136,143,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11945398192488,
+          -22.957781675901927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 411,
+        "ponto_id": 72208,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,125,131,132,133,134,136,143,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11511525972137,
+          -22.954729418444902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 5547,
+        "ponto_id": 72106,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "831",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113552231681346,
+          -22.952965209853776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 7222,
+        "ponto_id": 71507,
+        "ptseqlinha": 8.5,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "116,119,125,134 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108930303691814,
+          -22.94592596676218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 415,
+        "ponto_id": 71488,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1331",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,125,134 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10840898502691,
+          -22.94223196726103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 733,
+        "ponto_id": 71296,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10667164183899,
+          -22.938863975115922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 734,
+        "ponto_id": 71164,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10587844264131,
+          -22.936568920706154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 735,
+        "ponto_id": 71080,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10564191764081,
+          -22.935003586287472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 736,
+        "ponto_id": 71024,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105399031769274,
+          -22.933385162108323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 737,
+        "ponto_id": 70964,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10580329234246,
+          -22.931757789610547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 738,
+        "ponto_id": 70944,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10513133171791,
+          -22.930546158340256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 739,
+        "ponto_id": 70860,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "777",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103049629617495,
+          -22.930331905904623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 740,
+        "ponto_id": 70768,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "595",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10129092322389,
+          -22.93033633426041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 741,
+        "ponto_id": 70712,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "429",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099455325856574,
+          -22.930343385310366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 742,
+        "ponto_id": 70588,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV PRESIDENTE JUSCELINO",
+        "ende_numero": "105",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,163,164,165,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09649747324829,
+          -22.930145473051134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 743,
+        "ponto_id": 70524,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "883",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093451117215025,
+          -22.930727028098215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 744,
+        "ponto_id": 70476,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "417",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09036651843226,
+          -22.93057671358154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 745,
+        "ponto_id": 70440,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "235",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087995224315776,
+          -22.930395363635913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 7518,
+        "ponto_id": 70489,
+        "ptseqlinha": 22.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08633590732985,
+          -22.930579353730543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 5926,
+        "ponto_id": 70181,
+        "ptseqlinha": 23.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08190582713767,
+          -22.925916814487618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 5527,
+        "ponto_id": 70184,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07948593395305,
+          -22.92351447154542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 584,
+        "ponto_id": 70156,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07782620199902,
+          -22.922015499649664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 585,
+        "ponto_id": 70084,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07408195298589,
+          -22.919479249835813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 746,
+        "ponto_id": 70032,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PREF FARIA LIMA",
+        "ende_numero": "235",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067955399082635,
+          -22.91737875414464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 747,
+        "ponto_id": 90156,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "VIA EXP WALDEMAR PASCHOAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061919571908135,
+          -22.91780790297126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 748,
+        "ponto_id": 708,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "464",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05542831412575,
+          -22.910957810609975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 749,
+        "ponto_id": 736,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "854",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05196364072026,
+          -22.909642194945103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 750,
+        "ponto_id": 90024,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R GEN MARCONDES SALGADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047802031073424,
+          -22.90633209132432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 751,
+        "ponto_id": 10168,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2206",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044517762877646,
+          -22.906352463167597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 752,
+        "ponto_id": 10360,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2612",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03846615224035,
+          -22.90596683819847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 753,
+        "ponto_id": 10408,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03550034353859,
+          -22.904955186132913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 754,
+        "ponto_id": 10476,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03185048666922,
+          -22.90372029712935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 755,
+        "ponto_id": 10524,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02986381608543,
+          -22.901036923451546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 756,
+        "ponto_id": 10528,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029792358362506,
+          -22.898919947831267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 757,
+        "ponto_id": 10548,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV ROTARY",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02922757665786,
+          -22.895337610610635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 289,
+        "num_linha": "125",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17367.13,
+        "ponto_gid": 758,
+        "ponto_id": 10617,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,362,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02505329251229,
+          -22.892528168365565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 758,
+        "ponto_id": 10617,
+        "ptseqlinha": 39.1,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,362,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02505329251229,
+          -22.892528168365565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 759,
+        "ponto_id": 10544,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ROTARY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029640744697126,
+          -22.895736880298802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 760,
+        "ponto_id": 10516,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03011472627088,
+          -22.898898495017583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 761,
+        "ponto_id": 10500,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "2702",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030166766640995,
+          -22.901141478953594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 762,
+        "ponto_id": 10496,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "PC ORLANDO CATALANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03080302697153,
+          -22.90234734676902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 763,
+        "ponto_id": 10396,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "3124",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03627146414297,
+          -22.90491848930732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 764,
+        "ponto_id": 10344,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2701",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038898332697165,
+          -22.905779286525746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 765,
+        "ponto_id": 10320,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2511",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040792961719575,
+          -22.906421491484966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 766,
+        "ponto_id": 10196,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0436884782394,
+          -22.906117755181867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 571,
+        "ponto_id": 668,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R CEL QUIRINO",
+        "ende_numero": "167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,364,385,389,397,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050507817226,
+          -22.905957460842725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 572,
+        "ponto_id": 720,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "VIA EXP WALDEMAR PASCHOAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,364,385,389,397,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05090296858072,
+          -22.908011003180413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 573,
+        "ponto_id": 700,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,364,385,389,397,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052538796325685,
+          -22.90899540353778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 574,
+        "ponto_id": 676,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "391",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,349,367,385,389,395,397,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05657036676691,
+          -22.910620998767484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 767,
+        "ponto_id": 90152,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "VIA EXP WALDEMAR PASCHOAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185087951745,
+          -22.917502027046442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 768,
+        "ponto_id": 70024,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV PREF FARIA LIMA",
+        "ende_numero": "90",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,245,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066867843040974,
+          -22.91724835443492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 769,
+        "ponto_id": 70028,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV PREF FARIA LIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06866832346383,
+          -22.91657032423205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 592,
+        "ponto_id": 70088,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07502278049115,
+          -22.91968114129561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 593,
+        "ponto_id": 70168,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "4528",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078118527778706,
+          -22.921892686314123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5540,
+        "ponto_id": 70200,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1999",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07990750806758,
+          -22.92357232159311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5925,
+        "ponto_id": 70170,
+        "ptseqlinha": 57.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082247321373295,
+          -22.925949987225074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 770,
+        "ponto_id": 70368,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2754",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084498336474404,
+          -22.929063290855797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 771,
+        "ponto_id": 70432,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08720800629435,
+          -22.930039552060247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 772,
+        "ponto_id": 70468,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "510",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09039621149737,
+          -22.930436610055573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 773,
+        "ponto_id": 70516,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094163007169215,
+          -22.930500837313875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 774,
+        "ponto_id": 70668,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097618319003125,
+          -22.929720921836143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 7519,
+        "ponto_id": 70670,
+        "ptseqlinha": 62.1,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "386",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099331251369655,
+          -22.929896979072318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 775,
+        "ponto_id": 70756,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101281326126184,
+          -22.929823866905625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 776,
+        "ponto_id": 70828,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10340741728208,
+          -22.92986801433046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 777,
+        "ponto_id": 70948,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "115 A",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1055206800467,
+          -22.93008103357809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 778,
+        "ponto_id": 70992,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "150",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105975008582874,
+          -22.931888308455356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 779,
+        "ponto_id": 71032,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,154 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105606418552036,
+          -22.93356612421564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 780,
+        "ponto_id": 71084,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10581787836911,
+          -22.935086021297852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 781,
+        "ponto_id": 71168,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10623849068434,
+          -22.93679109800391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 782,
+        "ponto_id": 71300,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10687457559194,
+          -22.938979904273832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 519,
+        "ponto_id": 71520,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1404",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,125,134,152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10895883024575,
+          -22.942488447303212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 7213,
+        "ponto_id": 71517,
+        "ptseqlinha": 71.5,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1800",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "116,118,119,125,134 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109183154169685,
+          -22.946255137378042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5548,
+        "ponto_id": 72102,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "2640",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11342351537615,
+          -22.952447995265032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 522,
+        "ponto_id": 72320,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "3242",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,122,125,131,132,133,134,136,143,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119809302045724,
+          -22.957314180498653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5882,
+        "ponto_id": 72684,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,125,131,133,134,136,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1301636838741,
+          -22.96193583612797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5377,
+        "ponto_id": 72206,
+        "ptseqlinha": 76.1,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,118,119,125,131,132,133,134,136,143,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11565626458329,
+          -22.95460736039799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 150,
+        "num_linha": "125",
+        "sentido": 2,
+        "nome_linha": "TERMINAL OURO VERDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 17653.22,
+        "ponto_gid": 5303,
+        "ponto_id": 72824,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132707271901474,
+          -22.964596503246014
+        ]
+      }
+    }
+  ]
+}

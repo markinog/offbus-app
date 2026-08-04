@@ -1,0 +1,1387 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 5687,
+        "ponto_id": 61589,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18121360349703,
+          -22.942434705886775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 689,
+        "ponto_id": 61424,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17304293227694,
+          -22.94209870148581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 690,
+        "ponto_id": 61360,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17014038264584,
+          -22.94108519202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 691,
+        "ponto_id": 61324,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "8770",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.166905457261564,
+          -22.93886384389723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 692,
+        "ponto_id": 61264,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.164595563998716,
+          -22.936966535905174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 693,
+        "ponto_id": 61164,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R WALDEMAR BENTO DE OLIVEIRA",
+        "ende_numero": "108",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,214,219,220,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.160451041698884,
+          -22.937029722089726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 694,
+        "ponto_id": 61080,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R VICENT DE MARCH",
+        "ende_numero": "532",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.157524936358264,
+          -22.93824221630151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 695,
+        "ponto_id": 61024,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R VICENTE DE MARCH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15479867165447,
+          -22.93929580021119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 1933,
+        "ponto_id": 60986,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R VICENTE DE MARCH",
+        "ende_numero": "718",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15315349826543,
+          -22.93996209713172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 6224,
+        "ponto_id": 60971,
+        "ptseqlinha": 12.5,
+        "ende_logradouro": "TERMINAL SATELITE IRIS BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145782360572916,
+          -22.941814303592835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 698,
+        "ponto_id": 60824,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "6531",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14214188354806,
+          -22.9405325950988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 7549,
+        "ponto_id": 60798,
+        "ptseqlinha": 16.1,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14166905435135,
+          -22.938476688227006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 699,
+        "ponto_id": 60808,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14101881459939,
+          -22.93702706991386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 5511,
+        "ponto_id": 60763,
+        "ptseqlinha": 17.5,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138017723763255,
+          -22.935685057193812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 700,
+        "ponto_id": 60764,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13570879291143,
+          -22.935393090429447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 1710,
+        "ponto_id": 60734,
+        "ptseqlinha": 18.5,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "5125",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13224028343241,
+          -22.934806365219494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 701,
+        "ponto_id": 60744,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": "152",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13114833937262,
+          -22.935650588822185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 702,
+        "ponto_id": 60740,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13040895125171,
+          -22.936807836304897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 703,
+        "ponto_id": 72232,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1293799479044,
+          -22.940695106698115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 704,
+        "ponto_id": 72358,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13133466183231,
+          -22.94493625453557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 705,
+        "ponto_id": 72416,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133300510201444,
+          -22.948345972654764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 706,
+        "ponto_id": 72496,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": "2368",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13415308643884,
+          -22.950271573833557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 707,
+        "ponto_id": 72556,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13476192729146,
+          -22.952181327296532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 7269,
+        "ponto_id": 72545,
+        "ptseqlinha": 25.1,
+        "ende_logradouro": "R AFLAUDISIO INACIO PEREIRA",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13494131160804,
+          -22.954441850683498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 708,
+        "ponto_id": 72692,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R LAZARO ANTONIO CLAUDINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.135193686101715,
+          -22.956723387423132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 709,
+        "ponto_id": 72732,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R JOAO CABOCLO DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13453603178446,
+          -22.959729350771816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 65,
+        "num_linha": "123",
+        "sentido": 1,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 11889.32,
+        "ponto_gid": 5285,
+        "ponto_id": 72956,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1331150345369,
+          -22.96514901571107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 5285,
+        "ponto_id": 72956,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1331150345369,
+          -22.96514901571107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 6101,
+        "ponto_id": 72730,
+        "ptseqlinha": 30.5,
+        "ende_logradouro": "R YVES MONTAND",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13195798790644,
+          -22.961876596743426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 6100,
+        "ponto_id": 72734,
+        "ptseqlinha": 30.7,
+        "ende_logradouro": "R PAULO MACHADO",
+        "ende_numero": "86",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133499675847396,
+          -22.961556627260187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 7268,
+        "ponto_id": 72775,
+        "ptseqlinha": 30.8,
+        "ende_logradouro": "R JOAO CABOCLO DA SILVA",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13431857518763,
+          -22.958375630113856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 710,
+        "ponto_id": 72688,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R LAZARO ANTONIO CLAUDINO",
+        "ende_numero": "507",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13504462624217,
+          -22.956632749117926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 6369,
+        "ponto_id": 72555,
+        "ptseqlinha": 31.1,
+        "ende_logradouro": "R AFLAUDISIO INACIO PEREIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13468669213955,
+          -22.954417602645552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 711,
+        "ponto_id": 72552,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134533517269546,
+          -22.952241587878145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 712,
+        "ponto_id": 72484,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13381539722281,
+          -22.95037243196463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 713,
+        "ponto_id": 72408,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13318228982712,
+          -22.948690692210807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 714,
+        "ponto_id": 72324,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": "2094",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13113050105658,
+          -22.944924239302264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 715,
+        "ponto_id": 60748,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DEP LUIS EDUARDO MAGALHAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12908526415171,
+          -22.94031214739226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 716,
+        "ponto_id": 60728,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": "345",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13021739256854,
+          -22.936649175300186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 717,
+        "ponto_id": 60736,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV PROF MARIO SCOLARI",
+        "ende_numero": "95",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,231 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13106677646046,
+          -22.935323982367564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 718,
+        "ponto_id": 60732,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13179498703738,
+          -22.934013323164624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 719,
+        "ponto_id": 60760,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13613986658951,
+          -22.934930612318833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 5563,
+        "ponto_id": 60810,
+        "ptseqlinha": 40.5,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14168062454953,
+          -22.936947034513448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 721,
+        "ponto_id": 60828,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14245863483888,
+          -22.94044721079608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 6226,
+        "ponto_id": 60975,
+        "ptseqlinha": 42.5,
+        "ende_logradouro": "TERMINAL SATELITE IRIS CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,212 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14538143352599,
+          -22.941930873063324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 1934,
+        "ponto_id": 60995,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "7624",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,233,234,235,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151512442542106,
+          -22.94011132622016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 724,
+        "ponto_id": 61016,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "7974",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155042895910114,
+          -22.93868166157333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 725,
+        "ponto_id": 61052,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "8324",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.158218505789385,
+          -22.937471093459127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 726,
+        "ponto_id": 61136,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R TRINTA E NOVE",
+        "ende_numero": "8620",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205,210,211,212,213,214,219,220,227,232,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16057860125078,
+          -22.936480369030622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 727,
+        "ponto_id": 61252,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "9020",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1650465420913,
+          -22.936967425176768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 728,
+        "ponto_id": 61328,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16709602885843,
+          -22.938553946485836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 729,
+        "ponto_id": 61364,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1704154009341,
+          -22.940676194649882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 730,
+        "ponto_id": 61420,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "9547",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17349727459176,
+          -22.94183280347448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 323,
+        "num_linha": "123",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE /TERMINAL OURO VERDETERMINAL CAMPO GRANDE /TERMINAL OURO VERDE",
+        "extensao_m": 10618.03,
+        "ponto_gid": 5687,
+        "ponto_id": 61589,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18121360349703,
+          -22.942434705886775
+        ]
+      }
+    }
+  ]
+}
