@@ -2,12 +2,13 @@ package com.offbuss
 
 import android.graphics.RectF
 import android.os.Bundle
+import android.view.Gravity
 import android.view.View
-import android.widget.LinearLayout
+import android.widget.GridLayout
 import android.widget.TextView
 import android.widget.Toast
-import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import androidx.lifecycle.lifecycleScope
 import com.offbus.R
 import com.offbus.databinding.ActivityMainBinding
@@ -40,16 +41,17 @@ class MainActivity : AppCompatActivity() {
         /** Raio da área de toque das paradas, em pixels de tela. */
         const val TOLERANCIA_TOQUE_PX = 24f
 
-        /** Azul do traçado da rota. */
-        const val COR_ROTA = "#2196F3"
-
         /**
-         * Roxo das paradas. Vizinho do azul no círculo cromático, então combina
-         * com o traçado, mas é escuro e saturado o bastante para se destacar
-         * dele — e o mapa base não tem roxo em nenhuma camada, ao contrário do
-         * amarelo e do laranja, que são usados na hierarquia viária.
+         * Roxo do traçado e das paradas.
+         *
+         * O mapa base não usa roxo em nenhuma camada — ao contrário do amarelo
+         * e do laranja, que compõem a hierarquia viária —, então o trajeto se
+         * destaca sem competir com as ruas.
          */
-        const val COR_PARADA = "#673AB7"
+        const val COR_ROTA = "#673AB7"
+
+        /** Mesma cor do traçado; separado para poderem divergir de novo. */
+        const val COR_PARADA = COR_ROTA
     }
 
     private lateinit var binding: ActivityMainBinding
@@ -62,6 +64,7 @@ class MainActivity : AppCompatActivity() {
     private var pendingRota:   String? = null
     private var pendingPontos: String? = null
     private var tileServer:    TileServer? = null
+    private var dicaExibida    = false
 
     // ─── onCreate ────────────────────────────────────────────────────
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -162,7 +165,7 @@ class MainActivity : AppCompatActivity() {
             append(formatarLinhas(parada.textoOuNulo("linhas")))
         }
 
-        AlertDialog.Builder(this)
+        MaterialAlertDialogBuilder(this)
             .setTitle(if (numero != null) "Parada $numero" else "Parada")
             .setMessage(texto)
             .setPositiveButton("Fechar", null)
@@ -219,7 +222,7 @@ class MainActivity : AppCompatActivity() {
 
             resultados.size == 1 -> exibirResultado(resultados.first())
 
-            else -> AlertDialog.Builder(this)
+            else -> MaterialAlertDialogBuilder(this)
                 .setTitle("Selecione a linha")
                 .setItems(resultados.toTypedArray()) { _, i -> exibirResultado(resultados[i]) }
                 .show()
@@ -235,6 +238,8 @@ class MainActivity : AppCompatActivity() {
             if (repository.temSentido2(linha)) View.VISIBLE else View.GONE
         binding.btnItinerarios.visibility = View.VISIBLE
         binding.mapView.visibility        = View.VISIBLE
+        // A dica cede o espaço para o mapa na primeira busca
+        binding.tvDicaBusca.visibility    = View.GONE
 
         atualizarBotoesSentido()
         carregarSentido()
@@ -343,7 +348,24 @@ class MainActivity : AppCompatActivity() {
             }
 
             enquadrarMapa(geoJsonRota)
+            mostrarDicaDoMapa()
         }
+    }
+
+    /**
+     * Dica sobre o toque nas paradas, na primeira vez que o mapa aparece.
+     *
+     * Só faz sentido depois que há um trajeto na tela: antes da busca o mapa
+     * fica oculto e não há parada nenhuma para tocar.
+     */
+    private fun mostrarDicaDoMapa() {
+        if (dicaExibida) return
+        dicaExibida = true
+
+        MaterialAlertDialogBuilder(this)
+            .setMessage("Dica: clique em qualquer ponto roxo do mapa para exibir informações detalhadas!")
+            .setPositiveButton("Entendi", null)
+            .show()
     }
 
     private fun enquadrarMapa(geojson: String) {
@@ -402,40 +424,50 @@ class MainActivity : AppCompatActivity() {
         val dialogView = layoutInflater.inflate(R.layout.dialog_horarios, null)
         val tvTitulo   = dialogView.findViewById<TextView>(R.id.tvLinhaTitulo)
         val tvPonto    = dialogView.findViewById<TextView>(R.id.tvPontoPartida)
-        val llHorarios = dialogView.findViewById<LinearLayout>(R.id.llHorarios)
+        val glHorarios = dialogView.findViewById<GridLayout>(R.id.glHorarios)
 
         val label = if (currentSentido == 1) "Ida" else "Volta"
         tvTitulo.text = "Linha $currentLinha — $label"
 
-        val corPrimaria  = getColor(com.offbus.R.color.text_primary)
-        val corSecundaria = getColor(com.offbus.R.color.text_secondary)
-
         if (horarios != null) {
             tvPonto.text = "Partida: ${horarios.pontoPartida}"
-            horarios.horarios.forEach { h ->
-                val tv = TextView(this).apply {
-                    text     = h
-                    textSize = 15f
-                    setTextColor(corPrimaria)
-                    setPadding(0, 10, 0, 10)
-                }
-                llHorarios.addView(tv)
-            }
+            horarios.horarios.forEach { glHorarios.addView(cartaoDeHorario(it), celula()) }
         } else {
             tvPonto.text = "$pontoInicial → $pontoFinal"
-            llHorarios.addView(TextView(this).apply {
+            val aviso = TextView(this).apply {
                 text     = "Horários não cadastrados"
                 textSize = 14f
-                setTextColor(corSecundaria)
-            })
+                setTextColor(getColor(com.offbus.R.color.text_secondary))
+            }
+            // Ocupa a largura inteira em vez de espremer numa das três colunas
+            glHorarios.addView(aviso, celula(colunas = 3))
         }
 
-        AlertDialog.Builder(this)
+        MaterialAlertDialogBuilder(this)
             .setTitle("Horários de Partida")
             .setView(dialogView)
             .setPositiveButton("Fechar", null)
             .show()
     }
+
+    private fun cartaoDeHorario(hora: String) = TextView(this).apply {
+        text     = hora
+        textSize = 14f
+        gravity  = Gravity.CENTER
+        setTextColor(getColor(com.offbus.R.color.text_primary))
+        setBackgroundResource(R.drawable.bg_horario)
+        setPadding(0, dp(10), 0, dp(10))
+    }
+
+    /** Célula de largura igual na grade, com respiro entre os cartões. */
+    private fun celula(colunas: Int = 1) = GridLayout.LayoutParams().apply {
+        width       = 0
+        height      = GridLayout.LayoutParams.WRAP_CONTENT
+        columnSpec  = GridLayout.spec(GridLayout.UNDEFINED, colunas, 1f)
+        setMargins(dp(3), dp(3), dp(3), dp(3))
+    }
+
+    private fun dp(valor: Int) = (valor * resources.displayMetrics.density).toInt()
 
     // ─── Ciclo de vida do MapView (obrigatório) ──────────────────────
     override fun onStart()    { super.onStart();    binding.mapView.onStart()   }
