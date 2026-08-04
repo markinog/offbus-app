@@ -8,7 +8,57 @@
         <item name="android:windowBackground">@color/bg_page</item>
         <item name="android:statusBarColor">@color/bg_surface</item>
         <item name="android:navigationBarColor">@color/bg_page</item>
+
+        <!-- Aplica o estilo abaixo a todo MaterialAlertDialogBuilder do app -->
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.OffBuss.Dialog</item>
     </style>
 
     <style name="Theme.OffBuss" parent="Base.Theme.OffBuss"/>
+
+    <!-- ── Diálogos ──────────────────────────────────────────────────
+         Sem isso os diálogos herdam a superfície padrão do Material, que
+         destoa do navy do app. -->
+    <style name="ThemeOverlay.OffBuss.Dialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="alertDialogStyle">@style/OffBuss.Dialog</item>
+        <item name="materialAlertDialogTitleTextStyle">@style/OffBuss.Dialog.Titulo</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/OffBuss.Dialog.Corpo</item>
+        <item name="buttonBarPositiveButtonStyle">@style/OffBuss.Dialog.Botao</item>
+        <item name="buttonBarNegativeButtonStyle">@style/OffBuss.Dialog.Botao</item>
+        <item name="buttonBarNeutralButtonStyle">@style/OffBuss.Dialog.Botao</item>
+
+        <item name="colorSurface">@color/bg_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceContainerHigh">@color/bg_surface</item>
+        <item name="colorPrimary">@color/accent_red</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <style name="OffBuss.Dialog" parent="MaterialAlertDialog.Material3">
+        <item name="shapeAppearanceOverlay">@style/OffBuss.Dialog.Forma</item>
+        <item name="backgroundTint">@color/bg_surface</item>
+    </style>
+
+    <style name="OffBuss.Dialog.Forma" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+
+    <style name="OffBuss.Dialog.Titulo" parent="MaterialAlertDialog.Material3.Title.Text">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="OffBuss.Dialog.Corpo" parent="MaterialAlertDialog.Material3.Body.Text">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="OffBuss.Dialog.Botao" parent="Widget.Material3.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/accent_red</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
 </resources>

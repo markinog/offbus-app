@@ -4,16 +4,19 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    android:paddingTop="4dp"
+    android:paddingBottom="8dp">
 
     <TextView
         android:id="@+id/tvLinhaTitulo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="16sp"
+        android:textSize="17sp"
         android:textStyle="bold"
         android:textColor="@color/accent_red"
-        android:layout_marginBottom="4dp"/>
+        android:letterSpacing="0.01"/>
 
     <TextView
         android:id="@+id/tvPontoPartida"
@@ -21,24 +24,29 @@
         android:layout_height="wrap_content"
         android:textSize="13sp"
         android:textColor="@color/text_secondary"
-        android:layout_marginBottom="12dp"/>
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="14dp"/>
 
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@color/divider"
-        android:layout_marginBottom="8dp"/>
+        android:layout_marginBottom="14dp"/>
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:maxHeight="320dp">
+        android:maxHeight="340dp"
+        android:scrollbars="none"
+        android:clipToPadding="false">
 
-        <LinearLayout
-            android:id="@+id/llHorarios"
+        <!-- Grade de 3 colunas: a lista vertical antiga exigia rolar muito
+             para ver os ~34 horários de uma linha -->
+        <GridLayout
+            android:id="@+id/glHorarios"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"/>
+            android:columnCount="3"/>
 
     </ScrollView>
 
