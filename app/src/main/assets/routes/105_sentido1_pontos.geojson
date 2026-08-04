@@ -1,0 +1,637 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5304,
+        "ponto_id": 72884,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133165942109635,
+          -22.96456559167737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5777,
+        "ponto_id": 73104,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R THOMAZ BERGAMO",
+        "ende_numero": "208",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13259805749867,
+          -22.96899830589759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5778,
+        "ponto_id": 73172,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R JACUIPE",
+        "ende_numero": "81",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13181406494258,
+          -22.970909336093342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5779,
+        "ponto_id": 73284,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "1968",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133504031289974,
+          -22.97132434049106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5782,
+        "ponto_id": 73416,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "2154",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134655050055784,
+          -22.972913307365395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 143,
+        "ponto_id": 73484,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ITAMBE",
+        "ende_numero": "78",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134005756498176,
+          -22.974643948539946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5783,
+        "ponto_id": 73588,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R NELSON BARBOSA DA SILVA",
+        "ende_numero": "797",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13495913078445,
+          -22.976181235691083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 144,
+        "ponto_id": 73644,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R LUIZ PEREIRA DE LIMA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13504070053784,
+          -22.977503042846468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5781,
+        "ponto_id": 73680,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EDSON ARANTES DO NASCIMENTO",
+        "ende_numero": "335",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13621751709872,
+          -22.97717671612097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 145,
+        "ponto_id": 73772,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JULIO DIAS CARNEIRO",
+        "ende_numero": "40",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,113 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137960617102756,
+          -22.97714670387374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 146,
+        "ponto_id": 73844,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R JORGE PINTO MENDONCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13932154220412,
+          -22.97727072401785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 147,
+        "ponto_id": 73964,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R GUARANI FUTEBOL CLUBE",
+        "ende_numero": "250",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,117 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14168769532274,
+          -22.97723650048304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5998,
+        "ponto_id": 73965,
+        "ptseqlinha": 12.1,
+        "ende_logradouro": "R ALCIDES FONSECA JR",
+        "ende_numero": "60",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "105,117 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.142377437688374,
+          -22.977565226891848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5784,
+        "ponto_id": 74056,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R CARLOS ROBERTO GALLO",
+        "ende_numero": "249",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "105,117 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14432807443696,
+          -22.977054348190624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 148,
+        "ponto_id": 73988,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144024241287234,
+          -22.975814108086904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 149,
+        "ponto_id": 73864,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14265787620852,
+          -22.97455438461532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 150,
+        "ponto_id": 73676,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "1251",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14081263132387,
+          -22.973112171683834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 151,
+        "ponto_id": 73726,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "1027",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13949568816622,
+          -22.97239331093711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 152,
+        "ponto_id": 73532,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138734613184745,
+          -22.971566099890037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 153,
+        "ponto_id": 73452,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "719",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138669717153064,
+          -22.970043308197486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 154,
+        "ponto_id": 73376,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "664",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137272056096165,
+          -22.969399270381988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 155,
+        "ponto_id": 73288,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13574131586356,
+          -22.96932719274314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 63,
+        "ponto_id": 73248,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BENEDITO ROBERTO BARBOSA",
+        "ende_numero": "235",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13550954191471,
+          -22.968864313739836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 64,
+        "ponto_id": 73124,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105,108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13577803393606,
+          -22.96668532694984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 8,
+        "num_linha": "105",
+        "sentido": 1,
+        "nome_linha": "COHAB I (INCLUSIVO)",
+        "extensao_m": 5574.15,
+        "ponto_gid": 5304,
+        "ponto_id": 72884,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133165942109635,
+          -22.96456559167737
+        ]
+      }
+    }
+  ]
+}

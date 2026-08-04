@@ -1,0 +1,1237 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5289,
+        "ponto_id": 72916,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13297059705117,
+          -22.96497308583662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5289,
+        "ponto_id": 72916,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13297059705117,
+          -22.96497308583662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5383,
+        "ponto_id": 73055,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV RUY RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,116,118,119,122,123,125,128,129,131,132,133,134,136,138,199,205,239 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134173101597796,
+          -22.964277718909525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 64,
+        "ponto_id": 73124,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "4845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105,108,110,113,122,128,129,131,132,133,136,198,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13577803393606,
+          -22.96668532694984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 36,
+        "ponto_id": 73136,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JOSE OCTAVIANO SOARES",
+        "ende_numero": "356",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13855082801478,
+          -22.9638113960716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 37,
+        "ponto_id": 73156,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DR RENATO LUIZ PEREIRA DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1393579864922,
+          -22.9632732963314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5899,
+        "ponto_id": 73215,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "96A",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1372775582941,
+          -22.96494801268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 35,
+        "ponto_id": 73216,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": "222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13860414130471,
+          -22.96488161255507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5990,
+        "ponto_id": 73218,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R RACHEL GRIMALDI BENITES DE CARA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13594742909735,
+          -22.965669867972576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5403,
+        "ponto_id": 73244,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R SEVERINO DO AMARAL CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140061232416066,
+          -22.963412938813676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5387,
+        "ponto_id": 73245,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R NORBERTO LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14031600981098,
+          -22.961720019475315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 63,
+        "ponto_id": 73248,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV BENEDITO ROBERTO BARBOSA",
+        "ende_numero": "235",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,105 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13550954191471,
+          -22.968864313739836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5762,
+        "ponto_id": 73256,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R MARCOS TEODORO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14145396041323,
+          -22.96339038074756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5559,
+        "ponto_id": 73257,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R JOSE DUTRA DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15153747422945,
+          -22.959478687855082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 38,
+        "ponto_id": 73264,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R LUIZ ALFREDO FALCAO BAUER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13967664365638,
+          -22.965021060084727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 62,
+        "ponto_id": 73436,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ABACAI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.136617002315475,
+          -22.971692342293554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 45,
+        "ponto_id": 73456,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS DOS SANTOS CARDOSO",
+        "ende_numero": "06",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14559074576724,
+          -22.962097349564043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5583,
+        "ponto_id": 73475,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JANET KRISTINE AYLSWORTH",
+        "ende_numero": "65",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145390639792836,
+          -22.96423308393258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 61,
+        "ponto_id": 73504,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R BAMBUI",
+        "ende_numero": "7",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13797719556328,
+          -22.971400012104954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 60,
+        "ponto_id": 73556,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13998104106391,
+          -22.971285308664932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 44,
+        "ponto_id": 73564,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR CARLOS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146293264815746,
+          -22.964525459045408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 46,
+        "ponto_id": 73596,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOSE ZANCHETTA",
+        "ende_numero": "437",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147164168778865,
+          -22.964135863287684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5897,
+        "ponto_id": 73615,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R CB ALADARQUE CANDIDO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.142802045474454,
+          -22.96398948125665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 7197,
+        "ponto_id": 73601,
+        "ptseqlinha": 23.1,
+        "ende_logradouro": "AV UM LOT JD VISTA ALEGRE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14876217199028,
+          -22.962017055857277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 7196,
+        "ponto_id": 73585,
+        "ptseqlinha": 23.2,
+        "ende_logradouro": "AV UM LOT JD VISTA ALEGRE",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148925564030165,
+          -22.960619235314216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 43,
+        "ponto_id": 73616,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R MARIVALDO IGNACIO",
+        "ende_numero": "116",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145974982902956,
+          -22.96596139232738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 47,
+        "ponto_id": 73692,
+        "ptseqlinha": 24.1,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14838191860324,
+          -22.965032405116567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 5901,
+        "ponto_id": 73619,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R SEVERINO ALVES BATISTA",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "102,138 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14500223681805,
+          -22.965527440079104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 59,
+        "ponto_id": 73640,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.141790032253375,
+          -22.97136333320148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 52,
+        "ponto_id": 74176,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R GERALDA LOURDE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15466072877661,
+          -22.970764987862626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 53,
+        "ponto_id": 74174,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R JOAO BATISTA SANTANA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15551290352471,
+          -22.971904689141134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 58,
+        "ponto_id": 73752,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R ABACAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14444036326222,
+          -22.971803180918553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 54,
+        "ponto_id": 74152,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R TEN ALCIDES SILVERIO",
+        "ende_numero": "125",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153238728764805,
+          -22.971564506651294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 12,
+        "ponto_id": 74146,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R ANGELO BUFFO",
+        "ende_numero": "48",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15253972732325,
+          -22.971482915371155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 48,
+        "ponto_id": 73792,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV AGLAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15160204769491,
+          -22.963568252718442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 13,
+        "ponto_id": 74150,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ANGELO BUFFO",
+        "ende_numero": "280",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154320135043776,
+          -22.972532269167154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 50,
+        "ponto_id": 73840,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R ABA",
+        "ende_numero": "511",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.149853204228066,
+          -22.966035723611817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 57,
+        "ponto_id": 73872,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R ARAGUAIA",
+        "ende_numero": "33",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14586178725419,
+          -22.97154508336632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 14,
+        "ponto_id": 74194,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R MANOEL MENDES",
+        "ende_numero": "446",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15324169613114,
+          -22.974456056349617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 15,
+        "ponto_id": 74198,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": "592",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15410545930082,
+          -22.975398790853852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 49,
+        "ponto_id": 73876,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ANATURI",
+        "ende_numero": "88",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15170100928684,
+          -22.964979260011578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 56,
+        "ponto_id": 74008,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R ARAGUAIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14842507903753,
+          -22.971582262946086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 16,
+        "ponto_id": 74138,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155629589993474,
+          -22.975536676240573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 17,
+        "ponto_id": 74142,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV ANTONIO PAGLIATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154063219277596,
+          -22.97569140365498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 51,
+        "ponto_id": 74052,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R CAUIM",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1500649835182,
+          -22.96907439361807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 55,
+        "ponto_id": 74068,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R ARAGUAIA",
+        "ende_numero": "439",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14995621310392,
+          -22.971647259317148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 18,
+        "ponto_id": 74190,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R MANOEL MENDES",
+        "ende_numero": "453",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153164581610625,
+          -22.974182037122844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 19,
+        "ponto_id": 74154,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R ANTONIO TOSSINI",
+        "ende_numero": "173",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15305025436502,
+          -22.972828295925247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 62,
+        "num_linha": "102",
+        "sentido": 1,
+        "nome_linha": "RECANTO DO SOL",
+        "extensao_m": 13418.19,
+        "ponto_gid": 20,
+        "ponto_id": 74158,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R ANTONIO TOSSINI",
+        "ende_numero": "25",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,102 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15147115787259,
+          -22.972243727866807
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1212 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 5287,
+        "ponto_id": 72912,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13284160643635,
+          -22.965073148565526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 3,
+        "ponto_id": 73292,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592503837853,
+          -22.969142360359864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 4,
+        "ponto_id": 73368,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "665",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13716781298306,
+          -22.969207938057604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 184,
+        "ponto_id": 73466,
+        "ptseqlinha": 5.5,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "381",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14017003674292,
+          -22.969367836785455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 7,
+        "ponto_id": 73632,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": "216",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.141784048726215,
+          -22.971213286368727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 8,
+        "ponto_id": 73748,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": "390",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143686066220134,
+          -22.971311336894505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 186,
+        "ponto_id": 73916,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "664",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14560902070741,
+          -22.972740276938424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 187,
+        "ponto_id": 74032,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "824",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146635147790086,
+          -22.974532794490152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 188,
+        "ponto_id": 74128,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1042",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147539073941516,
+          -22.975994273604456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 5790,
+        "ponto_id": 74168,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1212",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14812316754913,
+          -22.977427143709566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 189,
+        "ponto_id": 74224,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1444",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14801718029317,
+          -22.979745666367492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 190,
+        "ponto_id": 74288,
+        "ptseqlinha": 12.5,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14754092501325,
+          -22.98130380595925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 190,
+        "ponto_id": 74288,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,112,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14754092501325,
+          -22.98130380595925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 241,
+        "ponto_id": 74348,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "790",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147434120946905,
+          -22.98285451301541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 242,
+        "ponto_id": 74204,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV MARIO TREVENZOLLI",
+        "ende_numero": "209",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14394506323711,
+          -22.982993942176673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 243,
+        "ponto_id": 74132,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "265",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14189513793093,
+          -22.98130573097515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 244,
+        "ponto_id": 74092,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "1630",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140202850675244,
+          -22.982122755255144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 245,
+        "ponto_id": 74112,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "1906",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13811180041197,
+          -22.98421774185324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 5561,
+        "ponto_id": 74073,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV PETRONA RECALDE",
+        "ende_numero": "315",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13463105468125,
+          -22.985205580454124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 246,
+        "ponto_id": 73986,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV PETRONA RECALDE",
+        "ende_numero": "187",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132402440283165,
+          -22.985545106485773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 5400,
+        "ponto_id": 73981,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "AV PETRONA RECALDE",
+        "ende_numero": "103",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130893103710136,
+          -22.98579300258379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 247,
+        "ponto_id": 74058,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOAO REVIGLIO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131676826974086,
+          -22.98665659516791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 248,
+        "ponto_id": 74075,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DEZESSETE (NUCLEO RES NSA SRA APARECIDA)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13316372454093,
+          -22.98875236264734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 249,
+        "ponto_id": 74162,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ANTONIO ROCHA BATISTA",
+        "ende_numero": "90",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "109,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1349519299137,
+          -22.988184533832907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 250,
+        "ponto_id": 74196,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ANTONIO ROCHA BATISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13768035373412,
+          -22.98718317929143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 251,
+        "ponto_id": 74212,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANTONIO ROCHA BATISTA",
+        "ende_numero": "119",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13992098007351,
+          -22.986314575226064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 252,
+        "ponto_id": 74284,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV MARIO TREVENZOLLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,115 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14138809435633,
+          -22.986631316266422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 253,
+        "ponto_id": 74384,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14182768214357,
+          -22.988646270311904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 254,
+        "ponto_id": 74416,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14496206936701,
+          -22.98840434552314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 255,
+        "ponto_id": 74492,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV FERNANDO PAOLIERI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147324145708865,
+          -22.98822654526959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 256,
+        "ponto_id": 74536,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "228",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148990625598636,
+          -22.9876902797869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 239,
+        "ponto_id": 74448,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": "510",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148508443680726,
+          -22.985754558958746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 240,
+        "ponto_id": 74372,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV MARTINHO LUTERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14792010056121,
+          -22.983278174417958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 202,
+        "ponto_id": 74256,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R MAJ OSWALDO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,115,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147149736656935,
+          -22.981117958030907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 203,
+        "ponto_id": 74164,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "1207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147867376416514,
+          -22.977523865408276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 204,
+        "ponto_id": 74116,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "883",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147208048672084,
+          -22.97611828377621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 205,
+        "ponto_id": 74048,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "751",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146399643686415,
+          -22.974661184652266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 206,
+        "ponto_id": 73920,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV ARYMANA",
+        "ende_numero": "643",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "108,110,111,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145399545730164,
+          -22.972918066075568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 58,
+        "ponto_id": 73752,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R ABACAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14444036326222,
+          -22.971803180918553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 59,
+        "ponto_id": 73640,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R ABAETE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "102,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.141790032253375,
+          -22.97136333320148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 257,
+        "ponto_id": 73470,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "384",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14008941831169,
+          -22.969528080789797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 154,
+        "ponto_id": 73376,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "664",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137272056096165,
+          -22.969399270381988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 155,
+        "ponto_id": 73288,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "105,111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13574131586356,
+          -22.96932719274314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 258,
+        "ponto_id": 73184,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13424388459997,
+          -22.968805801575453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 259,
+        "ponto_id": 73044,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "173",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13325343435507,
+          -22.96739305214704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 94,
+        "num_linha": "111",
+        "sentido": 1,
+        "nome_linha": "JARDIM AERONAVE II",
+        "extensao_m": 12305.07,
+        "ponto_gid": 5287,
+        "ponto_id": 72912,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "111 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13284160643635,
+          -22.965073148565526
+        ]
+      }
+    }
+  ]
+}

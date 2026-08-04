@@ -1,0 +1,637 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5298,
+        "ponto_id": 72872,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13284288146733,
+          -22.964812641464558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 1,
+        "ponto_id": 73040,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALAOR CORREA TELLES",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133331058347494,
+          -22.967205497961707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 2,
+        "ponto_id": 73200,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R IGACI",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,113,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13448204054777,
+          -22.96881523295788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 3,
+        "ponto_id": 73292,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13592503837853,
+          -22.969142360359864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 4,
+        "ponto_id": 73368,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R APIABA",
+        "ende_numero": "665",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "101,106,108,110,111,112,198 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13716781298306,
+          -22.969207938057604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5,
+        "ponto_id": 73464,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "690",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "101,106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138974007096984,
+          -22.96997330064281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 156,
+        "ponto_id": 73722,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13981323129216,
+          -22.972271033710875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 157,
+        "ponto_id": 73724,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "1232",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14150502299343,
+          -22.973207716125632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 158,
+        "ponto_id": 73868,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "1416",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.142866106124224,
+          -22.9743941289774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5785,
+        "ponto_id": 73984,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV COACYARA",
+        "ende_numero": "1570",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14404402821432,
+          -22.975432337821644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 159,
+        "ponto_id": 74072,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R CARLOS ROBERTO GALLO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14441609369334,
+          -22.9772152909656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 160,
+        "ponto_id": 73956,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R GUARANI FUTEBOL CLUBE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106,117 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14146336166895,
+          -22.977245762816466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5999,
+        "ponto_id": 73967,
+        "ptseqlinha": 12.1,
+        "ende_logradouro": "R ALCIDES FONSECA JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "106,117 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14253264145193,
+          -22.977760415073664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 161,
+        "ponto_id": 73852,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R JORGE PINTO MENDONCA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13937887844161,
+          -22.97744385147431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 161,
+        "ponto_id": 73852,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R JORGE PINTO MENDONCA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13937887844161,
+          -22.97744385147431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 162,
+        "ponto_id": 73768,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JULIO DIAS CARNEIRO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137743146705475,
+          -22.977214106456618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5787,
+        "ponto_id": 73700,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R EDSON ARANTES DO NASCIMENTO",
+        "ende_numero": "326",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.136310574730985,
+          -22.977277671668244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 163,
+        "ponto_id": 73636,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R LUIZ PEREIRA DE LIMA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13486438554918,
+          -22.977530605445125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 164,
+        "ponto_id": 73592,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R NELSON BARBOSA DA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13489456182236,
+          -22.97632919103781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5786,
+        "ponto_id": 73496,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ITAMBE",
+        "ende_numero": "123",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133836770864,
+          -22.97486771019997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 165,
+        "ponto_id": 73388,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "106,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.134057539170904,
+          -22.97253569794559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 166,
+        "ponto_id": 73280,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV JACAUNA",
+        "ende_numero": "1949",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "106,112 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.133281749382085,
+          -22.97141462928595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 167,
+        "ponto_id": 73132,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JACUIPE",
+        "ende_numero": "198",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131633150973364,
+          -22.97054073666593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 168,
+        "ponto_id": 73076,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R THOMAZ BERGAMO",
+        "ende_numero": "195",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13240847399044,
+          -22.968809923801548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 285,
+        "num_linha": "106",
+        "sentido": 1,
+        "nome_linha": "COHAB II",
+        "extensao_m": 5732.72,
+        "ponto_gid": 5298,
+        "ponto_id": 72872,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "TERMINAL OURO VERDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "106 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13284288146733,
+          -22.964812641464558
+        ]
+      }
+    }
+  ]
+}

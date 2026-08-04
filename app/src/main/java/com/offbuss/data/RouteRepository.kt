@@ -14,9 +14,27 @@ class RouteRepository(private val context: Context) {
      * crie o .json de horários em assets/horarios/ e adicione uma entrada aqui.
      */
     private val linhasDisponiveis = mapOf(
-        "116" to Triple("Terminal Ouro Verde", "Shopping Dom Pedro",       true),
-        "117" to Triple("Terminal Ouro Verde", "Jardim Itatinga",          true),
-        "138" to Triple("Terminal Ouro Verde", "Recanto do Sol I e II",    true)
+        "101" to Triple("Parque Universitário",  "Parque Universitário",   true),
+        "102" to Triple("Recanto do Sol",        "Recanto do Sol",         true),
+        "105" to Triple("Cohab I",               "Cohab I",                true),
+        "106" to Triple("Cohab II",              "Cohab II",               true),
+        "108" to Triple("Jardim Aeronave I",     "Jardim Aeronave I",      true),
+        "109" to Triple("DIC VI",                "Vila Aeroporto",         true),
+        "110" to Triple("Adhemar de Barros",     "Adhemar de Barros",      true),
+        "111" to Triple("Jardim Aeronave II",    "Jardim Aeronave II",     true),
+        "112" to Triple("Jardim Planalto I",     "Jardim Planalto I",      true),
+        "113" to Triple("Jardim Planalto II",    "Jardim Planalto II",     true),
+        "114" to Triple("Jardim Melina",         "Corredor Central",       true),
+        "116" to Triple("Terminal Ouro Verde",   "Shopping Dom Pedro",     true),
+        "117" to Triple("Terminal Ouro Verde",   "Jardim Itatinga",        true),
+        "122" to Triple("Terminal Vida Nova",    "Campinas Shopping",      true),
+        "123" to Triple("Terminal Campo Grande", "Terminal Ouro Verde",    true),
+        "125" to Triple("Terminal Ouro Verde",   "Shopping Iguatemi",      true),
+        "128" to Triple("Vida Nova",             "Terminal Mercado I",     true),
+        "131" to Triple("Vida Nova",             "Terminal Mercado I",     true),
+        "133" to Triple("Vida Nova",             "Vida Nova",              true),
+        "134" to Triple("Terminal Ouro Verde",   "Terminal Ouro Verde",    true),
+        "138" to Triple("Terminal Ouro Verde",   "Recanto do Sol I e II",  true)
     )
 
     /** Busca por número da linha, ponto inicial ou final (case-insensitive) */
