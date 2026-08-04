@@ -1,0 +1,1762 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 4373,
+        "ponto_id": 21214,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R DAS PALMAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01315955261542,
+          -22.851351091740515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 5607,
+        "ponto_id": 21211,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV DAS ALAMANDAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02247828614565,
+          -22.85347753233033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 4374,
+        "ponto_id": 21208,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV DAS ALAMANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02222776438309,
+          -22.856123844571332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 5359,
+        "ponto_id": 21225,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV DAS ALAMANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02089122322007,
+          -22.858922029260448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2940,
+        "ponto_id": 21044,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02388470894086,
+          -22.86214216832841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2928,
+        "ponto_id": 21064,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV BAILARINA SELMA PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022335656145536,
+          -22.862745496700263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2941,
+        "ponto_id": 21016,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV BAILARINA SELMA PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02114865304977,
+          -22.865661496546387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2942,
+        "ponto_id": 20956,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": "1653",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022252213259044,
+          -22.867225672523357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2930,
+        "ponto_id": 20952,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV DR. JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023055801384615,
+          -22.86652507382991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2929,
+        "ponto_id": 21032,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV DR JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024612007038314,
+          -22.865584405663643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 6093,
+        "ponto_id": 20906,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02854570403887,
+          -22.862407749914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2931,
+        "ponto_id": 21040,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029643651471524,
+          -22.858434406932197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2932,
+        "ponto_id": 21092,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": "1700",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029631646451016,
+          -22.856360447576826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2933,
+        "ponto_id": 21168,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02886679867011,
+          -22.853565264968637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2097,
+        "ponto_id": 20780,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044052683192,
+          -22.86177239270054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2098,
+        "ponto_id": 20564,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04415418240289,
+          -22.866675742035344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2099,
+        "ponto_id": 20480,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04463979138665,
+          -22.869045854485837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2100,
+        "ponto_id": 20256,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04483082332286,
+          -22.87687095458897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 1822,
+        "ponto_id": 756,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1309",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05838047038377,
+          -22.890226655458324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 1823,
+        "ponto_id": 568,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "945",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06028123954559,
+          -22.893002619065115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 5932,
+        "ponto_id": 482,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV VINTE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "353,356,369,375,391,392,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0646506666756,
+          -22.9088951365676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 73,
+        "num_linha": "375",
+        "sentido": 1,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 18541.43,
+        "ponto_gid": 6390,
+        "ponto_id": 613,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06652089896318,
+          -22.907766877462038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 6390,
+        "ponto_id": 613,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06652089896318,
+          -22.907766877462038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 5929,
+        "ponto_id": 299,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,271,356,362,369,375,381,385,386,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0632243850134,
+          -22.907200682909693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 6048,
+        "ponto_id": 266,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,352,353,355,356,369,375,385,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05803446057681,
+          -22.90725317882054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 30.5,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2083,
+        "ponto_id": 20260,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044665683096724,
+          -22.876575425012113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2084,
+        "ponto_id": 20508,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423663691774,
+          -22.86854483629112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2085,
+        "ponto_id": 20588,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0437874360404,
+          -22.86643245552569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2086,
+        "ponto_id": 20788,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043621739755025,
+          -22.861624904626677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2936,
+        "ponto_id": 21156,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029043466851334,
+          -22.853586394975625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2937,
+        "ponto_id": 21076,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02993758140208,
+          -22.856667381531786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2938,
+        "ponto_id": 21036,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": "1501",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02982067333187,
+          -22.85841941883272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 4268,
+        "ponto_id": 20902,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R ANTONIETTA BERNARDI PELLATIERI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02837577500415,
+          -22.86436505755906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2939,
+        "ponto_id": 20996,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025529617510905,
+          -22.862929476797454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 2940,
+        "ponto_id": 21044,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02388470894086,
+          -22.86214216832841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 5360,
+        "ponto_id": 21218,
+        "ptseqlinha": 55.5,
+        "ende_logradouro": "AV DAS ALAMANDAS, S/N",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02049843211975,
+          -22.859032466809683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 5337,
+        "ponto_id": 21215,
+        "ptseqlinha": 55.6,
+        "ende_logradouro": "CAM 10 (ROSEIRA)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "375,384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00842877008317,
+          -22.865401437683175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 5608,
+        "ponto_id": 21207,
+        "ptseqlinha": 55.7,
+        "ende_logradouro": "AV DAS ALAMANDAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02191393334446,
+          -22.85327261564649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 319,
+        "num_linha": "375",
+        "sentido": 2,
+        "nome_linha": "ALPHAVILLE D. PEDRO",
+        "extensao_m": 17342.44,
+        "ponto_gid": 4373,
+        "ponto_id": 21214,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DAS PALMAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01315955261542,
+          -22.851351091740515
+        ]
+      }
+    }
+  ]
+}

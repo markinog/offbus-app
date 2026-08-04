@@ -1,0 +1,1387 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2799,
+        "ponto_id": 31520,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073021616498174,
+          -22.816488330017258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3536,
+        "ponto_id": 31516,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07265962600614,
+          -22.816457379430457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3537,
+        "ponto_id": 31580,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": "800",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07141933510776,
+          -22.81420207530807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3538,
+        "ponto_id": 31584,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06938664395298,
+          -22.813943295752622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3539,
+        "ponto_id": 31544,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06708364488567,
+          -22.81509334586882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3540,
+        "ponto_id": 31500,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06632964317149,
+          -22.816845383172364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3541,
+        "ponto_id": 31440,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066976632500506,
+          -22.819117367024255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3542,
+        "ponto_id": 31356,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MONTEIRO LOBATO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06813561385273,
+          -22.82098438571838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3555,
+        "ponto_id": 31292,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07032437966702,
+          -22.82264810382907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3556,
+        "ponto_id": 31204,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07258705326271,
+          -22.826097507461533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3557,
+        "ponto_id": 31032,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07575462552302,
+          -22.83052531130657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3558,
+        "ponto_id": 31012,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": "345",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07688740793472,
+          -22.832222094962063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 839,
+        "ponto_id": 30824,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,330,331,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07765484936853,
+          -22.848997950747542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 840,
+        "ponto_id": 30516,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07246570693438,
+          -22.859323366363924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3559,
+        "ponto_id": 30192,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06824047683515,
+          -22.87498014130029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2215,
+        "ponto_id": 30156,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06769576717971,
+          -22.877883200966778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2216,
+        "ponto_id": 30108,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "955",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06660996551359,
+          -22.881055555429167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2217,
+        "ponto_id": 30060,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "781",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06599675653494,
+          -22.882680426257316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2218,
+        "ponto_id": 30024,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0644127566855,
+          -22.885164364722492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2219,
+        "ponto_id": 30016,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "193",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062366753403396,
+          -22.886583393290156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3560,
+        "ponto_id": 40044,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ALBERTO FARIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06423576017956,
+          -22.888513403766368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3100,
+        "ponto_id": 40012,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063860681649814,
+          -22.890546397070747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 2222,
+        "ponto_id": 416,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DA LIBANIA",
+        "ende_numero": "2415",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,309,310,313,316,318,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061049769687315,
+          -22.893646776046232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3561,
+        "ponto_id": 260,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "703",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06430347146021,
+          -22.905384514148775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3252,
+        "ponto_id": 300,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,330,333,348,371,377,390,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344523434786,
+          -22.906907478723305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 418,
+        "num_linha": "330",
+        "sentido": 1,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 14638.27,
+        "ponto_gid": 3563,
+        "ponto_id": 288,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "552",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05914833043632,
+          -22.907746326655378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 3563,
+        "ponto_id": 288,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "552",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05914833043632,
+          -22.907746326655378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 3144,
+        "ponto_id": 220,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05592735217156,
+          -22.905292101263353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2344,
+        "ponto_id": 40028,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "628",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0645493455123,
+          -22.889400837194056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2345,
+        "ponto_id": 30004,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R PRIMEIRO DE MARCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06296383545129,
+          -22.88801794568005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2211,
+        "ponto_id": 30020,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "438",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06186779161416,
+          -22.885238295571224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2212,
+        "ponto_id": 30040,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "812",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065077752720306,
+          -22.88329037748931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 453,
+        "ponto_id": 30096,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1176",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065951180420484,
+          -22.880333218115464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 454,
+        "ponto_id": 30144,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066504558628914,
+          -22.878037087055088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 3564,
+        "ponto_id": 30184,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1674",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06724962559265,
+          -22.876078995494876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 3565,
+        "ponto_id": 30208,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1848",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06795868302156,
+          -22.874636051222872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 834,
+        "ponto_id": 30540,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R DOS PIRATININS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,330,331,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0717241017635,
+          -22.857674416811143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 835,
+        "ponto_id": 30828,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "134,330,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07726771815301,
+          -22.848825064500357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 1775,
+        "ponto_id": 31004,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": "304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,330,336 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07661666469098,
+          -22.832279302104467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 1776,
+        "ponto_id": 31024,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "210E,330,336 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.075433672012466,
+          -22.83051730705947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 1777,
+        "ponto_id": 31200,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,330,336 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07233434874706,
+          -22.826072227366744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 1778,
+        "ponto_id": 31232,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,330,336 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071458168215585,
+          -22.824815559713457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 1779,
+        "ponto_id": 31288,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV DR ROMEU TORTIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0701026552403,
+          -22.822785371764628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2793,
+        "ponto_id": 31296,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV MARTIN LUTHER KING",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06922564139869,
+          -22.82200736233521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2794,
+        "ponto_id": 31320,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV ALBERT EINSTEIN",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06734886550412,
+          -22.821309945503696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2795,
+        "ponto_id": 31496,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06605785544625,
+          -22.81685721382456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2796,
+        "ponto_id": 31552,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06684502521816,
+          -22.81501689142368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2797,
+        "ponto_id": 31600,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06938758924016,
+          -22.813761369848415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2798,
+        "ponto_id": 31596,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07172457910895,
+          -22.81401835981541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 31,
+        "num_linha": "330",
+        "sentido": 2,
+        "nome_linha": "UNICAMP",
+        "extensao_m": 13892.35,
+        "ponto_gid": 2799,
+        "ponto_id": 31520,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073021616498174,
+          -22.816488330017258
+        ]
+      }
+    }
+  ]
+}

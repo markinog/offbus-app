@@ -1,0 +1,1437 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2765,
+        "ponto_id": 51634,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R S JOAO BOSCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1507770633442,
+          -22.87132252411498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2766,
+        "ponto_id": 51636,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R PAPA STO EUGENIO I",
+        "ende_numero": "150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15171713361875,
+          -22.871029359432907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2683,
+        "ponto_id": 51588,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "629",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1510128315831,
+          -22.872558189986336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 7435,
+        "ponto_id": 51591,
+        "ptseqlinha": 2.1,
+        "ende_logradouro": "R N SRA APARECIDA",
+        "ende_numero": "449",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152246205761045,
+          -22.87138054095186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2684,
+        "ponto_id": 51640,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15341348058785,
+          -22.87039383277406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2685,
+        "ponto_id": 51772,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "109",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15464515206702,
+          -22.869285968760742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2686,
+        "ponto_id": 51804,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155770750166944,
+          -22.86825052893488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2767,
+        "ponto_id": 51796,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15466033695204,
+          -22.86552552921178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2688,
+        "ponto_id": 51788,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153512847412024,
+          -22.863437193647222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2707,
+        "ponto_id": 51832,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "TERMINAL PE ANCHIETA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,263,264,265,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15338362102641,
+          -22.861375007607656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2689,
+        "ponto_id": 51792,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152366834974885,
+          -22.861078180084817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2690,
+        "ponto_id": 51800,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "196",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151646883913166,
+          -22.859529231007745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2768,
+        "ponto_id": 51768,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R D AVELAR BRANDAO VILELA",
+        "ende_numero": "150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.150227567202826,
+          -22.860156005019352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2769,
+        "ponto_id": 51694,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R D AVELAR BRANDAO VILELA",
+        "ende_numero": "304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1490436676213,
+          -22.860929690155665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2749,
+        "ponto_id": 51680,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ADAO GONCALVES FERNANDES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14827368423421,
+          -22.859992693915256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2710,
+        "ponto_id": 51376,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13942059535313,
+          -22.862739230805246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2711,
+        "ponto_id": 51136,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13475581369393,
+          -22.866722255297134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2712,
+        "ponto_id": 51092,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125748021878884,
+          -22.873679076622757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2713,
+        "ponto_id": 50980,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DR ALBERTO FRANCO LAMOUNIER",
+        "ende_numero": "1424",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12105785340746,
+          -22.8778892683714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2714,
+        "ponto_id": 50856,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "MARGINAL ANHANGUERA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116894529050484,
+          -22.88195766889596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2493,
+        "ponto_id": 50570,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289955504064,
+          -22.89796281471168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2494,
+        "ponto_id": 50386,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095284267466454,
+          -22.896986285759557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2459,
+        "ponto_id": 50098,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081671326586786,
+          -22.90167166471254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2071,
+        "ponto_id": 692,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,260,264,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07067432480205,
+          -22.900913858288153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2342,
+        "ponto_id": 548,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "743",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,260,264,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06888239946453,
+          -22.902434570627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2343,
+        "ponto_id": 476,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "247",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,260,264,289,299,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06673357940553,
+          -22.906414953844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 589,
+        "ponto_id": 296,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,153,154,161,211,213,219,264,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06337498011748,
+          -22.906949468394345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 271,
+        "num_linha": "264",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 16346.54,
+        "ponto_gid": 2006,
+        "ponto_id": 276,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "567",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058969659325065,
+          -22.907624057729482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 6218,
+        "ponto_id": 745,
+        "ptseqlinha": 25.1,
+        "ende_logradouro": "ESTACAO RODOVIARIA BRT-",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07257684243312,
+          -22.90390927701743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 1902,
+        "ponto_id": 784,
+        "ptseqlinha": 25.2,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,260,261,264,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07304477812098,
+          -22.90414985767945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2006,
+        "ponto_id": 276,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "567",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058969659325065,
+          -22.907624057729482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 1853,
+        "ponto_id": 312,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV JOAO PENIDO BURNIER",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06678260358723,
+          -22.902692163281756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 5339,
+        "ponto_id": 620,
+        "ptseqlinha": 32.5,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06949723742806,
+          -22.9017037893688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2046,
+        "ponto_id": 580,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,251,253,256,260,261,264,289,299,318,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070823067941824,
+          -22.90234644940773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2460,
+        "ponto_id": 50168,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081719896848824,
+          -22.901622810821795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2496,
+        "ponto_id": 50384,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09521810648376,
+          -22.896936823406556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2497,
+        "ponto_id": 50571,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV LIX DA CUNHA (C X B)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102912670086376,
+          -22.897922106502136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2718,
+        "ponto_id": 50860,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "261,263,264,265,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11657752098557,
+          -22.881242742584327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2719,
+        "ponto_id": 51084,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125864174413145,
+          -22.872314343371944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2720,
+        "ponto_id": 51392,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137018241004995,
+          -22.863254725157052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2721,
+        "ponto_id": 51708,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R DOM ALO_SIO LORSCHEIDER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148796731764726,
+          -22.860239254128736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2722,
+        "ponto_id": 51776,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R D ALOISIO LORSCHEIDER",
+        "ende_numero": "91",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,264,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15027003416135,
+          -22.858992465349363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2636,
+        "ponto_id": 51816,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "56",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,263,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15168237793658,
+          -22.85905130726812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2707,
+        "ponto_id": 51832,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL PE ANCHIETA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,263,264,265,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15338362102641,
+          -22.861375007607656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2638,
+        "ponto_id": 51812,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153817818886374,
+          -22.86328826187525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2770,
+        "ponto_id": 51808,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154425762141045,
+          -22.865115244083114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2640,
+        "ponto_id": 51820,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155997514918035,
+          -22.868035707473283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2641,
+        "ponto_id": 51764,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154590827671825,
+          -22.86953290681206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2642,
+        "ponto_id": 51644,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "462",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153493435141385,
+          -22.87049583793418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2643,
+        "ponto_id": 51592,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "630",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15102345565342,
+          -22.87267152295477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 7404,
+        "ponto_id": 51599,
+        "ptseqlinha": 51.1,
+        "ende_logradouro": "R N SRA APARECIDA",
+        "ende_numero": "452",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15230500951804,
+          -22.871533264615724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 125,
+        "num_linha": "264",
+        "sentido": 2,
+        "nome_linha": "VILA TEIXEIRA / SHOPPING DOM PEDRO (INCLUSIVO)",
+        "extensao_m": 17803.65,
+        "ponto_gid": 2765,
+        "ponto_id": 51634,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R S JOAO BOSCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "264 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1507770633442,
+          -22.87132252411498
+        ]
+      }
+    }
+  ]
+}

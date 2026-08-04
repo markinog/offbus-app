@@ -1,0 +1,2387 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4220,
+        "ponto_id": 92080,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R PLANALTO",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01331773809301,
+          -22.91485141012966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4221,
+        "ponto_id": 91992,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PENEDOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01480327844573,
+          -22.915824274979844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4222,
+        "ponto_id": 91825,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R RESTINGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01732809000496,
+          -22.91624551713062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4223,
+        "ponto_id": 91826,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R HILEIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01919475895744,
+          -22.916358023403205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4224,
+        "ponto_id": 91831,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R HILEIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02113179377481,
+          -22.9169765374164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4225,
+        "ponto_id": 91841,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R SERRA DOURADA",
+        "ende_numero": "2218",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02205732731581,
+          -22.918326887249602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4226,
+        "ponto_id": 91837,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R MINUANO",
+        "ende_numero": "90",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02036287697374,
+          -22.91812106062296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4227,
+        "ponto_id": 91780,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01825584354864,
+          -22.917335874150954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4228,
+        "ponto_id": 91864,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01837348073447,
+          -22.918694854801856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 6091,
+        "ponto_id": 91886,
+        "ptseqlinha": 9.4,
+        "ende_logradouro": "R FLORESTA",
+        "ende_numero": "114",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01710419046429,
+          -22.9196043222937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 6088,
+        "ponto_id": 91810,
+        "ptseqlinha": 9.8,
+        "ende_logradouro": "R PINHAIS",
+        "ende_numero": "165",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.016662864926765,
+          -22.918760963497885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4229,
+        "ponto_id": 91768,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ITATIAIA",
+        "ende_numero": "211",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01981654521022,
+          -22.920497426929884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4230,
+        "ponto_id": 91668,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R SERTANEJO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02148455633088,
+          -22.9209289535855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4231,
+        "ponto_id": 91540,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CAPIXABA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022311731437924,
+          -22.919961535462964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4232,
+        "ponto_id": 91484,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R CARIOCA",
+        "ende_numero": "28",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023275748003904,
+          -22.920225511026498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4233,
+        "ponto_id": 91620,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R CARIOCA",
+        "ende_numero": "184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02279191148689,
+          -22.921643121772416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4234,
+        "ponto_id": 91684,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R GAUCHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021415050918435,
+          -22.921537426698393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4235,
+        "ponto_id": 91740,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV ITATIAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02164750864546,
+          -22.922760566480335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 3698,
+        "ponto_id": 91868,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": "376",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.020632777630055,
+          -22.92334351748053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 3699,
+        "ponto_id": 91788,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": "530",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021803975317376,
+          -22.923846183106768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 3700,
+        "ponto_id": 91828,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": "184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02218447145271,
+          -22.92515852869831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4236,
+        "ponto_id": 91796,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOAQUIM MONTEIRO RAPHAEL",
+        "ende_numero": "227",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02345086680677,
+          -22.926027615516034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 3706,
+        "ponto_id": 91488,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DURVAL FARIA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02697848535234,
+          -22.925630216762293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4150,
+        "ponto_id": 91364,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": "58",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02732735669914,
+          -22.922640909367818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4237,
+        "ponto_id": 91304,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R PRAIA DO PEREQUE",
+        "ende_numero": "59",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02890393496761,
+          -22.923035495450968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4154,
+        "ponto_id": 91272,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R JOSE DE OLIVEIRA MATIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03025389106773,
+          -22.923995452662997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4156,
+        "ponto_id": 91144,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DA HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": "193",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03243671639492,
+          -22.924440225911486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4157,
+        "ponto_id": 91212,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032883782670744,
+          -22.925762520779713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 7350,
+        "ponto_id": 91222,
+        "ptseqlinha": 28.1,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03449092858539,
+          -22.92454124626371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4158,
+        "ponto_id": 91032,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": "201",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03556804520773,
+          -22.92391318241989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4159,
+        "ponto_id": 90908,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R NICOTA BAYEUX",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03788481020242,
+          -22.923799066446545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2996,
+        "ponto_id": 90824,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "110",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03991121163732,
+          -22.92359421218275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2997,
+        "ponto_id": 90728,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04051969247087,
+          -22.921491416978313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2998,
+        "ponto_id": 90632,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04115020163017,
+          -22.919491952146874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2999,
+        "ponto_id": 90496,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "888",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041880644895045,
+          -22.917036338556613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 3000,
+        "ponto_id": 90396,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04259652315546,
+          -22.914870707965292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4140,
+        "ponto_id": 90172,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R CONDE 'EU",
+        "ende_numero": "1494",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04432475830681,
+          -22.910348473418473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4239,
+        "ponto_id": 90064,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV. PRINCESA D'OESTE",
+        "ende_numero": "1494",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04461696483964,
+          -22.90969731556261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4240,
+        "ponto_id": 90148,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": "1802",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0456787914779,
+          -22.90680380876777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 1815,
+        "ponto_id": 10064,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR EMILIO RIBAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,368,382,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0486825260083,
+          -22.90205845404844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 1816,
+        "ponto_id": 10032,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "2101",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,368,382,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050308704768725,
+          -22.90062739631151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 4241,
+        "ponto_id": 10004,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368,382,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05271418586122,
+          -22.900993692789267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 6049,
+        "ponto_id": 126,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,341,342,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06341089430792,
+          -22.903766045738067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 357,
+        "num_linha": "368",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 13848.87,
+        "ponto_gid": 2831,
+        "ponto_id": 732,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,364,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07048078111939,
+          -22.90563865733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 6089,
+        "ponto_id": 91814,
+        "ptseqlinha": 0.0,
+        "ende_logradouro": "R PINHAIS",
+        "ende_numero": "186",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01653945803301,
+          -22.91886694920589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 2831,
+        "ponto_id": 732,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,364,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07048078111939,
+          -22.90563865733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 560,
+        "ponto_id": 672,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "776",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,241,242,245,364,367,368,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070345560994234,
+          -22.902011509970396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 2775,
+        "ponto_id": 92,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "114",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,271,364,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05830170943649,
+          -22.905194363438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 2776,
+        "ponto_id": 188,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,271,364,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05585282204493,
+          -22.904112663335265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 1792,
+        "ponto_id": 348,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "778",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,271,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052512754648674,
+          -22.902600432056975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 1793,
+        "ponto_id": 10060,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R JOSE PIRES NETO",
+        "ende_numero": "76",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,368,380,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049531770528624,
+          -22.90303940170557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 1794,
+        "ponto_id": 10072,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ENG CARLOS STEVENSON",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,368,380,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048199650203024,
+          -22.903192454549952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4242,
+        "ponto_id": 90132,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": "1645",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045083222887,
+          -22.909504162236118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4147,
+        "ponto_id": 90164,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,364,367,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04523754210021,
+          -22.91112684884943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3029,
+        "ponto_id": 90400,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "1057",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04272188400545,
+          -22.915131358041794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3030,
+        "ponto_id": 90504,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04211701356288,
+          -22.91718442696697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3031,
+        "ponto_id": 90604,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "621",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04141928657674,
+          -22.919312627352276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3032,
+        "ponto_id": 90736,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": "399",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04078885291635,
+          -22.92122855272318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4218,
+        "ponto_id": 90826,
+        "ptseqlinha": 63.5,
+        "ende_logradouro": "R JOAQUIM ARLINDO DE LEMOS",
+        "ende_numero": "119",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040008744137474,
+          -22.92375158039379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4179,
+        "ponto_id": 90916,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037364611187364,
+          -22.92378680303614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4244,
+        "ponto_id": 91020,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03568680547643,
+          -22.924006492854122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 7349,
+        "ponto_id": 91221,
+        "ptseqlinha": 65.1,
+        "ende_logradouro": "R VISC DE GOMES PINTO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03463391192856,
+          -22.92462344918132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4180,
+        "ponto_id": 91220,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DA HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": "59",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03281087766078,
+          -22.925849039975244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4181,
+        "ponto_id": 91156,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R DA HENEDINA DE OLIVEIRA BRESLER",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03231308824855,
+          -22.924585986092783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4183,
+        "ponto_id": 91288,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOSE DE OLIVEIRA MATIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0301374122654,
+          -22.924016984581304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4245,
+        "ponto_id": 91300,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R PRAIA DO PEREQUE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02898792801973,
+          -22.923171491440737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4148,
+        "ponto_id": 91474,
+        "ptseqlinha": 70.5,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027767009481906,
+          -22.92551244098001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4149,
+        "ponto_id": 91472,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027390001482075,
+          -22.92560446753385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4246,
+        "ponto_id": 91784,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R JOAQUIM MONTEIRO RAPHAEL",
+        "ende_numero": "208",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02361122189379,
+          -22.926053562966885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3763,
+        "ponto_id": 91844,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R HERMANTINO PRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021953664712235,
+          -22.925168149671975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3764,
+        "ponto_id": 91860,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R BENJAMIN MALUF",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02078271768398,
+          -22.92361588113043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4247,
+        "ponto_id": 91756,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV ITATIAIA",
+        "ende_numero": "38",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02132633288646,
+          -22.922795893452477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4248,
+        "ponto_id": 91676,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R GAUCHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02155237319394,
+          -22.921495864370293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4249,
+        "ponto_id": 91624,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R CARIOCA",
+        "ende_numero": "185",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02254391278085,
+          -22.921604301124415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4250,
+        "ponto_id": 91492,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R CARIOCA",
+        "ende_numero": "23",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02307575225069,
+          -22.920122521819657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4251,
+        "ponto_id": 91524,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R CAPIXABA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022575788518964,
+          -22.919988505894402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4252,
+        "ponto_id": 91652,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R SERTANEJO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021667169930375,
+          -22.921052298707803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 3769,
+        "ponto_id": 91764,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV ITATIAIA",
+        "ende_numero": "236",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,346,366,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0194556069302,
+          -22.920583090623207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 6090,
+        "ponto_id": 91818,
+        "ptseqlinha": 82.4,
+        "ende_logradouro": "R FLORESTA",
+        "ende_numero": "115",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01717309136192,
+          -22.91945816940445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4253,
+        "ponto_id": 91820,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.018177413955115,
+          -22.918619872800182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4254,
+        "ponto_id": 91808,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV DAS ANDORINHAS",
+        "ende_numero": "57",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01815918106134,
+          -22.917142999306215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4255,
+        "ponto_id": 91834,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R MINUANO",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0204884861418,
+          -22.918005347487195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4256,
+        "ponto_id": 91838,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R SERRA DOURADA",
+        "ende_numero": "357",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02194421887802,
+          -22.918092985348036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4257,
+        "ponto_id": 91833,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R HILEIA",
+        "ende_numero": "328",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02120462586982,
+          -22.917253313406032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4258,
+        "ponto_id": 91829,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R HILEIA",
+        "ende_numero": "146",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019321541599076,
+          -22.91657642507318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4259,
+        "ponto_id": 91822,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R RESTINGA",
+        "ende_numero": "435",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0171989408947,
+          -22.91639368361275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4260,
+        "ponto_id": 91988,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R PENEDOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.014914775304405,
+          -22.91611293253456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 91,
+        "num_linha": "368",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 14574.19,
+        "ponto_gid": 4220,
+        "ponto_id": 92080,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R PLANALTO",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01331773809301,
+          -22.91485141012966
+        ]
+      }
+    }
+  ]
+}

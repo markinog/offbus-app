@@ -1,0 +1,862 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 7226,
+        "ponto_id": 70809,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09606102976175,
+          -22.935388100931625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 575,
+        "ponto_id": 70796,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PIRACICABA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,131,132,133,136,144,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09833972775502,
+          -22.935267125433583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 904,
+        "ponto_id": 71004,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R SUMARE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100023303965365,
+          -22.938543159734092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 905,
+        "ponto_id": 71180,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R SUMARE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10275451520645,
+          -22.940181896501077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 906,
+        "ponto_id": 71424,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ERNESTO NISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106295913724225,
+          -22.942506313479218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 7437,
+        "ponto_id": 71516,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R PROF GE BADARO",
+        "ende_numero": "288",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106961039098046,
+          -22.944333296784638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 908,
+        "ponto_id": 71560,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ANDRE DE SOUZA CAMPOS",
+        "ende_numero": "26",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10646236151604,
+          -22.945593019045276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 909,
+        "ponto_id": 71692,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ANDRE DE SOUZA CAMPOS",
+        "ende_numero": "346",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10769502191198,
+          -22.94816424993962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 910,
+        "ponto_id": 71676,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R LIBERO BADARO",
+        "ende_numero": "322",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10619823447233,
+          -22.948992473252904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 911,
+        "ponto_id": 71628,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R GODOFREDO CERQUEIRA LEITE",
+        "ende_numero": "54",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10428100030906,
+          -22.95018791216215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 912,
+        "ponto_id": 71708,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ARLINDO LUCIO DA SILVA",
+        "ende_numero": "280",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106168740087426,
+          -22.94981880826764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 913,
+        "ponto_id": 71728,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R AGNALDO SATURNINO ROCHA",
+        "ende_numero": "117",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107911806238405,
+          -22.949001597223123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 914,
+        "ponto_id": 71820,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R RAPHAEL CAMIZAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109783882779546,
+          -22.94969293860788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 915,
+        "ponto_id": 71960,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ZEQUINHA DE ABREU",
+        "ende_numero": "69",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10972198702361,
+          -22.95200538815964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 916,
+        "ponto_id": 72064,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ANTONIO MARTINS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11004308839265,
+          -22.954186263625413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 7522,
+        "ponto_id": 72086,
+        "ptseqlinha": 15.1,
+        "ende_logradouro": "R ALBERTO VEIGA GUIGNARD",
+        "ende_numero": "31",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10714723922679,
+          -22.954640107389295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 7521,
+        "ponto_id": 72082,
+        "ptseqlinha": 15.5,
+        "ende_logradouro": "AV RAMOS ( R EDMISLOM EGUEZ RAMOS)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106906886008396,
+          -22.955521866056223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 889,
+        "ponto_id": 72084,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ODILON RODRIGUES NUNES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10858394410649,
+          -22.955387910171936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 890,
+        "ponto_id": 72060,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ANTONIO MARTINS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109846005254724,
+          -22.954195205385464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 891,
+        "ponto_id": 71944,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ZEQUINHA DE ABREU",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10960710296959,
+          -22.951813995115142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 892,
+        "ponto_id": 71816,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R RAPHAEL CAMIZAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109594304040776,
+          -22.94977580676883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 893,
+        "ponto_id": 71740,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R AGNALDO SATURNINO ROCHA",
+        "ende_numero": "134",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10833659898818,
+          -22.949020845388965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 894,
+        "ponto_id": 71716,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ARLINDO LUCIO DA SILVA",
+        "ende_numero": "257",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105988552594816,
+          -22.94992682506806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 895,
+        "ponto_id": 71624,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R GODOFREDO CERQUEIRA LEITE",
+        "ende_numero": "55",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10413909884005,
+          -22.950187989375294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 896,
+        "ponto_id": 71664,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R LIBERO BADARO",
+        "ende_numero": "319",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106254452550886,
+          -22.94888474854036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 897,
+        "ponto_id": 71688,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ANDRE DE SOUZA CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107592932450515,
+          -22.94824820990389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 898,
+        "ponto_id": 71556,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ANDRE DE SOUZA CAMPOS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106287478050206,
+          -22.94562784112778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 899,
+        "ponto_id": 71508,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R PROF GE BADARO",
+        "ende_numero": "271",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106783588953924,
+          -22.944246244739578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 900,
+        "ponto_id": 71420,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ERNESTO NISTA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10613356907921,
+          -22.9426549884827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 901,
+        "ponto_id": 71284,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R MONTE MOR",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10435995253302,
+          -22.941393523073703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 902,
+        "ponto_id": 71188,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R SUMARE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10264333424826,
+          -22.940306869209053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 903,
+        "ponto_id": 71012,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R SUMARE",
+        "ende_numero": "303",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099823922208884,
+          -22.938813380503507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 559,
+        "ponto_id": 70940,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R COSMOPOLIS",
+        "ende_numero": "185",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,144,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09796058651622,
+          -22.936486758276626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 374,
+        "num_linha": "144",
+        "sentido": 1,
+        "nome_linha": "JARDIM CAPIVARI",
+        "extensao_m": 9944.76,
+        "ponto_gid": 7226,
+        "ponto_id": 70809,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "144 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09606102976175,
+          -22.935388100931625
+        ]
+      }
+    }
+  ]
+}

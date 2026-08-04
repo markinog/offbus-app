@@ -1,0 +1,912 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 5694,
+        "ponto_id": 61597,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208,215,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180730596821554,
+          -22.9423739058455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1656,
+        "ponto_id": 61848,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18800618686535,
+          -22.951104476602158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1657,
+        "ponto_id": 61868,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "EST MUNIC DA PAZ",
+        "ende_numero": "1430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18943564432449,
+          -22.95211982259341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1679,
+        "ponto_id": 61900,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "17",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190654051893894,
+          -22.953213177438236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1744,
+        "ponto_id": 61896,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R INES BASSI BUENO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18876759989299,
+          -22.9536463608317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 5796,
+        "ponto_id": 61880,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R KALIME GADIA",
+        "ende_numero": "230",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18874298003638,
+          -22.95496893563011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 5795,
+        "ponto_id": 61888,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R KALIME GADIA",
+        "ende_numero": "370",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18818547306631,
+          -22.956690832731013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1745,
+        "ponto_id": 61924,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R TRES (JD LILIZA)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18886010855129,
+          -22.958264554887755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1746,
+        "ponto_id": 61936,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R OITO (JD LILIZA)",
+        "ende_numero": "234",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18806477584542,
+          -22.960546451242568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1747,
+        "ponto_id": 62012,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CELSO LOPES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190433610922064,
+          -22.962406227922344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1748,
+        "ponto_id": 62068,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "1230",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19146520083236,
+          -22.963450423798218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1749,
+        "ponto_id": 62100,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MARIA EUNICE FLAUSINO BARBOSA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19286419075843,
+          -22.964137103124465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1750,
+        "ponto_id": 62152,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R WILSON ROMERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.196384734600976,
+          -22.964595881632558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1750,
+        "ponto_id": 62152,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R WILSON ROMERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.196384734600976,
+          -22.964595881632558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1751,
+        "ponto_id": 62172,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ANIBAL BELLINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19670576052011,
+          -22.9663206058614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1690,
+        "ponto_id": 62196,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R BENEDITO MOREIRA LOPES",
+        "ende_numero": "157",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19793811600493,
+          -22.96691719675033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1691,
+        "ponto_id": 62200,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R BENEDITO MOREIRA LOPES",
+        "ende_numero": "33",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19760914204408,
+          -22.968103160258917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1692,
+        "ponto_id": 62228,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R WILSON ROMERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19985210905206,
+          -22.96793816902575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1693,
+        "ponto_id": 62224,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV DOIS (CJ RES PQ SAO BENTO)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208,215 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20030757191864,
+          -22.966381771981492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1694,
+        "ponto_id": 62212,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AVENIDA ADOLPHO BLOCK(AVDOIS)",
+        "ende_numero": "366",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20070699579559,
+          -22.9648806768679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1695,
+        "ponto_id": 62204,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV FREI ANTONIO DE SANT'ANA GALVAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.200161115538876,
+          -22.963687174599787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1752,
+        "ponto_id": 62156,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV FREI ANTONIO DE SANT'ANA GALVAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19699609299782,
+          -22.964022113484887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1741,
+        "ponto_id": 62096,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R MARIA EUNICE FLAUSINO BARBOSA",
+        "ende_numero": "139",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19273211098374,
+          -22.964417603538855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1742,
+        "ponto_id": 62056,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "1245",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19104980071948,
+          -22.963423035849075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1860,
+        "ponto_id": 61972,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CELSO SOARES COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "208,212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18962460526339,
+          -22.961388017955613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1753,
+        "ponto_id": 61920,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R TRES (JD LILIZA)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18871918724962,
+          -22.95839062631065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 7464,
+        "ponto_id": 61887,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R. EDUARDO HENRIQUE R. DOMINGOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18758304442465,
+          -22.957427084202237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 5350,
+        "ponto_id": 61865,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R EDUARDO HENRIQUE",
+        "ende_numero": "256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1871671600498,
+          -22.95516345948385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 5351,
+        "ponto_id": 61866,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R EDUARDO HENRIQUE",
+        "ende_numero": "45",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "208 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18772349435382,
+          -22.953107302793562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1680,
+        "ponto_id": 61860,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1888396171283,
+          -22.95222157401554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1681,
+        "ponto_id": 61792,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1061",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,207,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186662101189405,
+          -22.94935220956497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 411,
+        "num_linha": "208",
+        "sentido": 1,
+        "nome_linha": "TERMINAL ITAJAI (INCLUSIVO)",
+        "extensao_m": 11262.72,
+        "ponto_gid": 687,
+        "ponto_id": 61580,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,201,202,203,204,206,207,208,209,217,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180489559938,
+          -22.94242597483818
+        ]
+      }
+    }
+  ]
+}

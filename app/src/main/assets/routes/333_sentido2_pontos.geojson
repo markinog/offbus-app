@@ -1,0 +1,887 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 838,
+        "ponto_id": 30996,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0800241053195,
+          -22.833864868431455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 839,
+        "ponto_id": 30824,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,330,331,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07765484936853,
+          -22.848997950747542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 840,
+        "ponto_id": 30516,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07246570693438,
+          -22.859323366363924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 3559,
+        "ponto_id": 30192,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06824047683515,
+          -22.87498014130029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2215,
+        "ponto_id": 30156,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06769576717971,
+          -22.877883200966778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2216,
+        "ponto_id": 30108,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "955",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06660996551359,
+          -22.881055555429167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2217,
+        "ponto_id": 30060,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "781",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06599675653494,
+          -22.882680426257316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2218,
+        "ponto_id": 30024,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0644127566855,
+          -22.885164364722492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2219,
+        "ponto_id": 30016,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "193",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062366753403396,
+          -22.886583393290156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2220,
+        "ponto_id": 30008,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060441249344144,
+          -22.887500908821107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2221,
+        "ponto_id": 20020,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "99",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05906527007037,
+          -22.8873256839197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 1247,
+        "ponto_id": 772,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,244,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06025929535158,
+          -22.889012607820163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 2222,
+        "ponto_id": 416,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV DA LIBANIA",
+        "ende_numero": "2415",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,309,310,313,316,318,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061049769687315,
+          -22.893646776046232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 3561,
+        "ponto_id": 260,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "703",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06430347146021,
+          -22.905384514148775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 3252,
+        "ponto_id": 300,
+        "ptseqlinha": 17.5,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,330,333,348,371,377,390,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344523434786,
+          -22.906907478723305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 81,
+        "num_linha": "333",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10655.58,
+        "ponto_gid": 3563,
+        "ponto_id": 288,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "552",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05914833043632,
+          -22.907746326655378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 837,
+        "ponto_id": 31072,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079673464645964,
+          -22.8308100530768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 3563,
+        "ponto_id": 288,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "552",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05914833043632,
+          -22.907746326655378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 3144,
+        "ponto_id": 220,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05592735217156,
+          -22.905292101263353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 1212,
+        "ponto_id": 760,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1706",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06218771809582,
+          -22.890347242174965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 1213,
+        "ponto_id": 20012,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1992",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060607571679206,
+          -22.888211520638784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 2211,
+        "ponto_id": 30020,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "438",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06186779161416,
+          -22.885238295571224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 2212,
+        "ponto_id": 30040,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "812",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065077752720306,
+          -22.88329037748931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 453,
+        "ponto_id": 30096,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1176",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065951180420484,
+          -22.880333218115464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 454,
+        "ponto_id": 30144,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066504558628914,
+          -22.878037087055088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 3564,
+        "ponto_id": 30184,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1674",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06724962559265,
+          -22.876078995494876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 3565,
+        "ponto_id": 30208,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1848",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,332,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06795868302156,
+          -22.874636051222872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 834,
+        "ponto_id": 30540,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DOS PIRATININS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,330,331,333 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0717241017635,
+          -22.857674416811143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 835,
+        "ponto_id": 30828,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "134,330,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07726771815301,
+          -22.848825064500357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 363,
+        "num_linha": "333",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO",
+        "extensao_m": 10077.16,
+        "ponto_gid": 836,
+        "ponto_id": 31000,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798209378233,
+          -22.833758536871564
+        ]
+      }
+    }
+  ]
+}

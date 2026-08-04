@@ -1,0 +1,3087 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1861,
+        "ponto_id": 61956,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL ITAJAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.189075150246005,
+          -22.961549701636777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1747,
+        "ponto_id": 62012,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R CELSO LOPES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190433610922064,
+          -22.962406227922344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1844,
+        "ponto_id": 62020,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "961",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.191066088266034,
+          -22.961186200510237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1845,
+        "ponto_id": 62028,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "793",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19197368551843,
+          -22.96018055784187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1862,
+        "ponto_id": 62008,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19244248495393,
+          -22.958289892416342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1863,
+        "ponto_id": 61992,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "341",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19245647953351,
+          -22.95635062955629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1864,
+        "ponto_id": 61940,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19243031510966,
+          -22.95485751046994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5510,
+        "ponto_id": 61941,
+        "ptseqlinha": 7.5,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19236982931248,
+          -22.953449541975782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1679,
+        "ponto_id": 61900,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "17",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190654051893894,
+          -22.953213177438236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1680,
+        "ponto_id": 61860,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1888396171283,
+          -22.95222157401554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1681,
+        "ponto_id": 61792,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1061",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,207,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186662101189405,
+          -22.94935220956497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5686,
+        "ponto_id": 61601,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18143344708458,
+          -22.942410916242853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 689,
+        "ponto_id": 61424,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17304293227694,
+          -22.94209870148581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 690,
+        "ponto_id": 61360,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17014038264584,
+          -22.94108519202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 691,
+        "ponto_id": 61324,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "8770",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.166905457261564,
+          -22.93886384389723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 692,
+        "ponto_id": 61264,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.164595563998716,
+          -22.936966535905174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 693,
+        "ponto_id": 61164,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R WALDEMAR BENTO DE OLIVEIRA",
+        "ende_numero": "108",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,214,219,220,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.160451041698884,
+          -22.937029722089726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 694,
+        "ponto_id": 61080,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R VICENT DE MARCH",
+        "ende_numero": "532",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.157524936358264,
+          -22.93824221630151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 695,
+        "ponto_id": 61024,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R VICENTE DE MARCH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15479867165447,
+          -22.93929580021119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1933,
+        "ponto_id": 60986,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R VICENTE DE MARCH",
+        "ende_numero": "718",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15315349826543,
+          -22.93996209713172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 6173,
+        "ponto_id": 60922,
+        "ptseqlinha": 23.5,
+        "ende_logradouro": "TERMINAL SATELITE IRIS BXC",
+        "ende_numero": "6792",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,213,214,219,220 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14589924735345,
+          -22.94182490290637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 698,
+        "ponto_id": 60824,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "6531",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14214188354806,
+          -22.9405325950988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 7549,
+        "ponto_id": 60798,
+        "ptseqlinha": 27.1,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14166905435135,
+          -22.938476688227006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 699,
+        "ponto_id": 60808,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14101881459939,
+          -22.93702706991386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5511,
+        "ponto_id": 60763,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138017723763255,
+          -22.935685057193812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 700,
+        "ponto_id": 60764,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13570879291143,
+          -22.935393090429447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1710,
+        "ponto_id": 60734,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R NADIR DIAS DE OLIVEIRA ",
+        "ende_numero": "5125",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13224028343241,
+          -22.934806365219494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1763,
+        "ponto_id": 60716,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R QUARENTA E CINCO (CIDADE SATELITE IRIS)",
+        "ende_numero": "4863",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,212,213,219,220,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12980817934984,
+          -22.93200069251955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 2114,
+        "ponto_id": 60682,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R HERMANO PENTEADO",
+        "ende_numero": "420",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,212,213,214,219,220,230,231,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1255947293037,
+          -22.926611784081267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 2174,
+        "ponto_id": 60632,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV GILBERTO TARGON",
+        "ende_numero": "120",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119682784984185,
+          -22.922777327342185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 504,
+        "ponto_id": 71140,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115181917083426,
+          -22.921570361353275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 505,
+        "ponto_id": 71172,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11475045032346,
+          -22.92384937015901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 506,
+        "ponto_id": 71216,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11474603697954,
+          -22.925382148328517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 507,
+        "ponto_id": 71242,
+        "ptseqlinha": 37.5,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11474616028745,
+          -22.92764578667319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1148,
+        "ponto_id": 71232,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11387292555924,
+          -22.927925320933802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1149,
+        "ponto_id": 71148,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11201694478128,
+          -22.927833301886956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1150,
+        "ponto_id": 71040,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11007194190611,
+          -22.92753137699395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1151,
+        "ponto_id": 70920,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10730094222582,
+          -22.926888316213144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1152,
+        "ponto_id": 70812,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10441787938992,
+          -22.92799617277128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1153,
+        "ponto_id": 70800,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "327",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103321640679624,
+          -22.928514722174267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1154,
+        "ponto_id": 70732,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10101323985659,
+          -22.929573917599523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 741,
+        "ponto_id": 70712,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "429",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099455325856574,
+          -22.930343385310366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 742,
+        "ponto_id": 70588,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PRESIDENTE JUSCELINO",
+        "ende_numero": "105",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,163,164,165,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09649747324829,
+          -22.930145473051134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 743,
+        "ponto_id": 70524,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "883",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093451117215025,
+          -22.930727028098215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 744,
+        "ponto_id": 70476,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "417",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09036651843226,
+          -22.93057671358154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 745,
+        "ponto_id": 70440,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "235",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087995224315776,
+          -22.930395363635913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 7518,
+        "ponto_id": 70489,
+        "ptseqlinha": 49.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08633590732985,
+          -22.930579353730543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5926,
+        "ponto_id": 70181,
+        "ptseqlinha": 50.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08190582713767,
+          -22.925916814487618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5527,
+        "ponto_id": 70184,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07948593395305,
+          -22.92351447154542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 584,
+        "ponto_id": 70156,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07782620199902,
+          -22.922015499649664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 585,
+        "ponto_id": 70084,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07408195298589,
+          -22.919479249835813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5375,
+        "ponto_id": 70025,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,133,136,163,213,219,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07202328460125,
+          -22.918056197833398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 586,
+        "ponto_id": 70020,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068293751386115,
+          -22.91551108842579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 587,
+        "ponto_id": 70008,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2045",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06579910500191,
+          -22.915123677347065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 877,
+        "ponto_id": 90020,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "499",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,245,382,401,402,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344812080828,
+          -22.913718089009592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 5931,
+        "ponto_id": 355,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "792",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,171,213,219,220,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06018305396933,
+          -22.907101292624283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1209,
+        "ponto_id": 60,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1360",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,349,362,385,386,403,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06235994236859,
+          -22.902805931348283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 58.5,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 980,
+        "ponto_id": 660,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "650",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "193,213,331,332,357,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069805629438655,
+          -22.902837374956686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 101,
+        "num_linha": "213",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 26200.03,
+        "ponto_gid": 1866,
+        "ponto_id": 762,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R LUIZ DONIZETTI ROVARIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,250,256,257,271,381,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07124790725115,
+          -22.907271213285277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1866,
+        "ponto_id": 762,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R LUIZ DONIZETTI ROVARIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,250,256,257,271,381,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07124790725115,
+          -22.907271213285277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 589,
+        "ponto_id": 296,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,153,154,161,211,213,219,264,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06337498011748,
+          -22.906949468394345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1572,
+        "ponto_id": 90040,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,245,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06327091799696,
+          -22.911755920938795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 590,
+        "ponto_id": 70004,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06601996953021,
+          -22.914990079927378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 591,
+        "ponto_id": 70016,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068507893756326,
+          -22.91553312549965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 5374,
+        "ponto_id": 70015,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "860",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,133,136,163,213,219,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07214011745824,
+          -22.917752368506473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 592,
+        "ponto_id": 70088,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07502278049115,
+          -22.91968114129561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 593,
+        "ponto_id": 70168,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "4528",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078118527778706,
+          -22.921892686314123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 5540,
+        "ponto_id": 70200,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1999",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07990750806758,
+          -22.92357232159311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 5925,
+        "ponto_id": 70170,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082247321373295,
+          -22.925949987225074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 770,
+        "ponto_id": 70368,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2754",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084498336474404,
+          -22.929063290855797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 771,
+        "ponto_id": 70432,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08720800629435,
+          -22.930039552060247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 772,
+        "ponto_id": 70468,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "510",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09039621149737,
+          -22.930436610055573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 773,
+        "ponto_id": 70516,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV MIRANDOPOLIS",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094163007169215,
+          -22.930500837313875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 774,
+        "ponto_id": 70668,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097618319003125,
+          -22.929720921836143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 7519,
+        "ponto_id": 70670,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "386",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099331251369655,
+          -22.929896979072318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1155,
+        "ponto_id": 70728,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "44",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100902851652435,
+          -22.92935392871624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1156,
+        "ponto_id": 70780,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "362",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10323857599984,
+          -22.928257991236876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1157,
+        "ponto_id": 70808,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10472290831708,
+          -22.927541644906345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1158,
+        "ponto_id": 70900,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "714",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1072241693605,
+          -22.92664378186502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1159,
+        "ponto_id": 71044,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11029493764803,
+          -22.927402295250616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1160,
+        "ponto_id": 71152,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "1292",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11221093316309,
+          -22.92762732654082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1161,
+        "ponto_id": 71240,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114207899074486,
+          -22.927729291737773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 431,
+        "ponto_id": 71196,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427323458267,
+          -22.925542331979607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 433,
+        "ponto_id": 71112,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11479365198852,
+          -22.92137196004233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 432,
+        "ponto_id": 71128,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428109589105,
+          -22.92314496338953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 435,
+        "ponto_id": 60484,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "1213",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11077843043799,
+          -22.919838754157905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 502,
+        "ponto_id": 60488,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R JOSE ROSOLEN ",
+        "ende_numero": "319",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111569209972984,
+          -22.919515916508686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 503,
+        "ponto_id": 60600,
+        "ptseqlinha": 88.5,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "1372",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,219,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115125802772575,
+          -22.920862143067627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 849,
+        "ponto_id": 60636,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "904",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1203915970536,
+          -22.922543301404602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 2113,
+        "ponto_id": 60688,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "MARGINAL AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12600701189634,
+          -22.926024507146842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 718,
+        "ponto_id": 60732,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13179498703738,
+          -22.934013323164624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 719,
+        "ponto_id": 60760,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13613986658951,
+          -22.934930612318833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 5563,
+        "ponto_id": 60810,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14168062454953,
+          -22.936947034513448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 721,
+        "ponto_id": 60828,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14245863483888,
+          -22.94044721079608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 6175,
+        "ponto_id": 60966,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "TERMINAL SATELITE IRIS CXB",
+        "ende_numero": "6715",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,213,214,219,220 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145272416983424,
+          -22.94200238506224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1934,
+        "ponto_id": 60995,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "7624",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,233,234,235,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151512442542106,
+          -22.94011132622016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 724,
+        "ponto_id": 61016,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "7974",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155042895910114,
+          -22.93868166157333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 725,
+        "ponto_id": 61052,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "8324",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.158218505789385,
+          -22.937471093459127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 726,
+        "ponto_id": 61136,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "R TRINTA E NOVE",
+        "ende_numero": "8620",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205,210,211,212,213,214,219,220,227,232,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16057860125078,
+          -22.936480369030622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 727,
+        "ponto_id": 61252,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "9020",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1650465420913,
+          -22.936967425176768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 728,
+        "ponto_id": 61328,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16709602885843,
+          -22.938553946485836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 729,
+        "ponto_id": 61364,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1704154009341,
+          -22.940676194649882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 730,
+        "ponto_id": 61420,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "9547",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17349727459176,
+          -22.94183280347448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 5696,
+        "ponto_id": 61611,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18068213502829,
+          -22.9425793219513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1656,
+        "ponto_id": 61848,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18800618686535,
+          -22.951104476602158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1657,
+        "ponto_id": 61868,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "EST MUNIC DA PAZ",
+        "ende_numero": "1430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18943564432449,
+          -22.95211982259341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1658,
+        "ponto_id": 61928,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19173908960414,
+          -22.952854242548646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1678,
+        "ponto_id": 61952,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "215",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.193275559343824,
+          -22.953403435138092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1868,
+        "ponto_id": 61976,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19265706473073,
+          -22.954919100965938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1869,
+        "ponto_id": 61996,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.192748377275585,
+          -22.956269048245126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1870,
+        "ponto_id": 62004,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "504",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19273308305684,
+          -22.95789815004728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1858,
+        "ponto_id": 62048,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "786",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19218950886851,
+          -22.96026703435914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1859,
+        "ponto_id": 62024,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19125195555451,
+          -22.961279682211835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1860,
+        "ponto_id": 61972,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "R CELSO SOARES COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "208,212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18962460526339,
+          -22.961388017955613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 349,
+        "num_linha": "213",
+        "sentido": 2,
+        "nome_linha": "VIDA NOVA/TERMINAL MERCADO I (CORUJAO)",
+        "extensao_m": 22480.94,
+        "ponto_gid": 1861,
+        "ponto_id": 61956,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "TERMINAL ITAJAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.189075150246005,
+          -22.961549701636777
+        ]
+      }
+    }
+  ]
+}

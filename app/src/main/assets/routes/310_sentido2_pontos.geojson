@@ -1,0 +1,1887 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3133,
+        "ponto_id": 40758,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R DO HIPISMO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1452126040108,
+          -22.8314810513066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3134,
+        "ponto_id": 40756,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "ESTR MUN JOANNINE CAUMO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14662146602044,
+          -22.831988826890907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3135,
+        "ponto_id": 40752,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R DO POLO AQUATICO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146866758671436,
+          -22.833845212922192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3136,
+        "ponto_id": 40724,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R DA NATACAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "310 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145059756265844,
+          -22.83407919015474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3137,
+        "ponto_id": 40708,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DO CICLISMO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144115765884166,
+          -22.83426018083359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3138,
+        "ponto_id": 40696,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R DO TENIS",
+        "ende_numero": "305",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "310 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144052790214076,
+          -22.835490233249715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3139,
+        "ponto_id": 40720,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DO TENIS",
+        "ende_numero": "177",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14540757284241,
+          -22.835475994886846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3140,
+        "ponto_id": 40736,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DO TENIS",
+        "ende_numero": "11",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146849509420896,
+          -22.83542694680032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3141,
+        "ponto_id": 40682,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R TRES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146052478108565,
+          -22.83837013952534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3142,
+        "ponto_id": 40684,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "ESTR MUN JOSE SEDANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14397196880871,
+          -22.839553219893975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3121,
+        "ponto_id": 40688,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14861295920547,
+          -22.842187015529042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3122,
+        "ponto_id": 40712,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151182043824356,
+          -22.842464530147094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3082,
+        "ponto_id": 40704,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.150897938342574,
+          -22.84279449699338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3083,
+        "ponto_id": 40676,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.144710463929755,
+          -22.843313213179353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3084,
+        "ponto_id": 40600,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139768939671924,
+          -22.846209480902374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3085,
+        "ponto_id": 40579,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137297393609565,
+          -22.848086646453858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3086,
+        "ponto_id": 40568,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "2305",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12772272523869,
+          -22.84990988346893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3087,
+        "ponto_id": 40548,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "2211",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12358328543297,
+          -22.849978410583834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3088,
+        "ponto_id": 40484,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "1395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12078279022061,
+          -22.850203047889625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 2783,
+        "ponto_id": 40348,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109484793158884,
+          -22.85691432833283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3089,
+        "ponto_id": 40284,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107081786695574,
+          -22.859694317715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3091,
+        "ponto_id": 40268,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10233674954192,
+          -22.864369305635005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 5417,
+        "ponto_id": 40263,
+        "ptseqlinha": 25.5,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09910369367552,
+          -22.866892394784447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3092,
+        "ponto_id": 40256,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093979885264666,
+          -22.8695212824635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3093,
+        "ponto_id": 40248,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07908259679175,
+          -22.875698669644443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3094,
+        "ponto_id": 40224,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07549276143131,
+          -22.877814375375955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3095,
+        "ponto_id": 40216,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073755782156766,
+          -22.879766392156665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3096,
+        "ponto_id": 40204,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073113763696846,
+          -22.880705360829296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3097,
+        "ponto_id": 40144,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1545",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071064751111194,
+          -22.88377934545814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3098,
+        "ponto_id": 40096,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06846429752021,
+          -22.88614899679744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3099,
+        "ponto_id": 40072,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "927",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066531164418016,
+          -22.888019628761608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3100,
+        "ponto_id": 40012,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063860681649814,
+          -22.890546397070747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 2222,
+        "ponto_id": 416,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DA LIBANIA",
+        "ende_numero": "2415",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,309,310,313,316,318,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061049769687315,
+          -22.893646776046232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 1886,
+        "ponto_id": 240,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "831",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06495470833032,
+          -22.90423140165104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 1825,
+        "ponto_id": 280,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063613063783784,
+          -22.90658950219426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 156,
+        "num_linha": "310",
+        "sentido": 1,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 17778.39,
+        "ponto_gid": 3143,
+        "ponto_id": 320,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "488",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,390,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059647518275135,
+          -22.90793124573756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3143,
+        "ponto_id": 320,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "488",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,390,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059647518275135,
+          -22.90793124573756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3144,
+        "ponto_id": 220,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05592735217156,
+          -22.905292101263353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 2344,
+        "ponto_id": 40028,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "628",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0645493455123,
+          -22.889400837194056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3103,
+        "ponto_id": 40060,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "800",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066089765594896,
+          -22.88802184671398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3104,
+        "ponto_id": 40104,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068472994129294,
+          -22.88590630383711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3105,
+        "ponto_id": 40136,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1524",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07090552595766,
+          -22.88365015439397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3106,
+        "ponto_id": 40200,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1882",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07258835453573,
+          -22.88102105607627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3107,
+        "ponto_id": 40220,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073945406515556,
+          -22.879225675731732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3108,
+        "ponto_id": 40236,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2340",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07557660814994,
+          -22.8772512046976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3109,
+        "ponto_id": 40252,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078947314768364,
+          -22.875440840814132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3110,
+        "ponto_id": 40260,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09385982655915,
+          -22.869304352603834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 5416,
+        "ponto_id": 40262,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": "2430",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099649115755646,
+          -22.866198089392025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3111,
+        "ponto_id": 40264,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10196281153491,
+          -22.864327483863143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3112,
+        "ponto_id": 40272,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10439521408799,
+          -22.861863506546378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3113,
+        "ponto_id": 40288,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10681348535931,
+          -22.85926507972251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 2810,
+        "ponto_id": 40352,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10933644884669,
+          -22.85675404865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3114,
+        "ponto_id": 40460,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R FILINTO DE ALMEIDA",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11791883035135,
+          -22.850186112632915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3115,
+        "ponto_id": 40496,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R FILINTO DE ALMEIDA",
+        "ende_numero": "1366",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1200071680396,
+          -22.84994385904225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3116,
+        "ponto_id": 40552,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": "2210",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12345154824761,
+          -22.849705455129484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3117,
+        "ponto_id": 40572,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12738505751173,
+          -22.84935182194135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3118,
+        "ponto_id": 40578,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1373811913998,
+          -22.847358579282005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 7388,
+        "ponto_id": 40581,
+        "ptseqlinha": 62.1,
+        "ende_logradouro": "R MARIA CANDIDA CONCEICAO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "309,310,313,315,316,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13901869539498,
+          -22.84593034967492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3119,
+        "ponto_id": 40592,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,313,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.140424336778814,
+          -22.844821383007616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3120,
+        "ponto_id": 40680,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV COMEND ALADINO SELMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "309,310,315,316,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14396394127676,
+          -22.842771230538915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3145,
+        "ponto_id": 40730,
+        "ptseqlinha": 70.5,
+        "ende_logradouro": "R TRES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14598317906922,
+          -22.83844460877631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3146,
+        "ponto_id": 40732,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R DO TENIS",
+        "ende_numero": "42",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14680878806993,
+          -22.83550518366315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3147,
+        "ponto_id": 40716,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DO TENIS",
+        "ende_numero": "194",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14543175684387,
+          -22.83555425956103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3148,
+        "ponto_id": 40692,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R DO TENIS",
+        "ende_numero": "314",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14410076052531,
+          -22.835578238703487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3149,
+        "ponto_id": 40700,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R DO CICLISMO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143880196891054,
+          -22.834277707001178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3150,
+        "ponto_id": 40728,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R DA NATACAO",
+        "ende_numero": "161",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14301213970515,
+          -22.832911863965762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 7490,
+        "ponto_id": 40759,
+        "ptseqlinha": 75.5,
+        "ende_logradouro": "R TRES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,315 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14501819961576,
+          -22.825864115313284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 294,
+        "num_linha": "310",
+        "sentido": 2,
+        "nome_linha": "VILA OLIMPIA (INCLUSIVO)",
+        "extensao_m": 15685.26,
+        "ponto_gid": 3133,
+        "ponto_id": 40758,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R DO HIPISMO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1452126040108,
+          -22.8314810513066
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2537 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2707,
+        "ponto_id": 51832,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL PE ANCHIETA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,263,264,265,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15338362102641,
+          -22.861375007607656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2638,
+        "ponto_id": 51812,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153817818886374,
+          -22.86328826187525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2639,
+        "ponto_id": 51810,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "100",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15458172079735,
+          -22.86507494477096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2640,
+        "ponto_id": 51820,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155997514918035,
+          -22.868035707473283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2641,
+        "ponto_id": 51764,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154590827671825,
+          -22.86953290681206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2642,
+        "ponto_id": 51644,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "462",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153493435141385,
+          -22.87049583793418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2811,
+        "ponto_id": 51516,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R NSRA DAS DORES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,266 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14946284623452,
+          -22.8745012137844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2413,
+        "ponto_id": 51440,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ENG GERALDO CALCAGNOLO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14615829700983,
+          -22.874120540109125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2414,
+        "ponto_id": 51408,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R BOLIVAR LOPES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14510884759221,
+          -22.873940270775286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2415,
+        "ponto_id": 51312,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R BOLIVAR LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14324799958875,
+          -22.875558557925984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 6426,
+        "ponto_id": 51313,
+        "ptseqlinha": 10.1,
+        "ende_logradouro": "R BOLIVAR LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14185883249431,
+          -22.876751610320113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5949,
+        "ponto_id": 51358,
+        "ptseqlinha": 10.2,
+        "ende_logradouro": "R MAMOEL TOMHAZ",
+        "ende_numero": "104",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14064383361647,
+          -22.87718453075129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5948,
+        "ponto_id": 51357,
+        "ptseqlinha": 10.4,
+        "ende_logradouro": "R MANOEL TOMHAZ",
+        "ende_numero": "68",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14113808815473,
+          -22.874962907803823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5946,
+        "ponto_id": 51354,
+        "ptseqlinha": 10.6,
+        "ende_logradouro": "R MANOEL TOMHAZ",
+        "ende_numero": "36",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.141539017213596,
+          -22.872979468565095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5944,
+        "ponto_id": 51351,
+        "ptseqlinha": 10.8,
+        "ende_logradouro": "R MANOEL TOMHAZ",
+        "ende_numero": "06",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14192679378038,
+          -22.87128234287669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2742,
+        "ponto_id": 51308,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA II)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14092242541791,
+          -22.87076182788367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 7511,
+        "ponto_id": 51311,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA II)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14062704084251,
+          -22.87236893307364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2743,
+        "ponto_id": 51176,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14011481787447,
+          -22.874954295279572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5575,
+        "ponto_id": 51150,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13932803332306,
+          -22.877523676847183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5573,
+        "ponto_id": 51138,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138851460188455,
+          -22.879763726213255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5571,
+        "ponto_id": 51142,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13829091772148,
+          -22.881913167765607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5569,
+        "ponto_id": 51130,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": "750",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137520435093414,
+          -22.884664607361234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5568,
+        "ponto_id": 51126,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DOIS (PQ UNIVERSAL)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13683491501622,
+          -22.887404517664688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 5842,
+        "ponto_id": 51124,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R UM",
+        "ende_numero": "83",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.137308881308904,
+          -22.88782102229094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2621,
+        "ponto_id": 51108,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R CINCO (PQ UNIVERSAL)",
+        "ende_numero": "139",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14037005801165,
+          -22.88651632008472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2428,
+        "ponto_id": 51220,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DO SR BOM JESUS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1436584080046,
+          -22.885778230232397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2430,
+        "ponto_id": 51164,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13315099239793,
+          -22.893794140265374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 7310,
+        "ponto_id": 50965,
+        "ptseqlinha": 21.2,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12338330530565,
+          -22.89158483136892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 7312,
+        "ponto_id": 50961,
+        "ptseqlinha": 21.3,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12390672868224,
+          -22.889056489219183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 7308,
+        "ponto_id": 50962,
+        "ptseqlinha": 21.4,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.127410134691594,
+          -22.887590547228275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 7307,
+        "ponto_id": 51075,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "R DOS CAMBARAS",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12892728253519,
+          -22.887121405731897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2610,
+        "ponto_id": 51072,
+        "ptseqlinha": 21.7,
+        "ende_logradouro": "R MATHEUS MACCARI",
+        "ende_numero": "264",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12930936975227,
+          -22.8847272965491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2579,
+        "ponto_id": 51080,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOSE BERTOLDI",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12825788694021,
+          -22.883579327853216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2580,
+        "ponto_id": 51020,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12677588680074,
+          -22.88495855081194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2581,
+        "ponto_id": 50988,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12497028126812,
+          -22.886262464469453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2582,
+        "ponto_id": 50968,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124078371635676,
+          -22.887594323699474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2611,
+        "ponto_id": 50932,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DOS IPES ROXOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12243736149157,
+          -22.887632407050198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 6221,
+        "ponto_id": 50933,
+        "ptseqlinha": 26.1,
+        "ende_logradouro": "R DOS JEQUITIBAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1213370829493,
+          -22.88890076508886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2612,
+        "ponto_id": 50868,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DOS JEQUITIBAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1201388105155,
+          -22.89065233643837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2613,
+        "ponto_id": 50840,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R BENEDITA ARRUDA PRADO",
+        "ende_numero": "170",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11904087642434,
+          -22.892337284893422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2614,
+        "ponto_id": 50818,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R IZIDORO CALDATTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117533957072176,
+          -22.89421473200066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2615,
+        "ponto_id": 50820,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R CLOTILDE ODOARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11676661089874,
+          -22.89143223681664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2493,
+        "ponto_id": 50570,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289955504064,
+          -22.89796281471168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2494,
+        "ponto_id": 50386,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV LIX DA CUNHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095284267466454,
+          -22.896986285759557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2459,
+        "ponto_id": 50098,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081671326586786,
+          -22.90167166471254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2716,
+        "ponto_id": 310,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "347",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,256,257,261,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06518202935178,
+          -22.906512650848004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 6215,
+        "ponto_id": 319,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "647",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,252,254,256,257,261,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06253621461435,
+          -22.905316761653015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 335,
+        "num_linha": "254",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22477.86,
+        "ponto_gid": 2435,
+        "ponto_id": 104,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06322304522577,
+          -22.903976345910678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2606,
+        "ponto_id": 50844,
+        "ptseqlinha": 0.0,
+        "ende_logradouro": "R ALVARO MUCIO TOFFOLO BOZZA",
+        "ende_numero": "40",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114957991024745,
+          -22.893404026380374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2435,
+        "ponto_id": 104,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06322304522577,
+          -22.903976345910678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2460,
+        "ponto_id": 50168,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081719896848824,
+          -22.901622810821795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2436,
+        "ponto_id": 50340,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "2322",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,254,255,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09297082239031,
+          -22.898295385004662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2437,
+        "ponto_id": 50392,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "2654",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,254,255,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09550248379794,
+          -22.896443636529746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2497,
+        "ponto_id": 50571,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV LIX DA CUNHA (C X B)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "251,252,254,255,256,257,260,261,263,264,265 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102912670086376,
+          -22.897922106502136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2438,
+        "ponto_id": 50796,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,254,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115611978090755,
+          -22.899265977996947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2439,
+        "ponto_id": 51040,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11982369328604,
+          -22.898138417382096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2616,
+        "ponto_id": 50862,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DAS IMBUIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12072606752505,
+          -22.895653692286626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2617,
+        "ponto_id": 50838,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R RAPHAEL RADAMES PRETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11888582097215,
+          -22.89378874871299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2614,
+        "ponto_id": 50818,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R IZIDORO CALDATTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117533957072176,
+          -22.89421473200066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2615,
+        "ponto_id": 50820,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R CLOTILDE ODOARDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11676661089874,
+          -22.89143223681664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2618,
+        "ponto_id": 50864,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DOS JEQUITIBAS",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11997878908606,
+          -22.890594166334438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2619,
+        "ponto_id": 50896,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DOS JEQUITIBAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121247074414576,
+          -22.888577717475815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2550,
+        "ponto_id": 50944,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R DOS IPES ROXOS",
+        "ende_numero": "217",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12259955687409,
+          -22.88754122792473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2551,
+        "ponto_id": 50964,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12397910692625,
+          -22.88752595667906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2552,
+        "ponto_id": 50984,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": "290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12488288108302,
+          -22.886130294230355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2553,
+        "ponto_id": 51016,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DOS JACARANDAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126349069357765,
+          -22.884958843349764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2554,
+        "ponto_id": 51044,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R JOSE BERTOLDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.128207952506344,
+          -22.88339176964489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2620,
+        "ponto_id": 51076,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R ANDRE BERTOLDI",
+        "ende_numero": "73",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13010322623542,
+          -22.884517960748912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 7306,
+        "ponto_id": 51073,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV MARIA EDNA VILAGELIN ZAKIA",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12956559951622,
+          -22.88694124417084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 7309,
+        "ponto_id": 50963,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.127642367312404,
+          -22.88786465408542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2583,
+        "ponto_id": 50960,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12416050814698,
+          -22.889086493846463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 7311,
+        "ponto_id": 50967,
+        "ptseqlinha": 40.5,
+        "ende_logradouro": "ESTR LUIZ FERNANDO RODRIGUES",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123652425351004,
+          -22.89171159255259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2588,
+        "ponto_id": 50912,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,254,255 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1229994492148,
+          -22.894487560035458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2440,
+        "ponto_id": 51000,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "250,251,252,254,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12488047276353,
+          -22.893833277585514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2441,
+        "ponto_id": 51208,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ACR MANOEL THOMAZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,254,260,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143692951018785,
+          -22.885930962668084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2609,
+        "ponto_id": 51100,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R CINCO (PQ UNIVERSAL)",
+        "ende_numero": "OP 137",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14051409813972,
+          -22.88666207190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2607,
+        "ponto_id": 51104,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R UM ( PQ UNIVERSAL)",
+        "ende_numero": "7",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13745941640305,
+          -22.888022390066066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2608,
+        "ponto_id": 51102,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DOIS (PARQUE UNIVERSAL)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.136308942674845,
+          -22.887445195577477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5570,
+        "ponto_id": 51127,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13725208834996,
+          -22.88436763474215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5572,
+        "ponto_id": 51129,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": "376",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13782542251559,
+          -22.881975770981928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5574,
+        "ponto_id": 51135,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": "112",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138385974048674,
+          -22.879826420784685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5576,
+        "ponto_id": 51131,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R DOIS",
+        "ende_numero": "52",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.138884584327144,
+          -22.877698759961458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2755,
+        "ponto_id": 51172,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA)",
+        "ende_numero": "108",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.139863294245764,
+          -22.874686400546153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2756,
+        "ponto_id": 51300,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DOIS (JD ROSALIA II)",
+        "ende_numero": "4",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,263 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14074630218005,
+          -22.870813309302065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5943,
+        "ponto_id": 51350,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R MANOEL TOMHAZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.142131798239554,
+          -22.871418541094542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5945,
+        "ponto_id": 51353,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "R MANOEL THOMAZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.141743767629535,
+          -22.873099327601263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5947,
+        "ponto_id": 51355,
+        "ptseqlinha": 53.7,
+        "ende_logradouro": "R MANOEL TOMHAZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14134878751942,
+          -22.874902824306155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 5950,
+        "ponto_id": 51359,
+        "ptseqlinha": 53.9,
+        "ende_logradouro": "R MANOEL TOMHAZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "254 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14086651129599,
+          -22.87732870867686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2452,
+        "ponto_id": 51316,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R BOLIVAR LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14316018657803,
+          -22.875451861704725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2453,
+        "ponto_id": 51396,
+        "ptseqlinha": 54.5,
+        "ende_logradouro": "R BOLIVAR LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14493696622369,
+          -22.873832272256934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2454,
+        "ponto_id": 51444,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R ENG GERALDO CALCAGNOLO",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14715269002366,
+          -22.874226621704686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2682,
+        "ponto_id": 51512,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R N SRA DAS DORES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,261,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14928213886514,
+          -22.874408455802186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 7402,
+        "ponto_id": 51333,
+        "ptseqlinha": 56.1,
+        "ende_logradouro": "R BOLIVAR LOPES",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "250,254,261 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14150917116084,
+          -22.876825577803526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2684,
+        "ponto_id": 51640,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15341348058785,
+          -22.87039383277406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2685,
+        "ponto_id": 51772,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "109",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15464515206702,
+          -22.869285968760742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2686,
+        "ponto_id": 51804,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155770750166944,
+          -22.86825052893488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2687,
+        "ponto_id": 51786,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15443226395104,
+          -22.865526311889735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2688,
+        "ponto_id": 51788,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153512847412024,
+          -22.863437193647222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 104,
+        "num_linha": "254",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA",
+        "extensao_m": 22288.9,
+        "ponto_gid": 2707,
+        "ponto_id": 51832,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "TERMINAL PE ANCHIETA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,263,264,265,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15338362102641,
+          -22.861375007607656
+        ]
+      }
+    }
+  ]
+}

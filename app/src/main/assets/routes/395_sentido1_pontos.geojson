@@ -1,0 +1,1437 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 6391,
+        "ponto_id": 610,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,395,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06649682574618,
+          -22.907773212519142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 3677,
+        "ponto_id": 72,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "957",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05930243407126,
+          -22.90621581151629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 2538,
+        "ponto_id": 90044,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,364,366,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053426767393965,
+          -22.913160430164165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4145,
+        "ponto_id": 90072,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "880",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04892875910544,
+          -22.911601444357732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4146,
+        "ponto_id": 90104,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04666908606782,
+          -22.910807593941733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4147,
+        "ponto_id": 90164,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,364,367,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04523754210021,
+          -22.91112684884943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 3002,
+        "ponto_id": 90204,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043547580129506,
+          -22.911054984480234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4656,
+        "ponto_id": 90452,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": "580",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03855776860618,
+          -22.911646441123494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4657,
+        "ponto_id": 90568,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": "790",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03642877231931,
+          -22.912058440024452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4658,
+        "ponto_id": 90628,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03485174010524,
+          -22.91055544942678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4659,
+        "ponto_id": 10456,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DR DOMINGOS ADEMAR BOLDRINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03342111597244,
+          -22.908532670354045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4660,
+        "ponto_id": 10558,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R RAUL FERRARI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02620365795352,
+          -22.91123334548996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4661,
+        "ponto_id": 10574,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R RAUL FERRARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027476030396734,
+          -22.90740185529807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4662,
+        "ponto_id": 10546,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R RAUL FERRARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029156992575274,
+          -22.904998340190538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 755,
+        "ponto_id": 10524,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02986381608543,
+          -22.901036923451546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4663,
+        "ponto_id": 10556,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R MSTO LUIZ DE TULLIO",
+        "ende_numero": "77",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02863280058564,
+          -22.9000089534836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 757,
+        "ponto_id": 10548,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ROTARY",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02922757665786,
+          -22.895337610610635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 1804,
+        "ponto_id": 10664,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV MACKENZIE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02657498960116,
+          -22.894485310688147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 12,
+        "num_linha": "395",
+        "sentido": 1,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 11565.35,
+        "ponto_gid": 4664,
+        "ponto_id": 10724,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R EGBERTO FERREIRA DE ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.010819708547714,
+          -22.88936849913816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4664,
+        "ponto_id": 10724,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R EGBERTO FERREIRA DE ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.010819708547714,
+          -22.88936849913816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4665,
+        "ponto_id": 10732,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R EGBERTO FERREIRA DE ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.009355669295736,
+          -22.89199154215746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4666,
+        "ponto_id": 10752,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R EGBERTO FERREIRA DE ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.006198701889616,
+          -22.89345146562151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4667,
+        "ponto_id": 10768,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R EGBERTO FERREIRA DE ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00267505952081,
+          -22.895280779547235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4668,
+        "ponto_id": 10696,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ANTONIO MARCHILLI",
+        "ende_numero": "252",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01603936019997,
+          -22.89685560393647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4669,
+        "ponto_id": 10704,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANTONIO MARCHILLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01536536806369,
+          -22.894870247672912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4670,
+        "ponto_id": 10700,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R ANTONIO MARCHILLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.016220959578504,
+          -22.892342376522002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4671,
+        "ponto_id": 10680,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV OSWALDO VON ZUBEN",
+        "ende_numero": "1015",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019035747751005,
+          -22.893862521108723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4672,
+        "ponto_id": 10600,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R MARINA VIEIRA DE CARVALHO MESQUITA",
+        "ende_numero": "493",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0252997275019,
+          -22.897269444547597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4673,
+        "ponto_id": 10552,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R MSTO LUIZ DE TULLIO",
+        "ende_numero": "52",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02860522482627,
+          -22.900363178245097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 760,
+        "ponto_id": 10516,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03011472627088,
+          -22.898898495017583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 761,
+        "ponto_id": 10500,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "2702",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030166766640995,
+          -22.901141478953594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 762,
+        "ponto_id": 10496,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "PC ORLANDO CATALANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03080302697153,
+          -22.90234734676902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4660,
+        "ponto_id": 10558,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R RAUL FERRARI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02620365795352,
+          -22.91123334548996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4661,
+        "ponto_id": 10574,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R RAUL FERRARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027476030396734,
+          -22.90740185529807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4662,
+        "ponto_id": 10546,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R RAUL FERRARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029156992575274,
+          -22.904998340190538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4674,
+        "ponto_id": 10526,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R UMBERTO PRIMEIRO TONTOLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03038217627428,
+          -22.90705848481782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4675,
+        "ponto_id": 10480,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR DOMINGOS ADEMAR BOLDRINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03222588106727,
+          -22.90630796804717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4676,
+        "ponto_id": 10446,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR DOMINGOS ADEMAR BOLDRINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.033615376791495,
+          -22.908443653127435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4677,
+        "ponto_id": 90612,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03512773398113,
+          -22.910489438996848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4678,
+        "ponto_id": 90564,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": "764",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03642680456939,
+          -22.911851453096876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4679,
+        "ponto_id": 90444,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": "581",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03852676293431,
+          -22.91138448553265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 3027,
+        "ponto_id": 90276,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04208878426642,
+          -22.910677421299127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4140,
+        "ponto_id": 90172,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R CONDE 'EU",
+        "ende_numero": "1494",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04432475830681,
+          -22.910348473418473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4141,
+        "ponto_id": 90120,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R BR DE PARANAPANEMA",
+        "ende_numero": "146",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04561376488455,
+          -22.90934746514478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4142,
+        "ponto_id": 90080,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R URUGUAIANA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0467487868607,
+          -22.909392426091248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 4143,
+        "ponto_id": 90068,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R URUGUAIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048139786692005,
+          -22.90991743493455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 574,
+        "ponto_id": 676,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "391",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,349,367,385,389,395,397,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05657036676691,
+          -22.910620998767484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 5198,
+        "ponto_id": 64,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,219,220,249,348,377,382,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313967370005,
+          -22.901396209311446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 5932,
+        "ponto_id": 482,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV VINTE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "353,356,369,375,391,392,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0646506666756,
+          -22.9088951365676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 384,
+        "num_linha": "395",
+        "sentido": 2,
+        "nome_linha": "NOTRE DAME",
+        "extensao_m": 15461.08,
+        "ponto_gid": 6391,
+        "ponto_id": 610,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,395,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06649682574618,
+          -22.907773212519142
+        ]
+      }
+    }
+  ]
+}

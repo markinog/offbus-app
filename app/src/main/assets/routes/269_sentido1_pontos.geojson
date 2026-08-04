@@ -1,0 +1,612 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2707,
+        "ponto_id": 51832,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL PE ANCHIETA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,263,264,265,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15338362102641,
+          -22.861375007607656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2689,
+        "ponto_id": 51792,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152366834974885,
+          -22.861078180084817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2690,
+        "ponto_id": 51800,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "196",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151646883913166,
+          -22.859529231007745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2708,
+        "ponto_id": 51836,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JOAO MENDONCA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15149707111967,
+          -22.857723557645254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2709,
+        "ponto_id": 51848,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R AUGUSTO PADOVANI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15139231097169,
+          -22.855963510145543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 5656,
+        "ponto_id": 51395,
+        "ptseqlinha": 5.5,
+        "ende_logradouro": "ROD DOM PEDRO I",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13389931111521,
+          -22.855986856649256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2810,
+        "ponto_id": 40352,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10933644884669,
+          -22.85675404865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 2784,
+        "ponto_id": 30908,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AC MARG ROD DOM PEDRO I (SP-65)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,314,319,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08885371458188,
+          -22.847132313641904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 158,
+        "num_linha": "269",
+        "sentido": 1,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 12714.04,
+        "ponto_gid": 836,
+        "ponto_id": 31000,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798209378233,
+          -22.833758536871564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 1768,
+        "ponto_id": 31092,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079725431534946,
+          -22.83060160649761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 838,
+        "ponto_id": 30996,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0800241053195,
+          -22.833864868431455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2808,
+        "ponto_id": 30924,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AC MARG ROD DOM PEDRO I (SP-65)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,269,314,319,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08859670969997,
+          -22.846059294691983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2809,
+        "ponto_id": 30926,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AC MARG ROD DOM PEDRO I (SP-65)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,269,314,319,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098094392012506,
+          -22.847326010990958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2781,
+        "ponto_id": 40472,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R ORLANDO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "269,314,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117870221107495,
+          -22.84949399659216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 3194,
+        "ponto_id": 40528,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "274",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,312,314,317,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119475018241374,
+          -22.847828840119156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2782,
+        "ponto_id": 40504,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "31",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,312,314,317,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11990671446118,
+          -22.84963464436924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2783,
+        "ponto_id": 40348,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109484793158884,
+          -22.85691432833283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 7389,
+        "ponto_id": 51391,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R RONALD CLADSTONE NEGRI",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12847519887929,
+          -22.854157471701633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 7390,
+        "ponto_id": 51399,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R RONALD CLADSTONE NEGRI",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13449440042407,
+          -22.855496273684082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 5655,
+        "ponto_id": 51393,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R RONALD CLADSTONE NEGRI",
+        "ende_numero": "375",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13691176885721,
+          -22.85586127799319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2721,
+        "ponto_id": 51708,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DOM ALO_SIO LORSCHEIDER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,263,264,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148796731764726,
+          -22.860239254128736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2722,
+        "ponto_id": 51776,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R D ALOISIO LORSCHEIDER",
+        "ende_numero": "91",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "261,264,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15027003416135,
+          -22.858992465349363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2636,
+        "ponto_id": 51816,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "56",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,263,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15168237793658,
+          -22.85905130726812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 233,
+        "num_linha": "269",
+        "sentido": 2,
+        "nome_linha": "TERMINAL PADRE ANCHIETA/TERMINAL BARAO GERALDO",
+        "extensao_m": 16834.24,
+        "ponto_gid": 2707,
+        "ponto_id": 51832,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "TERMINAL PE ANCHIETA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,261,263,264,265,266,269,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15338362102641,
+          -22.861375007607656
+        ]
+      }
+    }
+  ]
+}

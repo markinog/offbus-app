@@ -1,0 +1,1562 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3986,
+        "ponto_id": 21212,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R JACARANDA VIOLETA",
+        "ende_numero": "279",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03243564551545,
+          -22.850019541340846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3987,
+        "ponto_id": 21180,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R IPE DA VARZEA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031952581011915,
+          -22.851978024375214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3988,
+        "ponto_id": 21112,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R BRUNA VENTURA DI GRAZIA",
+        "ende_numero": "90",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034752729142696,
+          -22.853065876997825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3989,
+        "ponto_id": 21114,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R LUIZ MORETZSHON CAMARGO",
+        "ende_numero": "1000",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03698249936127,
+          -22.853330398912547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3045,
+        "ponto_id": 21020,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038874615467954,
+          -22.854783904766172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3046,
+        "ponto_id": 20984,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "734",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0379299378298,
+          -22.856252566058107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3047,
+        "ponto_id": 20940,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03690857554302,
+          -22.85837505100894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3048,
+        "ponto_id": 20876,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "1236",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03686236304447,
+          -22.86060539186527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3049,
+        "ponto_id": 20860,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV. DIOGO ALVARES",
+        "ende_numero": "141",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03695670029368,
+          -22.86213642515772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3990,
+        "ponto_id": 20869,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R MOSCOU",
+        "ende_numero": "353",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03317927671739,
+          -22.86399370532931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3991,
+        "ponto_id": 20590,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": "1737",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03467911185049,
+          -22.871481626210855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3057,
+        "ponto_id": 20484,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03747001856519,
+          -22.87245432395423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3058,
+        "ponto_id": 20428,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R LEONARDO DA VINCI",
+        "ende_numero": "1165",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03846844956479,
+          -22.874490507011615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3059,
+        "ponto_id": 20400,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MARIA AUGUSTA DE CARVALHO REIS",
+        "ende_numero": "28",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038917698759064,
+          -22.875624469411665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3992,
+        "ponto_id": 20304,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R CON PEDRO BONHOMME",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04018884031289,
+          -22.87773652075732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3993,
+        "ponto_id": 20228,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R CON PEDRO BONHOMME",
+        "ende_numero": "1883",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04102903187628,
+          -22.88084627175346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3994,
+        "ponto_id": 20192,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": "1385",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04485670839124,
+          -22.881747459406338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3995,
+        "ponto_id": 20152,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": "1097",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04708772637391,
+          -22.883359401814968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3996,
+        "ponto_id": 20124,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": "935",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04856272966214,
+          -22.884086381746293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3997,
+        "ponto_id": 20100,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04951274940005,
+          -22.884995440509364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3998,
+        "ponto_id": 20068,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR ANTONIO DE CASTRO PRADO",
+        "ende_numero": "407",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05209071281103,
+          -22.886286400965464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 3999,
+        "ponto_id": 20060,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DR ANTONIO DE CASTRO PRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05396308071694,
+          -22.886004106053402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 2106,
+        "ponto_id": 712,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R MAJOR SOLON",
+        "ende_numero": "850",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058037876230784,
+          -22.891084232967252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 566,
+        "ponto_id": 324,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R MAJ SOLON",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058651325684366,
+          -22.89486657593452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 567,
+        "ponto_id": 216,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636459139415,
+          -22.89759761810051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 568,
+        "ponto_id": 204,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05533635544883,
+          -22.899341399579587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 286,
+        "num_linha": "355",
+        "sentido": 1,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 10770.78,
+        "ponto_gid": 2109,
+        "ponto_id": 96,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "352,355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313240634584,
+          -22.903937974001497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 2109,
+        "ponto_id": 96,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "352,355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313240634584,
+          -22.903937974001497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 6048,
+        "ponto_id": 266,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,352,353,355,356,369,375,385,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05803446057681,
+          -22.90725317882054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 3984,
+        "ponto_id": 20032,
+        "ptseqlinha": 42.5,
+        "ende_logradouro": "R CASTRO MENDES",
+        "ende_numero": "68",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05631858576159,
+          -22.886847735108994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4002,
+        "ponto_id": 20036,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055006156459555,
+          -22.88693639192936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4003,
+        "ponto_id": 20048,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05107061356942,
+          -22.886683257209334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4004,
+        "ponto_id": 20092,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049363403582525,
+          -22.885260712362086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4005,
+        "ponto_id": 20132,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0478931215348,
+          -22.88396591001488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4006,
+        "ponto_id": 20160,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R ARY BARROSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046551063685335,
+          -22.883208412646823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 3985,
+        "ponto_id": 20232,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R CON PEDRO BONHOMME",
+        "ende_numero": "1844",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040592524523454,
+          -22.880752448684987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4007,
+        "ponto_id": 20320,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R COM PEDRO BONHOMME",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03955108212475,
+          -22.877120686266572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4008,
+        "ponto_id": 20364,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ANALANDIA",
+        "ende_numero": "27",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,355,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040039744601415,
+          -22.876074368783673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 2970,
+        "ponto_id": 20436,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R LEONARDO DA VINCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038245260905065,
+          -22.87410933996884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 2971,
+        "ponto_id": 20496,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R ARLINDO CARPINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037010830857064,
+          -22.872607725113106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4001,
+        "ponto_id": 20498,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DONA LUIZA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0343255189606,
+          -22.87143613465687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4000,
+        "ponto_id": 20894,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R MOSCOU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03396917004082,
+          -22.86623673992383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4009,
+        "ponto_id": 20896,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R MOSCOU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03173638328187,
+          -22.862596360189944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4010,
+        "ponto_id": 21088,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R MOSCOU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03068102588152,
+          -22.85918720162064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4011,
+        "ponto_id": 21084,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R MOSCOU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03103449069916,
+          -22.855366790490578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 4012,
+        "ponto_id": 21136,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R MOSCOU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030909981776624,
+          -22.853319456119905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 7629,
+        "ponto_id": 21201,
+        "ptseqlinha": 58.2,
+        "ende_logradouro": "R COMEND HERCULANO GRACIOLI",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03038535104387,
+          -22.851105093237326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 7628,
+        "ponto_id": 21202,
+        "ptseqlinha": 58.4,
+        "ende_logradouro": "R COMEND HERCULANO GRACIOLI",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03080725982997,
+          -22.849743897893166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 5364,
+        "ponto_id": 21209,
+        "ptseqlinha": 58.8,
+        "ende_logradouro": "AV DAS ALAMANDAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.021927049029586,
+          -22.855928365751048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 115,
+        "num_linha": "355",
+        "sentido": 2,
+        "nome_linha": "VILA GENESIS (INCLUSIVO)",
+        "extensao_m": 11295.2,
+        "ponto_gid": 3986,
+        "ponto_id": 21212,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R JACARANDA VIOLETA",
+        "ende_numero": "279",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "355 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03243564551545,
+          -22.850019541340846
+        ]
+      }
+    }
+  ]
+}

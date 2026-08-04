@@ -1,0 +1,2162 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3297,
+        "ponto_id": 31068,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,329.1 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07957249959301,
+          -22.83081985936514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3333,
+        "ponto_id": 31172,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1226",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079104443571644,
+          -22.827572904821405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3334,
+        "ponto_id": 31272,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "62",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07913195535006,
+          -22.824588366566704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3335,
+        "ponto_id": 31336,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07671564883042,
+          -22.82230332334916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3336,
+        "ponto_id": 31424,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07466216886957,
+          -22.82042166625413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3337,
+        "ponto_id": 31480,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07320060253941,
+          -22.81893031906354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3536,
+        "ponto_id": 31516,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07265962600614,
+          -22.816457379430457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3537,
+        "ponto_id": 31580,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": "800",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07141933510776,
+          -22.81420207530807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3538,
+        "ponto_id": 31584,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06938664395298,
+          -22.813943295752622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3539,
+        "ponto_id": 31544,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06708364488567,
+          -22.81509334586882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3540,
+        "ponto_id": 31500,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06632964317149,
+          -22.816845383172364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3541,
+        "ponto_id": 31440,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066976632500506,
+          -22.819117367024255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3542,
+        "ponto_id": 31356,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MONTEIRO LOBATO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06813561385273,
+          -22.82098438571838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1780,
+        "ponto_id": 31228,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ROXO MOREIRA",
+        "ende_numero": "1768",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06745762772203,
+          -22.82486239434844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3548,
+        "ponto_id": 21120,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04307932731359,
+          -22.84872304542179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1781,
+        "ponto_id": 31152,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06772463367872,
+          -22.827042341812163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1782,
+        "ponto_id": 31124,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06683061355144,
+          -22.82824536774697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 2788,
+        "ponto_id": 31120,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06454168498407,
+          -22.828495882194623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 2789,
+        "ponto_id": 31136,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063314825630854,
+          -22.827956922851403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 2790,
+        "ponto_id": 31128,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066465642306824,
+          -22.828157386822213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1781,
+        "ponto_id": 31152,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06772463367872,
+          -22.827042341812163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1782,
+        "ponto_id": 31124,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06683061355144,
+          -22.82824536774697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1783,
+        "ponto_id": 30988,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631426048202,
+          -22.83170739113519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1784,
+        "ponto_id": 30956,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057354628663234,
+          -22.83482841680711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1785,
+        "ponto_id": 30944,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "191",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05476164618748,
+          -22.836152365031733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3941,
+        "ponto_id": 30964,
+        "ptseqlinha": 25.3,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05139419436625,
+          -22.83459972574081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3923,
+        "ponto_id": 30968,
+        "ptseqlinha": 25.5,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051307045034235,
+          -22.834102230828204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1786,
+        "ponto_id": 30940,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "42",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053409385622786,
+          -22.83639704665756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1787,
+        "ponto_id": 30948,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "276",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05488563985324,
+          -22.835700537979207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1788,
+        "ponto_id": 30960,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "492",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05739015433185,
+          -22.83442910075574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1769,
+        "ponto_id": 30784,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,339,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06052439037364,
+          -22.847769160104214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 1770,
+        "ponto_id": 30664,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,329,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06072547192748,
+          -22.852327963075588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3543,
+        "ponto_id": 30832,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV RICARDO ROCHA BOMFIM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0579327311304,
+          -22.84655381283885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3535,
+        "ponto_id": 30858,
+        "ptseqlinha": 31.5,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "1265",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05527503120339,
+          -22.845553276870277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3544,
+        "ponto_id": 30854,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "1101",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05220664501106,
+          -22.845909753558484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3545,
+        "ponto_id": 30852,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "851",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04963193983343,
+          -22.846272905614267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3546,
+        "ponto_id": 21192,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "515",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04640067950792,
+          -22.846517435716162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3547,
+        "ponto_id": 21172,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044368610200294,
+          -22.847518398616298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3549,
+        "ponto_id": 21108,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R LUIZ OTAVIO",
+        "ende_numero": "1281",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04333080881286,
+          -22.851538307900192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 5933,
+        "ponto_id": 21111,
+        "ptseqlinha": 37.1,
+        "ende_logradouro": "R LUIZ OTAVIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044302036091445,
+          -22.854107849471394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3522,
+        "ponto_id": 21148,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV FRANCISCO XAVIER ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042028253468835,
+          -22.850090381353795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 362,
+        "num_linha": "329",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 19152.08,
+        "ponto_gid": 3802,
+        "ponto_id": 21184,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039033008284605,
+          -22.848832285079784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3802,
+        "ponto_id": 21184,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039033008284605,
+          -22.848832285079784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3524,
+        "ponto_id": 21100,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039259627217405,
+          -22.85186838919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2982,
+        "ponto_id": 21048,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04070248814726,
+          -22.853186223401956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2983,
+        "ponto_id": 20972,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": "577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04281458787823,
+          -22.8549734863199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2984,
+        "ponto_id": 20908,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": "12",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04511609301711,
+          -22.8561203625999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2985,
+        "ponto_id": 20980,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R IZABEL NEGRAO BERTOTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,339,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04545643334974,
+          -22.85384444579937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3551,
+        "ponto_id": 21124,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04292089728427,
+          -22.848739253301655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3552,
+        "ponto_id": 21188,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R LAURO VANNUCCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04441730935581,
+          -22.847234563490517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3924,
+        "ponto_id": 30800,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R OLGA DI GIORGIO GERACCI",
+        "ende_numero": "295",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052292323799996,
+          -22.847865649878646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3553,
+        "ponto_id": 30752,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05383983557804,
+          -22.849358327522257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2988,
+        "ponto_id": 30700,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ADELINO MARTINS",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05361200280537,
+          -22.85249804563441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2989,
+        "ponto_id": 30604,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R ALVARO BOSCO",
+        "ende_numero": "157",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05362350898847,
+          -22.854375900730894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 530,
+        "ponto_id": 30620,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05821929817237,
+          -22.85339394831159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 5255,
+        "ponto_id": 30688,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,329.1,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060185667091915,
+          -22.852135099303485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 1767,
+        "ponto_id": 30780,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,339,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05999265642404,
+          -22.847756412872414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 1784,
+        "ponto_id": 30956,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057354628663234,
+          -22.83482841680711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 1785,
+        "ponto_id": 30944,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "191",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05476164618748,
+          -22.836152365031733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3941,
+        "ponto_id": 30964,
+        "ptseqlinha": 62.3,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05139419436625,
+          -22.83459972574081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 3923,
+        "ponto_id": 30968,
+        "ptseqlinha": 62.5,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051307045034235,
+          -22.834102230828204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 1786,
+        "ponto_id": 30940,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "42",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053409385622786,
+          -22.83639704665756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 1787,
+        "ponto_id": 30948,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "276",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05488563985324,
+          -22.835700537979207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 1788,
+        "ponto_id": 30960,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV JOSE PROSPERO JACOBUCCI",
+        "ende_numero": "492",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210E,266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05739015433185,
+          -22.83442910075574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2787,
+        "ponto_id": 30992,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06293976961592,
+          -22.831482283332974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2788,
+        "ponto_id": 31120,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06454168498407,
+          -22.828495882194623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2789,
+        "ponto_id": 31136,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R VITAL BRASIL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063314825630854,
+          -22.827956922851403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2790,
+        "ponto_id": 31128,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV ADOLFO LUTZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,332,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066465642306824,
+          -22.828157386822213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2791,
+        "ponto_id": 31220,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV OSVALDO CRUZ (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,336,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066453567176005,
+          -22.825192757946024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2792,
+        "ponto_id": 31236,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV MARTIN LUTHER KING (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06760631580193,
+          -22.824288542404645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2793,
+        "ponto_id": 31296,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV MARTIN LUTHER KING",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06922564139869,
+          -22.82200736233521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2794,
+        "ponto_id": 31320,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV ALBERT EINSTEIN",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06734886550412,
+          -22.821309945503696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2795,
+        "ponto_id": 31496,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06605785544625,
+          -22.81685721382456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2796,
+        "ponto_id": 31552,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "266,329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06684502521816,
+          -22.81501689142368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2797,
+        "ponto_id": 31600,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R BERTRAND RUSSELL (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06938758924016,
+          -22.813761369848415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2798,
+        "ponto_id": 31596,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07172457910895,
+          -22.81401835981541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2799,
+        "ponto_id": 31520,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV ERICO VERISSIMO (UNICAMP)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,330,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073021616498174,
+          -22.816488330017258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2800,
+        "ponto_id": 31484,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "939",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0733166318091,
+          -22.818448352546394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2801,
+        "ponto_id": 31432,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0752946733747,
+          -22.820419295337366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2802,
+        "ponto_id": 31376,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": "399",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07699185970501,
+          -22.822053078783068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2803,
+        "ponto_id": 31280,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV PROF ATILIO MARTINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07952165498369,
+          -22.824390352265247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 80,
+        "num_linha": "329",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 18579.03,
+        "ponto_gid": 2804,
+        "ponto_id": 31184,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1249",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,322,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07935969139741,
+          -22.82748633489524
+        ]
+      }
+    }
+  ]
+}

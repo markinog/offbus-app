@@ -1,0 +1,1887 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2191,
+        "ponto_id": 60428,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R VICENTE BELLOCHIO",
+        "ende_numero": "85",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108466700205696,
+          -22.906309743964837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2192,
+        "ponto_id": 60460,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PE MANOEL DA NOBREGA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11114809869406,
+          -22.905808658377982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 6022,
+        "ponto_id": 60686,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PROF EUCLIDES VAZ DE CAMPOS FILHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10957444745917,
+          -22.90330992969976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 7313,
+        "ponto_id": 60450,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10975005912544,
+          -22.901036717515364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2812,
+        "ponto_id": 50716,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ANTONIO NUNES DOS SANTOS",
+        "ende_numero": "353",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108205159294684,
+          -22.901348183934857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2813,
+        "ponto_id": 50688,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R REV ISRAEL VIEIRA FERREIRA",
+        "ende_numero": "73",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10679286840644,
+          -22.90196797756214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2814,
+        "ponto_id": 50664,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JAMES GOY HUGHES",
+        "ende_numero": "111",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10602845933699,
+          -22.900787364858736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2815,
+        "ponto_id": 50656,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ANTONIO NUNES DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105293357293114,
+          -22.90018042364789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2816,
+        "ponto_id": 50596,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ANTONIO NUNES DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103631793457886,
+          -22.89985062337803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2817,
+        "ponto_id": 50544,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R MARIO THOMAZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10199135567915,
+          -22.900134864425436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2818,
+        "ponto_id": 50604,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": "640",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10391086275168,
+          -22.901670352030315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2819,
+        "ponto_id": 50640,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": "830",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10506112021856,
+          -22.902949857733994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2820,
+        "ponto_id": 50632,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DANTE SURIANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10458382431312,
+          -22.90510831958165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2821,
+        "ponto_id": 50572,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DANTE SURIANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10291983576651,
+          -22.905323372237113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2822,
+        "ponto_id": 50528,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R COMEND DE JERONIMO DE CAMPOS FREIRE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10164909430055,
+          -22.903739480768426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2823,
+        "ponto_id": 50504,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R COMEND DE JERONIMO DE CAMPOS FREIRE",
+        "ende_numero": "162",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10028916208439,
+          -22.902040117659396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2824,
+        "ponto_id": 50488,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R OSVALDO SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10034448961938,
+          -22.90089448553564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2825,
+        "ponto_id": 50480,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": "187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09953833503483,
+          -22.8995392412856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2826,
+        "ponto_id": 50444,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0972045909303,
+          -22.900076976224312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2296,
+        "ponto_id": 50380,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095446985420466,
+          -22.90185887139652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2297,
+        "ponto_id": 50324,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09235286157278,
+          -22.901426599999684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2364,
+        "ponto_id": 50272,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09016088411162,
+          -22.901229129446083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 5581,
+        "ponto_id": 50262,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R IRMA MARIA DE SANTA PAULA TERRIER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08940342786265,
+          -22.89989126602456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2827,
+        "ponto_id": 50210,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R MAJOR LUCIANO TEIXEIRA",
+        "ende_numero": "373",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085889860783475,
+          -22.899694115062964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2852,
+        "ponto_id": 50116,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R MAJOR LUCIANO TEIXEIRA",
+        "ende_numero": "31",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08257886673229,
+          -22.900544371316933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 1866,
+        "ponto_id": 762,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R LUIZ DONIZETTI ROVARIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,250,256,257,271,381,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07124790725115,
+          -22.907271213285277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 5929,
+        "ponto_id": 299,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,271,356,362,369,375,381,385,386,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0632243850134,
+          -22.907200682909693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 7433,
+        "ponto_id": 357,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "600",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "271,380,381,382,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06056321327232,
+          -22.90634344656026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2775,
+        "ponto_id": 92,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "114",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,271,364,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05830170943649,
+          -22.905194363438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2776,
+        "ponto_id": 188,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,271,364,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05585282204493,
+          -22.904112663335265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 1792,
+        "ponto_id": 348,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "778",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,271,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052512754648674,
+          -22.902600432056975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2828,
+        "ponto_id": 10024,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R MARIA MONTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271,381,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05063407296721,
+          -22.900948694853888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 1817,
+        "ponto_id": 10028,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R MARIA MONTEIRO",
+        "ende_numero": "740",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,271,381,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05157637212414,
+          -22.897426237592395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 1818,
+        "ponto_id": 10052,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R MARIA MONTEIRO",
+        "ende_numero": "1096",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,271,381,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05249693308313,
+          -22.89475191291985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2829,
+        "ponto_id": 10056,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R SANTOS DUMONT",
+        "ende_numero": "535",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05463379045597,
+          -22.893144404366968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2830,
+        "ponto_id": 628,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R SANTOS DUMONT",
+        "ende_numero": "373",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055970072533746,
+          -22.89299206228465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 1791,
+        "ponto_id": 344,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R OLAVO BILAC",
+        "ende_numero": "101",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,220,244,271,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05692676321945,
+          -22.89510332403905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 567,
+        "ponto_id": 216,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636459139415,
+          -22.89759761810051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 568,
+        "ponto_id": 204,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05533635544883,
+          -22.899341399579587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 390,
+        "num_linha": "271",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 14129.09,
+        "ponto_gid": 2885,
+        "ponto_id": 124,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063222230669886,
+          -22.904343604615185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2885,
+        "ponto_id": 124,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063222230669886,
+          -22.904343604615185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2328,
+        "ponto_id": 738,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "233",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,245,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07064138479209,
+          -22.90533570326467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2111,
+        "ponto_id": 704,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "136",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,245,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07311216884708,
+          -22.90333568965631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 1903,
+        "ponto_id": 50022,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "442",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07567378599286,
+          -22.90207793706982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 1904,
+        "ponto_id": 50036,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "638",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07820392019202,
+          -22.90128082958847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2112,
+        "ponto_id": 50088,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08105245898399,
+          -22.90004220417862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2541,
+        "ponto_id": 50140,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "1284",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083415773546946,
+          -22.899225355337062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2832,
+        "ponto_id": 50206,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0856586540267,
+          -22.899048772464706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 5580,
+        "ponto_id": 50261,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R IRMA MARIA DE SANTA PAULA TERRIER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089606171088136,
+          -22.899943678438934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2366,
+        "ponto_id": 50292,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09064018128705,
+          -22.901049127463796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2312,
+        "ponto_id": 50332,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": "351",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "242,245,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0924485779514,
+          -22.901216693863415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2313,
+        "ponto_id": 50372,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DA LICINIA TEIXEIRA DE SOUZA",
+        "ende_numero": "600",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "242,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09485577393989,
+          -22.901753550945962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2833,
+        "ponto_id": 50436,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV JOSE PANCETTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09712849153142,
+          -22.899897196557706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2834,
+        "ponto_id": 50484,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09978984259281,
+          -22.89932232027428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2835,
+        "ponto_id": 50492,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R OSVALDO SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10059942148036,
+          -22.90072762199257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2836,
+        "ponto_id": 50500,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R COMEND DE JERONIMO DE CAMPOS FREIRE",
+        "ende_numero": "129",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10045923797505,
+          -22.901957521808196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2837,
+        "ponto_id": 50532,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R COMEND DE JERONIMO DE CAMPOS FREIRE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10176981889934,
+          -22.903416766244305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2838,
+        "ponto_id": 50568,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R DANTE SURIANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102864866350814,
+          -22.905167378330972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2839,
+        "ponto_id": 50628,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R DANTE SURIANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1045188797944,
+          -22.904903053537144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2840,
+        "ponto_id": 50644,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105142007539705,
+          -22.903220750236404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2841,
+        "ponto_id": 50588,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": "563",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10349220448966,
+          -22.90162777846233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2842,
+        "ponto_id": 50540,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV PE GASPAR BERTONI",
+        "ende_numero": "419",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10181582964738,
+          -22.90052583170303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2843,
+        "ponto_id": 50560,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R ANTONIO NUNES DOS SANTOS",
+        "ende_numero": "933",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102154336169534,
+          -22.899498417794547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2844,
+        "ponto_id": 50600,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ANTONIO NUNES DOS SANTOS",
+        "ende_numero": "765",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1038130021046,
+          -22.8997241824824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2845,
+        "ponto_id": 50648,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ANTONIO NUNES DOS SANTOS",
+        "ende_numero": "637",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10546288203686,
+          -22.900057295487553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2846,
+        "ponto_id": 50672,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R JAMES GOY HUGHES",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10621389659394,
+          -22.90056535176937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2847,
+        "ponto_id": 50692,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R REV ISRAEL VIEIRA FERREIRA",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10689482539816,
+          -22.901830010868924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 7314,
+        "ponto_id": 60458,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "SEM DENOMINACAO",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109888050891115,
+          -22.901206495658617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 7315,
+        "ponto_id": 60694,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R PROF EUCLIDES VAZ DE CAMPOS FILHO",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10973969191737,
+          -22.903129187868874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2236,
+        "ponto_id": 60448,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV PE MANOEL DA NOBREGA",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "240,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11092697580816,
+          -22.90615001750574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 4,
+        "num_linha": "271",
+        "sentido": 2,
+        "nome_linha": "PADRE ANCHIETA",
+        "extensao_m": 9800.97,
+        "ponto_gid": 2191,
+        "ponto_id": 60428,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R VICENTE BELLOCHIO",
+        "ende_numero": "85",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,271 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108466700205696,
+          -22.906309743964837
+        ]
+      }
+    }
+  ]
+}

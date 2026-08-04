@@ -1,0 +1,3512 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3217,
+        "ponto_id": 80600,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R MERCEDEZ PEREIRA BUENO",
+        "ende_numero": "151",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09464325813979,
+          -22.96530820656186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3218,
+        "ponto_id": 80580,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "400",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0945521685314,
+          -22.964875899054714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 5859,
+        "ponto_id": 80568,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "568",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093258831375664,
+          -22.964928913793635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3219,
+        "ponto_id": 80536,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JOAQUIM DE FARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09141772388477,
+          -22.96422720540237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3220,
+        "ponto_id": 80504,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R WALMIR JOSE PEREZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09214814804368,
+          -22.962979142508626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3221,
+        "ponto_id": 80552,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R WALMIR JOSE PEREZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0947798702102,
+          -22.962814208503886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3222,
+        "ponto_id": 80532,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R MIGUEL JOAO JORGE",
+        "ende_numero": "380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486569908942,
+          -22.962388681094193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3223,
+        "ponto_id": 80492,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R GUILHERMINO F SANTOS FILHO",
+        "ende_numero": "177",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09468096817881,
+          -22.96057537592548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3224,
+        "ponto_id": 80464,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R HELIO TOZZI",
+        "ende_numero": "174",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094570942887955,
+          -22.958835381159414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3225,
+        "ponto_id": 80460,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09354615041546,
+          -22.959155605504876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3226,
+        "ponto_id": 80444,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "534",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090526968219365,
+          -22.959395391677504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3227,
+        "ponto_id": 80436,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "690",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08881098252649,
+          -22.9594423839007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3228,
+        "ponto_id": 80388,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088065950243546,
+          -22.957719410851983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3229,
+        "ponto_id": 80344,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": "359",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087203504777264,
+          -22.95571053453575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3230,
+        "ponto_id": 80364,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08882792492612,
+          -22.95589235846335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3231,
+        "ponto_id": 80396,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": "154",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0898679114031,
+          -22.95711040082925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3232,
+        "ponto_id": 80384,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R PASCHOAL CURCIO",
+        "ende_numero": "287",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091140921168595,
+          -22.956294390587765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3233,
+        "ponto_id": 80416,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R PASCHOAL CURCIO",
+        "ende_numero": "91",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092282619893695,
+          -22.95603655123197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3234,
+        "ponto_id": 80356,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ANTON VON ZUBEM",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0927255135243,
+          -22.953725585994405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3235,
+        "ponto_id": 80304,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ANTON VON ZUBEM",
+        "ende_numero": "2751",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09165214351859,
+          -22.951413478349668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3236,
+        "ponto_id": 80252,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV ANTON VON ZUBEM",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09086847970289,
+          -22.949718109238738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3237,
+        "ponto_id": 80188,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV ANTON VON ZUBEM",
+        "ende_numero": "2155",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08937127578164,
+          -22.946617576454873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3238,
+        "ponto_id": 70892,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "1089",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090193605914536,
+          -22.943600317792807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3239,
+        "ponto_id": 70840,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09034049045383,
+          -22.941920663313923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3240,
+        "ponto_id": 70776,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090389457348785,
+          -22.940345847276692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3241,
+        "ponto_id": 70708,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "487",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09068320209516,
+          -22.93815247329802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 4834,
+        "ponto_id": 70740,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DAS TULIPAS",
+        "ende_numero": "171",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09325364046907,
+          -22.9373360955397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 4835,
+        "ponto_id": 70680,
+        "ptseqlinha": 27.5,
+        "ende_logradouro": "R DAS VIOLETAS",
+        "ende_numero": "207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09256886932443,
+          -22.935470384045377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3243,
+        "ponto_id": 70628,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09195201334471,
+          -22.934637970952842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 581,
+        "ponto_id": 70488,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3341",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08954756337886,
+          -22.93237290914576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 7518,
+        "ponto_id": 70489,
+        "ptseqlinha": 29.4,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08633590732985,
+          -22.930579353730543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 29.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 5926,
+        "ponto_id": 70181,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08190582713767,
+          -22.925916814487618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 5527,
+        "ponto_id": 70184,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07948593395305,
+          -22.92351447154542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 584,
+        "ponto_id": 70156,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07782620199902,
+          -22.922015499649664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 585,
+        "ponto_id": 70084,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07408195298589,
+          -22.919479249835813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 586,
+        "ponto_id": 70020,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068293751386115,
+          -22.91551108842579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 587,
+        "ponto_id": 70008,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2045",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06579910500191,
+          -22.915123677347065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 5474,
+        "ponto_id": 90023,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ESTACAO BRS JOAO JORGE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06340202295382,
+          -22.91280493283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 6050,
+        "ponto_id": 402,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "VD MIGUEL VICENTE CURY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259567527385,
+          -22.908513288351152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 976,
+        "ponto_id": 480,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": "152",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06461739357475,
+          -22.908217180333725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 6213,
+        "ponto_id": 317,
+        "ptseqlinha": 37.5,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "427",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064281330374065,
+          -22.906100515220594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 2717,
+        "ponto_id": 314,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "651",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0617827423814,
+          -22.905035974726985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3102,
+        "ponto_id": 52,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,331,332,345,348,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05745407928806,
+          -22.903131218528834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 2344,
+        "ponto_id": 40028,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "628",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0645493455123,
+          -22.889400837194056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3103,
+        "ponto_id": 40060,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "800",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066089765594896,
+          -22.88802184671398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3104,
+        "ponto_id": 40104,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068472994129294,
+          -22.88590630383711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3105,
+        "ponto_id": 40136,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1524",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07090552595766,
+          -22.88365015439397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3106,
+        "ponto_id": 40200,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1882",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07258835453573,
+          -22.88102105607627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3107,
+        "ponto_id": 40220,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073945406515556,
+          -22.879225675731732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3108,
+        "ponto_id": 40236,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2340",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07557660814994,
+          -22.8772512046976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3109,
+        "ponto_id": 40252,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078947314768364,
+          -22.875440840814132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3110,
+        "ponto_id": 40260,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09385982655915,
+          -22.869304352603834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 5416,
+        "ponto_id": 40262,
+        "ptseqlinha": 51.5,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": "2430",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099649115755646,
+          -22.866198089392025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3111,
+        "ponto_id": 40264,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10196281153491,
+          -22.864327483863143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3112,
+        "ponto_id": 40272,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10439521408799,
+          -22.861863506546378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3113,
+        "ponto_id": 40288,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10681348535931,
+          -22.85926507972251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 2810,
+        "ponto_id": 40352,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10933644884669,
+          -22.85675404865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3114,
+        "ponto_id": 40460,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R FILINTO DE ALMEIDA",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11791883035135,
+          -22.850186112632915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3195,
+        "ponto_id": 40500,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "30",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "312,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11962841194274,
+          -22.849664843696438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3196,
+        "ponto_id": 40516,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "274",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11934234327323,
+          -22.847826364009812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3244,
+        "ponto_id": 40488,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R MONS LANDELL DE MOURA",
+        "ende_numero": "147",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117971645371554,
+          -22.84695406194045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 7476,
+        "ponto_id": 40486,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R MONS LANDELL DE MOURA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116405545307124,
+          -22.847311011999597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3245,
+        "ponto_id": 40448,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R JOSE LINHARES",
+        "ende_numero": "286",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11457790377566,
+          -22.848924683902005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3246,
+        "ponto_id": 40432,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R JULIA LOPES DE ALMEIDA",
+        "ende_numero": "583",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1126776169456,
+          -22.84878092351988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 7474,
+        "ponto_id": 40424,
+        "ptseqlinha": 61.5,
+        "ende_logradouro": "R REDEMPTOR PREGNOLATTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.110622249971875,
+          -22.848637069851243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 7387,
+        "ponto_id": 40414,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R FRANCISCO ARAUJO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10663748330189,
+          -22.84905289013441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 310,
+        "num_linha": "317",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAO JOSE / JARDIM SAO MARCOS",
+        "extensao_m": 24424.4,
+        "ponto_gid": 3247,
+        "ponto_id": 40416,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R MERCEDES PASSOS TOZZI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108108512777164,
+          -22.84862606350076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3247,
+        "ponto_id": 40416,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R MERCEDES PASSOS TOZZI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108108512777164,
+          -22.84862606350076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 7387,
+        "ponto_id": 40414,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R FRANCISCO ARAUJO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10663748330189,
+          -22.84905289013441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3248,
+        "ponto_id": 40428,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R REDEMPTOR PREGNOLATTO",
+        "ende_numero": "279",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11051748158429,
+          -22.848587864334036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3249,
+        "ponto_id": 40436,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R JULIA LOPES DE ALMEIDA",
+        "ende_numero": "925",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11263417761881,
+          -22.848590111644743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3250,
+        "ponto_id": 40452,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JOSE LINHARES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11456519121593,
+          -22.848859983447557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 7475,
+        "ponto_id": 40490,
+        "ptseqlinha": 66.5,
+        "ende_logradouro": "R MONS LADELL DE MOURA",
+        "ende_numero": "86",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11624319833924,
+          -22.847286137072583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3251,
+        "ponto_id": 40492,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R MONS LANDELL DE MOURA",
+        "ende_numero": "200",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11834805314873,
+          -22.846789360012508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3194,
+        "ponto_id": 40528,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "274",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,312,314,317,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119475018241374,
+          -22.847828840119156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 2782,
+        "ponto_id": 40504,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "31",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,312,314,317,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11990671446118,
+          -22.84963464436924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 2783,
+        "ponto_id": 40348,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109484793158884,
+          -22.85691432833283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3089,
+        "ponto_id": 40284,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107081786695574,
+          -22.859694317715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3091,
+        "ponto_id": 40268,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10233674954192,
+          -22.864369305635005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 5417,
+        "ponto_id": 40263,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09910369367552,
+          -22.866892394784447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3092,
+        "ponto_id": 40256,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093979885264666,
+          -22.8695212824635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3093,
+        "ponto_id": 40248,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07908259679175,
+          -22.875698669644443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3094,
+        "ponto_id": 40224,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07549276143131,
+          -22.877814375375955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3095,
+        "ponto_id": 40216,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073755782156766,
+          -22.879766392156665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3096,
+        "ponto_id": 40204,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073113763696846,
+          -22.880705360829296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3097,
+        "ponto_id": 40144,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1545",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071064751111194,
+          -22.88377934545814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3098,
+        "ponto_id": 40096,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06846429752021,
+          -22.88614899679744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3099,
+        "ponto_id": 40072,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "927",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066531164418016,
+          -22.888019628761608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3100,
+        "ponto_id": 40012,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063860681649814,
+          -22.890546397070747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 1248,
+        "ponto_id": 664,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06288674497044,
+          -22.89239035651576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 1249,
+        "ponto_id": 540,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06442777082549,
+          -22.894186398668257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 7427,
+        "ponto_id": 234,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,317,331,332,357,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063112345976016,
+          -22.904460773377703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3252,
+        "ponto_id": 300,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,330,333,348,371,377,390,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344523434786,
+          -22.906907478723305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 1572,
+        "ponto_id": 90040,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,245,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06327091799696,
+          -22.911755920938795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 590,
+        "ponto_id": 70004,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06601996953021,
+          -22.914990079927378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 591,
+        "ponto_id": 70016,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068507893756326,
+          -22.91553312549965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 592,
+        "ponto_id": 70088,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07502278049115,
+          -22.91968114129561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 593,
+        "ponto_id": 70168,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "4528",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078118527778706,
+          -22.921892686314123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 5540,
+        "ponto_id": 70200,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1999",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07990750806758,
+          -22.92357232159311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 5925,
+        "ponto_id": 70170,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082247321373295,
+          -22.925949987225074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 770,
+        "ponto_id": 70368,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2754",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084498336474404,
+          -22.929063290855797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 7517,
+        "ponto_id": 70477,
+        "ptseqlinha": 98.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086483185645434,
+          -22.93029655833481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 596,
+        "ponto_id": 70472,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089389071096214,
+          -22.931954948446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3253,
+        "ponto_id": 70592,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "R OURO",
+        "ende_numero": "46",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092296337949165,
+          -22.93349274562842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 4837,
+        "ponto_id": 70676,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R DAS VIOLETAS",
+        "ende_numero": "246",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09262167922967,
+          -22.935338103040067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 4838,
+        "ponto_id": 70736,
+        "ptseqlinha": 101.5,
+        "ende_logradouro": "R DAS MAGNOLIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093575881630365,
+          -22.93694635879255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3255,
+        "ponto_id": 70716,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "530",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09086290749071,
+          -22.938332375691147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3256,
+        "ponto_id": 70788,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090571889477275,
+          -22.940462338989565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3257,
+        "ponto_id": 70868,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "950",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09046536968452,
+          -22.942278322618318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3258,
+        "ponto_id": 70908,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "AV ANA BEATRIZ BIERRENBACH",
+        "ende_numero": "1090",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09041719668863,
+          -22.94361163532022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3259,
+        "ponto_id": 80196,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R JOSE FLORENCE TEIXEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,411,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08730761481928,
+          -22.94652052510495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3260,
+        "ponto_id": 80200,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089278986734804,
+          -22.94784819250544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3261,
+        "ponto_id": 80272,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": "1009",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090214193462025,
+          -22.94969243059566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3262,
+        "ponto_id": 80328,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": "663",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091482508516,
+          -22.952496246617446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3263,
+        "ponto_id": 80400,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": "OP 322",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,411,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09278681232683,
+          -22.955227985237343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3264,
+        "ponto_id": 80380,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "R PASCHOAL CURCIO",
+        "ende_numero": "304",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09077392724613,
+          -22.9564174033583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3265,
+        "ponto_id": 80408,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": "171",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08978097428094,
+          -22.95727639337127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3266,
+        "ponto_id": 80360,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08866393123063,
+          -22.95594642833226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3267,
+        "ponto_id": 80348,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08743293546625,
+          -22.955692437981778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3268,
+        "ponto_id": 80392,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": "361",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08828352631664,
+          -22.958032664509254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3269,
+        "ponto_id": 80432,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "685",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088768966369884,
+          -22.959303368438086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3270,
+        "ponto_id": 80440,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "515",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09048796783439,
+          -22.959264371702552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3271,
+        "ponto_id": 80456,
+        "ptseqlinha": 118.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093171946831205,
+          -22.95917136255109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3272,
+        "ponto_id": 80472,
+        "ptseqlinha": 119.0,
+        "ende_logradouro": "R HELIO TOZZI",
+        "ende_numero": "171",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094737916273026,
+          -22.958849425086466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3273,
+        "ponto_id": 80488,
+        "ptseqlinha": 120.0,
+        "ende_logradouro": "R HELIO TOZZI",
+        "ende_numero": "23",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09545896336916,
+          -22.96014241678685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3274,
+        "ponto_id": 80520,
+        "ptseqlinha": 121.0,
+        "ende_logradouro": "R MIGUEL JOAO JORGE",
+        "ende_numero": "371",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09512098239981,
+          -22.962388376875367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3275,
+        "ponto_id": 80508,
+        "ptseqlinha": 122.0,
+        "ende_logradouro": "R WALMIR JOSE PEREZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09195788951724,
+          -22.963124291542044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3276,
+        "ponto_id": 80540,
+        "ptseqlinha": 123.0,
+        "ende_logradouro": "R JOAQUIM DE FARIA",
+        "ende_numero": "443",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09156055840512,
+          -22.96417702246751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3277,
+        "ponto_id": 80560,
+        "ptseqlinha": 124.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093211013702884,
+          -22.96482608749162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3278,
+        "ponto_id": 80576,
+        "ptseqlinha": 125.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "341",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094569224974336,
+          -22.964766979910287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3279,
+        "ponto_id": 80584,
+        "ptseqlinha": 126.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "32",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095818983119905,
+          -22.964401359280632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 78,
+        "num_linha": "317",
+        "sentido": 2,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 24700.76,
+        "ponto_gid": 3217,
+        "ponto_id": 80600,
+        "ptseqlinha": 127.0,
+        "ende_logradouro": "R MERCEDEZ PEREIRA BUENO",
+        "ende_numero": "151",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09464325813979,
+          -22.96530820656186
+        ]
+      }
+    }
+  ]
+}

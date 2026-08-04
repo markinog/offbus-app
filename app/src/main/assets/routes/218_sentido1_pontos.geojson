@@ -1,0 +1,612 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 5277,
+        "ponto_id": 61964,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL ITAJAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.188951466050455,
+          -22.9618733820959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 7256,
+        "ponto_id": 61981,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "ESTACAO BRS MARACANA",
+        "ende_numero": "846",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190300733216795,
+          -22.956698985151405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 7259,
+        "ponto_id": 61891,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "ESTAÃÃO BRS SANTA CLARA",
+        "ende_numero": "1386",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18888965298125,
+          -22.95199044956974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 7552,
+        "ponto_id": 62079,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MIGUEL DE CAMPOS BUENO FILHO",
+        "ende_numero": "131",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1904863446875,
+          -22.947860084421457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 7551,
+        "ponto_id": 62077,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JULIO BOCALETT",
+        "ende_numero": "533",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.191396962907845,
+          -22.947782111354137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 6344,
+        "ponto_id": 62059,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DR. ALDERICO ALVITE",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19024774192455,
+          -22.946314176677827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 6342,
+        "ponto_id": 61767,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R DR. DOMINGOS RIMOLI NETTO",
+        "ende_numero": "159",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18881439957524,
+          -22.945933976911505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 6339,
+        "ponto_id": 61847,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ORLANDO VIANNA",
+        "ende_numero": "451",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18996719411752,
+          -22.94492422773574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 5743,
+        "ponto_id": 61849,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ANTONIO ZANCANELLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "202,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18947637246138,
+          -22.94414912513572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 5701,
+        "ponto_id": 61837,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DR EDGARD PEREIRA DE SOUZA",
+        "ende_numero": "77",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "202,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18673624295772,
+          -22.94465965700999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 358,
+        "num_linha": "218",
+        "sentido": 1,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 5361.84,
+        "ponto_gid": 687,
+        "ponto_id": 61580,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,201,202,203,204,206,207,208,209,217,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180489559938,
+          -22.94242597483818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 5694,
+        "ponto_id": 61597,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,208,215,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180730596821554,
+          -22.9423739058455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 5700,
+        "ponto_id": 61841,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DR NELSON D OTTAVIANO",
+        "ende_numero": "40",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "202,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186023132784435,
+          -22.944240428677155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 5742,
+        "ponto_id": 61843,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ANTONIO ZANCANELLA",
+        "ende_numero": "416",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "202,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18962544401953,
+          -22.944040797271594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 6340,
+        "ponto_id": 61842,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ORLANDO VIANNA",
+        "ende_numero": "414",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19034009151409,
+          -22.945143833797545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 6341,
+        "ponto_id": 61777,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DR. DOMINGOS RIMOLI NETTO",
+        "ende_numero": "160",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18905171175101,
+          -22.946019819091912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 6343,
+        "ponto_id": 62057,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R DR. ALDERICO ALVITE",
+        "ende_numero": "394",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190433989763605,
+          -22.946081750807455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 7550,
+        "ponto_id": 62066,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JULIO BOCALETTI",
+        "ende_numero": "534",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19132176497857,
+          -22.947497288344515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 7553,
+        "ponto_id": 62082,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R MIGUEL DE CAMPOS BUENO FILHO",
+        "ende_numero": "130",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190193492586886,
+          -22.947839839991946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 7258,
+        "ponto_id": 61893,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ESTAÃÃO BRS SANTA CLARA",
+        "ende_numero": "1442",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.189272191549186,
+          -22.95222936332469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 7257,
+        "ponto_id": 61983,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ESTACAO BRS MARACANA",
+        "ende_numero": "634",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190356310322905,
+          -22.958407577719328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 92,
+        "num_linha": "218",
+        "sentido": 2,
+        "nome_linha": "TERM ITAJAI / TERM CAMPO GRANDE",
+        "extensao_m": 4835.41,
+        "ponto_gid": 5278,
+        "ponto_id": 61948,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "TERMINAL ITAJAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18912879885219,
+          -22.961478444785104
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1787 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3178,
+        "ponto_id": 40530,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11700716778929,
+          -22.844448026185677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3188,
+        "ponto_id": 40536,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ROBERTO BUENO TEIXEIRA",
+        "ende_numero": "890",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11710909170466,
+          -22.845484229493678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3189,
+        "ponto_id": 40564,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV AGUINALDO ACCIARI",
+        "ende_numero": "384",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.120187272566426,
+          -22.842191643187284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3190,
+        "ponto_id": 40576,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R HEITOR GAROFALO",
+        "ende_numero": "315",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121057026753256,
+          -22.842055743739692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3191,
+        "ponto_id": 40560,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R S FRANCISCO DE ASSIS",
+        "ende_numero": "87",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12005589222102,
+          -22.843500248429002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3192,
+        "ponto_id": 40544,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119196741891294,
+          -22.845606305955457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3193,
+        "ponto_id": 40540,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11928716280393,
+          -22.846566686454246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3194,
+        "ponto_id": 40528,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "274",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,312,314,317,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119475018241374,
+          -22.847828840119156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 2782,
+        "ponto_id": 40504,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "31",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "269,312,314,317,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11990671446118,
+          -22.84963464436924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 2783,
+        "ponto_id": 40348,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109484793158884,
+          -22.85691432833283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3089,
+        "ponto_id": 40284,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107081786695574,
+          -22.859694317715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3090,
+        "ponto_id": 40276,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104882085555424,
+          -22.861851467468963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3091,
+        "ponto_id": 40268,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10233674954192,
+          -22.864369305635005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 5417,
+        "ponto_id": 40263,
+        "ptseqlinha": 18.1,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09910369367552,
+          -22.866892394784447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3092,
+        "ponto_id": 40256,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093979885264666,
+          -22.8695212824635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3093,
+        "ponto_id": 40248,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07908259679175,
+          -22.875698669644443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3094,
+        "ponto_id": 40224,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07549276143131,
+          -22.877814375375955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3095,
+        "ponto_id": 40216,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073755782156766,
+          -22.879766392156665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3096,
+        "ponto_id": 40204,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073113763696846,
+          -22.880705360829296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3097,
+        "ponto_id": 40144,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1545",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071064751111194,
+          -22.88377934545814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3098,
+        "ponto_id": 40096,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06846429752021,
+          -22.88614899679744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3099,
+        "ponto_id": 40072,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "927",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066531164418016,
+          -22.888019628761608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 3100,
+        "ponto_id": 40012,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063860681649814,
+          -22.890546397070747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 1248,
+        "ponto_id": 664,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06288674497044,
+          -22.89239035651576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 1249,
+        "ponto_id": 540,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06442777082549,
+          -22.894186398668257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 155,
+        "num_linha": "312",
+        "sentido": 1,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 11734.68,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 6092,
+        "ponto_id": 66,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061860235759305,
+          -22.903689748539417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 1865,
+        "ponto_id": 56,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062777754100175,
+          -22.902022390699354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 1210,
+        "ponto_id": 264,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DR ANTONIO A LOBO",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066266740489624,
+          -22.900219134259572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 1211,
+        "ponto_id": 388,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "666",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068015785169564,
+          -22.899760418640295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 561,
+        "ponto_id": 644,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06935239996936,
+          -22.898700473332593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 562,
+        "ponto_id": 556,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06656379160212,
+          -22.895515255382914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 563,
+        "ponto_id": 680,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1444",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063876578259155,
+          -22.892367302030827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 2344,
+        "ponto_id": 40028,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "628",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0645493455123,
+          -22.889400837194056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3103,
+        "ponto_id": 40060,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "800",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066089765594896,
+          -22.88802184671398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3104,
+        "ponto_id": 40104,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068472994129294,
+          -22.88590630383711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3105,
+        "ponto_id": 40136,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1524",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07090552595766,
+          -22.88365015439397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3106,
+        "ponto_id": 40200,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "1882",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07258835453573,
+          -22.88102105607627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3107,
+        "ponto_id": 40220,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073945406515556,
+          -22.879225675731732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3108,
+        "ponto_id": 40236,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "2340",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07557660814994,
+          -22.8772512046976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3109,
+        "ponto_id": 40252,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078947314768364,
+          -22.875440840814132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3110,
+        "ponto_id": 40260,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09385982655915,
+          -22.869304352603834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 5416,
+        "ponto_id": 40262,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": "2430",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099649115755646,
+          -22.866198089392025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3111,
+        "ponto_id": 40264,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV CONEGO ANTONIO ROCCATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10196281153491,
+          -22.864327483863143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3112,
+        "ponto_id": 40272,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,311,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10439521408799,
+          -22.861863506546378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3113,
+        "ponto_id": 40288,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R SYLVIA DA SILVA BRAGA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10681348535931,
+          -22.85926507972251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 2810,
+        "ponto_id": 40352,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ESTACAO AMARAIS",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,269,309,310,311,312,313,314,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10933644884669,
+          -22.85675404865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3114,
+        "ponto_id": 40460,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R FILINTO DE ALMEIDA",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,315,316,317,318,319 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11791883035135,
+          -22.850186112632915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3195,
+        "ponto_id": 40500,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "30",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "312,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11962841194274,
+          -22.849664843696438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3196,
+        "ponto_id": 40516,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "274",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11934234327323,
+          -22.847826364009812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3197,
+        "ponto_id": 40556,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV MARIA LUIZA POMPEO DE CAMARGO",
+        "ende_numero": "504",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11893712577611,
+          -22.845276458478207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3189,
+        "ponto_id": 40564,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV AGUINALDO ACCIARI",
+        "ende_numero": "384",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.120187272566426,
+          -22.842191643187284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3190,
+        "ponto_id": 40576,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R HEITOR GAROFALO",
+        "ende_numero": "315",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121057026753256,
+          -22.842055743739692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3191,
+        "ponto_id": 40560,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R S FRANCISCO DE ASSIS",
+        "ende_numero": "87",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12005589222102,
+          -22.843500248429002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3198,
+        "ponto_id": 40532,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R ROBERTO BUENO TEIXEIRA",
+        "ende_numero": "803",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117214001235666,
+          -22.845551083698165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3179,
+        "ponto_id": 40446,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11521405642202,
+          -22.84562489130404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3180,
+        "ponto_id": 40454,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": "343",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11228541165574,
+          -22.84667552877248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3181,
+        "ponto_id": 40462,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11004207914229,
+          -22.8466384818016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 7478,
+        "ponto_id": 40467,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10725139251804,
+          -22.846624670080217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3182,
+        "ponto_id": 40470,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105525251801794,
+          -22.84748029039725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3177,
+        "ponto_id": 40426,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R URIASSU DE ASSIS BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10568596259638,
+          -22.84542759120733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3184,
+        "ponto_id": 40444,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R URIASSU DE ASSIS BATISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.108541148237876,
+          -22.8445955141167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3185,
+        "ponto_id": 40464,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R URIASSU DE ASSIS BATISTA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11165876151042,
+          -22.844666318808603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3186,
+        "ponto_id": 40512,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R URIASSU DE ASSIS BATISTA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11432378013519,
+          -22.843807155180894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 293,
+        "num_linha": "312",
+        "sentido": 2,
+        "nome_linha": "VILA ESPERANCA",
+        "extensao_m": 15672.28,
+        "ponto_gid": 3178,
+        "ponto_id": 40530,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R ANDRE GRABOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "312 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11700716778929,
+          -22.844448026185677
+        ]
+      }
+    }
+  ]
+}

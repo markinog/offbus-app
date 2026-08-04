@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 55,
+        "num_linha": "384",
+        "sentido": 1,
+        "nome_linha": "LEROY MERLIN / RODOVIÃRIA (INCLUSIVO)",
+        "extensao_m": 10565.67,
+        "ponto_gid": 2663,
+        "ponto_id": 10640,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,338,383,384,385 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02490195413686,
+          -22.892568995539637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 55,
+        "num_linha": "384",
+        "sentido": 1,
+        "nome_linha": "LEROY MERLIN / RODOVIÃRIA (INCLUSIVO)",
+        "extensao_m": 10565.67,
+        "ponto_gid": 4566,
+        "ponto_id": 11150,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "ESTR MUN ISAURA ROQUE QUERCIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.979157441917955,
+          -22.85245004708666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 55,
+        "num_linha": "384",
+        "sentido": 1,
+        "nome_linha": "LEROY MERLIN / RODOVIÃRIA (INCLUSIVO)",
+        "extensao_m": 10565.67,
+        "ponto_gid": 4567,
+        "ponto_id": 21858,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV OSCAR NIEMEYER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97763946429927,
+          -22.849199864866378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 55,
+        "num_linha": "384",
+        "sentido": 1,
+        "nome_linha": "LEROY MERLIN / RODOVIÃRIA (INCLUSIVO)",
+        "extensao_m": 10565.67,
+        "ponto_gid": 5916,
+        "ponto_id": 11169,
+        "ptseqlinha": 4.1,
+        "ende_logradouro": "AV ISAURA ROQUE QUERCIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97354998449338,
+          -22.845912907192414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 55,
+        "num_linha": "384",
+        "sentido": 1,
+        "nome_linha": "LEROY MERLIN / RODOVIÃRIA (INCLUSIVO)",
+        "extensao_m": 10565.67,
+        "ponto_gid": 4568,
+        "ponto_id": 11170,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "ESTR MUNICIPAL ISAURA ROQUE QUERCIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.967996596776146,
+          -22.844304342341392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 4569,
+        "ponto_id": 11158,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "ESTR MUNICIPAL ISAURA ROQUE QUERCIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.969965071743715,
+          -22.843906760755544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 4570,
+        "ponto_id": 11146,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "ESTR MUN ISAURA ROQUE QUERCIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97955232740133,
+          -22.85234401836324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 5337,
+        "ponto_id": 21215,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "CAM 10 (ROSEIRA)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "375,384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00842877008317,
+          -22.865401437683175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 5338,
+        "ponto_id": 21217,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "CAM 10  (ROSEIRA)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00612826235711,
+          -22.864901057757493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 4571,
+        "ponto_id": 21210,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R PEDRO PICIRILI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0154910595837,
+          -22.863299214111116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 5718,
+        "ponto_id": 21213,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DOIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.010753093838666,
+          -22.866472791293067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 2956,
+        "ponto_id": 10676,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV MACKENZIE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "362,383,384 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.020112972385135,
+          -22.8903918343175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 329,
+        "num_linha": "384",
+        "sentido": 2,
+        "nome_linha": "SOUSAS / TERMINAL BARAO GERALDO",
+        "extensao_m": 19629.0,
+        "ponto_gid": 2663,
+        "ponto_id": 10640,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,338,383,384,385 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02490195413686,
+          -22.892568995539637
+        ]
+      }
+    }
+  ]
+}

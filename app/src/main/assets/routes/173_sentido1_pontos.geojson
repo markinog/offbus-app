@@ -1,0 +1,2312 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 5238,
+        "ponto_id": 92346,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R PEDRO AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038645759959365,
+          -22.947591203130774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 7610,
+        "ponto_id": 92349,
+        "ptseqlinha": 1.2,
+        "ende_logradouro": "R MARTA DA SILVA PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03773963789613,
+          -22.94712045702623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1308,
+        "ponto_id": 92629,
+        "ptseqlinha": 1.2,
+        "ende_logradouro": "R WALDOMIRO ANGELO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034644485646076,
+          -22.94788033458958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 5953,
+        "ponto_id": 92579,
+        "ptseqlinha": 1.3,
+        "ende_logradouro": "R SGT LUIS DE MORAIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03195933941493,
+          -22.946826872399406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 7438,
+        "ponto_id": 92643,
+        "ptseqlinha": 1.4,
+        "ende_logradouro": "R SGT LUIS DE MORAIS",
+        "ende_numero": "99",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03023476478078,
+          -22.946218031026053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1300,
+        "ponto_id": 92646,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R WALDOMIRO CASTELLANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03015808122346,
+          -22.947836933644734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1309,
+        "ponto_id": 92668,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "248",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03140154407648,
+          -22.9488322780586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1310,
+        "ponto_id": 92672,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "384",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0327138377623,
+          -22.949662520283717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1311,
+        "ponto_id": 92696,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "632",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03445308493473,
+          -22.950630809131194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1386,
+        "ponto_id": 92688,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "912",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036759651610225,
+          -22.95164867836031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1313,
+        "ponto_id": 92776,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R LEONEL NATALI ELIZI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037360846252014,
+          -22.95314844508836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1314,
+        "ponto_id": 92868,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03475461349355,
+          -22.953695909605468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1315,
+        "ponto_id": 92856,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "611",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03260625950375,
+          -22.95244397563031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1316,
+        "ponto_id": 92836,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "545",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03170221014063,
+          -22.951689806761046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1317,
+        "ponto_id": 92804,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030360727251725,
+          -22.95049944315255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1318,
+        "ponto_id": 92748,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "183",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0284472976693,
+          -22.948873338470964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1304,
+        "ponto_id": 92790,
+        "ptseqlinha": 11.5,
+        "ende_logradouro": "R VERGILIO BRITO SIMOES",
+        "ende_numero": "134",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02838285066537,
+          -22.949162567112623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1319,
+        "ponto_id": 92864,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MARIO DE SOUZA DAMY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02862786904973,
+          -22.950658532460086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1305,
+        "ponto_id": 92842,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "PC SAUVAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02745234727314,
+          -22.94962974683551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1320,
+        "ponto_id": 92860,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MARIO DE SOUZA DAMY",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02576204426101,
+          -22.94867126483347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1321,
+        "ponto_id": 92904,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R FRANCISCO JOAO CARLOS EBERL",
+        "ende_numero": "848",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024267627405244,
+          -22.949707170352355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1323,
+        "ponto_id": 92884,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R PE JOSE GASPAR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023766988796524,
+          -22.948778845044206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1324,
+        "ponto_id": 92848,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R MARIO DE SOUZA DAMY",
+        "ende_numero": "95",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025264096268835,
+          -22.94842077703173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1325,
+        "ponto_id": 92792,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R FRANCISCO JOAO CARLOS EBERL",
+        "ende_numero": "607",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02596875011214,
+          -22.947931487565032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1326,
+        "ponto_id": 92736,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R FRANCISCO ANTONIO DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02449127526765,
+          -22.946258502485975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1327,
+        "ponto_id": 92684,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R MARIO BASSANI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025307711167585,
+          -22.94569601690205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1328,
+        "ponto_id": 92680,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R ITANIL DE MELLO",
+        "ende_numero": "147",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02707033756524,
+          -22.94639050603842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1329,
+        "ponto_id": 92536,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R. FRANCISCO JOAO CARLOS EBERL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02951201139747,
+          -22.944473916549722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1330,
+        "ponto_id": 92476,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ANTONIO CAMPAGNONE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030752402255025,
+          -22.94416824330682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1331,
+        "ponto_id": 92372,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "3007",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03212543316657,
+          -22.942614236368318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1332,
+        "ponto_id": 91984,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03465105787197,
+          -22.93863374556703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1333,
+        "ponto_id": 91628,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "2009",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03688212797846,
+          -22.93564042068538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 7572,
+        "ponto_id": 91614,
+        "ptseqlinha": 27.1,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "1717",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03918084395073,
+          -22.933561504713516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1334,
+        "ponto_id": 91344,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "1475",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040602211815695,
+          -22.932451612775807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1335,
+        "ponto_id": 91064,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "1101",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04364362526542,
+          -22.929893313054574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1337,
+        "ponto_id": 90648,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046234202308796,
+          -22.927677787348323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1336,
+        "ponto_id": 90764,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047664880061035,
+          -22.926493196332167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1338,
+        "ponto_id": 91712,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04993717463877,
+          -22.92374428920849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 1346,
+        "ponto_id": 142,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1010",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,250,341,342,349,367,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06099097804639,
+          -22.90559380263733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 11,
+        "num_linha": "173",
+        "sentido": 1,
+        "nome_linha": "PQ. ITALIA",
+        "extensao_m": 14170.25,
+        "ponto_gid": 5238,
+        "ponto_id": 92346,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R PEDRO AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038645759959365,
+          -22.947591203130774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1346,
+        "ponto_id": 142,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1010",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,250,341,342,349,367,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06099097804639,
+          -22.90559380263733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1358,
+        "ponto_id": 236,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "865",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,345,346,349,359,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058813453540964,
+          -22.907030871822027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1307,
+        "ponto_id": 488,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "565",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05757097351104,
+          -22.909343315874935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 7340,
+        "ponto_id": 90014,
+        "ptseqlinha": 60.5,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173,253,341,342,344,345,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05536770427731,
+          -22.915383581991176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1363,
+        "ponto_id": 91708,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "130",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050185878805515,
+          -22.92378666834866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1364,
+        "ponto_id": 90776,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "544",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047712792349465,
+          -22.926680449778747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1303,
+        "ponto_id": 90650,
+        "ptseqlinha": 65.5,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "790",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04631778416084,
+          -22.92793319383763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1365,
+        "ponto_id": 91072,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "1160",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043317202539384,
+          -22.93044731882295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1366,
+        "ponto_id": 91276,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04098989677555,
+          -22.932583310520492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1367,
+        "ponto_id": 91376,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039130936765034,
+          -22.933936474353644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1368,
+        "ponto_id": 91660,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03695964432576,
+          -22.935845805216147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1369,
+        "ponto_id": 92016,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03457858480061,
+          -22.939158207843395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1370,
+        "ponto_id": 92336,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "3000",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032899873356556,
+          -22.94239251741345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1371,
+        "ponto_id": 92480,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R ANTONIO CAMPAGNONE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03050104434608,
+          -22.944231637509997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1372,
+        "ponto_id": 92544,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R FRANCISCO JOAO CARLOS EBERL",
+        "ende_numero": "76",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02968860313458,
+          -22.944638223698092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1373,
+        "ponto_id": 92692,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R ITANIL DE MELLO",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02603732322379,
+          -22.946218399246124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1374,
+        "ponto_id": 92708,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R MARIO BASSANI",
+        "ende_numero": "264",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025036756651325,
+          -22.9457858242713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1375,
+        "ponto_id": 92744,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R FRANCISCO ANTONIO DA SILVA",
+        "ende_numero": "132",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,341 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024819804476635,
+          -22.946416542507066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1376,
+        "ponto_id": 92808,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R FRANCISCO JOAO CARLOS EBERL",
+        "ende_numero": "598",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,341 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02615659946654,
+          -22.948074258396833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1377,
+        "ponto_id": 92880,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R FRANCISCO ANTONIO DA SILVA",
+        "ende_numero": "454",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173,349 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024190845010956,
+          -22.94893453963754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1322,
+        "ponto_id": 92940,
+        "ptseqlinha": 78.5,
+        "ende_logradouro": "R FRANCISCO ANTONIO DA SILVA",
+        "ende_numero": "708",
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02262196402998,
+          -22.950760068755194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1378,
+        "ponto_id": 92948,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R FRANCISCO JOAO CARLOS EBERL",
+        "ende_numero": "1065",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0234356619134,
+          -22.951254355437275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1301,
+        "ponto_id": 92890,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV ENG ANTONIO FRANCISCO DE PAULA SOUZA",
+        "ende_numero": "4087",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02468430365587,
+          -22.950120390343137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1379,
+        "ponto_id": 92840,
+        "ptseqlinha": 80.5,
+        "ende_logradouro": "R MARIO DE SOUZA DAMY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02874236644337,
+          -22.950470278597074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1380,
+        "ponto_id": 92788,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R VERGILIO BRITO SIMOES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02772829944655,
+          -22.948918965297498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1381,
+        "ponto_id": 92740,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "246",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.028970833139084,
+          -22.948926457387945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1382,
+        "ponto_id": 92812,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "420",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03098446127353,
+          -22.95066646933226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1383,
+        "ponto_id": 92844,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "710",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03246481144052,
+          -22.95197985443361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1384,
+        "ponto_id": 92876,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R ANTONIO MARQUES SERRA",
+        "ende_numero": "1036",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035047824811414,
+          -22.95354549267745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1385,
+        "ponto_id": 92780,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R LEONEL NATALI ELIZI",
+        "ende_numero": "144",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03711086953959,
+          -22.953067515846033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1312,
+        "ponto_id": 92700,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "883",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03650403329511,
+          -22.951813651917526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1387,
+        "ponto_id": 92712,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "581",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0339295563106,
+          -22.9506282252693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1388,
+        "ponto_id": 92704,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R VICENTE CELESTINO",
+        "ende_numero": "397",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03263182283596,
+          -22.949936487327168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1389,
+        "ponto_id": 92664,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R WALDOMIRO CASTELLANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030042257926446,
+          -22.947930682207883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1390,
+        "ponto_id": 92616,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R NASSIF JOSE MOKARZEL",
+        "ende_numero": "33",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029626804717346,
+          -22.94645748398837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 7345,
+        "ponto_id": 92633,
+        "ptseqlinha": 93.1,
+        "ende_logradouro": "R SGT LUIS DE MORAIS",
+        "ende_numero": "44",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03022371432972,
+          -22.94587091527599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 5952,
+        "ponto_id": 92622,
+        "ptseqlinha": 93.2,
+        "ende_logradouro": "R SGT LUIS DE MORAIS",
+        "ende_numero": "256",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03195655914153,
+          -22.94664071753443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 1302,
+        "ponto_id": 92574,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R WALDOMIRO DE ANGELO S/N",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03456209226362,
+          -22.94768427551261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 7611,
+        "ponto_id": 92357,
+        "ptseqlinha": 94.1,
+        "ende_logradouro": "R MARTA DA SILVA PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03639467368592,
+          -22.946176153593985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 383,
+        "num_linha": "173",
+        "sentido": 2,
+        "nome_linha": "VILA FORMOSA (INCLUSIVO)",
+        "extensao_m": 13381.82,
+        "ponto_gid": 7344,
+        "ponto_id": 92345,
+        "ptseqlinha": 94.2,
+        "ende_logradouro": "R. CONEGO HAROLDO NIERO",
+        "ende_numero": "57",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03767639839666,
+          -22.946728138767956
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4869,
+        "ponto_id": 93040,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0419346710342,
+          -22.966184097117267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4865,
+        "ponto_id": 93034,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": "515",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043146484425954,
+          -22.96779155391044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4868,
+        "ponto_id": 93032,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04488191451036,
+          -22.96685651031249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4870,
+        "ponto_id": 93024,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04620859441249,
+          -22.96605495412049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4871,
+        "ponto_id": 93008,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DR OCTACILIO FERREIRA DE SOUSA",
+        "ende_numero": "60",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04732831555987,
+          -22.9649457715436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4872,
+        "ponto_id": 93004,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04588481346974,
+          -22.96291552284935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4873,
+        "ponto_id": 92992,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04603599810576,
+          -22.961981800321002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4874,
+        "ponto_id": 92972,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04812667932675,
+          -22.962239002742507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4875,
+        "ponto_id": 92976,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "256",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049716207085794,
+          -22.962438830242608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4876,
+        "ponto_id": 92980,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "422",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05130687837004,
+          -22.962687557896075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4877,
+        "ponto_id": 92944,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ODILON FIGUEIREDO DANTAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052772132921326,
+          -22.96120661459783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4878,
+        "ponto_id": 92912,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053345041143125,
+          -22.96015331434293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4879,
+        "ponto_id": 92796,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05272703860901,
+          -22.956984220395857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4880,
+        "ponto_id": 92824,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R TEOFILO TAVARES FILHO",
+        "ende_numero": "293",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05143185292585,
+          -22.957088282496073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4881,
+        "ponto_id": 92820,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05021933687863,
+          -22.95678284271109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4882,
+        "ponto_id": 92728,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04919680915245,
+          -22.955505611255333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4883,
+        "ponto_id": 92648,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R GORO KIYONO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05036331090509,
+          -22.954669173049954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4884,
+        "ponto_id": 92604,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R MASAO MURAYAMA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049745544303036,
+          -22.95316263728884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4885,
+        "ponto_id": 92460,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04827590313095,
+          -22.950254504246725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 7604,
+        "ponto_id": 92466,
+        "ptseqlinha": 18.1,
+        "ende_logradouro": "AV WASHINGTON LUIZ",
+        "ende_numero": "3771",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04779262067733,
+          -22.948023987411663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4886,
+        "ponto_id": 92174,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04638854569792,
+          -22.945778083994536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4891,
+        "ponto_id": 91824,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R LUX AETERNA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046381555938424,
+          -22.941566010720916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4381,
+        "ponto_id": 91424,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04905902551605,
+          -22.937795874541752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4382,
+        "ponto_id": 91152,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "2295",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050825277336344,
+          -22.935001571859154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4383,
+        "ponto_id": 90972,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1783",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05317234666588,
+          -22.93142324799426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4384,
+        "ponto_id": 90804,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1475",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05420989674547,
+          -22.92946060354694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 3820,
+        "ponto_id": 90580,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056291804498905,
+          -22.92542741688336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 3821,
+        "ponto_id": 90428,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056925929493126,
+          -22.92292361488959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 3822,
+        "ponto_id": 90348,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "585",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05666653457981,
+          -22.92159824728047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 3823,
+        "ponto_id": 90196,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05674733831161,
+          -22.918740586941126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 4926,
+        "ponto_id": 90146,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R VICTORIANO DOS ANJOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055463073236666,
+          -22.917402398474785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1209,
+        "ponto_id": 60,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1360",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,213,349,362,385,386,403,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06235994236859,
+          -22.902805931348283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 1853,
+        "ponto_id": 312,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV JOAO PENIDO BURNIER",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06678260358723,
+          -22.902692163281756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 5339,
+        "ponto_id": 620,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,264,318,349,362,366,385,386,390,396,398,403,408,409,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06949723742806,
+          -22.9017037893688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 7508,
+        "ponto_id": 50006,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR BARBOSA DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,193,213,331,332,349,357,362,366,385,386,390,396,398,408,409,416,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07149605463688,
+          -22.900394558146502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 320,
+        "num_linha": "409",
+        "sentido": 1,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 13977.48,
+        "ponto_gid": 5663,
+        "ponto_id": 799,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071674034503516,
+          -22.906919542306042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 5663,
+        "ponto_id": 799,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "TERMINAL METROPOLITANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071674034503516,
+          -22.906919542306042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 6212,
+        "ponto_id": 315,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065865515895325,
+          -22.906805076249466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 6214,
+        "ponto_id": 318,
+        "ptseqlinha": 42.5,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "561",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,353,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0633492801133,
+          -22.9057352835379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 3677,
+        "ponto_id": 72,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "957",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05930243407126,
+          -22.90621581151629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 43.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4901,
+        "ponto_id": 90092,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "398",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636334818002,
+          -22.91593878024918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 3829,
+        "ponto_id": 90184,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05690363879418,
+          -22.918264054668192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 3830,
+        "ponto_id": 90388,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "570",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056944808677315,
+          -22.92181040902628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 3831,
+        "ponto_id": 90540,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "864",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05719669976278,
+          -22.92397456621238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 3832,
+        "ponto_id": 90624,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1074",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056336664727226,
+          -22.92566201286203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 7343,
+        "ponto_id": 90889,
+        "ptseqlinha": 49.1,
+        "ende_logradouro": "R DR CELSO DA SILVEIRA REZENDE",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "348,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055532749818816,
+          -22.928874579437057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4408,
+        "ponto_id": 90808,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1496",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05450733045664,
+          -22.92934336282789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4409,
+        "ponto_id": 90984,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053420784622766,
+          -22.93150561824843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4410,
+        "ponto_id": 91184,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "2300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05118046565368,
+          -22.934938931281568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 3840,
+        "ponto_id": 91412,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04915725712929,
+          -22.937688527720695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4908,
+        "ponto_id": 91830,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04679055818755,
+          -22.941712493931423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4866,
+        "ponto_id": 92006,
+        "ptseqlinha": 54.5,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04655491929708,
+          -22.94424615431084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4867,
+        "ponto_id": 92454,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04794804233588,
+          -22.947552979376987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4909,
+        "ponto_id": 92456,
+        "ptseqlinha": 55.5,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "4150",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04864002326857,
+          -22.9502857323151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4910,
+        "ponto_id": 92612,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R MASAO MURAYAMA",
+        "ende_numero": "421",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04988281107458,
+          -22.953164022743213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4911,
+        "ponto_id": 92660,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R GORO KIYONO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05047955920986,
+          -22.9547962273009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4912,
+        "ponto_id": 92720,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049389377290055,
+          -22.955431079820247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4913,
+        "ponto_id": 92784,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R EDUARDO NADRUZ",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050583804336526,
+          -22.957001209196875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4914,
+        "ponto_id": 92816,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R TEOFILO TAVARES FILHO",
+        "ende_numero": "322",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05171451999946,
+          -22.956920858998657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4915,
+        "ponto_id": 92828,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": "559",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053185962888094,
+          -22.957492818330962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4916,
+        "ponto_id": 92916,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV PAULO CORREA VIANA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05375298300196,
+          -22.960177461330826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4917,
+        "ponto_id": 92928,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R EDUARDO MONKECEVIC",
+        "ende_numero": "577",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05338346650615,
+          -22.96054137707988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4918,
+        "ponto_id": 92968,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050784479088605,
+          -22.96285862442581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4919,
+        "ponto_id": 92988,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049683266748964,
+          -22.962675245519716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4920,
+        "ponto_id": 92984,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JOSE RODRIGUES DA FONSECA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048045854591024,
+          -22.9624141050192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4921,
+        "ponto_id": 92996,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": "132",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04603180913641,
+          -22.962141558248355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4922,
+        "ponto_id": 93000,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": "267",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04598755444734,
+          -22.962796653414152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4923,
+        "ponto_id": 93012,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R MARIA DAS DORES CAVALHEIRO LEME",
+        "ende_numero": "45",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04718748000744,
+          -22.964297129478634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4924,
+        "ponto_id": 93028,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R MANUEL SOARES PINTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0462591541509,
+          -22.96615219271228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 5174,
+        "ponto_id": 93036,
+        "ptseqlinha": 70.5,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04479498273394,
+          -22.9665299183601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4925,
+        "ponto_id": 93020,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R LAMARTINE RIBAS DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04350098581548,
+          -22.96490668345171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 74,
+        "num_linha": "409",
+        "sentido": 2,
+        "nome_linha": "VILA OROSIMBO MAIA  (INCLUSIVO)",
+        "extensao_m": 11223.23,
+        "ponto_gid": 4869,
+        "ponto_id": 93040,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DR HELCIO LIZZARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "408,409,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0419346710342,
+          -22.966184097117267
+        ]
+      }
+    }
+  ]
+}

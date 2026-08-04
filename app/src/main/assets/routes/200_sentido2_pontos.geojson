@@ -1,0 +1,612 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 5682,
+        "ponto_id": 61585,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,207,216 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18166099457299,
+          -22.942229194589526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1584,
+        "ponto_id": 61648,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R ROBERTO CECARETI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,207 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.182107561126934,
+          -22.95098319534879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1585,
+        "ponto_id": 61596,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ALVIMAR SCHNEIDER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,207 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17959065100573,
+          -22.950199368040618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1586,
+        "ponto_id": 61536,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R LJ MACONICA INDEPENDENCIA",
+        "ende_numero": "648",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.176904385645955,
+          -22.949246977415793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1587,
+        "ponto_id": 61548,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R FERNANDO MANOEL PISMEL DANTAS",
+        "ende_numero": "364",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1767021635134,
+          -22.950037445225377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1588,
+        "ponto_id": 61564,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R FERNANDO MANOEL PISMEL DANTAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.176646452484526,
+          -22.951567997757934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1589,
+        "ponto_id": 61544,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOAO FERREIRA DIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.175748207127626,
+          -22.951934257405256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1590,
+        "ponto_id": 61504,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R PROF CASEMIRO DOS REIS FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17465529493395,
+          -22.95138727807166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1591,
+        "ponto_id": 61488,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R PROF CASEMIRO DOS REIS FILHO",
+        "ende_numero": "289",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17476407176563,
+          -22.949372277997654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1592,
+        "ponto_id": 61464,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R LJ MACONICA INDEPENDENCIA",
+        "ende_numero": "1062",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17319663631017,
+          -22.94909926114161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1593,
+        "ponto_id": 61408,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R JOAO TEODORO DE CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17243140132249,
+          -22.9468548155838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 6044,
+        "ponto_id": 61427,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R FRANCISCO ALVES DO PINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17082213447683,
+          -22.944048225450537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 6045,
+        "ponto_id": 61421,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R BENDITO FRANCO",
+        "ende_numero": "159",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.173349847481646,
+          -22.94367368050583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1594,
+        "ponto_id": 61432,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R TEREZINHA CARLOS TAVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1734183719512,
+          -22.94651630696915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1596,
+        "ponto_id": 61484,
+        "ptseqlinha": 16.1,
+        "ende_logradouro": "R TEREZINHA CARLOS TAVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17587004384769,
+          -22.94673220989385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1597,
+        "ponto_id": 61560,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R TEREZINHA CARLOS TAVARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17810589770215,
+          -22.946344288856857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1595,
+        "ponto_id": 61452,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R NICOLA MARIOTTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.17992666313222,
+          -22.946984887708417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1598,
+        "ponto_id": 61636,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R BENEDICTO RODRIGUES DOS SANTOS",
+        "ende_numero": "309",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18108009233635,
+          -22.948567232258576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1599,
+        "ponto_id": 61668,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R BENEDICTO RODRIGUES DOS SANTOS",
+        "ende_numero": "246",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18261794746934,
+          -22.949664025545243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 148,
+        "num_linha": "200",
+        "sentido": 1,
+        "nome_linha": "TERM CAMPO GRANDE",
+        "extensao_m": 7922.56,
+        "ponto_gid": 687,
+        "ponto_id": 61580,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,201,202,203,204,206,207,208,209,217,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180489559938,
+          -22.94242597483818
+        ]
+      }
+    }
+  ]
+}

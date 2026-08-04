@@ -1,0 +1,1562 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 4714,
+        "ponto_id": 11160,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV SAN CONRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.964306809613035,
+          -22.86004235497987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2913,
+        "ponto_id": 11168,
+        "ptseqlinha": 1.5,
+        "ende_logradouro": "AV SAN CONRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96112151334306,
+          -22.858440881359467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2914,
+        "ponto_id": 11140,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": "1717",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.962809566310206,
+          -22.863520585054637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2915,
+        "ponto_id": 11120,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": "1317",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96374354814857,
+          -22.866771535817765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2916,
+        "ponto_id": 11100,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": "967",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96519558260656,
+          -22.868829574330157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2917,
+        "ponto_id": 11056,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392,394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96694061085816,
+          -22.87198452446136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2918,
+        "ponto_id": 11016,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R QUINZE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96779285159686,
+          -22.878075622038594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2919,
+        "ponto_id": 10988,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9704730265007,
+          -22.881016126049154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2920,
+        "ponto_id": 10972,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.972121582542215,
+          -22.882924576504585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2921,
+        "ponto_id": 10960,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1001",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9737574804136,
+          -22.88483803922557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2923,
+        "ponto_id": 10868,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "2070",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.983330793366626,
+          -22.889203381687853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2924,
+        "ponto_id": 10856,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "2366",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98573355085243,
+          -22.890029344438343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2925,
+        "ponto_id": 10844,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.993629296929754,
+          -22.892661519858517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2926,
+        "ponto_id": 10792,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": "1601",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99928712460286,
+          -22.894466039407114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 2927,
+        "ponto_id": 10772,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00255467980488,
+          -22.895626540251314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 6210,
+        "ponto_id": 10777,
+        "ptseqlinha": 15.5,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01563093579784,
+          -22.89881414282668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 4584,
+        "ponto_id": 10684,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0178667974839,
+          -22.899423073666114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 4585,
+        "ponto_id": 10636,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02408122471172,
+          -22.901063850127375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 4586,
+        "ponto_id": 10472,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03194215138062,
+          -22.903544973873824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 763,
+        "ponto_id": 10396,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "3124",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03627146414297,
+          -22.90491848930732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 764,
+        "ponto_id": 10344,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2701",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038898332697165,
+          -22.905779286525746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 765,
+        "ponto_id": 10320,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2511",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040792961719575,
+          -22.906421491484966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 766,
+        "ponto_id": 10196,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0436884782394,
+          -22.906117755181867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 4597,
+        "ponto_id": 10036,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1411",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051330103135705,
+          -22.904984102264617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 4598,
+        "ponto_id": 352,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1151",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05374575874646,
+          -22.90538144326178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 5932,
+        "ponto_id": 482,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV VINTE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "353,356,369,375,391,392,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0646506666756,
+          -22.9088951365676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 292,
+        "num_linha": "392",
+        "sentido": 1,
+        "nome_linha": "VILA DIVA",
+        "extensao_m": 17193.3,
+        "ponto_gid": 6389,
+        "ponto_id": 577,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "53",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "391,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066458815403564,
+          -22.907602165977305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 6389,
+        "ponto_id": 577,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "53",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "391,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066458815403564,
+          -22.907602165977305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 5929,
+        "ponto_id": 299,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,271,356,362,369,375,381,385,386,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0632243850134,
+          -22.907200682909693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 6048,
+        "ponto_id": 266,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,352,353,355,356,369,375,385,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05803446057681,
+          -22.90725317882054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 4572,
+        "ponto_id": 308,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "988",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05483630164866,
+          -22.90615168617093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 570,
+        "ponto_id": 10044,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1464",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,220,364,385,389,390,391,392,396,397,398,399,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05102595765796,
+          -22.90538923217221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 751,
+        "ponto_id": 10168,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2206",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044517762877646,
+          -22.906352463167597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 752,
+        "ponto_id": 10360,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "2612",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03846615224035,
+          -22.90596683819847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 753,
+        "ponto_id": 10408,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03550034353859,
+          -22.904955186132913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 754,
+        "ponto_id": 10476,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,385,389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03185048666922,
+          -22.90372029712935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 4587,
+        "ponto_id": 10660,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,397,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022988888809756,
+          -22.900993351564868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 4588,
+        "ponto_id": 10688,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01604625661596,
+          -22.899224781027115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2943,
+        "ponto_id": 10776,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.002320676792706,
+          -22.895825851630864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2944,
+        "ponto_id": 10796,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99923256414681,
+          -22.894856020463514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2945,
+        "ponto_id": 10840,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ROD DR HEITOR PENTEADO (SP-81)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99359967161876,
+          -22.892905562402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2946,
+        "ponto_id": 10860,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98527471405492,
+          -22.890193431977565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2947,
+        "ponto_id": 10872,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "2111",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98293170449978,
+          -22.88941420535511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2922,
+        "ponto_id": 10932,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "EST SOUSAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,389,390,391,392,393,394,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97816122663328,
+          -22.887336501763716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2948,
+        "ponto_id": 10956,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "1153",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97431374404123,
+          -22.88587561177923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2949,
+        "ponto_id": 10976,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "737",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97129104009791,
+          -22.882374402184283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2950,
+        "ponto_id": 10984,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV DR ANTONIO CARLOS COUTO DE BARROS",
+        "ende_numero": "365",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96976680879874,
+          -22.88053744045928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 4596,
+        "ponto_id": 11036,
+        "ptseqlinha": 51.5,
+        "ende_logradouro": "AV ISABELITA VIEIRA",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,390,391,392,393,394,396,398,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96671780833711,
+          -22.878191991020614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2951,
+        "ponto_id": 11032,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392,394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96654834771444,
+          -22.87737647969229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2952,
+        "ponto_id": 11064,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392,394 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.966498585193996,
+          -22.871310520213957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2953,
+        "ponto_id": 11104,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96478856082544,
+          -22.868939602670526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2954,
+        "ponto_id": 11116,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96385561712331,
+          -22.86707160805474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 2955,
+        "ponto_id": 11148,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV MARIO GARNERO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.962525532558914,
+          -22.86362755438548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 5832,
+        "ponto_id": 11164,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV SAN CONRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96113955943548,
+          -22.85802558550124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 154,
+        "num_linha": "392",
+        "sentido": 2,
+        "nome_linha": "SAN CONRADO",
+        "extensao_m": 14733.99,
+        "ponto_gid": 4714,
+        "ponto_id": 11160,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV SAN CONRADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,392 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.964306809613035,
+          -22.86004235497987
+        ]
+      }
+    }
+  ]
+}

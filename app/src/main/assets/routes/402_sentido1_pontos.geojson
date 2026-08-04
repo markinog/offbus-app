@@ -1,0 +1,1612 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4722,
+        "ponto_id": 92502,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ANTONIO DA CORTE NEVES JR",
+        "ende_numero": "495",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05939955558428,
+          -22.952702354605865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4723,
+        "ponto_id": 92352,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R LUIZ MONTEMURRO",
+        "ende_numero": "119",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05939132219166,
+          -22.949843333326005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 6349,
+        "ponto_id": 92326,
+        "ptseqlinha": 8.5,
+        "ende_logradouro": "R STA CRUZ DAS PALMEIRAS",
+        "ende_numero": "1492",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06078446916943,
+          -22.949130305940283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4724,
+        "ponto_id": 92324,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ARNALDO IRINEU CHECCHIA",
+        "ende_numero": "581",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06117253987973,
+          -22.948795891987405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4725,
+        "ponto_id": 92124,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ARNALDO IRINEU CHECCHIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060033064756844,
+          -22.9472361443901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4726,
+        "ponto_id": 92072,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R STA CRUZ DAS PALMEIRAS",
+        "ende_numero": "1095",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058119612491566,
+          -22.9466050185131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4727,
+        "ponto_id": 91896,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV JOAQUIM PAYOLLA",
+        "ende_numero": "826",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0575056990345,
+          -22.94418096021686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4728,
+        "ponto_id": 91906,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R SAO PEDRO DO TURVO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05997601661459,
+          -22.94428612315163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4729,
+        "ponto_id": 92040,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R SAO PEDRO DO TURVO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06306473273218,
+          -22.94579037940049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4730,
+        "ponto_id": 91892,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOAO AMENDOLA",
+        "ende_numero": "351",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06413039071828,
+          -22.9445183021756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4731,
+        "ponto_id": 91800,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JOAO AMENDOLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064923602169216,
+          -22.943078868056208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4760,
+        "ponto_id": 91636,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOAO AMENDOLA",
+        "ende_numero": "83",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0657773807463,
+          -22.941584204071972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4733,
+        "ponto_id": 91512,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R TORRINHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065584741789436,
+          -22.93988839115119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4310,
+        "ponto_id": 91340,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "321",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06534970300853,
+          -22.937421788531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4417,
+        "ponto_id": 91228,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ESTADOS UNIDOS",
+        "ende_numero": "777",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06605030263634,
+          -22.935763005634602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4734,
+        "ponto_id": 90952,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R PARAGUAI",
+        "ende_numero": "460",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06298965294229,
+          -22.933975134588263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4735,
+        "ponto_id": 90956,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R STA RITA DO PASSA QUATRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06090898827265,
+          -22.933480630150353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4736,
+        "ponto_id": 90918,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R VENEZUELA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062241285365616,
+          -22.932137847730484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4737,
+        "ponto_id": 90844,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R GUATEMALA",
+        "ende_numero": "434",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061337224602326,
+          -22.930321536654983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4421,
+        "ponto_id": 90692,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06044584478293,
+          -22.92733341383017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4738,
+        "ponto_id": 90596,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R MAEST SALVADOR BUENO DE OLIVEIRA",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06062178548795,
+          -22.925838999190685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4739,
+        "ponto_id": 90528,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R MAEST SALVADOR BUENO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06115981319515,
+          -22.924607379590118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4740,
+        "ponto_id": 90468,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DR CARLOS DE ARAUJO PIMENTEL",
+        "ende_numero": "95",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06072865853432,
+          -22.923753882905682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4741,
+        "ponto_id": 90440,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV ARTUR SEGURADO",
+        "ende_numero": "458",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06256463351997,
+          -22.923350775948702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4742,
+        "ponto_id": 90300,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R FERNAO POMPEO DE CAMARGO",
+        "ende_numero": "543",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06348072997383,
+          -22.920292047983907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4743,
+        "ponto_id": 90248,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R THOMAZ ALVES BROWN",
+        "ende_numero": "17",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062158358917735,
+          -22.919553415033207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4744,
+        "ponto_id": 90304,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R FERNAO POMPEU DE CAMARGO",
+        "ende_numero": "207",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061710791410306,
+          -22.92046138572335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4745,
+        "ponto_id": 90308,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R AMILAR ALVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058783828509604,
+          -22.920588385700132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4746,
+        "ponto_id": 90168,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R AMILAR ALVES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058009788757396,
+          -22.918148878295796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 3824,
+        "ponto_id": 90076,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05820524249644,
+          -22.915896046718192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 3825,
+        "ponto_id": 90056,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06144028316159,
+          -22.91497232373664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 877,
+        "ponto_id": 90020,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "499",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,245,382,401,402,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344812080828,
+          -22.913718089009592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 261,
+        "num_linha": "402",
+        "sentido": 1,
+        "nome_linha": "PARQUE FIGUEIRA / SWISS PARK",
+        "extensao_m": 10200.83,
+        "ponto_gid": 4715,
+        "ponto_id": 384,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,429 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06218431220959,
+          -22.908839075762135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4715,
+        "ponto_id": 384,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,429 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06218431220959,
+          -22.908839075762135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 1255,
+        "ponto_id": 60004,
+        "ptseqlinha": 37.5,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": "720",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449732219572,
+          -22.910510021387225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 1208,
+        "ponto_id": 60008,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06485226139311,
+          -22.911777798123445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 5531,
+        "ponto_id": 90026,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06170631839999,
+          -22.912562901185296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 5679,
+        "ponto_id": 90027,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05980475442011,
+          -22.913988769945206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4747,
+        "ponto_id": 90128,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R ENG MONLEVADE",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059245786952545,
+          -22.917132017911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4748,
+        "ponto_id": 90232,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R ENG MONLEVADE",
+        "ende_numero": "424",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06016680122647,
+          -22.919562389079772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4749,
+        "ponto_id": 90200,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R GUAIASES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06156604946127,
+          -22.91890152926855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4750,
+        "ponto_id": 90244,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R THOMAZ ALVES BROWN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06215176694015,
+          -22.919452478500137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4751,
+        "ponto_id": 90292,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R FERNAO POMPEO DE CAMARGO",
+        "ende_numero": "522",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06362371865213,
+          -22.920121548397443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4752,
+        "ponto_id": 90372,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R IBITINGA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06129630040167,
+          -22.921717583337845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4753,
+        "ponto_id": 90420,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DA AMELIA DE PAULA",
+        "ende_numero": "214",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05996530086843,
+          -22.922912098813768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4754,
+        "ponto_id": 90480,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DR CARLOS DE ARAUJO PIMENTEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06076742435059,
+          -22.923919944347833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4755,
+        "ponto_id": 90532,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R MAEST SALVADOR BUENO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06099594746437,
+          -22.92501892237847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4437,
+        "ponto_id": 90672,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV DR ANGELO SIMOES",
+        "ende_numero": "1570",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06077487364849,
+          -22.927052437150284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4438,
+        "ponto_id": 90688,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R NICARAGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062384733175335,
+          -22.92737955202545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4756,
+        "ponto_id": 90840,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R GUATEMALA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06161229672724,
+          -22.930278060313693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4757,
+        "ponto_id": 90944,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R VENEZUELA",
+        "ende_numero": "902",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06194700278646,
+          -22.932452411505427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4758,
+        "ponto_id": 91060,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R PARAGUAI",
+        "ende_numero": "423",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313364497423,
+          -22.93381689967042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4443,
+        "ponto_id": 91232,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV ESTADOS UNIDOS",
+        "ende_numero": "778",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066345145579646,
+          -22.93593042481874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4344,
+        "ponto_id": 91352,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV BADEN POWELL",
+        "ende_numero": "368",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "371,401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06528620073482,
+          -22.937846112316766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4759,
+        "ponto_id": 91504,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R TORRINHA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06570663839112,
+          -22.939879130360662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4732,
+        "ponto_id": 91616,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R JOAO AMENDOLA",
+        "ende_numero": "104",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06582753036875,
+          -22.941741989965802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4761,
+        "ponto_id": 91812,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R JOAO AMENDOLA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0650344428506,
+          -22.943162016268218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4762,
+        "ponto_id": 91924,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R JOAO AMENDOLA",
+        "ende_numero": "530",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06438152861657,
+          -22.944305045938577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4763,
+        "ponto_id": 92044,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R SAO PEDRO DO TURVO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06303538412978,
+          -22.945869664671534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4764,
+        "ponto_id": 91922,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R SAO PEDRO DO TURVO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0595508734769,
+          -22.94422185808129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4765,
+        "ponto_id": 91928,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV JOAQUIM PAYOLLA",
+        "ende_numero": "23",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05770734679028,
+          -22.944516800151302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4766,
+        "ponto_id": 92068,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R STA CRUZ DAS PALMEIRAS",
+        "ende_numero": "1082",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058108385212925,
+          -22.94625081968771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4767,
+        "ponto_id": 92360,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R LUIZ MONTEMURRO",
+        "ende_numero": "120",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05945786218398,
+          -22.949931574431808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 190,
+        "num_linha": "402",
+        "sentido": 2,
+        "nome_linha": "RESIDENCIAL SIRIUS (INCLUSIVO)",
+        "extensao_m": 10247.44,
+        "ponto_gid": 4768,
+        "ponto_id": 92452,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R LINCOLN CLAUDINO GOMES JR",
+        "ende_numero": "250",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "401,402,430 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059515121508475,
+          -22.95133439472275
+        ]
+      }
+    }
+  ]
+}

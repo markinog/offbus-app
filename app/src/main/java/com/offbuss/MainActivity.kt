@@ -1,9 +1,11 @@
 package com.offbuss
 
+import android.content.Context
 import android.graphics.RectF
 import android.os.Bundle
 import android.view.Gravity
 import android.view.View
+import android.view.inputmethod.InputMethodManager
 import android.widget.GridLayout
 import android.widget.TextView
 import android.widget.Toast
@@ -12,7 +14,9 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import androidx.lifecycle.lifecycleScope
 import com.offbus.R
 import com.offbus.databinding.ActivityMainBinding
+import com.offbus.databinding.ItemLinhaBinding
 import com.offbuss.data.RouteRepository
+import com.offbuss.model.Route
 import com.offbuss.utils.MapStyleHelper
 import com.offbuss.utils.TileServer
 import kotlinx.coroutines.Dispatchers
@@ -20,6 +24,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import androidx.core.widget.doAfterTextChanged
 import org.maplibre.android.MapLibre
 import org.maplibre.android.camera.CameraUpdateFactory
 import org.maplibre.android.geometry.LatLng
@@ -41,18 +46,30 @@ class MainActivity : AppCompatActivity() {
         /** Raio da área de toque das paradas, em pixels de tela. */
         const val TOLERANCIA_TOQUE_PX = 24f
 
-        /**
-         * Roxo do traçado e das paradas.
-         *
-         * O mapa base não usa roxo em nenhuma camada — ao contrário do amarelo
-         * e do laranja, que compõem a hierarquia viária —, então o trajeto se
-         * destaca sem competir com as ruas.
-         */
-        const val COR_ROTA = "#673AB7"
+        /** Altura de cada item da lista de resultados — casada com item_linha.xml. */
+        const val ALTURA_ITEM_DP = 56
 
-        /** Mesma cor do traçado; separado para poderem divergir de novo. */
-        const val COR_PARADA = COR_ROTA
+        /**
+         * Quantos resultados a lista mostra antes de precisar rolar.
+         *
+         * Sem esse teto uma busca ampla empilharia dezenas de linhas e
+         * empurraria o mapa para fora da tela: a lista fica no mesmo
+         * LinearLayout vertical.
+         */
+        const val MAX_SUGESTOES_VISIVEIS = 5
+
+        /** Quantas buscas exibem a dica das paradas antes de ela parar de aparecer. */
+        const val MAX_DICAS = 2
     }
+
+    /**
+     * Azul escuro do traçado e das paradas — o mesmo `btn_outline` que
+     * contorna o campo de busca, para o mapa falar a língua da interface.
+     *
+     * Lido de colors.xml em vez de repetir o hex aqui: mexer na paleta da UI
+     * passa a arrastar o mapa junto.
+     */
+    private fun corDoTrajeto() = getColor(R.color.btn_outline)
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var repository: RouteRepository
@@ -64,7 +81,11 @@ class MainActivity : AppCompatActivity() {
     private var pendingRota:   String? = null
     private var pendingPontos: String? = null
     private var tileServer:    TileServer? = null
-    private var dicaExibida    = false
+
+    /** Quantas vezes a dica das paradas já apareceu — o teto é [MAX_DICAS]. */
+    private var dicasExibidas  = 0
+    /** Marca que a próxima rota renderizada deve vir acompanhada da dica. */
+    private var dicaPendente   = false
 
     // ─── onCreate ────────────────────────────────────────────────────
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -190,6 +211,11 @@ class MainActivity : AppCompatActivity() {
 
     // ─── Listeners ───────────────────────────────────────────────────
     private fun setupListeners() {
+        // A lista de resultados acompanha o que está sendo digitado
+        binding.etSearch.doAfterTextChanged { texto ->
+            atualizarSugestoes(texto?.toString().orEmpty())
+        }
+
         binding.btnSearch.setOnClickListener {
             val termo = binding.etSearch.text.toString().trim()
             if (termo.isEmpty()) {
@@ -213,25 +239,89 @@ class MainActivity : AppCompatActivity() {
         binding.btnItinerarios.setOnClickListener { mostrarHorarios() }
     }
 
+    /**
+     * Fecha o teclado e tira o foco do campo de busca.
+     *
+     * O manifesto usa adjustResize, então recolher o teclado devolve a altura
+     * ao mapa. O clearFocus evita o cursor piscando sobre um campo já usado.
+     */
+    private fun esconderTeclado() {
+        val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
+        imm.hideSoftInputFromWindow(binding.etSearch.windowToken, 0)
+        binding.etSearch.clearFocus()
+    }
+
     // ─── Busca ───────────────────────────────────────────────────────
+    /**
+     * Reflete o termo digitado na lista de resultados.
+     *
+     * Não abre linha nenhuma sozinha, nem quando sobra um resultado só: a
+     * escolha é sempre um toque do usuário, senão digitar "116" carregaria o
+     * mapa antes de ele terminar de escrever "1163".
+     */
+    private fun atualizarSugestoes(termo: String) {
+        val resultados = repository.search(termo)
+        if (resultados.isEmpty()) esconderSugestoes() else mostrarSugestoes(resultados)
+    }
+
+    private fun mostrarSugestoes(resultados: List<Route>) {
+        val container = binding.containerSugestoes
+        container.removeAllViews()
+
+        resultados.forEach { rota ->
+            val item = ItemLinhaBinding.inflate(layoutInflater, container, false)
+            item.tvNumeroLinha.text = rota.linha
+            item.tvPontosLinha.text = descricaoDosPontos(rota)
+            item.root.setOnClickListener { exibirResultado(rota.linha) }
+            container.addView(item.root)
+        }
+
+        // Teto de altura: o resto do que foi encontrado vem pela rolagem
+        val visiveis = minOf(resultados.size, MAX_SUGESTOES_VISIVEIS)
+        binding.scrollSugestoes.apply {
+            layoutParams = layoutParams.also { it.height = dp(ALTURA_ITEM_DP) * visiveis }
+            scrollTo(0, 0)
+            visibility = View.VISIBLE
+        }
+    }
+
+    private fun esconderSugestoes() {
+        binding.scrollSugestoes.visibility = View.GONE
+        binding.containerSugestoes.removeAllViews()
+    }
+
+    /**
+     * "Terminal Vida Nova / Campinas Shopping".
+     *
+     * Quando os dois extremos coincidem — o caso das circulares, como a 133 —
+     * repetir o nome só polui, então mostra apenas uma vez.
+     */
+    private fun descricaoDosPontos(rota: Route): String =
+        if (rota.pontoInicial.equals(rota.pontoFinal, ignoreCase = true)) rota.pontoInicial
+        else "${rota.pontoInicial} / ${rota.pontoFinal}"
+
     private fun buscarLinha(termo: String) {
         val resultados = repository.search(termo)
-        when {
-            resultados.isEmpty() -> Toast.makeText(
-                this, "Linha \"$termo\" não encontrada", Toast.LENGTH_LONG).show()
-
-            resultados.size == 1 -> exibirResultado(resultados.first())
-
-            else -> MaterialAlertDialogBuilder(this)
-                .setTitle("Selecione a linha")
-                .setItems(resultados.toTypedArray()) { _, i -> exibirResultado(resultados[i]) }
-                .show()
+        if (resultados.isEmpty()) {
+            Toast.makeText(this, "Linha \"$termo\" não encontrada", Toast.LENGTH_LONG).show()
+            return
         }
+        // A lista já está na tela; a lupa só tira o teclado da frente dela
+        esconderTeclado()
+        mostrarSugestoes(resultados)
     }
 
     private fun exibirResultado(linha: String) {
         currentLinha   = linha
         currentSentido = 1
+        // Agendada aqui e mostrada só quando a rota estiver desenhada
+        if (dicasExibidas < MAX_DICAS) dicaPendente = true
+
+        // Busca sem resultado é o único caso que mantém o teclado aberto,
+        // para o usuário corrigir o termo sem um toque a mais
+        esconderTeclado()
+        // A lista cumpriu seu papel — o espaço volta para o mapa
+        esconderSugestoes()
 
         binding.layoutSentido.visibility  = View.VISIBLE
         binding.btnSentido2.visibility    =
@@ -283,7 +373,7 @@ class MainActivity : AppCompatActivity() {
                 style.addSource(GeoJsonSource("route-source", geoJsonRota))
                 style.addLayer(
                     LineLayer("route-layer", "route-source").withProperties(
-                        PropertyFactory.lineColor(COR_ROTA),
+                        PropertyFactory.lineColor(corDoTrajeto()),
                         PropertyFactory.lineWidth(5f),
                         PropertyFactory.lineCap("round"),
                         PropertyFactory.lineJoin("round")
@@ -302,24 +392,24 @@ class MainActivity : AppCompatActivity() {
                 // A bolinha cresce com o zoom para o número caber e ficar legível
                 style.addLayer(
                     CircleLayer("stops-layer", "stops-source").withProperties(
-                        PropertyFactory.circleColor(COR_PARADA),
+                        PropertyFactory.circleColor(corDoTrajeto()),
                         PropertyFactory.circleRadius(
                             Expression.interpolate(
                                 Expression.linear(), Expression.zoom(),
-                                Expression.stop(9, 3f),
-                                Expression.stop(12, 5f),
-                                Expression.stop(14, 9f),
-                                Expression.stop(16, 14f),
-                                Expression.stop(18, 18f)
+                                Expression.stop(8, 3f),
+                                Expression.stop(11, 5f),
+                                Expression.stop(13, 8f),
+                                Expression.stop(15, 13f),
+                                Expression.stop(17, 18f)
                             )
                         ),
                         PropertyFactory.circleStrokeColor("#FFFFFF"),
                         PropertyFactory.circleStrokeWidth(
                             Expression.interpolate(
                                 Expression.linear(), Expression.zoom(),
-                                Expression.stop(12, 1.5f),
-                                Expression.stop(14, 2f),
-                                Expression.stop(16, 3f)
+                                Expression.stop(11, 1.5f),
+                                Expression.stop(13, 2f),
+                                Expression.stop(15, 3f)
                             )
                         )
                     )
@@ -335,15 +425,15 @@ class MainActivity : AppCompatActivity() {
                         PropertyFactory.textSize(
                             Expression.interpolate(
                                 Expression.linear(), Expression.zoom(),
-                                Expression.stop(14, 9f),
-                                Expression.stop(16, 13f),
-                                Expression.stop(18, 16f)
+                                Expression.stop(13, 9f),
+                                Expression.stop(15, 12f),
+                                Expression.stop(17, 15f)
                             )
                         ),
                         PropertyFactory.textColor("#FFFFFF"),
                         PropertyFactory.textAllowOverlap(true),
                         PropertyFactory.textIgnorePlacement(true)
-                    ).apply { minZoom = 14f }
+                    ).apply { minZoom = 13f }
                 )
             }
 
@@ -353,17 +443,22 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
-     * Dica sobre o toque nas paradas, na primeira vez que o mapa aparece.
+     * Dica sobre o toque nas paradas, nas duas primeiras linhas escolhidas.
+     *
+     * Quem dispara é a escolha na lista de resultados, não a renderização em
+     * si: alternar entre ida e volta também passa por aqui e gastaria as duas
+     * exibições sem o usuário ter buscado uma segunda linha.
      *
      * Só faz sentido depois que há um trajeto na tela: antes da busca o mapa
      * fica oculto e não há parada nenhuma para tocar.
      */
     private fun mostrarDicaDoMapa() {
-        if (dicaExibida) return
-        dicaExibida = true
+        if (!dicaPendente) return
+        dicaPendente = false
+        dicasExibidas++
 
         MaterialAlertDialogBuilder(this)
-            .setMessage("Dica: clique em qualquer ponto roxo do mapa para exibir informações detalhadas!")
+            .setMessage("Dica: clique em um dos pontos azuis no mapa para obter informações detalhadas!")
             .setPositiveButton("Entendi", null)
             .show()
     }

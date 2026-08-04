@@ -1,0 +1,2912 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3803,
+        "ponto_id": 92316,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666460745539,
+          -22.943631261724224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3667,
+        "ponto_id": 92196,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": "13",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03829438104556,
+          -22.94340097037754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3688,
+        "ponto_id": 92248,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039064416869806,
+          -22.943950080939597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3689,
+        "ponto_id": 92144,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039004208171725,
+          -22.942925910122206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3690,
+        "ponto_id": 92064,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R FELIPE CAMARAO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03812461516211,
+          -22.94144551633243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3691,
+        "ponto_id": 91140,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R SYNIRA DE ARRUDA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03965839270088,
+          -22.940412060856072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3804,
+        "ponto_id": 91836,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ARISTIDES XAVIER DE BRITO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04122179248645,
+          -22.93969117341795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3805,
+        "ponto_id": 91632,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MARIO AUGUSTO MDE ARAGAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04137850058524,
+          -22.937958290776685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4379,
+        "ponto_id": 91500,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MARIO AUGUSTO MUNIZ DE ARAGAO",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04203879148256,
+          -22.936618754385506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4892,
+        "ponto_id": 91436,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANTENOR BATISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044176258438696,
+          -22.936571305703296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4380,
+        "ponto_id": 91532,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R LUIZ MARIANO BUENO",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04521696057387,
+          -22.938247554357357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 6313,
+        "ponto_id": 91196,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "878",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04669423180688,
+          -22.935392363379275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3839,
+        "ponto_id": 91256,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1840",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04969080398494,
+          -22.93521740754623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4382,
+        "ponto_id": 91152,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "2295",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050825277336344,
+          -22.935001571859154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4383,
+        "ponto_id": 90972,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1783",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05317234666588,
+          -22.93142324799426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4384,
+        "ponto_id": 90804,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1475",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05420989674547,
+          -22.92946060354694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3820,
+        "ponto_id": 90580,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056291804498905,
+          -22.92542741688336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3821,
+        "ponto_id": 90428,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056925929493126,
+          -22.92292361488959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3822,
+        "ponto_id": 90348,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "585",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05666653457981,
+          -22.92159824728047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3823,
+        "ponto_id": 90196,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05674733831161,
+          -22.918740586941126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3824,
+        "ponto_id": 90076,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05820524249644,
+          -22.915896046718192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3825,
+        "ponto_id": 90056,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06144028316159,
+          -22.91497232373664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 5474,
+        "ponto_id": 90023,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ESTACAO BRS JOAO JORGE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06340202295382,
+          -22.91280493283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 6050,
+        "ponto_id": 402,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "VD MIGUEL VICENTE CURY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259567527385,
+          -22.908513288351152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 976,
+        "ponto_id": 480,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": "152",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06461739357475,
+          -22.908217180333725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 6213,
+        "ponto_id": 317,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "427",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064281330374065,
+          -22.906100515220594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 2717,
+        "ponto_id": 314,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "651",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0617827423814,
+          -22.905035974726985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 6092,
+        "ponto_id": 66,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061860235759305,
+          -22.903689748539417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 1865,
+        "ponto_id": 56,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062777754100175,
+          -22.902022390699354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 1210,
+        "ponto_id": 264,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DR ANTONIO A LOBO",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066266740489624,
+          -22.900219134259572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 1211,
+        "ponto_id": 388,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "666",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068015785169564,
+          -22.899760418640295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3164,
+        "ponto_id": 40004,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07017183887202,
+          -22.89931853978919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 2257,
+        "ponto_id": 40056,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1550",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07376288401277,
+          -22.8957081333477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 2258,
+        "ponto_id": 40076,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1756",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07467777550718,
+          -22.894007666932495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3168,
+        "ponto_id": 40112,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "2042",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07589575957379,
+          -22.891759478634963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 448,
+        "ponto_id": 40128,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.075850651580815,
+          -22.887460320680486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 449,
+        "ponto_id": 40152,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "582",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07453023316228,
+          -22.88527660771372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 450,
+        "ponto_id": 40176,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "920",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072881759618,
+          -22.882408338080158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 451,
+        "ponto_id": 40168,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R IMPZ LEOPOLDINA",
+        "ende_numero": "363",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0696772936308,
+          -22.881461086445196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4385,
+        "ponto_id": 40148,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R D PEDRO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06886676634889,
+          -22.88207939594558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4386,
+        "ponto_id": 30068,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R FREI MANOEL DA RESSURREICAO",
+        "ende_numero": "1693",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067895870805806,
+          -22.8827372538627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4387,
+        "ponto_id": 30100,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R JOAO BATISTA SIGNORI",
+        "ende_numero": "50",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06833515452909,
+          -22.881239225272584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4388,
+        "ponto_id": 30148,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R JOAO BATISTA SIGNORI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06873235887406,
+          -22.878582469500614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4389,
+        "ponto_id": 30168,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R JOAO BATISTA SIGNORI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06899664184882,
+          -22.876922318501446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4390,
+        "ponto_id": 30216,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "1662",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068855662073354,
+          -22.87505356963229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 1765,
+        "ponto_id": 30252,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "318",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06651959581005,
+          -22.87251162251332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 482,
+        "ponto_id": 30226,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06310746999701,
+          -22.872842025129277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 523,
+        "ponto_id": 30268,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332,351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06034051867486,
+          -22.87107113752258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3932,
+        "ponto_id": 30292,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "156",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05929811975085,
+          -22.869180914734788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 3933,
+        "ponto_id": 30312,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "336",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06034594823577,
+          -22.867346133751898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4391,
+        "ponto_id": 30364,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R JOAO CHATI",
+        "ende_numero": "550",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06254775282083,
+          -22.864665584843618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4392,
+        "ponto_id": 30404,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R DOS TUPINAS",
+        "ende_numero": "666",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06227978966762,
+          -22.863586477727516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4393,
+        "ponto_id": 30436,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DOS TUPINAS",
+        "ende_numero": "926",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06261296312132,
+          -22.86128553729159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4394,
+        "ponto_id": 30496,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DOS TUPINIQUINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062065829708075,
+          -22.858444852461567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4395,
+        "ponto_id": 30524,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R NICOLAU CERONE",
+        "ende_numero": "10",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06399244684612,
+          -22.857860767584505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 4396,
+        "ponto_id": 30556,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R NICOLAU CERONE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06421023953139,
+          -22.855976517147187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 145,
+        "num_linha": "377",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 17593.6,
+        "ponto_gid": 7593,
+        "ponto_id": 30665,
+        "ptseqlinha": 55.5,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": "1428",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "338,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061579095092355,
+          -22.854236684177202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 5256,
+        "ponto_id": 30692,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06034654482664,
+          -22.85201658216025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 7592,
+        "ponto_id": 30642,
+        "ptseqlinha": 51.5,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06134738959789,
+          -22.854117845299356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4397,
+        "ponto_id": 30588,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R DOMINGOS BORGES DE BARROS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06343572161237,
+          -22.854683378743896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4398,
+        "ponto_id": 30564,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R NICOLAU CERONE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06439660248191,
+          -22.85610184463021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4399,
+        "ponto_id": 30504,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R NICOLAU CERONE",
+        "ende_numero": "207",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064075805337225,
+          -22.857975153574813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4400,
+        "ponto_id": 30488,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DOS TUPINIQUINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062267718249,
+          -22.858539376313725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4401,
+        "ponto_id": 30444,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DOS TUPINAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062793770972135,
+          -22.861170253087554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4402,
+        "ponto_id": 30408,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R DOS TUPINAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06247773586153,
+          -22.863552403617668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4403,
+        "ponto_id": 30368,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R JOAO CHATI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06277274735348,
+          -22.864609361996372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3931,
+        "ponto_id": 30304,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06055472168016,
+          -22.867507376634432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4378,
+        "ponto_id": 30280,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05976409679357,
+          -22.86912874724364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 538,
+        "ponto_id": 30272,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "1939",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332,351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060474248710634,
+          -22.870901073697723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 539,
+        "ponto_id": 30248,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "787",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332,338,351,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06174370236895,
+          -22.87190536966388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 458,
+        "ponto_id": 30244,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,332,338,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06347272469812,
+          -22.87211134922351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 1771,
+        "ponto_id": 30256,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066558734736546,
+          -22.872087343051287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 841,
+        "ponto_id": 30236,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "813",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,332,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069478802965314,
+          -22.873754017500247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4404,
+        "ponto_id": 30212,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06928172638664,
+          -22.874991420197855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4405,
+        "ponto_id": 30172,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JOAO BATISTA SIGNORI",
+        "ende_numero": "523",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069143736896905,
+          -22.876962293716037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4406,
+        "ponto_id": 30140,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R JOAO BATISTA SIGNORI",
+        "ende_numero": "309",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06890190031773,
+          -22.878730126539672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4407,
+        "ponto_id": 30104,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R JOAO BATISTA SIGNORI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06855730676426,
+          -22.881104075782666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 488,
+        "ponto_id": 40172,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R IMPZ LEOPOLDINA",
+        "ende_numero": "370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069769832600244,
+          -22.881204482191826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 489,
+        "ponto_id": 40184,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07317028865365,
+          -22.882379206921932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 490,
+        "ponto_id": 40156,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "519",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074769541442514,
+          -22.885166373245152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 491,
+        "ponto_id": 40140,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV FRANCISCO JOSE DE CAMARGO ANDRADE",
+        "ende_numero": "197",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.076454107342464,
+          -22.888109438858407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 2247,
+        "ponto_id": 40100,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1991",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07588328306837,
+          -22.892229321439753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 2248,
+        "ponto_id": 40080,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1757",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07490583302719,
+          -22.893958737201967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 2249,
+        "ponto_id": 40052,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1553",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07387106157934,
+          -22.89586163969455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 2250,
+        "ponto_id": 40024,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "1249",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,242,311,361,377,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072742571486124,
+          -22.89808413247529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 5442,
+        "ponto_id": 40001,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R DR. DELFINO CINTRA",
+        "ende_numero": "892",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "311,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0705749703699,
+          -22.899326130147543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 5198,
+        "ponto_id": 64,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,219,220,249,348,377,382,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313967370005,
+          -22.901396209311446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3252,
+        "ponto_id": 300,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,330,333,348,371,377,390,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344523434786,
+          -22.906907478723305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 1255,
+        "ponto_id": 60004,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": "720",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449732219572,
+          -22.910510021387225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 1208,
+        "ponto_id": 60008,
+        "ptseqlinha": 83.5,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06485226139311,
+          -22.911777798123445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 5531,
+        "ponto_id": 90026,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06170631839999,
+          -22.912562901185296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 5679,
+        "ponto_id": 90027,
+        "ptseqlinha": 84.5,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05980475442011,
+          -22.913988769945206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3828,
+        "ponto_id": 90084,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05831031100682,
+          -22.91608842376829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3829,
+        "ponto_id": 90184,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05690363879418,
+          -22.918264054668192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3830,
+        "ponto_id": 90388,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "570",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056944808677315,
+          -22.92181040902628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3831,
+        "ponto_id": 90540,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "864",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05719669976278,
+          -22.92397456621238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3832,
+        "ponto_id": 90624,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1074",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056336664727226,
+          -22.92566201286203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4408,
+        "ponto_id": 90808,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1496",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05450733045664,
+          -22.92934336282789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4409,
+        "ponto_id": 90984,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053420784622766,
+          -22.93150561824843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4410,
+        "ponto_id": 91184,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "2300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05118046565368,
+          -22.934938931281568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3810,
+        "ponto_id": 91264,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049362563450124,
+          -22.93530602341101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4906,
+        "ponto_id": 91198,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "869",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0468943985149,
+          -22.93535492705637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4411,
+        "ponto_id": 91550,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R LUIZ MARIANO BUENO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0451931026541,
+          -22.9384062089715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 6327,
+        "ponto_id": 91456,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "R LUIZ MARIANO BUENO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04458858792598,
+          -22.937029212879803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 4412,
+        "ponto_id": 91508,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "R MARIO AUGUSTO MUNIZ DE ARAGAO",
+        "ende_numero": "476",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04218741101336,
+          -22.936706233736643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 5951,
+        "ponto_id": 91455,
+        "ptseqlinha": 97.5,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "11",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04111583564028,
+          -22.937987902777643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3844,
+        "ponto_id": 91852,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "R MANOEL JOSE PEDRO",
+        "ende_numero": "96",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04105478270531,
+          -22.93989151481011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3664,
+        "ponto_id": 92048,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "R FELIPE CAMARAO",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038354152264404,
+          -22.94148708278607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3665,
+        "ponto_id": 92116,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": "226",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03913240316737,
+          -22.94285253019792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3666,
+        "ponto_id": 92256,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03922366851239,
+          -22.94402422981228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3845,
+        "ponto_id": 92296,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "474",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038087657684464,
+          -22.944147207082743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3846,
+        "ponto_id": 92340,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "618",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03674796034797,
+          -22.944322159716062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 296,
+        "num_linha": "377",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 18518.95,
+        "ponto_gid": 3803,
+        "ponto_id": 92316,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666460745539,
+          -22.943631261724224
+        ]
+      }
+    }
+  ]
+}

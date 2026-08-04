@@ -1,0 +1,1112 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1843,
+        "ponto_id": 61960,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL ITAJAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18900371285108,
+          -22.961709055924793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1747,
+        "ponto_id": 62012,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R CELSO LOPES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190433610922064,
+          -22.962406227922344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1844,
+        "ponto_id": 62020,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "961",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.191066088266034,
+          -22.961186200510237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1845,
+        "ponto_id": 62028,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "793",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19197368551843,
+          -22.96018055784187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1862,
+        "ponto_id": 62008,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19244248495393,
+          -22.958289892416342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1863,
+        "ponto_id": 61992,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "341",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19245647953351,
+          -22.95635062955629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1864,
+        "ponto_id": 61940,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "204,213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19243031510966,
+          -22.95485751046994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 5510,
+        "ponto_id": 61941,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19236982931248,
+          -22.953449541975782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1679,
+        "ponto_id": 61900,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "17",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190654051893894,
+          -22.953213177438236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1680,
+        "ponto_id": 61860,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1888396171283,
+          -22.95222157401554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1681,
+        "ponto_id": 61792,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1061",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,207,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186662101189405,
+          -22.94935220956497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 12.5,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 732,
+        "ponto_id": 61584,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18169617529733,
+          -22.942356108987976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 693,
+        "ponto_id": 61164,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R WALDEMAR BENTO DE OLIVEIRA",
+        "ende_numero": "108",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,214,219,220,232,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.160451041698884,
+          -22.937029722089726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 6173,
+        "ponto_id": 60922,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "TERMINAL SATELITE IRIS BXC",
+        "ende_numero": "6792",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,213,214,219,220 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14589924735345,
+          -22.94182490290637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 2114,
+        "ponto_id": 60682,
+        "ptseqlinha": 15.5,
+        "ende_logradouro": "R HERMANO PENTEADO",
+        "ende_numero": "420",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,212,213,214,219,220,230,231,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1255947293037,
+          -22.926611784081267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 2174,
+        "ponto_id": 60632,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV GILBERTO TARGON",
+        "ende_numero": "120",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119682784984185,
+          -22.922777327342185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 435,
+        "ponto_id": 60484,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "1213",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11077843043799,
+          -22.919838754157905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 1873,
+        "ponto_id": 70316,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "214,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07918691872176,
+          -22.929975338656234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 252,
+        "num_linha": "214",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE MANOEL DA NOBREGA I",
+        "extensao_m": 22231.0,
+        "ponto_gid": 2026,
+        "ponto_id": 520,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06221223359081,
+          -22.909403463520643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 2026,
+        "ponto_id": 520,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06221223359081,
+          -22.909403463520643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 350,
+        "ponto_id": 90872,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,214,405,411,412,413,414,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06982180598191,
+          -22.929273021394312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1874,
+        "ponto_id": 70300,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07886576347251,
+          -22.92953248822957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 502,
+        "ponto_id": 60488,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R JOSE ROSOLEN ",
+        "ende_numero": "319",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111569209972984,
+          -22.919515916508686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 849,
+        "ponto_id": 60636,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "904",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1203915970536,
+          -22.922543301404602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 2113,
+        "ponto_id": 60688,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "MARGINAL AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12600701189634,
+          -22.926024507146842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 6175,
+        "ponto_id": 60966,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "TERMINAL SATELITE IRIS CXB",
+        "ende_numero": "6715",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,213,214,219,220 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.145272416983424,
+          -22.94200238506224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 726,
+        "ponto_id": 61136,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R TRINTA E NOVE",
+        "ende_numero": "8620",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "123,205,210,211,212,213,214,219,220,227,232,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16057860125078,
+          -22.936480369030622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 732,
+        "ponto_id": 61584,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18169617529733,
+          -22.942356108987976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1656,
+        "ponto_id": 61848,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18800618686535,
+          -22.951104476602158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1657,
+        "ponto_id": 61868,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "EST MUNIC DA PAZ",
+        "ende_numero": "1430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18943564432449,
+          -22.95211982259341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1658,
+        "ponto_id": 61928,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19173908960414,
+          -22.952854242548646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1678,
+        "ponto_id": 61952,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "215",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.193275559343824,
+          -22.953403435138092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1868,
+        "ponto_id": 61976,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19265706473073,
+          -22.954919100965938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1869,
+        "ponto_id": 61996,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.192748377275585,
+          -22.956269048245126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1870,
+        "ponto_id": 62004,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "504",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "213,214,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19273308305684,
+          -22.95789815004728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1858,
+        "ponto_id": 62048,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": "786",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19218950886851,
+          -22.96026703435914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1859,
+        "ponto_id": 62024,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R BENJAMIN MOLOISE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19125195555451,
+          -22.961279682211835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1860,
+        "ponto_id": 61972,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R CELSO SOARES COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "208,212,213,214,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18962460526339,
+          -22.961388017955613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 199,
+        "num_linha": "214",
+        "sentido": 2,
+        "nome_linha": "TERMINAL ITAJAI (SEMI EXPRESSA) (INCLUSIVO)",
+        "extensao_m": 21401.0,
+        "ponto_gid": 1843,
+        "ponto_id": 61960,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "TERMINAL ITAJAI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,214 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18900371285108,
+          -22.961709055924793
+        ]
+      }
+    }
+  ]
+}

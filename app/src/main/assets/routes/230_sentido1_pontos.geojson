@@ -1,0 +1,3187 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5487,
+        "ponto_id": 71153,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R BOA VISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113174817638416,
+          -22.92744567820652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 1161,
+        "ponto_id": 71240,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114207899074486,
+          -22.927729291737773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5492,
+        "ponto_id": 71237,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11532208071533,
+          -22.927789646314174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5493,
+        "ponto_id": 71243,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV GIUSEPPE CAGGIANO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11773873243562,
+          -22.92703339993297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5494,
+        "ponto_id": 71555,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ANTONIO CARLOS QUARIGUASI DA FROTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12022987968876,
+          -22.92801241191071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5495,
+        "ponto_id": 71587,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ANTONIO CARLOS QUARIGUASI DA FROTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119671909343886,
+          -22.930184877067287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5496,
+        "ponto_id": 71962,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "565",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12127121597841,
+          -22.930543030006806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2057,
+        "ponto_id": 60672,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "2292",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12264972540178,
+          -22.930295679487475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 7465,
+        "ponto_id": 60671,
+        "ptseqlinha": 8.1,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12422013957189,
+          -22.929889932067685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2058,
+        "ponto_id": 60696,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "183",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12602936898779,
+          -22.929778452220276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2059,
+        "ponto_id": 71891,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R FLAVIO BRAVO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126073896935786,
+          -22.93070066481736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2060,
+        "ponto_id": 71887,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R FLAVIO BRAVO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12472402858283,
+          -22.93185143544328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2061,
+        "ponto_id": 71895,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DR LAURO DE SOUSA LIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.126868723059495,
+          -22.931259664700903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2062,
+        "ponto_id": 60700,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV HOMERO VASCONCELOS DE SOUZA CAMARGO",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125661144297254,
+          -22.928971349407515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2063,
+        "ponto_id": 60676,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV HOMERO VASCONCELOS DE SOUZA CAMARGO",
+        "ende_numero": "400",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12483424643708,
+          -22.92795787636746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2064,
+        "ponto_id": 60639,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV HOMERO VASCONCELOS DE SOUZA CAMARGO",
+        "ende_numero": "660",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12316638314724,
+          -22.92608312841466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2065,
+        "ponto_id": 60637,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ALZIRA VIEGAS CORREA DE CASTRO",
+        "ende_numero": "43",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12285975292801,
+          -22.925311664862267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 826,
+        "ponto_id": 60668,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ODILA SEMIONATTI FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125228878920495,
+          -22.926460776000294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2174,
+        "ponto_id": 60632,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV GILBERTO TARGON",
+        "ende_numero": "120",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119682784984185,
+          -22.922777327342185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 434,
+        "ponto_id": 60596,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R GERALDO SUSSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1149773793349,
+          -22.921309893653437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 435,
+        "ponto_id": 60484,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "1213",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11077843043799,
+          -22.919838754157905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5666,
+        "ponto_id": 60452,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10758233988883,
+          -22.918768450383777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 436,
+        "ponto_id": 60412,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "613",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1055452451984,
+          -22.917671383985603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 437,
+        "ponto_id": 60392,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R OSWALDO OSCAR BARTHELSON",
+        "ende_numero": "293",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10289353601174,
+          -22.915618157092656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 438,
+        "ponto_id": 60356,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "3160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,242,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0941415951659,
+          -22.910089110484417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 439,
+        "ponto_id": 60232,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R JOSE MARIA LISBOA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,245,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08660990823094,
+          -22.909068314966888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 440,
+        "ponto_id": 60196,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CAD JOAO TEIXEIRA",
+        "ende_numero": "550",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085045687073375,
+          -22.908224389275663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 441,
+        "ponto_id": 60148,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV BR DE MONTE ALEGRE",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08345633555803,
+          -22.905808456998923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 442,
+        "ponto_id": 60132,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,220,230,240,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08276150392695,
+          -22.90366145360983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 443,
+        "ponto_id": 50112,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV DR ALBERTO SARMENTO",
+        "ende_numero": "4",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,230,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08207882151804,
+          -22.90058739832326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2066,
+        "ponto_id": 50072,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080404843725205,
+          -22.899552349482093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2067,
+        "ponto_id": 50040,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07884264873252,
+          -22.900228856250443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2068,
+        "ponto_id": 50032,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DR JOAQUIM DE SOUZA CAMPOS JR",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07720798232934,
+          -22.89931746532472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2069,
+        "ponto_id": 50020,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R SALUSTIANO PENTEADO",
+        "ende_numero": "407",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07550858788176,
+          -22.89969316925414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2070,
+        "ponto_id": 50012,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R. SALUSTIANO PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0729601282385,
+          -22.901023477699905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2251,
+        "ponto_id": 724,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R BR DE PARNAIBA",
+        "ende_numero": "615",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07131238963069,
+          -22.902538412193223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 982,
+        "ponto_id": 800,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "73",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,244,253,273,341,342,383,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07338580881725,
+          -22.90425635899394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 5927,
+        "ponto_id": 29,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1531",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06154500611738,
+          -22.90157397587873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 6047,
+        "ponto_id": 42,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059726545672966,
+          -22.90395563997701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2083,
+        "ponto_id": 20260,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044665683096724,
+          -22.876575425012113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2084,
+        "ponto_id": 20508,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04423663691774,
+          -22.86854483629112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2085,
+        "ponto_id": 20588,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0437874360404,
+          -22.86643245552569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2086,
+        "ponto_id": 20788,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043621739755025,
+          -22.861624904626677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2090,
+        "ponto_id": 21297,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R ROBERTO ABDALA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03283317665393,
+          -22.837807488255244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2091,
+        "ponto_id": 21299,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R TIZIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03306556786248,
+          -22.83885484888605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2054,
+        "ponto_id": 21293,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV PARQUE DOS RESEDAS S/N",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03457118972536,
+          -22.839815070698087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 250,
+        "num_linha": "230",
+        "sentido": 1,
+        "nome_linha": "TERMINAL OURO VERDE",
+        "extensao_m": 24685.56,
+        "ponto_gid": 2092,
+        "ponto_id": 21295,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV CAMBACICA",
+        "ende_numero": "1200",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034798141097056,
+          -22.83883262285725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2092,
+        "ponto_id": 21295,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV CAMBACICA",
+        "ende_numero": "1200",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034798141097056,
+          -22.83883262285725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2090,
+        "ponto_id": 21297,
+        "ptseqlinha": 57.2,
+        "ende_logradouro": "R ROBERTO ABDALA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03283317665393,
+          -22.837807488255244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2091,
+        "ponto_id": 21299,
+        "ptseqlinha": 57.4,
+        "ende_logradouro": "R TIZIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03306556786248,
+          -22.83885484888605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2054,
+        "ponto_id": 21293,
+        "ptseqlinha": 57.6,
+        "ende_logradouro": "AV PARQUE DOS RESEDAS S/N",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03457118972536,
+          -22.839815070698087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2097,
+        "ponto_id": 20780,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044052683192,
+          -22.86177239270054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2098,
+        "ponto_id": 20564,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04415418240289,
+          -22.866675742035344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2099,
+        "ponto_id": 20480,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04463979138665,
+          -22.869045854485837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2100,
+        "ponto_id": 20256,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04483082332286,
+          -22.87687095458897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 70.5,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2106,
+        "ponto_id": 712,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R MAJOR SOLON",
+        "ende_numero": "850",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058037876230784,
+          -22.891084232967252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 566,
+        "ponto_id": 324,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R MAJ SOLON",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058651325684366,
+          -22.89486657593452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 567,
+        "ponto_id": 216,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636459139415,
+          -22.89759761810051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 568,
+        "ponto_id": 204,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05533635544883,
+          -22.899341399579587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2405,
+        "ponto_id": 128,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06338612284813,
+          -22.90402903658218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 979,
+        "ponto_id": 636,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "472",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,212,230,242,251,253,256,260,261,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06905339089645,
+          -22.904253809528534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2046,
+        "ponto_id": 580,
+        "ptseqlinha": 83.1,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,251,253,256,260,261,264,289,299,318,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070823067941824,
+          -22.90234644940773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2111,
+        "ponto_id": 704,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "136",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,245,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07311216884708,
+          -22.90333568965631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 1903,
+        "ponto_id": 50022,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "442",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07567378599286,
+          -22.90207793706982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 1904,
+        "ponto_id": 50036,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "638",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07820392019202,
+          -22.90128082958847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2112,
+        "ponto_id": 50088,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08105245898399,
+          -22.90004220417862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 495,
+        "ponto_id": 60140,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,134,210,230,240,241 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08301080098858,
+          -22.903455329319353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 496,
+        "ponto_id": 60176,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084612856301646,
+          -22.90635237515265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 497,
+        "ponto_id": 60248,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087805701198135,
+          -22.908595194290964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 498,
+        "ponto_id": 60352,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV. JOSE MARIO DE ARRUDA TOLEDO",
+        "ende_numero": "2184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09500481518596,
+          -22.909730272500486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 499,
+        "ponto_id": 60396,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R JOSE ROSOLEN",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,241,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10444483882563,
+          -22.916194442096366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 501,
+        "ponto_id": 60456,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R JOSE ROSOLEN ",
+        "ende_numero": "791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10823760905479,
+          -22.918507021207088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 502,
+        "ponto_id": 60488,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "R JOSE ROSOLEN ",
+        "ende_numero": "319",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,213,214,219,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111569209972984,
+          -22.919515916508686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 503,
+        "ponto_id": 60600,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "1372",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,219,220,230,231,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115125802772575,
+          -22.920862143067627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 849,
+        "ponto_id": 60636,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "904",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1203915970536,
+          -22.922543301404602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2113,
+        "ponto_id": 60688,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "MARGINAL AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,211,212,213,214,219,220,230,231,239,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12600701189634,
+          -22.926024507146842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2114,
+        "ponto_id": 60682,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "R HERMANO PENTEADO",
+        "ende_numero": "420",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,211,212,213,214,219,220,230,231,246,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1255947293037,
+          -22.926611784081267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2115,
+        "ponto_id": 60663,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R JOAO BATISTA GARGANTINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12467572400412,
+          -22.925834983288038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2116,
+        "ponto_id": 60638,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "R ALZIRA VIEGAS CORREA DE CASTRO",
+        "ende_numero": "26",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12316292673805,
+          -22.92532006792654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2058,
+        "ponto_id": 60696,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "183",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12602936898779,
+          -22.929778452220276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2117,
+        "ponto_id": 71893,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "R DR LAURO DE SOUZA LIMA",
+        "ende_numero": "777",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12706818185007,
+          -22.931342290028105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2118,
+        "ponto_id": 71885,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "R FLAVIO BRAVO",
+        "ende_numero": "381",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12517970147435,
+          -22.93215281474466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2119,
+        "ponto_id": 71889,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R FLAVIO BRAVO",
+        "ende_numero": "105",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12543137592825,
+          -22.93092114490514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2120,
+        "ponto_id": 60704,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "396",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125764939797506,
+          -22.929881225724632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2121,
+        "ponto_id": 60680,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "R JULIO TIM",
+        "ende_numero": "396",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124070135081396,
+          -22.93012345282459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 2122,
+        "ponto_id": 60640,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "R ERCILIO DOS SANTOS FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12163125631862,
+          -22.929577856047352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 5671,
+        "ponto_id": 71588,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "3189",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11864005474351,
+          -22.931560378599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 5488,
+        "ponto_id": 71551,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "R ONESIMO ANTONIO PALOMBO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11815296926285,
+          -22.93023323367521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 5489,
+        "ponto_id": 71553,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "R ONESIMO ANTONIO PALOMBO",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11872002064607,
+          -22.92815201106067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 5490,
+        "ponto_id": 71241,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "AV GIUSEPPE CAGGIANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117621421675445,
+          -22.927295052190967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 5491,
+        "ponto_id": 71239,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "1591",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11539509321227,
+          -22.928034735720626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 430,
+        "ponto_id": 71248,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428138267521,
+          -22.928049918906368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 196,
+        "num_linha": "230",
+        "sentido": 2,
+        "nome_linha": "IPAUSSURAMA / PQ DAS RESEDAS",
+        "extensao_m": 25701.89,
+        "ponto_gid": 5487,
+        "ponto_id": 71153,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "R BOA VISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113174817638416,
+          -22.92744567820652
+        ]
+      }
+    }
+  ]
+}

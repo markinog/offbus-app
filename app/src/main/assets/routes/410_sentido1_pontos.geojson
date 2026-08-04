@@ -1,0 +1,2012 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4931,
+        "ponto_id": 80768,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R RODOLFO FAVALLI",
+        "ende_numero": "42",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09277268607666,
+          -22.983367137408656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4932,
+        "ponto_id": 80744,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALTHEA ASTOLFI FAVALLI",
+        "ende_numero": "195",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09210296123916,
+          -22.981623433359633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4927,
+        "ponto_id": 80746,
+        "ptseqlinha": 2.5,
+        "ende_logradouro": "R STA GINESTRETTE ASTOLFI",
+        "ende_numero": "63",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09160185293306,
+          -22.9825980017486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4933,
+        "ponto_id": 80792,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R NELSON TOGNOLO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0943461777482,
+          -22.98438588287606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4934,
+        "ponto_id": 80788,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R ALBERTO DEGRANDE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09647833900053,
+          -22.98397048139343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4935,
+        "ponto_id": 80796,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R PEDRINHA FRANCISCO BELDUCHI",
+        "ende_numero": "114",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09750800822647,
+          -22.984308389375347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4936,
+        "ponto_id": 80824,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R PEDRINHA FRANCISCO BELDUCHI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09782344750731,
+          -22.98497713626641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4937,
+        "ponto_id": 80848,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R SAMUEL SOARES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09881471785466,
+          -22.985863343415183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4938,
+        "ponto_id": 80856,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MANOELLA MARCOLINO DA SILVA DERIGO",
+        "ende_numero": "439",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09737178916251,
+          -22.987089276931396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4939,
+        "ponto_id": 80864,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JAIR FERREIRA",
+        "ende_numero": "484",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098825485686945,
+          -22.98770972293897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4940,
+        "ponto_id": 80881,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1002213154028,
+          -22.98847726066634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4941,
+        "ponto_id": 80887,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10026799561891,
+          -22.990335439795004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4942,
+        "ponto_id": 80889,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV EDUARDO ALVES DE LIMA",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1023635377862,
+          -22.990495502493868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4943,
+        "ponto_id": 80883,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0999653562231,
+          -22.98852019568773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4944,
+        "ponto_id": 80885,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "503",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101434211907595,
+          -22.987795833742595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4945,
+        "ponto_id": 80884,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ANTONIO CARLOS FOLEGATTI",
+        "ende_numero": "112",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101965093635116,
+          -22.986727406384677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4946,
+        "ponto_id": 80840,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R ANTONIO CARLOS FOLEGATTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101267369237966,
+          -22.98540733887037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4947,
+        "ponto_id": 80804,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ALBERTO DEGRANDE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100596640379905,
+          -22.983450457965375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4956,
+        "ponto_id": 80868,
+        "ptseqlinha": 18.1,
+        "ende_logradouro": "R MANOELLA MARCOLINO DA SILVA DERIGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10192213986699,
+          -22.98417594395849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4949,
+        "ponto_id": 80858,
+        "ptseqlinha": 18.2,
+        "ende_logradouro": "R JOSE FOLEGATTI",
+        "ende_numero": "250",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103533004320646,
+          -22.98498095408832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4950,
+        "ponto_id": 80862,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R RUTH PEREIRA ALTOLFI",
+        "ende_numero": "250",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10445647056287,
+          -22.98462924831427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4951,
+        "ponto_id": 80832,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ANTONIO CARLOS SEBASTIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103276048151734,
+          -22.984086745170636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 1408,
+        "ponto_id": 80844,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "6523",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104858854370605,
+          -22.983013728501223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 5819,
+        "ponto_id": 80798,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10465457066273,
+          -22.9815385238642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 4929,
+        "ponto_id": 80750,
+        "ptseqlinha": 22.5,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103831376274876,
+          -22.97897070416257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 1409,
+        "ponto_id": 80748,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103312000948684,
+          -22.97714435027694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 32.5,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 404,
+        "num_linha": "410",
+        "sentido": 1,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 15815.01,
+        "ponto_gid": 588,
+        "ponto_id": 292,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05947340031833,
+          -22.907839071624117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 588,
+        "ponto_id": 292,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05947340031833,
+          -22.907839071624117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 340,
+        "ponto_id": 16,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,410,413,416,BRT10,BRT11,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058078348641764,
+          -22.90079632306945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 344,
+        "ponto_id": 228,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "810",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,211,219,220,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06489354260516,
+          -22.90428961424405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 328,
+        "ponto_id": 80732,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10254796283547,
+          -22.974794384682248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4952,
+        "ponto_id": 80820,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104776439358126,
+          -22.981587640278274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 7185,
+        "ponto_id": 80850,
+        "ptseqlinha": 55.1,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10508172084028,
+          -22.982976211197418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4953,
+        "ponto_id": 80828,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ALBERTO DEGRANDE",
+        "ende_numero": "141",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10347972393712,
+          -22.983451833274522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4954,
+        "ponto_id": 80863,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R RUTH PEREIRA ASTOLFI",
+        "ende_numero": "300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10468626104759,
+          -22.984569230841387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4955,
+        "ponto_id": 80866,
+        "ptseqlinha": 57.1,
+        "ende_logradouro": "R JOSE FOLEGATTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10345077550896,
+          -22.985217126420274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4948,
+        "ponto_id": 80870,
+        "ptseqlinha": 57.2,
+        "ende_logradouro": "R JOSE FOLEGATTI",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10159975716138,
+          -22.984093736138046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4957,
+        "ponto_id": 80812,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R ALBERTO DEGRANDE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10055498093976,
+          -22.983637431934568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4958,
+        "ponto_id": 80836,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R ANTONIO CARLOS FOLEGATTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100867521344696,
+          -22.984450653251734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4959,
+        "ponto_id": 80880,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R ANTONIO CARLOS FOLEGATTI",
+        "ende_numero": "368",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10160302467256,
+          -22.9855519328571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4960,
+        "ponto_id": 80890,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R ANTONIO CARLOS FOLEGATTI",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251140841826,
+          -22.987362474280566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4961,
+        "ponto_id": 80886,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R JOSE DE BARROS SOUSA",
+        "ende_numero": "526",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10123012310449,
+          -22.98803605936463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4940,
+        "ponto_id": 80881,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1002213154028,
+          -22.98847726066634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4941,
+        "ponto_id": 80887,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10026799561891,
+          -22.990335439795004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4942,
+        "ponto_id": 80889,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV EDUARDO ALVES DE LIMA",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1023635377862,
+          -22.990495502493868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4943,
+        "ponto_id": 80883,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV ELZA TEROSSO ALITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0999653562231,
+          -22.98852019568773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4962,
+        "ponto_id": 80860,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R MANOELLA MARCOLINO DA SILVA DERIGO",
+        "ende_numero": "464",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09710399833668,
+          -22.987167932984494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4963,
+        "ponto_id": 80852,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R GELSUMINO LIZARDI",
+        "ende_numero": "270",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.098544268445075,
+          -22.98570731714519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4964,
+        "ponto_id": 80800,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R MARIA JOSE SIMOES AGUIAR",
+        "ende_numero": "384",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09723641042544,
+          -22.98412457047803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4928,
+        "ponto_id": 80766,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R STA BISNESTRETTE ASTOLFI",
+        "ende_numero": "82",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09136594378165,
+          -22.982527269526745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4930,
+        "ponto_id": 80764,
+        "ptseqlinha": 71.5,
+        "ende_logradouro": "R ADAMO ASTOLFI",
+        "ende_numero": "65",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "410 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09221191729646,
+          -22.982604209761544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 40,
+        "num_linha": "410",
+        "sentido": 2,
+        "nome_linha": "JARDIM SAN DIEGO",
+        "extensao_m": 19081.87,
+        "ponto_gid": 4931,
+        "ponto_id": 80768,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R RODOLFO FAVALLI",
+        "ende_numero": "42",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09277268607666,
+          -22.983367137408656
+        ]
+      }
+    }
+  ]
+}

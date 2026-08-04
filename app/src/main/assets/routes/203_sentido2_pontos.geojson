@@ -1,0 +1,937 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 5690,
+        "ponto_id": 61595,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE CXB",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,206,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18102896882364,
+          -22.942310394228894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1574,
+        "ponto_id": 61700,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "432",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.185666197209095,
+          -22.944560275961578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1575,
+        "ponto_id": 61780,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "796",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18684308721875,
+          -22.947732557819045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1656,
+        "ponto_id": 61848,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18800618686535,
+          -22.951104476602158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1657,
+        "ponto_id": 61868,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "EST MUNIC DA PAZ",
+        "ende_numero": "1430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18943564432449,
+          -22.95211982259341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1658,
+        "ponto_id": 61928,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19173908960414,
+          -22.952854242548646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1659,
+        "ponto_id": 62040,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.196283577303014,
+          -22.95401804926037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1660,
+        "ponto_id": 62104,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19795899513337,
+          -22.954816717067768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1654,
+        "ponto_id": 62128,
+        "ptseqlinha": 8.5,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20016333465974,
+          -22.955696110103705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 5814,
+        "ponto_id": 62188,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.202488349909295,
+          -22.956827704797348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1661,
+        "ponto_id": 62256,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "EST MUN CAMPO GRANDE ( RUA MARIA JOSE DE CAMPOS)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21451314686245,
+          -22.956213134668705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 5815,
+        "ponto_id": 62280,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R MARIA AMELIA RAMOS",
+        "ende_numero": "240",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21624922966088,
+          -22.957832204098978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1662,
+        "ponto_id": 62288,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R PROFA CLAUDIA MARIA LUZ XAVIER",
+        "ende_numero": "94",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21763454284926,
+          -22.958547955153463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1663,
+        "ponto_id": 62292,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R PIRILLO",
+        "ende_numero": "248",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2181572715087,
+          -22.95988321938465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1664,
+        "ponto_id": 62298,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R MARIA AMELIA RAMOS",
+        "ende_numero": "702",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.218889450219066,
+          -22.96133256218673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1665,
+        "ponto_id": 62296,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R GERALDO JOSE DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.217735763202725,
+          -22.961226637393096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1665,
+        "ponto_id": 62296,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R GERALDO JOSE DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.217735763202725,
+          -22.961226637393096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1666,
+        "ponto_id": 62284,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PIRILLO",
+        "ende_numero": "315",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21725304774326,
+          -22.959625487979785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1667,
+        "ponto_id": 62276,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R MARIA AMELIA RAMOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21602812485124,
+          -22.957911136409056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1668,
+        "ponto_id": 62252,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R MARIA JOSE DE CAMPOS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.214833683647484,
+          -22.954439467909218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1669,
+        "ponto_id": 62244,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R MARIA JOSE DE CAMPOS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21465998375758,
+          -22.95257383895243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1670,
+        "ponto_id": 62248,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R AUREA GONCALVES DAMASCENO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21542916253686,
+          -22.95132019254975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1671,
+        "ponto_id": 62264,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R LUIZ FERREIRA DA SILVA",
+        "ende_numero": "275",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.216350192062315,
+          -22.952356195645528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1672,
+        "ponto_id": 62268,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R LUIZ FERREIRA DA SILVA",
+        "ende_numero": "89",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21650618325657,
+          -22.95403120057556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1673,
+        "ponto_id": 62272,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "EST MUN CAMPO GRANDE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21582411049779,
+          -22.955216247172476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1682,
+        "ponto_id": 62260,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R NOVE (JD CAMPINA GRANDE) - ACESSO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.214650034386615,
+          -22.956410849021434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1674,
+        "ponto_id": 62184,
+        "ptseqlinha": 24.5,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20240659323752,
+          -22.95699088170244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1675,
+        "ponto_id": 62144,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": "1083",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19987227037576,
+          -22.955754529693145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1676,
+        "ponto_id": 62108,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA ( AV JUVENAL FERNADES)",
+        "ende_numero": "793",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.19791273740243,
+          -22.95496910725995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1677,
+        "ponto_id": 62044,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PROFA ARACY CAIXETA BARBOSA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,217 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.196345076234074,
+          -22.954232196918262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1678,
+        "ponto_id": 61952,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "215",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.193275559343824,
+          -22.953403435138092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1679,
+        "ponto_id": 61900,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R CLOVIS ANTONIO GARCIA",
+        "ende_numero": "17",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.190654051893894,
+          -22.953213177438236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1680,
+        "ponto_id": 61860,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1401",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1888396171283,
+          -22.95222157401554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1681,
+        "ponto_id": 61792,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R EDSON LUIZ RIGONATTO",
+        "ende_numero": "1061",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "203,204,206,207,208,212,213,214,215,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186662101189405,
+          -22.94935220956497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 1603,
+        "ponto_id": 61756,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": "701",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,203,204,206,207,208,212,213,214,215,216,217,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186343064931044,
+          -22.946534204167797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 686,
+        "ponto_id": 61664,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R MANOEL MACHADO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,202,203,204,206,207,208,212,213,214,215,216,217,218,219,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18503426172267,
+          -22.944450342494704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 407,
+        "num_linha": "203",
+        "sentido": 1,
+        "nome_linha": "CAMPINA GRANDE",
+        "extensao_m": 12249.19,
+        "ponto_gid": 687,
+        "ponto_id": 61580,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "TERMINAL BRT CAMPO GRANDE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "200,201,202,203,204,206,207,208,209,217,218 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.180489559938,
+          -22.94242597483818
+        ]
+      }
+    }
+  ]
+}

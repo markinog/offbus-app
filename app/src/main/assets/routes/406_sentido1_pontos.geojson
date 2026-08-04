@@ -1,0 +1,1587 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 7226,
+        "ponto_id": 70809,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "144,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09606102976175,
+          -22.935388100931625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4840,
+        "ponto_id": 70936,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R CARMINE ALBERTI",
+        "ende_numero": "262",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09518468126503,
+          -22.940671094858804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 629,
+        "ponto_id": 71008,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JOAO JOSE PEREIRA",
+        "ende_numero": "111",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09393363027471,
+          -22.94345714439031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4842,
+        "ponto_id": 71068,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R MANOEL A RUAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09408492097498,
+          -22.94488356697473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4843,
+        "ponto_id": 71108,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CAMPO GRANDE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09508756739395,
+          -22.94500601402342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4815,
+        "ponto_id": 71194,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV JOAO BATISTA ALVES DA SILVA TELES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097076579599126,
+          -22.945633970029522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5751,
+        "ponto_id": 71374,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOAO BATISTA ALVES DA SILVA TELES",
+        "ende_numero": "623",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097154373314616,
+          -22.94733456746145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5754,
+        "ponto_id": 71377,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOAO BATISTA  ALVES DA SILVA TELES",
+        "ende_numero": "329",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097836832649065,
+          -22.949698615288533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5756,
+        "ponto_id": 71383,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JOAO BATISTA ALVES DA SILVA TELES",
+        "ende_numero": "65",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099999698914644,
+          -22.951548889730798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 658,
+        "ponto_id": 71804,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101753847394825,
+          -22.954481416057305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 659,
+        "ponto_id": 71940,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "6497",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10259138149873,
+          -22.95597109769912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4824,
+        "ponto_id": 72100,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ALFREDO OCTAVIANO POMPEU DO AMARAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106747419033525,
+          -22.957368827799698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4825,
+        "ponto_id": 72076,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R PE VICTOR COELHO DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10718706615627,
+          -22.95639910028254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4826,
+        "ponto_id": 72028,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MARIA LUIZA MISSIO MINGONE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105553988410996,
+          -22.956687382365228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 660,
+        "ponto_id": 72092,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104677979852646,
+          -22.958820338845214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 661,
+        "ponto_id": 72204,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10677825130027,
+          -22.961314777039114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 662,
+        "ponto_id": 72264,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10809920372989,
+          -22.96463727390279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 663,
+        "ponto_id": 72344,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109450010479996,
+          -22.96634033690706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 664,
+        "ponto_id": 72428,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ALBINA SCARASSATTI MISSIO",
+        "ende_numero": "112",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11184538682223,
+          -22.96794695864267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4847,
+        "ponto_id": 72520,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": "424",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11249302828681,
+          -22.970664676635323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4848,
+        "ponto_id": 72580,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112427782888524,
+          -22.973010747198654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4849,
+        "ponto_id": 72596,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R CONSTANCIO FRANCISCO",
+        "ende_numero": "117",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11162233199315,
+          -22.974207804589216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4850,
+        "ponto_id": 72568,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10886341969775,
+          -22.974167654474428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5745,
+        "ponto_id": 72565,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10759416282732,
+          -22.974212422984138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4852,
+        "ponto_id": 72492,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "406",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10613593581121,
+          -22.973780235048995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4853,
+        "ponto_id": 72476,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R HERMINIO ANTONIO DA SILVA",
+        "ende_numero": "211",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105511028398524,
+          -22.97349839003878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4858,
+        "ponto_id": 72456,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10455311711071,
+          -22.97391778305514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5985,
+        "ponto_id": 72410,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10512161180832,
+          -22.971588798632656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5986,
+        "ponto_id": 73277,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R JOSE SUBTIL DA SILVA",
+        "ende_numero": "112",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10394827585455,
+          -22.97085431622335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5992,
+        "ponto_id": 73251,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R NARIR DA SILVA MONTEIRO",
+        "ende_numero": "72",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103287251136265,
+          -22.97039519186819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4861,
+        "ponto_id": 72412,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R NAIR DA SILVA MONTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10376776502591,
+          -22.97246404063489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4862,
+        "ponto_id": 72452,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10477466613448,
+          -22.97412522314884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5623,
+        "ponto_id": 72525,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R HORACIO COUTINHO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10516982381317,
+          -22.97545689247077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5624,
+        "ponto_id": 72527,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R JOSE PINTO DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10524767645423,
+          -22.977927387874796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 327,
+        "ponto_id": 72524,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R ELDORADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10363445554824,
+          -22.9759184448072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4854,
+        "ponto_id": 80704,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV ARY RODRIGUEZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10053274614911,
+          -22.974082375153287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4817,
+        "ponto_id": 80700,
+        "ptseqlinha": 37.5,
+        "ende_logradouro": "AV ARY RODRIGUEZ",
+        "ende_numero": "315",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100091401394245,
+          -22.973892414182625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4818,
+        "ponto_id": 72472,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R HERMINIO ANTONIO DA SILVA",
+        "ende_numero": "212",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10527586091774,
+          -22.97351117406477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4819,
+        "ponto_id": 72504,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "371",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10637796249471,
+          -22.973779365341187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5744,
+        "ponto_id": 72561,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "225",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10773190245865,
+          -22.974052218704013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4821,
+        "ponto_id": 72560,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "225",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10922187803264,
+          -22.97398527750169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4822,
+        "ponto_id": 72576,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": "709",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11225095225233,
+          -22.972948285809895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4823,
+        "ponto_id": 72508,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": "401",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1123230770715,
+          -22.970232441404544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 617,
+        "ponto_id": 72440,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV ALBINA SCARASSATTI MISSIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,405,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11202451625918,
+          -22.96809569460703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 618,
+        "ponto_id": 72348,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "7531",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109299873747744,
+          -22.96650510362136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 619,
+        "ponto_id": 72268,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "173",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107988500682175,
+          -22.964733710547183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 620,
+        "ponto_id": 72196,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "7329",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106349283710735,
+          -22.961298630125288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 621,
+        "ponto_id": 72096,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1044497714153,
+          -22.958926446542634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4844,
+        "ponto_id": 72016,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R MARIA LUIZA MISSIO MINGONE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1051179944568,
+          -22.95664749141737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4845,
+        "ponto_id": 72080,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PE VICTOR COELHO DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10726083221522,
+          -22.95628220455278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4846,
+        "ponto_id": 72120,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ALFREDO OCTAVIANO POMPEU DO AMARAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10699754350016,
+          -22.957435829749105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4827,
+        "ponto_id": 71928,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R ANTONIO MINGONE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10305606704847,
+          -22.95672517858264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 623,
+        "ponto_id": 71800,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101918923201524,
+          -22.955115771953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5755,
+        "ponto_id": 71381,
+        "ptseqlinha": 52.5,
+        "ende_logradouro": "R JOAO BATISTA  ALVES DA SILVA TELES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09830084166543,
+          -22.9510967987822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5753,
+        "ponto_id": 71379,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R FAUSTO ELISARIO CIRIBELLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09689628887295,
+          -22.948807313611976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 5752,
+        "ponto_id": 71378,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "R FAUSTO ELISARIO CIRIBELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09666399844908,
+          -22.947399469969064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4828,
+        "ponto_id": 71192,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R FAUSTO ELISARIO CIRIBELLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.096685851566036,
+          -22.94546670567416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4829,
+        "ponto_id": 71124,
+        "ptseqlinha": 54.5,
+        "ende_logradouro": "R CAMPO GRANDE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09523489366105,
+          -22.94521233796888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4830,
+        "ponto_id": 71056,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R MANOEL A RUAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09387777201636,
+          -22.944775801984672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 653,
+        "ponto_id": 70996,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R JOAO JOSE PEREIRA",
+        "ende_numero": "96",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093950256253066,
+          -22.94330462686402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 4832,
+        "ponto_id": 70928,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R CARMINE ALBERTI",
+        "ende_numero": "255",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09506967391872,
+          -22.940480142210856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 1045,
+        "ponto_id": 70848,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "161,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09677302708934,
+          -22.937188293281736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 376,
+        "num_linha": "406",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 22873.32,
+        "ponto_gid": 7226,
+        "ponto_id": 70809,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "144,406 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09606102976175,
+          -22.935388100931625
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1762 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3660,
+        "ponto_id": 91432,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04902203640655,
+          -22.937911683115786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3661,
+        "ponto_id": 91664,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "609",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046008069519466,
+          -22.940493795915458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3662,
+        "ponto_id": 91840,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04390716460893,
+          -22.940973552919356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3663,
+        "ponto_id": 91880,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "27",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04146540231736,
+          -22.940194716974602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3664,
+        "ponto_id": 92048,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R FELIPE CAMARAO",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038354152264404,
+          -22.94148708278607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3665,
+        "ponto_id": 92116,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": "226",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03913240316737,
+          -22.94285253019792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3666,
+        "ponto_id": 92256,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03922366851239,
+          -22.94402422981228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3845,
+        "ponto_id": 92296,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "474",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038087657684464,
+          -22.944147207082743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3846,
+        "ponto_id": 92340,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "618",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03674796034797,
+          -22.944322159716062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3803,
+        "ponto_id": 92316,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666460745539,
+          -22.943631261724224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3667,
+        "ponto_id": 92196,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": "13",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03829438104556,
+          -22.94340097037754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3668,
+        "ponto_id": 92220,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035834088332884,
+          -22.942298148505625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3669,
+        "ponto_id": 92092,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "1680",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03543361766763,
+          -22.94064462175903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3670,
+        "ponto_id": 91948,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03611204681713,
+          -22.93906324225561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3671,
+        "ponto_id": 91792,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "989",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03711078951818,
+          -22.937323550450362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3672,
+        "ponto_id": 91592,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "775",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038492821574756,
+          -22.935938514074994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3673,
+        "ponto_id": 91396,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040431266057894,
+          -22.934245952844798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3674,
+        "ponto_id": 91380,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JOAQUIM RAFAEL DA ROCHA SOBR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04128174991091,
+          -22.93431753012645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3675,
+        "ponto_id": 91164,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R COSME PELLEGRINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04329670611703,
+          -22.933409565597156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 4448,
+        "ponto_id": 91204,
+        "ptseqlinha": 19.5,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1051",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042825839355935,
+          -22.9323474397752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 4066,
+        "ponto_id": 91260,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03984805588377,
+          -22.931515277470538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 2533,
+        "ponto_id": 90036,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038233928312664,
+          -22.930164295582077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 2534,
+        "ponto_id": 91124,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2375",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03968052293307,
+          -22.92895699694896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 2535,
+        "ponto_id": 90968,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2035",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04196795406078,
+          -22.927187713493705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 2536,
+        "ponto_id": 90700,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1657",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04452428921101,
+          -22.92519311981067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 2537,
+        "ponto_id": 90600,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.047320154839525,
+          -22.922961936981704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1340,
+        "ponto_id": 90392,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "843",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05057490905114,
+          -22.920362040413647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1341,
+        "ponto_id": 90192,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "416",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05363194557468,
+          -22.917691695517995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1342,
+        "ponto_id": 90116,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054552698377144,
+          -22.91566565228239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1343,
+        "ponto_id": 90032,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "1184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056447894705094,
+          -22.91389241276101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 3676,
+        "ponto_id": 716,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749975098648,
+          -22.911696030271347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1344,
+        "ponto_id": 682,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,359,361,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05805776760592,
+          -22.91119540189555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 284,
+        "num_linha": "344",
+        "sentido": 1,
+        "nome_linha": "ESTACAO PARQUE PRADO  (INCLUSIVO)",
+        "extensao_m": 9586.74,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3677,
+        "ponto_id": 72,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "957",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05930243407126,
+          -22.90621581151629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1307,
+        "ponto_id": 488,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "565",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05757097351104,
+          -22.909343315874935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1359,
+        "ponto_id": 90012,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056269789620735,
+          -22.91196544793983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 7340,
+        "ponto_id": 90014,
+        "ptseqlinha": 37.1,
+        "ende_logradouro": "R ALVARO RIBEIRO",
+        "ende_numero": "280",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "173,253,341,342,344,345,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05536770427731,
+          -22.915383581991176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1360,
+        "ponto_id": 90124,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055373330368454,
+          -22.917090832933066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1361,
+        "ponto_id": 90224,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,366,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05410425406664,
+          -22.9193064600658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1362,
+        "ponto_id": 90416,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": "1004",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051756797352944,
+          -22.921324405327645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 1339,
+        "ponto_id": 90556,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV DA SAUDADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,253,341,342,344,345,346,349,359,403,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049408793474704,
+          -22.923198421176746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 2596,
+        "ponto_id": 90584,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1300",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0472673320709,
+          -22.923169809723422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 2597,
+        "ponto_id": 90788,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1680",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044524881837745,
+          -22.925398588550916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 2598,
+        "ponto_id": 90964,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "1992",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,344,345,346,349,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04225744507441,
+          -22.927247906871223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 2599,
+        "ponto_id": 91128,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": "2334",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0397171024441,
+          -22.929230887011204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 2600,
+        "ponto_id": 91248,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DA ABOLICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,342,344,345,346 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03839957176587,
+          -22.93036583935628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3678,
+        "ponto_id": 91236,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04025281798243,
+          -22.93137744330423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3679,
+        "ponto_id": 91172,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1070",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043047815509354,
+          -22.93213450154011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3680,
+        "ponto_id": 91280,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R COSME PELLEGRINI",
+        "ende_numero": "90",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04361276794537,
+          -22.933546602519716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3681,
+        "ponto_id": 91392,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R JOAQUIM RAFAEL DA ROCHA SOBR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0414000784023,
+          -22.934660153868492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3682,
+        "ponto_id": 91404,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04069976926685,
+          -22.934481741147927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3683,
+        "ponto_id": 91596,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "774",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03879185280962,
+          -22.936167503506528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3684,
+        "ponto_id": 91804,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "994",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03735083980627,
+          -22.937629495894623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3685,
+        "ponto_id": 91976,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "1220",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03625991721455,
+          -22.93945067112492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3686,
+        "ponto_id": 92096,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "1390",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035488957453786,
+          -22.940839999481913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3687,
+        "ponto_id": 92204,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R FRANCISCO BIANCHINI",
+        "ende_numero": "1698",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03584958258515,
+          -22.942191234091773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3845,
+        "ponto_id": 92296,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "474",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038087657684464,
+          -22.944147207082743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3846,
+        "ponto_id": 92340,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "618",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03674796034797,
+          -22.944322159716062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3803,
+        "ponto_id": 92316,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666460745539,
+          -22.943631261724224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3667,
+        "ponto_id": 92196,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": "13",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03829438104556,
+          -22.94340097037754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3688,
+        "ponto_id": 92248,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039064416869806,
+          -22.943950080939597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3689,
+        "ponto_id": 92144,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039004208171725,
+          -22.942925910122206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3690,
+        "ponto_id": 92064,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R FELIPE CAMARAO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03812461516211,
+          -22.94144551633243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3691,
+        "ponto_id": 91140,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R SYNIRA DE ARRUDA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03965839270088,
+          -22.940412060856072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3692,
+        "ponto_id": 91732,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041697900380804,
+          -22.94007129214672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3693,
+        "ponto_id": 91816,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "394",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04421254090457,
+          -22.94080672624557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3694,
+        "ponto_id": 91704,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV JOSE FONSECA ARRUDA",
+        "ende_numero": "648",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,408,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04628113557128,
+          -22.940015042407026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 113,
+        "num_linha": "344",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA /SHOPPING DOM PEDRO",
+        "extensao_m": 9790.38,
+        "ponto_gid": 3660,
+        "ponto_id": 91432,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04902203640655,
+          -22.937911683115786
+        ]
+      }
+    }
+  ]
+}

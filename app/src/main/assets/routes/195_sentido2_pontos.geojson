@@ -1,0 +1,1887 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1436,
+        "ponto_id": 81060,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10051703489021,
+          -23.027348948923603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1437,
+        "ponto_id": 81064,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10183337698074,
+          -23.027754719016887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 5807,
+        "ponto_id": 81084,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10131051854658,
+          -23.029137194526808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1438,
+        "ponto_id": 81096,
+        "ptseqlinha": 3.1,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100810617481066,
+          -23.030282140444502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1439,
+        "ponto_id": 81108,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": "94",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10179508647872,
+          -23.031235789767642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1440,
+        "ponto_id": 81144,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10377218311457,
+          -23.031527948107414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1441,
+        "ponto_id": 81164,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,190,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1059328917027,
+          -23.031570470369925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1442,
+        "ponto_id": 81176,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ANGELINO MACHADO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10770879350391,
+          -23.031294401947193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 5963,
+        "ponto_id": 81171,
+        "ptseqlinha": 7.1,
+        "ende_logradouro": "R PROJETADA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10782144418926,
+          -23.028603045975444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1443,
+        "ponto_id": 81124,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R LAZARO FERREIRA BARBOSA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11085914237482,
+          -23.028831368272606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1444,
+        "ponto_id": 81128,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R IRINEU DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11178630078964,
+          -23.02841789508346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1446,
+        "ponto_id": 81148,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113124877064195,
+          -23.028795106923045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1447,
+        "ponto_id": 81200,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114428133004964,
+          -23.030913394570266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1522,
+        "ponto_id": 81192,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116113134759104,
+          -23.029810349378405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1523,
+        "ponto_id": 81160,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11527410434495,
+          -23.028476373670355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1524,
+        "ponto_id": 81100,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": "958",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1139857853778,
+          -23.026351532719858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1525,
+        "ponto_id": 81088,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROJETADA (CAMPO BELO)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11526697927644,
+          -23.024912291432415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1526,
+        "ponto_id": 81076,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV QUATRO (RUA PROJETADA - CIDADE SINGER)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118258839443136,
+          -23.022960399623674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1527,
+        "ponto_id": 81072,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV QUATRO (RUA PROJETADA - CIDADE SINGER)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12080293444731,
+          -23.02152063401265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1406,
+        "ponto_id": 81056,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427374407243,
+          -23.00836313899027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 7183,
+        "ponto_id": 74773,
+        "ptseqlinha": 20.1,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.106464206207136,
+          -22.98701052606298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 20.1,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1408,
+        "ponto_id": 80844,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "6523",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104858854370605,
+          -22.983013728501223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 5819,
+        "ponto_id": 80798,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10465457066273,
+          -22.9815385238642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 4929,
+        "ponto_id": 80750,
+        "ptseqlinha": 22.5,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103831376274876,
+          -22.97897070416257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1409,
+        "ponto_id": 80748,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103312000948684,
+          -22.97714435027694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 1529,
+        "ponto_id": 424,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06243931787614,
+          -22.908989945387127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 24,
+        "num_linha": "195",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19192.73,
+        "ponto_gid": 5802,
+        "ponto_id": 81058,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV MARGINAL (RODV SANTOS DUMONT)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11665543410249,
+          -23.013461073463773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1529,
+        "ponto_id": 424,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06243931787614,
+          -22.908989945387127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 7339,
+        "ponto_id": 90054,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06391288281925,
+          -22.913611701255196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 347,
+        "ponto_id": 90088,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064523699286596,
+          -22.915609354700894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1413,
+        "ponto_id": 80740,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10323300425128,
+          -22.975080408445812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 7184,
+        "ponto_id": 73221,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10647315812685,
+          -22.985968158600002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1414,
+        "ponto_id": 81016,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11243821010972,
+          -23.00239739216577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 7181,
+        "ponto_id": 81057,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R SERGIO FERNANDES BORGES SOARES",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "189,192,195,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116194107908974,
+          -23.01027537122159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 7600,
+        "ponto_id": 81069,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV QUATRO (RUA PROJETADA - CIDADE SINGER)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12103911314984,
+          -23.021628200666555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 7601,
+        "ponto_id": 81074,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV QUATRO (RUA PROJETADA - CIDADE SINGER)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1188269437756,
+          -23.022933667020034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 7602,
+        "ponto_id": 81078,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R PROJETADA",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11552609388304,
+          -23.02508399238302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1528,
+        "ponto_id": 81104,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": "981",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11413715593006,
+          -23.02626239357922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 5803,
+        "ponto_id": 81156,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11544013803319,
+          -23.028383426087625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 5804,
+        "ponto_id": 81196,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DR MATHIAS JOSE DE BARROS PONIKWAR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116268121688506,
+          -23.029772346014045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 5823,
+        "ponto_id": 81208,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R MARIA DA GLORIA LEITE PENTEADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11554142164971,
+          -23.03064760750353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1456,
+        "ponto_id": 81204,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11426816607004,
+          -23.03099840620384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1457,
+        "ponto_id": 81152,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R WOITECOS S BERTONI",
+        "ende_numero": "414",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11298316184301,
+          -23.028875409642108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1459,
+        "ponto_id": 81136,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R IRINEU DOS SANTOS",
+        "ende_numero": "520",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11185426885341,
+          -23.02857457033141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1460,
+        "ponto_id": 81116,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R ALVARO SALVETTI",
+        "ende_numero": "0",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111094169135484,
+          -23.028535158048008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1461,
+        "ponto_id": 81172,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R ANGELINO MACHADO DOS SANTOS",
+        "ende_numero": "42",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10791750495068,
+          -23.031312113088177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 5964,
+        "ponto_id": 81173,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R PROJETADA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10808585780041,
+          -23.028599522418965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1462,
+        "ponto_id": 81168,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105865156483155,
+          -23.031782708616834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1432,
+        "ponto_id": 81140,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R LUIZ GEMIN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10362312149151,
+          -23.031700422343174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1433,
+        "ponto_id": 81112,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101590272472485,
+          -23.03133447508341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1434,
+        "ponto_id": 81092,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": "451",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10060961751472,
+          -23.030124619685143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1435,
+        "ponto_id": 81080,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R SALIM ZAIDAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10099274247153,
+          -23.029364730683778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 5808,
+        "ponto_id": 81068,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "354",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10178916494881,
+          -23.027877229591553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 370,
+        "num_linha": "195",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 19495.41,
+        "ponto_gid": 1436,
+        "ponto_id": 81060,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R ANTONIO MARIN ZAFALAO",
+        "ende_numero": "241",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "187,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10051703489021,
+          -23.027348948923603
+        ]
+      }
+    }
+  ]
+}

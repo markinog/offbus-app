@@ -1,0 +1,2837 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2198,
+        "ponto_id": 60616,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": "69",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118707581067994,
+          -22.910814540635354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2199,
+        "ponto_id": 60608,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117637880545075,
+          -22.913359357613647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2200,
+        "ponto_id": 60572,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PAPAGAIO",
+        "ende_numero": "167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11606448474422,
+          -22.914397211255462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2370,
+        "ponto_id": 60544,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV IBIRAPUERA",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11472728250371,
+          -22.916097245610498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2263,
+        "ponto_id": 60576,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R PELICANO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1163098646527,
+          -22.914437996048875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2231,
+        "ponto_id": 60604,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R PARDAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11715108215969,
+          -22.91311867100005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2232,
+        "ponto_id": 60612,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R PARDAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11830850595128,
+          -22.91069970610229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2371,
+        "ponto_id": 60548,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R EMA",
+        "ende_numero": "170",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11649895466226,
+          -22.90949868644824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2372,
+        "ponto_id": 60560,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EMA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11707400939208,
+          -22.9075881659666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2233,
+        "ponto_id": 60540,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": "1623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1164607071309,
+          -22.906963137987596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2234,
+        "ponto_id": 60528,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115076909875434,
+          -22.907541289336674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2373,
+        "ponto_id": 60504,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11348283862968,
+          -22.90840930855138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2374,
+        "ponto_id": 60472,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": "1125",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111776848412354,
+          -22.909390293346632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2375,
+        "ponto_id": 60436,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10946687214975,
+          -22.91081604610468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2376,
+        "ponto_id": 60408,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10789843855308,
+          -22.911813581721177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2206,
+        "ponto_id": 60404,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104913027876805,
+          -22.913695290727425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2207,
+        "ponto_id": 60388,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": "31",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10146593206916,
+          -22.914921482576425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 438,
+        "ponto_id": 60356,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "3160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,242,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0941415951659,
+          -22.910089110484417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 439,
+        "ponto_id": 60232,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOSE MARIA LISBOA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,245,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08660990823094,
+          -22.909068314966888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 440,
+        "ponto_id": 60196,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R CAD JOAO TEIXEIRA",
+        "ende_numero": "550",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085045687073375,
+          -22.908224389275663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 441,
+        "ponto_id": 60148,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BR DE MONTE ALEGRE",
+        "ende_numero": "35",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08345633555803,
+          -22.905808456998923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1899,
+        "ponto_id": 60120,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,231,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081568120107264,
+          -22.906496579246078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1900,
+        "ponto_id": 60092,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1969",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,231,245,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07874222684014,
+          -22.907879099170472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1901,
+        "ponto_id": 60060,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1661",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,231,245,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.076015481428584,
+          -22.90863004166475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1260,
+        "ponto_id": 60036,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1447",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07386649395952,
+          -22.90924081633316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1206,
+        "ponto_id": 60024,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1043",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07044617362287,
+          -22.910154606975325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1207,
+        "ponto_id": 60016,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "749",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067579441200664,
+          -22.910935221164653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1208,
+        "ponto_id": 60008,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06485226139311,
+          -22.911777798123445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1410,
+        "ponto_id": 100,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1064",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,245,249,344,345,346,359,362,385,395,403,408,409,489,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118631190197,
+          -22.9051948709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 6047,
+        "ponto_id": 42,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.059726545672966,
+          -22.90395563997701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2378,
+        "ponto_id": 20280,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04264061716342,
+          -22.87689260833314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2379,
+        "ponto_id": 20312,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1750",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040786023854956,
+          -22.87677748325782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2380,
+        "ponto_id": 20420,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R JOAO QUIRINO DO NASCIMENTO",
+        "ende_numero": "190",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036373110858776,
+          -22.876436470572305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2381,
+        "ponto_id": 20388,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R ERNANI PEREIRA LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03622640632688,
+          -22.87766119760178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2382,
+        "ponto_id": 20292,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV PALESTINA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03739878562231,
+          -22.879334006246246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2383,
+        "ponto_id": 20340,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "14",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03595776958519,
+          -22.87998854573082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2384,
+        "ponto_id": 20328,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "192",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034756678468696,
+          -22.881392436377855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2385,
+        "ponto_id": 20316,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "452",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03348873914626,
+          -22.88301447941636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2386,
+        "ponto_id": 20324,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "616",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03207459440488,
+          -22.884901099278675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2387,
+        "ponto_id": 10572,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1012",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03123714197881,
+          -22.887136134816235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 2388,
+        "ponto_id": 10540,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1200",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03274371470389,
+          -22.8888514313551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1802,
+        "ponto_id": 10448,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R AROLDO DE AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,260,338,381,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03424294170933,
+          -22.8929439766627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1803,
+        "ponto_id": 10492,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV IGUATEMI",
+        "ende_numero": "394",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,260,338,381,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03228393935975,
+          -22.893759718831475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1805,
+        "ponto_id": 10644,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02493600189711,
+          -22.892415535895406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 175,
+        "num_linha": "249",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI",
+        "extensao_m": 20197.59,
+        "ponto_gid": 1888,
+        "ponto_id": 432,
+        "ptseqlinha": 86.5,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06207872127707,
+          -22.90910848922887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 819,
+        "ponto_id": 400,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,171,193,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259875713149,
+          -22.908633523038432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1805,
+        "ponto_id": 10644,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02493600189711,
+          -22.892415535895406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1806,
+        "ponto_id": 10464,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV IGUATEMI (CRUZ. JOSE BONIFACIO)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,260,338,381,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03372974550927,
+          -22.89260612606853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2389,
+        "ponto_id": 10532,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1277",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,260,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03265644656285,
+          -22.889391341123403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2390,
+        "ponto_id": 10564,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1025",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031453697150006,
+          -22.888084472008646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2391,
+        "ponto_id": 20336,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "611",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03208082221585,
+          -22.884196831791368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2392,
+        "ponto_id": 20344,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "451",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03318571700999,
+          -22.88280538394654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2393,
+        "ponto_id": 20348,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "233",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034424369380176,
+          -22.881191572400024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2394,
+        "ponto_id": 20356,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "49",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0354861111382,
+          -22.879814024671045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2395,
+        "ponto_id": 20296,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV PALESTINA",
+        "ende_numero": "26",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03830924928179,
+          -22.87945795894373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2396,
+        "ponto_id": 20392,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ERNANI PEREIRA LOPES",
+        "ende_numero": "374",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036250455896635,
+          -22.877878194505577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2397,
+        "ponto_id": 20424,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOAO RODOLFO FORSTER",
+        "ende_numero": "349",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03461788552203,
+          -22.877555649362865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2369,
+        "ponto_id": 20412,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R COMEND DR ANTONIO POMPEU DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03605822064121,
+          -22.875934259203014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 4008,
+        "ponto_id": 20364,
+        "ptseqlinha": 70.3,
+        "ende_logradouro": "R ANALANDIA",
+        "ende_numero": "27",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,355,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040039744601415,
+          -22.876074368783673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2398,
+        "ponto_id": 20332,
+        "ptseqlinha": 70.5,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04038242899076,
+          -22.876516607336274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2399,
+        "ponto_id": 20284,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043309125145015,
+          -22.876920671958285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 76.4,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 76.5,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2106,
+        "ponto_id": 712,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R MAJOR SOLON",
+        "ende_numero": "850",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058037876230784,
+          -22.891084232967252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 566,
+        "ponto_id": 324,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R MAJ SOLON",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058651325684366,
+          -22.89486657593452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 567,
+        "ponto_id": 216,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636459139415,
+          -22.89759761810051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 568,
+        "ponto_id": 204,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05533635544883,
+          -22.899341399579587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2108,
+        "ponto_id": 4,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1281",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,243,249,253,255,265,271,355,368,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0597598004516,
+          -22.902106420109245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 5198,
+        "ponto_id": 64,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,219,220,249,348,377,382,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313967370005,
+          -22.901396209311446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1255,
+        "ponto_id": 60004,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": "720",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449732219572,
+          -22.910510021387225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1256,
+        "ponto_id": 60012,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06733399616718,
+          -22.91085201971397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1257,
+        "ponto_id": 60020,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1028",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06987672696359,
+          -22.910107953028398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1258,
+        "ponto_id": 60028,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071607285643935,
+          -22.90964735589475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1259,
+        "ponto_id": 60044,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07457536035846,
+          -22.90887378409123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1826,
+        "ponto_id": 60056,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R CEL ANTONIO ALVARO",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,220,231,245,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.076243141322614,
+          -22.906996906468724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1827,
+        "ponto_id": 60080,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "AV BUENO DE MIRANDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,220,231,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07914339289236,
+          -22.904227343994325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 1828,
+        "ponto_id": 60116,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R JOAQUIM ALVES DA COSTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,220,231,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08134111031019,
+          -22.904634681042026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 496,
+        "ponto_id": 60176,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R JOAQUIM VILLAC",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084612856301646,
+          -22.90635237515265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 497,
+        "ponto_id": 60248,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087805701198135,
+          -22.908595194290964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 498,
+        "ponto_id": 60352,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV. JOSE MARIO DE ARRUDA TOLEDO",
+        "ende_numero": "2184",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,210,211,212,220,230,231,240,241,249,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09500481518596,
+          -22.909730272500486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2187,
+        "ponto_id": 60386,
+        "ptseqlinha": 97.5,
+        "ende_logradouro": "R ALFREDO BATTIBUGLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.102500353716884,
+          -22.914255415382062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2188,
+        "ponto_id": 60402,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "R ALFREDO BATTIBUGLE",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1041019318249,
+          -22.91330296247848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2368,
+        "ponto_id": 60410,
+        "ptseqlinha": 98.5,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10779504355831,
+          -22.911676378657063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2400,
+        "ponto_id": 60432,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10934802055519,
+          -22.9106720980651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2401,
+        "ponto_id": 60468,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "AV PE MANOEL DA NOBREGA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111814969545826,
+          -22.909179170043085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2402,
+        "ponto_id": 60500,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113224087802884,
+          -22.908339988458845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2194,
+        "ponto_id": 60524,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11500835510782,
+          -22.90741716871847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2195,
+        "ponto_id": 60536,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "R TRANSAMAZONICA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11629989282407,
+          -22.90680332413267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2403,
+        "ponto_id": 60568,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "R EMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117257064610065,
+          -22.907679162278985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2404,
+        "ponto_id": 60552,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "R EMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116705892928145,
+          -22.90947128281269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2196,
+        "ponto_id": 60620,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R CORMORAO",
+        "ende_numero": "196",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119667430029736,
+          -22.907802918868693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 208,
+        "num_linha": "249",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 20446.42,
+        "ponto_gid": 2198,
+        "ponto_id": 60616,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "R CANARIO",
+        "ende_numero": "69",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,241,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118707581067994,
+          -22.910814540635354
+        ]
+      }
+    }
+  ]
+}

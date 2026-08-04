@@ -1,0 +1,1637 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4189,
+        "ponto_id": 91464,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R COLOMBA RICCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03105196861784,
+          -22.928917336487444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4190,
+        "ponto_id": 91468,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R COLOMBA RICCI",
+        "ende_numero": "387",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02901610504192,
+          -22.92792781491287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4149,
+        "ponto_id": 91472,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027390001482075,
+          -22.92560446753385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4150,
+        "ponto_id": 91364,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": "58",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02732735669914,
+          -22.922640909367818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4191,
+        "ponto_id": 91244,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R SERRA DA PEDRA BONITA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02858172848419,
+          -22.921416308069436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4192,
+        "ponto_id": 91116,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R DR LAERTE DE MORAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031011462938885,
+          -22.921381417431363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4193,
+        "ponto_id": 91100,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R PRAIA DE CAMBORIU",
+        "ende_numero": "195",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03132663256495,
+          -22.921020178715423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4194,
+        "ponto_id": 91096,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R PRAIA DE CAMBORIU",
+        "ende_numero": "29",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03028092914181,
+          -22.919682963570043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4195,
+        "ponto_id": 91036,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ELIAS DE OLIVEIRA SABOIA",
+        "ende_numero": "1271",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03134978906666,
+          -22.919349518702635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4196,
+        "ponto_id": 91004,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R SERRA DIAMANTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03160609700812,
+          -22.918522703331092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4197,
+        "ponto_id": 90816,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R SERRA D'AGUA",
+        "ende_numero": "404",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.033830374095004,
+          -22.9171569968126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4198,
+        "ponto_id": 90768,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV D OTAVIO CHAGAS DE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03617378065426,
+          -22.918220432937588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4199,
+        "ponto_id": 90704,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R PORTO FERREIRA",
+        "ende_numero": "727",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03749667712566,
+          -22.917611495903692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4200,
+        "ponto_id": 90724,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R JOAQUIM DE PAULA SOUSA",
+        "ende_numero": "1229",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037870493910766,
+          -22.918963244599272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4201,
+        "ponto_id": 90652,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOAQUIM DE PAULA SOUSA",
+        "ende_numero": "1053",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03936586830071,
+          -22.91844967063703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4202,
+        "ponto_id": 90524,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R DA ALAYDE NASCIMENTO DE LEMOS",
+        "ende_numero": "216",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04053586976736,
+          -22.916730064061277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 3000,
+        "ponto_id": 90396,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV DR ARLINDO JOAQUIM DE LEMOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04259652315546,
+          -22.914870707965292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4147,
+        "ponto_id": 90164,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,364,367,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04523754210021,
+          -22.91112684884943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4243,
+        "ponto_id": 90312,
+        "ptseqlinha": 18.5,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": "1089",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044595484188996,
+          -22.9141747445554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4077,
+        "ponto_id": 90328,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JOAQUIM ROBERTO DE AZEVEDO MARQUES",
+        "ende_numero": "77",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04479486414041,
+          -22.91526474207076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4078,
+        "ponto_id": 90356,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ALLAN KARDEC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045669323254344,
+          -22.91656099867166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4079,
+        "ponto_id": 90280,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": "445",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04751683226827,
+          -22.91635982556095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 4080,
+        "ponto_id": 90108,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05143733724012,
+          -22.91456843026212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 574,
+        "ponto_id": 676,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "391",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,349,367,385,389,395,397,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05657036676691,
+          -22.910620998767484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 1345,
+        "ponto_id": 356,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "678",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,341,342,344,345,346,349,359,367,385,389,395,397,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05962044127543,
+          -22.90825100459661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 1346,
+        "ponto_id": 142,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1010",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "173,250,341,342,349,367,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06099097804639,
+          -22.90559380263733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 6049,
+        "ponto_id": 126,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,341,342,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06341089430792,
+          -22.903766045738067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 364,
+        "num_linha": "367",
+        "sentido": 1,
+        "nome_linha": "PARQUE SAO JORGE",
+        "extensao_m": 9388.66,
+        "ponto_gid": 2831,
+        "ponto_id": 732,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,364,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07048078111939,
+          -22.90563865733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 2831,
+        "ponto_id": 732,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,364,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07048078111939,
+          -22.90563865733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 560,
+        "ponto_id": 672,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "776",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,241,242,245,364,367,368,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070345560994234,
+          -22.902011509970396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 561,
+        "ponto_id": 644,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06935239996936,
+          -22.898700473332593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 562,
+        "ponto_id": 556,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06656379160212,
+          -22.895515255382914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 3747,
+        "ponto_id": 28,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1639",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,352,359,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185769774488,
+          -22.900849963136597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 2525,
+        "ponto_id": 237,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "833",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05873811547088,
+          -22.907231275177224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 2993,
+        "ponto_id": 372,
+        "ptseqlinha": 39.5,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "669",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,361,366,367,395,403,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057827536584284,
+          -22.90883253210417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 748,
+        "ponto_id": 708,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "464",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05542831412575,
+          -22.910957810609975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4097,
+        "ponto_id": 90028,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R DR QUIRINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054069826996454,
+          -22.913061472773723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4098,
+        "ponto_id": 90112,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0515307856313,
+          -22.91472189813146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4099,
+        "ponto_id": 90180,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0495868188937,
+          -22.915599467224904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4100,
+        "ponto_id": 90288,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R FREI JOSE DO MONTE CARMELO",
+        "ende_numero": "438",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04750257267716,
+          -22.916540708970164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4101,
+        "ponto_id": 90368,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R ALLAN KARDEC",
+        "ende_numero": "121",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0455244167382,
+          -22.91676572394033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4102,
+        "ponto_id": 90320,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R JOAQUIM ROBERTO DE AZEVEDO MARQUES",
+        "ende_numero": "58",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04485983439195,
+          -22.91550197291428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4238,
+        "ponto_id": 90188,
+        "ptseqlinha": 46.5,
+        "ende_logradouro": "AV. PRINCESA D'OESTE",
+        "ende_numero": "1380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04482058938967,
+          -22.912008292634496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4206,
+        "ponto_id": 90408,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DA ALAYDE NASCIMENTO DE LEMOS",
+        "ende_numero": "423",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041150874573255,
+          -22.91462225019432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4207,
+        "ponto_id": 90460,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R DA ALAYDE NASCIMENTO DE LEMOS",
+        "ende_numero": "251",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04095465628896,
+          -22.916209815541475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4208,
+        "ponto_id": 90660,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R JOAQUIM DE PAULA SOUSA",
+        "ende_numero": "1042",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03944099280467,
+          -22.918619334596197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4209,
+        "ponto_id": 90740,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R JOAQUIM DE PAULA SOUSA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03794476767987,
+          -22.919210470724412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4210,
+        "ponto_id": 90712,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R PORTO FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03729643675728,
+          -22.917734408625787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4211,
+        "ponto_id": 90784,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV D OTAVIO CHAGAS DE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03602193875224,
+          -22.918419371178857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4212,
+        "ponto_id": 90800,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R SERRA D'AGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034356752355265,
+          -22.917111432828516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4213,
+        "ponto_id": 90996,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R SERRA DIAMANTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03173581430179,
+          -22.91839744984219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4214,
+        "ponto_id": 91044,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ELIAS DE OLIVEIRA SABOIA",
+        "ende_numero": "465",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03131113202141,
+          -22.91954944222599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4215,
+        "ponto_id": 91084,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R PRAIA DE CAMBORIU",
+        "ende_numero": "32",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03068395485481,
+          -22.919789937061722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4216,
+        "ponto_id": 91092,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R PRAIA DE CAMBORIU",
+        "ende_numero": "192",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031364087134804,
+          -22.920895925360465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4187,
+        "ponto_id": 91114,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DR LAERTE DE MORAES",
+        "ende_numero": "74",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03117913470199,
+          -22.92166206204278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4217,
+        "ponto_id": 91348,
+        "ptseqlinha": 59.5,
+        "ende_logradouro": "R PRAIA DA ENSEADA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02748723269289,
+          -22.92244305456542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4148,
+        "ponto_id": 91474,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R LUIZ CHIODETTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "366,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.027767009481906,
+          -22.92551244098001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 82,
+        "num_linha": "367",
+        "sentido": 2,
+        "nome_linha": "JARDIM BARONESA (INCLUSIVO)",
+        "extensao_m": 10303.72,
+        "ponto_gid": 4189,
+        "ponto_id": 91464,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R COLOMBA RICCI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03105196861784,
+          -22.928917336487444
+        ]
+      }
+    }
+  ]
+}

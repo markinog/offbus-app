@@ -1,0 +1,4362 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1179,
+        "ponto_id": 70339,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R JACY TEIXEIRA DE CAMARGO",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0768925427831,
+          -22.931859927163135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 642,
+        "ponto_id": 70352,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R JOAO CARLOS NOUGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07642164541991,
+          -22.933183971422718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 643,
+        "ponto_id": 70392,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079065249099,
+          -22.93301628749192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 644,
+        "ponto_id": 70396,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV ADAO FOCESI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08140108600287,
+          -22.932336657794355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 637,
+        "ponto_id": 70408,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV MOISES GADIA",
+        "ende_numero": "165",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083771565202795,
+          -22.93138935749775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1180,
+        "ponto_id": 70400,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV MOISES GADIA",
+        "ende_numero": "51",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08433789778088,
+          -22.930580793523824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1181,
+        "ponto_id": 70376,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R LARANJAL PAULISTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084967370808215,
+          -22.92873677285647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 7244,
+        "ponto_id": 70385,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": "392",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08704694957912,
+          -22.92665022634971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 7245,
+        "ponto_id": 70387,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": "572",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08874003509471,
+          -22.926089245025317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 7246,
+        "ponto_id": 70389,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": "826",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091128208981154,
+          -22.92614093301228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1182,
+        "ponto_id": 70448,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R REV CONSTANCIO HOMERO OMEGNA",
+        "ende_numero": "50",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09301785159306,
+          -22.925901354608374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1183,
+        "ponto_id": 70436,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R REV CONSTANCIO HOMERO OMEGNA",
+        "ende_numero": "290",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09389786055069,
+          -22.924006375852617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1184,
+        "ponto_id": 70412,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R REV CONSTANCIO HOMERO OMEGNA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09491938527165,
+          -22.92077775023903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1185,
+        "ponto_id": 70411,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": "709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09391686452049,
+          -22.921676600562513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1186,
+        "ponto_id": 70403,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": "503",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09293260097641,
+          -22.922650225315273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1187,
+        "ponto_id": 70397,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09143704569284,
+          -22.92376762372083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1188,
+        "ponto_id": 70380,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08913091340215,
+          -22.925191339817733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1189,
+        "ponto_id": 70348,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R ITUVERAVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0882528945418,
+          -22.92471521263711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1190,
+        "ponto_id": 70296,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R MARIA BIBIANA DO CARMO",
+        "ende_numero": "305",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08536263874161,
+          -22.924543223932634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1191,
+        "ponto_id": 70264,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R MARIA BIBIANA DO CARMO",
+        "ende_numero": "65",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08396988364598,
+          -22.92335937297373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1192,
+        "ponto_id": 70220,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV FRANCISCO DE PAULA OLIVEIRA NAZARE",
+        "ende_numero": "484",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084284704178586,
+          -22.921402705966152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1193,
+        "ponto_id": 70240,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV FRANCISCO DE PAULA OLIVEIRA NAZARE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08663376378589,
+          -22.91890906344181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1194,
+        "ponto_id": 70268,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV JOAO BATISTA MORATO DO CANTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08822335686356,
+          -22.91809588404523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1178,
+        "ponto_id": 70308,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DOIS CORREGOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09050146717581,
+          -22.918258663864655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1177,
+        "ponto_id": 70346,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DOIS CORREGOS",
+        "ende_numero": "304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092437738596004,
+          -22.917211285913226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 2324,
+        "ponto_id": 70284,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R RADION PODOLSKY",
+        "ende_numero": "515",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09086331109212,
+          -22.916485700672553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 2325,
+        "ponto_id": 70256,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R RODION PODOLSKY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08925086670407,
+          -22.916382974864373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 2326,
+        "ponto_id": 70180,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R RODION PODLSKY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08644127062853,
+          -22.915950023201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 5224,
+        "ponto_id": 70138,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PE JOSEPH BOUCHARD",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08348860314966,
+          -22.917555663105386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 5226,
+        "ponto_id": 70122,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PE JOSEPH BOUCHARD",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08165566459746,
+          -22.91949920066533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1292,
+        "ponto_id": 70128,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R CANDIDO MOTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07916856267014,
+          -22.91830328397631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1293,
+        "ponto_id": 70140,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R CAPAO BONITO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080359685182,
+          -22.917752870938518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1294,
+        "ponto_id": 70116,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R CAMPOS DO JORDAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080049820388936,
+          -22.917051408988655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1296,
+        "ponto_id": 70076,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R CAMPOS DO JORDAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07777526945337,
+          -22.9156932516768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 5389,
+        "ponto_id": 70077,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV JOAO BATISTA MORATO DO CANTO, EM FRENTE A IGREJA DO EVANGELHO QUADR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0786678462221,
+          -22.914959071389934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 5222,
+        "ponto_id": 70118,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV JOAO BATISTA MORATO DO CANTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083580560956726,
+          -22.9160211725618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1195,
+        "ponto_id": 70164,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "BALAO DO CURTUME",
+        "ende_numero": "1167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08418791724793,
+          -22.914529841447212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1196,
+        "ponto_id": 60220,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DR CARLOS DE CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084582329351186,
+          -22.912906248092483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1197,
+        "ponto_id": 60192,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV DR CARLOS DE CAMPOS",
+        "ende_numero": "775",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083251414888565,
+          -22.911530491121997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1198,
+        "ponto_id": 60168,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": "693",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082442621014756,
+          -22.911090610941248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1199,
+        "ponto_id": 60160,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": "557",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081267818648904,
+          -22.911669835002094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1200,
+        "ponto_id": 60136,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": "351",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07964152584579,
+          -22.91246542341263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1201,
+        "ponto_id": 60100,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077154819667385,
+          -22.912650410609142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1202,
+        "ponto_id": 60088,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R GEN LAURO SODRE",
+        "ende_numero": "411",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.075979557417085,
+          -22.912771174645897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1203,
+        "ponto_id": 60072,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV MANUEL DIAS DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074141849403595,
+          -22.912980400367296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1204,
+        "ponto_id": 60064,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV MANUEL DIAS DA SILVA",
+        "ende_numero": "381",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07239643054119,
+          -22.912665587289343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1205,
+        "ponto_id": 60032,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R AMADOR BUENO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071158667441765,
+          -22.911225862016156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1206,
+        "ponto_id": 60024,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1043",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07044617362287,
+          -22.910154606975325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1207,
+        "ponto_id": 60016,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "749",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067579441200664,
+          -22.910935221164653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1208,
+        "ponto_id": 60008,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06485226139311,
+          -22.911777798123445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 5931,
+        "ponto_id": 355,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "792",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "132,171,213,219,220,361 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06018305396933,
+          -22.907101292624283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 6092,
+        "ponto_id": 66,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1222",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061860235759305,
+          -22.903689748539417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1865,
+        "ponto_id": 56,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062777754100175,
+          -22.902022390699354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1210,
+        "ponto_id": 264,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R DR ANTONIO A LOBO",
+        "ende_numero": "326",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066266740489624,
+          -22.900219134259572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1211,
+        "ponto_id": 388,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "666",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,311,312,360,361,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068015785169564,
+          -22.899760418640295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 561,
+        "ponto_id": 644,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06935239996936,
+          -22.898700473332593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 562,
+        "ponto_id": 556,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06656379160212,
+          -22.895515255382914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 563,
+        "ponto_id": 680,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1444",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063876578259155,
+          -22.892367302030827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1212,
+        "ponto_id": 760,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1706",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06218771809582,
+          -22.890347242174965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1213,
+        "ponto_id": 20012,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "1992",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060607571679206,
+          -22.888211520638784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1214,
+        "ponto_id": 20044,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "2294",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058857933551295,
+          -22.885982344011627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1215,
+        "ponto_id": 20080,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "2564",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05740025912028,
+          -22.88409194868159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1216,
+        "ponto_id": 20104,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "2738",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05631210112393,
+          -22.88271112035216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1217,
+        "ponto_id": 30076,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R CASTRO ALVES",
+        "ende_numero": "660",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05751411281675,
+          -22.88113788356987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1218,
+        "ponto_id": 30052,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "511",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06110969326602,
+          -22.88203192592217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1219,
+        "ponto_id": 30064,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "227",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063956067846355,
+          -22.881992556538815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1220,
+        "ponto_id": 30080,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063616783611074,
+          -22.881051376281622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1221,
+        "ponto_id": 30128,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "534",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06019380533409,
+          -22.878745078832267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1222,
+        "ponto_id": 30136,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "916",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057485258244974,
+          -22.877724909394356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1223,
+        "ponto_id": 20220,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05197527667473,
+          -22.876477990244254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1224,
+        "ponto_id": 20252,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "1848",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04773929589063,
+          -22.8756734236134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1225,
+        "ponto_id": 20308,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R VITAL BRASIL",
+        "ende_numero": "680",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04385333422008,
+          -22.874775843755973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1226,
+        "ponto_id": 20416,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R DONA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042183322830205,
+          -22.87298835733294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1227,
+        "ponto_id": 20360,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04842254222939,
+          -22.87194009116322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 5934,
+        "ponto_id": 30237,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "1887",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05056480025805,
+          -22.872466360490865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1229,
+        "ponto_id": 30295,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05139329730899,
+          -22.870574712388084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1230,
+        "ponto_id": 30297,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": "211",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04967349863908,
+          -22.8688934862483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1231,
+        "ponto_id": 20610,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04868777482147,
+          -22.864422972104247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1228,
+        "ponto_id": 30232,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "1613",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05317506056598,
+          -22.873263812965988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1232,
+        "ponto_id": 20620,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R MIOSOTIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050211705217585,
+          -22.863937401307012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 527,
+        "ponto_id": 30420,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R DAS HORTENCIAS",
+        "ende_numero": "201",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05249054559712,
+          -22.862732928539213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1233,
+        "ponto_id": 30498,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R GIRASSOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05328465561882,
+          -22.858842901396127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 528,
+        "ponto_id": 30532,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R RUTE FERRAZ DE ANGELIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05470955209868,
+          -22.857862572423446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 529,
+        "ponto_id": 30560,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R RUTE FERRAZ DE ANGELIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05615154027574,
+          -22.855995824153442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 530,
+        "ponto_id": 30620,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV GUILHERME CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,329,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05821929817237,
+          -22.85339394831159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 288,
+        "num_linha": "171",
+        "sentido": 1,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 26857.76,
+        "ponto_gid": 1888,
+        "ponto_id": 432,
+        "ptseqlinha": 86.5,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06207872127707,
+          -22.90910848922887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 2934,
+        "ponto_id": 30672,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060433162064015,
+          -22.852383052870703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 531,
+        "ponto_id": 30584,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R ZERILLO PEREIRA LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795950650012,
+          -22.85464330573258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 532,
+        "ponto_id": 30552,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R ZERILLO PEREIRA LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "119,171,240 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0567377231307,
+          -22.85617142528904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 533,
+        "ponto_id": 30520,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R ZERILLO PEREIRA LOPES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05545570494308,
+          -22.857920372998443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 534,
+        "ponto_id": 30464,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R EUNICE VIRGINIA RAMOS NAVERO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05393795364868,
+          -22.860473318810612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 535,
+        "ponto_id": 30388,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R EUNICE VIRGINIA RAMOS NAVERO",
+        "ende_numero": "70",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053846709158876,
+          -22.863970403822698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 526,
+        "ponto_id": 30372,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05375062867268,
+          -22.86514185169582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1234,
+        "ponto_id": 30412,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R MIOSOTIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05203987269263,
+          -22.86425734158472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1235,
+        "ponto_id": 20622,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R MIOSOTIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05014581928834,
+          -22.86406590643584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1236,
+        "ponto_id": 20606,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04898928554824,
+          -22.864420261944808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1237,
+        "ponto_id": 30294,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050019449102656,
+          -22.8689654039757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1238,
+        "ponto_id": 30293,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052278099049495,
+          -22.870780238517337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1239,
+        "ponto_id": 30260,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV MARTIN AFONSO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054409170662545,
+          -22.871577968730463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1240,
+        "ponto_id": 30228,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "1641",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054357372352996,
+          -22.873411767959816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1241,
+        "ponto_id": 30240,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05882140441806,
+          -22.87240600528624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 539,
+        "ponto_id": 30248,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "787",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332,338,351,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06174370236895,
+          -22.87190536966388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 483,
+        "ponto_id": 30196,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "857",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06159183112396,
+          -22.873805012625432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 484,
+        "ponto_id": 30164,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "715",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06110276232378,
+          -22.8758734256933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 485,
+        "ponto_id": 30112,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "301",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06352771136184,
+          -22.87921534887774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 486,
+        "ponto_id": 30092,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "95",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06423976408573,
+          -22.88068740702943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1220,
+        "ponto_id": 30080,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063616783611074,
+          -22.881051376281622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1221,
+        "ponto_id": 30128,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "534",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06019380533409,
+          -22.878745078832267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1222,
+        "ponto_id": 30136,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "916",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057485258244974,
+          -22.877724909394356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1242,
+        "ponto_id": 20172,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "R CEL JOAQUIM JOSE DE OLIVEIRA",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054218732842116,
+          -22.879305393086227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1243,
+        "ponto_id": 20156,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05483970694479,
+          -22.8803334171482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1244,
+        "ponto_id": 20112,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R CASTRO ALVES",
+        "ende_numero": "413",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05578596450754,
+          -22.88259776356269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1247,
+        "ponto_id": 772,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,244,332,333,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06025929535158,
+          -22.889012607820163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1248,
+        "ponto_id": 664,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06288674497044,
+          -22.89239035651576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1249,
+        "ponto_id": 540,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R TIRADENTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06442777082549,
+          -22.894186398668257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 5198,
+        "ponto_id": 64,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,219,220,249,348,377,382,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313967370005,
+          -22.901396209311446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 819,
+        "ponto_id": 400,
+        "ptseqlinha": 111.5,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,171,193,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259875713149,
+          -22.908633523038432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1255,
+        "ponto_id": 60004,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": "720",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449732219572,
+          -22.910510021387225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1256,
+        "ponto_id": 60012,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06733399616718,
+          -22.91085201971397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1257,
+        "ponto_id": 60020,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1028",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06987672696359,
+          -22.910107953028398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1258,
+        "ponto_id": 60028,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071607285643935,
+          -22.90964735589475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1259,
+        "ponto_id": 60044,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07457536035846,
+          -22.90887378409123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1260,
+        "ponto_id": 60036,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "1447",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07386649395952,
+          -22.90924081633316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1261,
+        "ponto_id": 60040,
+        "ptseqlinha": 118.0,
+        "ende_logradouro": "R FRANCISCO EGIDIO",
+        "ende_numero": "198",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072420598532794,
+          -22.911538143250134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1262,
+        "ponto_id": 60052,
+        "ptseqlinha": 119.0,
+        "ende_logradouro": "AV MANUEL DIAS DA SILVA",
+        "ende_numero": "388",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07250500382254,
+          -22.9124108484966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1263,
+        "ponto_id": 60068,
+        "ptseqlinha": 120.0,
+        "ende_logradouro": "AV MANUEL DIAS DA SILVA",
+        "ende_numero": "588",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07439354200272,
+          -22.91284931836907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1264,
+        "ponto_id": 60084,
+        "ptseqlinha": 121.0,
+        "ende_logradouro": "R GEN LAURO SODRE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07595685215741,
+          -22.912573400497973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1265,
+        "ponto_id": 60112,
+        "ptseqlinha": 122.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": "150",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077667296570894,
+          -22.91263075746267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1266,
+        "ponto_id": 60124,
+        "ptseqlinha": 123.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07931047292186,
+          -22.912318413395088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1267,
+        "ponto_id": 60152,
+        "ptseqlinha": 124.0,
+        "ende_logradouro": "R FRANCISCO DE ASSIS PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08136408053354,
+          -22.911367353368814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1268,
+        "ponto_id": 60172,
+        "ptseqlinha": 125.0,
+        "ende_logradouro": "AV DR CARLOS DE CAMPOS",
+        "ende_numero": "704",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171,245 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08302702611336,
+          -22.91088342591679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1269,
+        "ponto_id": 60224,
+        "ptseqlinha": 126.0,
+        "ende_logradouro": "AV DR CARLOS DE CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08466693517494,
+          -22.912667796202847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1270,
+        "ponto_id": 70172,
+        "ptseqlinha": 127.0,
+        "ende_logradouro": "AV DR CARLOS DE CAMPOS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084838027515154,
+          -22.91451507768249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 5221,
+        "ponto_id": 70110,
+        "ptseqlinha": 127.4,
+        "ende_logradouro": "AV JOAO BATISTA MORATO DO CANTO",
+        "ende_numero": "1131",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08221934450598,
+          -22.91576846578074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 4500,
+        "ponto_id": 70082,
+        "ptseqlinha": 127.6,
+        "ende_logradouro": "R FRANCISCO MORATO DO CANTO",
+        "ende_numero": "731",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07926865169842,
+          -22.915147289480167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1295,
+        "ponto_id": 70080,
+        "ptseqlinha": 127.8,
+        "ende_logradouro": "R CAMPOS DO JORDAO",
+        "ende_numero": "71",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07817457824797,
+          -22.91548164951506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1297,
+        "ponto_id": 70120,
+        "ptseqlinha": 128.0,
+        "ende_logradouro": "R CAMPOS DO JORDAO",
+        "ende_numero": "276",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080157303186816,
+          -22.91683658301067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1298,
+        "ponto_id": 70148,
+        "ptseqlinha": 128.2,
+        "ende_logradouro": "R CAPAO BONITO",
+        "ende_numero": "163",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08049782765965,
+          -22.9178602099806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1299,
+        "ponto_id": 70132,
+        "ptseqlinha": 128.4,
+        "ende_logradouro": "R CANDIDO MOTA",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07918199500087,
+          -22.918501811954613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 5225,
+        "ponto_id": 70126,
+        "ptseqlinha": 128.6,
+        "ende_logradouro": "AV PE JOSEPH BOUCHARD",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081481771423746,
+          -22.919181625044757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 5223,
+        "ponto_id": 70158,
+        "ptseqlinha": 128.8,
+        "ende_logradouro": "AV PE JOSEPH BOUCHARD",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08319867372041,
+          -22.91733485550827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1195,
+        "ponto_id": 70164,
+        "ptseqlinha": 129.0,
+        "ende_logradouro": "BALAO DO CURTUME",
+        "ende_numero": "1167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08418791724793,
+          -22.914529841447212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 2327,
+        "ponto_id": 70188,
+        "ptseqlinha": 129.2,
+        "ende_logradouro": "R JOSE DE CARVALHO MIRANDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08576272237371,
+          -22.91511863918408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 2275,
+        "ponto_id": 70248,
+        "ptseqlinha": 130.0,
+        "ende_logradouro": "R DR JULIO RIBEIRO DE MENEZES",
+        "ende_numero": "438",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,242 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089815082823584,
+          -22.91582476419163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 5974,
+        "ponto_id": 70282,
+        "ptseqlinha": 130.1,
+        "ende_logradouro": "ACESSO PERIMETRAL BRT",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09264941568634,
+          -22.916293023836253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1271,
+        "ponto_id": 70328,
+        "ptseqlinha": 131.0,
+        "ende_logradouro": "R DR BENEDITO CUNHA CAMPOS",
+        "ende_numero": "259",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09268010565175,
+          -22.917924535839777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1272,
+        "ponto_id": 70312,
+        "ptseqlinha": 132.0,
+        "ende_logradouro": "R DR BENEDITO CUNHA CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09089728904624,
+          -22.918935303171832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1273,
+        "ponto_id": 70272,
+        "ptseqlinha": 133.0,
+        "ende_logradouro": "AV JOAO BATISTA MORATO DO CANTO",
+        "ende_numero": "1855",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08865643448285,
+          -22.918577687964103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1274,
+        "ponto_id": 70244,
+        "ptseqlinha": 134.0,
+        "ende_logradouro": "AV FRANCISCO DE PAULA OLIVEIRA NAZARE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08672297266554,
+          -22.919139092839075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1275,
+        "ponto_id": 70228,
+        "ptseqlinha": 135.0,
+        "ende_logradouro": "AV FRANCISCO DE PAULA OLIVEIRA NAZARE",
+        "ende_numero": "559",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08479082614875,
+          -22.921095343883685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1276,
+        "ponto_id": 70252,
+        "ptseqlinha": 136.0,
+        "ende_logradouro": "R JACINTA ROSA DE SAO JOSE",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08337292144897,
+          -22.92329381292741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1277,
+        "ponto_id": 70288,
+        "ptseqlinha": 137.0,
+        "ende_logradouro": "R MARIA BIBIANA DO CARMO",
+        "ende_numero": "208",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085117876734046,
+          -22.924118341101885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1278,
+        "ponto_id": 70292,
+        "ptseqlinha": 138.0,
+        "ende_logradouro": "R ANTONIO JOSE DA SILVA MARTELINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0873238225243,
+          -22.922161012228656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1279,
+        "ponto_id": 70336,
+        "ptseqlinha": 139.0,
+        "ende_logradouro": "R JOAO BATISTA ALVES DE SOUSA",
+        "ende_numero": "37",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089038910351015,
+          -22.922573409981865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1280,
+        "ponto_id": 70360,
+        "ptseqlinha": 140.0,
+        "ende_logradouro": "R ITUVERAVA",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088715813974694,
+          -22.92506563553571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1281,
+        "ponto_id": 70395,
+        "ptseqlinha": 141.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091289127748105,
+          -22.923677760093447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1282,
+        "ponto_id": 70401,
+        "ptseqlinha": 142.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": "476",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09286932178312,
+          -22.92250255279664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1283,
+        "ponto_id": 70409,
+        "ptseqlinha": 143.0,
+        "ende_logradouro": "R JOANOPOLIS",
+        "ende_numero": "668",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09387047796724,
+          -22.92151931676809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1284,
+        "ponto_id": 70456,
+        "ptseqlinha": 144.0,
+        "ende_logradouro": "R REV CONSTANCIO HOMERO OMEGNA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09513835602984,
+          -22.92125414439187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1285,
+        "ponto_id": 70444,
+        "ptseqlinha": 145.0,
+        "ende_logradouro": "R REV CONSTANCIO HOMERO OMEGNA",
+        "ende_numero": "291",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09426558794327,
+          -22.923779983328657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1286,
+        "ponto_id": 70452,
+        "ptseqlinha": 146.0,
+        "ende_logradouro": "R REV CONSTANCIO HOMERO OMEGNA",
+        "ende_numero": "43",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093155889740046,
+          -22.925944402293094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1287,
+        "ponto_id": 70428,
+        "ptseqlinha": 147.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": "755",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090934748103685,
+          -22.92638119169872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1288,
+        "ponto_id": 70394,
+        "ptseqlinha": 148.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08860667137104,
+          -22.926366795251475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1289,
+        "ponto_id": 70374,
+        "ptseqlinha": 149.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08718972630173,
+          -22.92695382403669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1290,
+        "ponto_id": 70364,
+        "ptseqlinha": 150.0,
+        "ende_logradouro": "R FRANCO DA ROCHA",
+        "ende_numero": "95",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.085627881890964,
+          -22.927890405347796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1291,
+        "ponto_id": 70320,
+        "ptseqlinha": 151.0,
+        "ende_logradouro": "R JACY TEIXEIRA DE CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08220986485057,
+          -22.928488417960807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 639,
+        "ponto_id": 70324,
+        "ptseqlinha": 152.0,
+        "ende_logradouro": "R JACY TEIXEIRA DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,171,382 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07903907814388,
+          -22.93047488880134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 117,
+        "num_linha": "171",
+        "sentido": 2,
+        "nome_linha": "VILA PALMEIRAS (INCLUSIVO)",
+        "extensao_m": 28602.29,
+        "ponto_gid": 1179,
+        "ponto_id": 70339,
+        "ptseqlinha": 153.0,
+        "ende_logradouro": "R JACY TEIXEIRA DE CAMARGO",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0768925427831,
+          -22.931859927163135
+        ]
+      }
+    }
+  ]
+}

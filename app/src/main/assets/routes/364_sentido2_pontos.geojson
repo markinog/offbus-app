@@ -1,0 +1,1487 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 7443,
+        "ponto_id": 92002,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV LAGEADO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024078583187084,
+          -22.918808024402423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3018,
+        "ponto_id": 90932,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R SERRA DOS CRISTAIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02940734462794,
+          -22.913299851195017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3019,
+        "ponto_id": 90948,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R SERRA DO UMBUZEIRO",
+        "ende_numero": "146",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029799785219346,
+          -22.914413498437373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3020,
+        "ponto_id": 90868,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R SERRA DO UMBUZEIRO",
+        "ende_numero": "350",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03168580968572,
+          -22.9148285011967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3021,
+        "ponto_id": 90832,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R SERRA DAS LAVRAS",
+        "ende_numero": "220",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03327376427396,
+          -22.91656647131873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3022,
+        "ponto_id": 90756,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R SERRA D'AGUA",
+        "ende_numero": "745",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03508919095614,
+          -22.916385403404355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3023,
+        "ponto_id": 90680,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R SERRA D'AGUA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03617192792913,
+          -22.91542872780633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3024,
+        "ponto_id": 90572,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV IMPZ DONA AMELIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03810474544221,
+          -22.91476249132651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3025,
+        "ponto_id": 90476,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R BOAVENTURA LEMOS",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039355719919556,
+          -22.91355599858328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3026,
+        "ponto_id": 90384,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "AV IMPZ DONA AMELIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040428340892184,
+          -22.91144944133777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3027,
+        "ponto_id": 90276,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04208878426642,
+          -22.910677421299127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 4140,
+        "ponto_id": 90172,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CONDE 'EU",
+        "ende_numero": "1494",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04432475830681,
+          -22.910348473418473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 4141,
+        "ponto_id": 90120,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R BR DE PARANAPANEMA",
+        "ende_numero": "146",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04561376488455,
+          -22.90934746514478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 4142,
+        "ponto_id": 90080,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R URUGUAIANA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0467487868607,
+          -22.909392426091248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 4143,
+        "ponto_id": 90068,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R URUGUAIANA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.048139786692005,
+          -22.90991743493455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 2540,
+        "ponto_id": 90008,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "354",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05216159342094,
+          -22.90982814065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 4081,
+        "ponto_id": 632,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "788",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364,366 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05405194040368,
+          -22.906552199823043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 4082,
+        "ponto_id": 252,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R BOAVENTURA DO AMARAL",
+        "ende_numero": "988",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,360,364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055020275509854,
+          -22.904919971612255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 2777,
+        "ponto_id": 316,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R SAO PEDRO",
+        "ende_numero": "202",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,255,265,360,364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05271399597576,
+          -22.901676258482848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 3826,
+        "ponto_id": 12,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1185",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,357,360,362,364,381,382,383,386,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060665603814776,
+          -22.902506526175117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 6049,
+        "ponto_id": 126,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,341,342,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06341089430792,
+          -22.903766045738067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 295,
+        "num_linha": "364",
+        "sentido": 1,
+        "nome_linha": "SHOPPING DOM PEDRO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 8427.73,
+        "ponto_gid": 2831,
+        "ponto_id": 732,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,364,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07048078111939,
+          -22.90563865733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 560,
+        "ponto_id": 672,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "776",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,241,242,245,364,367,368,381 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070345560994234,
+          -22.902011509970396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 561,
+        "ponto_id": 644,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "500",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06935239996936,
+          -22.898700473332593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 2831,
+        "ponto_id": 732,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,364,367,368 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07048078111939,
+          -22.90563865733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 562,
+        "ponto_id": 556,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,171,211,220,312,360,364,367,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06656379160212,
+          -22.895515255382914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 1250,
+        "ponto_id": 336,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2187",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06548488861981,
+          -22.896976277083898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 1251,
+        "ponto_id": 232,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "2055",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,312,317,352,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064376788949446,
+          -22.897821426958792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3747,
+        "ponto_id": 28,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1639",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,346,352,359,360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06185769774488,
+          -22.900849963136597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3748,
+        "ponto_id": 36,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,341,342,345,346,349,359,360,361,364,366,367,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06045938744554,
+          -22.903729869925755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 2775,
+        "ponto_id": 92,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "114",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,271,364,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05830170943649,
+          -22.905194363438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 2776,
+        "ponto_id": 188,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R CONCEICAO",
+        "ende_numero": "380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "255,265,271,364,368,380,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05585282204493,
+          -22.904112663335265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 569,
+        "ponto_id": 328,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "231",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,220,364,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05297286546819,
+          -22.903266436555192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 570,
+        "ponto_id": 10044,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": "1464",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,220,364,385,389,390,391,392,396,397,398,399,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05102595765796,
+          -22.90538923217221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 571,
+        "ponto_id": 668,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R CEL QUIRINO",
+        "ende_numero": "167",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,364,385,389,397,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.050507817226,
+          -22.905957460842725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 572,
+        "ponto_id": 720,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "VIA EXP WALDEMAR PASCHOAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,364,385,389,397,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05090296858072,
+          -22.908011003180413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 573,
+        "ponto_id": 700,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV AQUIDABA",
+        "ende_numero": "845",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,220,364,385,389,397,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052538796325685,
+          -22.90899540353778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 4144,
+        "ponto_id": 90016,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R IRMA SERAFINA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05289777887538,
+          -22.911003453113373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 4097,
+        "ponto_id": 90028,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR QUIRINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "360,364,367 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054069826996454,
+          -22.913061472773723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 2538,
+        "ponto_id": 90044,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "352",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,364,366,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053426767393965,
+          -22.913160430164165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 2539,
+        "ponto_id": 90048,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "542",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,349,360,364,366,367,395,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05175554762976,
+          -22.912589257692623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 4145,
+        "ponto_id": 90072,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": "880",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04892875910544,
+          -22.911601444357732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 4146,
+        "ponto_id": 90104,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R PROENCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04666908606782,
+          -22.910807593941733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 4147,
+        "ponto_id": 90164,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PRSA D'OESTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "360,364,367,368,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04523754210021,
+          -22.91112684884943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3002,
+        "ponto_id": 90204,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV IMPZ DONA TEREZA CRISTINA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "364,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043547580129506,
+          -22.911054984480234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3003,
+        "ponto_id": 90380,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV IMPZ DONA AMELIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040667755074665,
+          -22.911533304537304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3004,
+        "ponto_id": 90484,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R BOAVENTURA LEMOS",
+        "ende_numero": "80",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039492794151585,
+          -22.913783458808343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3005,
+        "ponto_id": 90576,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV IMPZ DONA AMELIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03816843708922,
+          -22.914990262648953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3006,
+        "ponto_id": 90684,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R SERRA D'AGUA",
+        "ende_numero": "586",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03630977652459,
+          -22.91558449867369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3007,
+        "ponto_id": 90760,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R SERRA D'AGUA",
+        "ende_numero": "755",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03520279899022,
+          -22.916613439132984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3008,
+        "ponto_id": 90848,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R SERRA DAS LAVRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03305373997664,
+          -22.91668349312914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3009,
+        "ponto_id": 90876,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R SERRA DO UMBUZEIRO",
+        "ende_numero": "353",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03161579188269,
+          -22.914957414403162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3010,
+        "ponto_id": 90992,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R SERRA DO UMBUZEIRO",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029385480173985,
+          -22.914487136136426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 3011,
+        "ponto_id": 90980,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R SERRA DOS CRISTAIS",
+        "ende_numero": "334",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029133636688265,
+          -22.913509188090934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 4139,
+        "ponto_id": 90836,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV DR MANOEL AFONSO FERREIRA",
+        "ende_numero": "1126",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030449734613654,
+          -22.91124149701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 144,
+        "num_linha": "364",
+        "sentido": 2,
+        "nome_linha": "TERMINAL CAMPO GRANDE / SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 10362.33,
+        "ponto_gid": 7443,
+        "ponto_id": 92002,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV LAGEADO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "364 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024078583187084,
+          -22.918808024402423
+        ]
+      }
+    }
+  ]
+}

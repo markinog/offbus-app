@@ -1,0 +1,2237 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2856,
+        "ponto_id": 50816,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R CIDADE DE ASSUNCAO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11417778236513,
+          -22.883320268743866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2857,
+        "ponto_id": 50798,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R CIDADE DE ASSUNCAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11548100575286,
+          -22.88135908128667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2858,
+        "ponto_id": 50872,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MARIO JUNQUEIRA DA SILVA",
+        "ende_numero": "1056",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117050159328095,
+          -22.880365906361497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2859,
+        "ponto_id": 50852,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "4541",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11711288828096,
+          -22.879576590468808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2860,
+        "ponto_id": 50847,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "745",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1160013123462,
+          -22.880488023054284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2861,
+        "ponto_id": 50831,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114466479681056,
+          -22.881389009962525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2862,
+        "ponto_id": 50812,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "551",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112715828992734,
+          -22.882318761385637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2863,
+        "ponto_id": 50804,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "209",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11228785448323,
+          -22.88326432608799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2864,
+        "ponto_id": 50784,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R SARG JOAO BATISTA SARUBBI",
+        "ende_numero": "135",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11039225727094,
+          -22.88526314894274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2865,
+        "ponto_id": 50776,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV DR HERMANN DA CUNHA CANTO",
+        "ende_numero": "337",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109814666675,
+          -22.886554200193878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2866,
+        "ponto_id": 50768,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MARIO CARNIELLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10999317978793,
+          -22.887605999033372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2867,
+        "ponto_id": 50752,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R MILTON CAMPOS",
+        "ende_numero": "361",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109929642161354,
+          -22.88900559975214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2868,
+        "ponto_id": 50736,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R CARLOS ARNALDO KRUG",
+        "ende_numero": "420",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10778267518895,
+          -22.890148474201318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2869,
+        "ponto_id": 50732,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV PAPA JOAO XXIII",
+        "ende_numero": "237",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1073658475069,
+          -22.88922847802882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2870,
+        "ponto_id": 50712,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R RAUL PILLA",
+        "ende_numero": "230",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10571405831062,
+          -22.887753120552052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2871,
+        "ponto_id": 50660,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R FLAVIO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10386051154356,
+          -22.889539525753733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2872,
+        "ponto_id": 50620,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R FLAVIO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10265482702153,
+          -22.89095189705871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2873,
+        "ponto_id": 50592,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R FRANCISCO GASPAR DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10241247683023,
+          -22.89221014302541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2874,
+        "ponto_id": 50659,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV DR HORACIO ANTONIO DA COSTA JR",
+        "ende_numero": "304",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10453052957884,
+          -22.89188608553182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2875,
+        "ponto_id": 50684,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R MARTIN LUTHER KING JR",
+        "ende_numero": "305",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10570779185131,
+          -22.892990742809353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2876,
+        "ponto_id": 50728,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R MARTIN LUTHER KING JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10791687075475,
+          -22.89493735394791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2877,
+        "ponto_id": 50966,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R DR OSWALDO DA SILVEIRA NEVES",
+        "ende_numero": "566",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10690840572432,
+          -22.89570463622549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2878,
+        "ponto_id": 50668,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R DR CORIOLANO ROBERTO ALVES",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10574294312126,
+          -22.895011170826358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2879,
+        "ponto_id": 50612,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR CORIOLANO ROBERTO ALVES",
+        "ende_numero": "257",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103670868574234,
+          -22.89477208623363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2880,
+        "ponto_id": 50548,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DR CORIOLANO ROBERTO ALVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.101455120308486,
+          -22.894673393165768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2881,
+        "ponto_id": 50496,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "2031",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099602428094926,
+          -22.89459325383331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2882,
+        "ponto_id": 50468,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R FERNANDO DA CRUZ PASSOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.097750664278024,
+          -22.895195219336777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2883,
+        "ponto_id": 50448,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R FERNANDO DA CRUZ PASSOS",
+        "ende_numero": "226",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0965622667378,
+          -22.894090286292737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2884,
+        "ponto_id": 50420,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R REINALDO LAUBENSTEIN",
+        "ende_numero": "601",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09554573573235,
+          -22.894341939175387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2589,
+        "ponto_id": 50356,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R REINALDO LAUBENSTEIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09395819506469,
+          -22.89653504550061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2590,
+        "ponto_id": 50328,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R REINALDO LAUBENSTEIN",
+        "ende_numero": "57",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09219942832963,
+          -22.8981838507513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2591,
+        "ponto_id": 50304,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R CLODOMIRO FERREIRA DE CAMARGO",
+        "ende_numero": "162",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0911596899383,
+          -22.897894295884438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2592,
+        "ponto_id": 50268,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "1171",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0893250715176,
+          -22.89721336135276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2593,
+        "ponto_id": 50232,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "931",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086987147216384,
+          -22.897168887328842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2594,
+        "ponto_id": 50188,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "697",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084771846288035,
+          -22.897591223722124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2595,
+        "ponto_id": 50132,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08251537129169,
+          -22.898528656329695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2066,
+        "ponto_id": 50072,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080404843725205,
+          -22.899552349482093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2067,
+        "ponto_id": 50040,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R DR ARNALDO DE CARVALHO",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07884264873252,
+          -22.900228856250443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2068,
+        "ponto_id": 50032,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R DR JOAQUIM DE SOUZA CAMPOS JR",
+        "ende_numero": "109",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07720798232934,
+          -22.89931746532472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2069,
+        "ponto_id": 50020,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R SALUSTIANO PENTEADO",
+        "ende_numero": "407",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07550858788176,
+          -22.89969316925414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2070,
+        "ponto_id": 50012,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R. SALUSTIANO PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,253,273,360 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0729601282385,
+          -22.901023477699905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 2251,
+        "ponto_id": 724,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R BR DE PARNAIBA",
+        "ende_numero": "615",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07131238963069,
+          -22.902538412193223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 982,
+        "ponto_id": 800,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "73",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,244,253,273,341,342,383,403,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07338580881725,
+          -22.90425635899394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 5519,
+        "ponto_id": 728,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV BR DE ITAPURA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,341,342,349,357,366,368,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070171627401336,
+          -22.89974301419732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 3165,
+        "ponto_id": 380,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "665",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067994498908426,
+          -22.899903105769035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 3166,
+        "ponto_id": 144,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R DR DELPHINO CINTRA",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,241,242,245,253,273,311,341,342,349,357,361,366,368,377,383,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06447750458214,
+          -22.900470119980156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 1252,
+        "ponto_id": 20,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV FRANCISCO GLICERIO",
+        "ende_numero": "1433",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,240,241,242,245,260,273,309,311,312,331,332,339,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06118529239145,
+          -22.902299634855403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 403,
+        "num_linha": "273",
+        "sentido": 1,
+        "nome_linha": "VILA PADRE ANCHIETA",
+        "extensao_m": 12358.35,
+        "ponto_gid": 1411,
+        "ponto_id": 116,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06311238049485,
+          -22.904137642600297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 1411,
+        "ponto_id": 116,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06311238049485,
+          -22.904137642600297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2328,
+        "ponto_id": 738,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DR RICARDO",
+        "ende_numero": "233",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,245,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07064138479209,
+          -22.90533570326467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2111,
+        "ponto_id": 704,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "136",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,245,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07311216884708,
+          -22.90333568965631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 1903,
+        "ponto_id": 50022,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "442",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07567378599286,
+          -22.90207793706982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 1904,
+        "ponto_id": 50036,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "638",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07820392019202,
+          -22.90128082958847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2112,
+        "ponto_id": 50088,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "930",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,240,253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08105245898399,
+          -22.90004220417862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2541,
+        "ponto_id": 50140,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "1284",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,271,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.083415773546946,
+          -22.899225355337062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2542,
+        "ponto_id": 50228,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R QUINTINO BOCAIUVA",
+        "ende_numero": "50",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08647182746941,
+          -22.898077354309443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2543,
+        "ponto_id": 50252,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R QUINTINO BOCAIUVA",
+        "ende_numero": "324",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08919309005045,
+          -22.898056759589977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2544,
+        "ponto_id": 50316,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R QUINTINO BOCAIUVA",
+        "ende_numero": "510",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "253,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090900840683176,
+          -22.898325078892043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2436,
+        "ponto_id": 50340,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "2322",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,254,255,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09297082239031,
+          -22.898295385004662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2437,
+        "ponto_id": 50392,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "2654",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,254,255,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09550248379794,
+          -22.896443636529746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2886,
+        "ponto_id": 50508,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "2010",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09926001667052,
+          -22.89463668781461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2887,
+        "ponto_id": 50552,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R DR CORIOLANO ROBERTO ALVES",
+        "ende_numero": "44",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10169799826039,
+          -22.894481319949662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2888,
+        "ponto_id": 50616,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R DR CORIOLANO ROBERTO ALVES",
+        "ende_numero": "260",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103687114989135,
+          -22.894653065896417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2890,
+        "ponto_id": 50680,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R DR CORIOLANO ROBERTO ALVES",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10567956602996,
+          -22.894867215657253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2891,
+        "ponto_id": 50700,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DR OSWALDO DA SILVEIRA NEVES",
+        "ende_numero": "566",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10682327328942,
+          -22.895598966947492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2892,
+        "ponto_id": 50724,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R MARTIN LUTHER KING JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10778987769844,
+          -22.895040329870486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2893,
+        "ponto_id": 50676,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R MARTIN LUTHER KING JR",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105589588619715,
+          -22.892939496850975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2894,
+        "ponto_id": 50686,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV DR HORACIO ANTONIO DA COSTA JR",
+        "ende_numero": "289",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10426968523651,
+          -22.892262205595674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2895,
+        "ponto_id": 50580,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV DR HORACIO ANTONIO DA COSTA JR",
+        "ende_numero": "87",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10253017125389,
+          -22.892580220907455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2896,
+        "ponto_id": 50608,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R FLAVIO DE CARVALHO",
+        "ende_numero": "2087",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10255914458264,
+          -22.890859996566736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2897,
+        "ponto_id": 50652,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R FLAVIO DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10351434828264,
+          -22.889719156361213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2898,
+        "ponto_id": 50720,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R RAUL PILLA",
+        "ende_numero": "221",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1058814215195,
+          -22.887699173966197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2899,
+        "ponto_id": 50740,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV PAPA JOAO XXIII",
+        "ende_numero": "232",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10758855175161,
+          -22.88933909369265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2900,
+        "ponto_id": 50744,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R CARLOS ARNALDO KRUG",
+        "ende_numero": "415",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.107907009194804,
+          -22.89006611702955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2901,
+        "ponto_id": 50746,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R MILTON CAMPOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10976480907564,
+          -22.889108808442426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2902,
+        "ponto_id": 50764,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R MARIO CARNIELLI",
+        "ende_numero": "9",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109825306985684,
+          -22.887595679138546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2903,
+        "ponto_id": 50756,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV DR ROBERTO ROCHA BRITO",
+        "ende_numero": "227",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.109216173046065,
+          -22.88668609480825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 5831,
+        "ponto_id": 50780,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R SARG JOAO BATISTA SARUBBI",
+        "ende_numero": "148",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11034954346803,
+          -22.885166848479614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2904,
+        "ponto_id": 50800,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "230",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11209780214607,
+          -22.88330034444035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2905,
+        "ponto_id": 50806,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "384",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1127245951234,
+          -22.88212716674005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2906,
+        "ponto_id": 50830,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "578",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114402848061225,
+          -22.881291183349713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2907,
+        "ponto_id": 50846,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R JOAO RODRIGUES SERRA",
+        "ende_numero": "742",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11575834823776,
+          -22.880485027844458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2908,
+        "ponto_id": 50848,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "AV MARECHAL RONDON",
+        "ende_numero": "4500",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11709840932994,
+          -22.879518644816276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2909,
+        "ponto_id": 50876,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "R MARIO JUNQUEIRA DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.117173081860464,
+          -22.880447324240468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2718,
+        "ponto_id": 50860,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "ROD ANHANGUERA (SP-330)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "261,263,264,265,273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11657752098557,
+          -22.881242742584327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2910,
+        "ponto_id": 50837,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R CIDADE DE ASSUNCAO",
+        "ende_numero": "681",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "273 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11541706172944,
+          -22.88160404176601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 39,
+        "num_linha": "273",
+        "sentido": 2,
+        "nome_linha": "SWIFT / VILA BOA VISTA (INCLUSIVO)",
+        "extensao_m": 10412.15,
+        "ponto_gid": 2856,
+        "ponto_id": 50816,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R CIDADE DE ASSUNCAO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11417778236513,
+          -22.883320268743866
+        ]
+      }
+    }
+  ]
+}

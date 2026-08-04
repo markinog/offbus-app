@@ -1,0 +1,1512 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4856,
+        "ponto_id": 72288,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R MARIA DE JESUS VIEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10930680707239,
+          -22.96447523202882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 7527,
+        "ponto_id": 72290,
+        "ptseqlinha": 1.1,
+        "ende_logradouro": "R MARIA DE JESUS VIEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.110032145244396,
+          -22.965886466427918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4857,
+        "ponto_id": 72380,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV DR PAULO AFFONSO PEREIRA RIBEIRO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.110590707592536,
+          -22.966948511574767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 664,
+        "ponto_id": 72428,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV ALBINA SCARASSATTI MISSIO",
+        "ende_numero": "112",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11184538682223,
+          -22.96794695864267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4847,
+        "ponto_id": 72520,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": "424",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11249302828681,
+          -22.970664676635323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4848,
+        "ponto_id": 72580,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.112427782888524,
+          -22.973010747198654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4849,
+        "ponto_id": 72596,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R CONSTANCIO FRANCISCO",
+        "ende_numero": "117",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11162233199315,
+          -22.974207804589216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4850,
+        "ponto_id": 72568,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "48",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10886341969775,
+          -22.974167654474428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 5745,
+        "ponto_id": 72565,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10759416282732,
+          -22.974212422984138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4852,
+        "ponto_id": 72492,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "406",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10613593581121,
+          -22.973780235048995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4853,
+        "ponto_id": 72476,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R HERMINIO ANTONIO DA SILVA",
+        "ende_numero": "211",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.105511028398524,
+          -22.97349839003878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4859,
+        "ponto_id": 72400,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R NAIR DA SILVA MONTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10354448031773,
+          -22.972127563942234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4860,
+        "ponto_id": 72362,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R NAIR DA SILVA MONTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10311691710241,
+          -22.97030824281923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4863,
+        "ponto_id": 72376,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R JOAO BATISTA MONTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10381181978042,
+          -22.970676788153508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 5987,
+        "ponto_id": 72413,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10508482664576,
+          -22.971977456939484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4862,
+        "ponto_id": 72452,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10477466613448,
+          -22.97412522314884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 5623,
+        "ponto_id": 72525,
+        "ptseqlinha": 17.5,
+        "ende_logradouro": "R HORACIO COUTINHO DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10516982381317,
+          -22.97545689247077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 5624,
+        "ponto_id": 72527,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JOSE PINTO DA SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10524767645423,
+          -22.977927387874796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 327,
+        "ponto_id": 72524,
+        "ptseqlinha": 18.5,
+        "ende_logradouro": "R ELDORADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10363445554824,
+          -22.9759184448072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 328,
+        "ponto_id": 80732,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,412 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10254796283547,
+          -22.974794384682248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 377,
+        "num_linha": "405",
+        "sentido": 1,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 14367.47,
+        "ponto_gid": 4816,
+        "ponto_id": 420,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06232095810601,
+          -22.90898136940998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4816,
+        "ponto_id": 420,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06232095810601,
+          -22.90898136940998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 350,
+        "ponto_id": 90872,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,214,405,411,412,413,414,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06982180598191,
+          -22.929273021394312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4858,
+        "ponto_id": 72456,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10455311711071,
+          -22.97391778305514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 5985,
+        "ponto_id": 72410,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10512161180832,
+          -22.971588798632656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 5986,
+        "ponto_id": 73277,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R JOSE SUBTIL DA SILVA",
+        "ende_numero": "112",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10394827585455,
+          -22.97085431622335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 5992,
+        "ponto_id": 73251,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R NARIR DA SILVA MONTEIRO",
+        "ende_numero": "72",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103287251136265,
+          -22.97039519186819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4861,
+        "ponto_id": 72412,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R NAIR DA SILVA MONTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10376776502591,
+          -22.97246404063489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4862,
+        "ponto_id": 72452,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R AUGUSTO BELLINTANI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10477466613448,
+          -22.97412522314884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4818,
+        "ponto_id": 72472,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R HERMINIO ANTONIO DA SILVA",
+        "ende_numero": "212",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10527586091774,
+          -22.97351117406477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4819,
+        "ponto_id": 72504,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "371",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10637796249471,
+          -22.973779365341187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 5744,
+        "ponto_id": 72561,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "225",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10773190245865,
+          -22.974052218704013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4821,
+        "ponto_id": 72560,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R CARLOS DE LAET",
+        "ende_numero": "225",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10922187803264,
+          -22.97398527750169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 5546,
+        "ponto_id": 72597,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "R CONSTANCIO FRANCISCO",
+        "ende_numero": "116",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11174417857345,
+          -22.974070744750374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4822,
+        "ponto_id": 72576,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": "709",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11225095225233,
+          -22.972948285809895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4823,
+        "ponto_id": 72508,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R JOAO GUIDOTTI",
+        "ende_numero": "401",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1123230770715,
+          -22.970232441404544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 617,
+        "ponto_id": 72440,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV ALBINA SCARASSATTI MISSIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "122,404,405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11202451625918,
+          -22.96809569460703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4864,
+        "ponto_id": 72392,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV DR PAULO AFFONSO PEREIRA RIBEIRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11080665977081,
+          -22.967179993731566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 17,
+        "num_linha": "405",
+        "sentido": 2,
+        "nome_linha": "JARDIM PETRÃPOLIS (INCLUSIVO)",
+        "extensao_m": 13279.78,
+        "ponto_gid": 4856,
+        "ponto_id": 72288,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R MARIA DE JESUS VIEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "405 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10930680707239,
+          -22.96447523202882
+        ]
+      }
+    }
+  ]
+}

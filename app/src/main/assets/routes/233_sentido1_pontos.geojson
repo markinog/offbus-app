@@ -1,0 +1,862 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 6179,
+        "ponto_id": 60962,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL SATELITE IRIS BXC",
+        "ende_numero": "6744",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "226,233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14546730821183,
+          -22.94195559512543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1934,
+        "ponto_id": 60995,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV JOHN BOYD DUNLOP",
+        "ende_numero": "7624",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "123,205,210,211,212,213,219,220,227,232,233,234,235,243,289 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151512442542106,
+          -22.94011132622016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 5381,
+        "ponto_id": 61010,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R LUCIO ESTEVES",
+        "ende_numero": "74",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153077472192564,
+          -22.940646635146262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1935,
+        "ponto_id": 61008,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R LUCIO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15333797855084,
+          -22.94156625613719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1931,
+        "ponto_id": 61032,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154299550969064,
+          -22.94286191725495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1937,
+        "ponto_id": 61044,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "130",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15511893686864,
+          -22.9423818386944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1938,
+        "ponto_id": 61076,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "400",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15729763585588,
+          -22.941261493611762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1939,
+        "ponto_id": 61120,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "129",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15877870882102,
+          -22.94047807201291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1940,
+        "ponto_id": 61168,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "245",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16045298102931,
+          -22.939626286633573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1941,
+        "ponto_id": 61216,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R COMEND JOAO GUILHEN GARCIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16119675340724,
+          -22.940644114383815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1942,
+        "ponto_id": 61180,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "553",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15978821881935,
+          -22.942101915788392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1924,
+        "ponto_id": 61144,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "390",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15841728174136,
+          -22.942845391807847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1944,
+        "ponto_id": 61116,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "181",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15683485698718,
+          -22.943672528614318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1945,
+        "ponto_id": 61060,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154932229383995,
+          -22.944673627806406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1946,
+        "ponto_id": 61104,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R EXP MAURO COSTA PEREIRA",
+        "ende_numero": "201",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15524816424037,
+          -22.946378149276146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1915,
+        "ponto_id": 61160,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV ANTONIO CARLOS DO AMARAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15601272758976,
+          -22.94792635390719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1916,
+        "ponto_id": 61220,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV ANTONIO CARLOS DO AMARAL",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.157965013896096,
+          -22.947423242035914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1917,
+        "ponto_id": 61308,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ANTONIO CARLOS DO AMARAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.160408434208776,
+          -22.94672916723497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1918,
+        "ponto_id": 61236,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOSE RODRIGUES DUARTE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16014878392846,
+          -22.945804034043473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1919,
+        "ponto_id": 61188,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R JOSE RODRIGUES DUARTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15764285921747,
+          -22.94652139947809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1920,
+        "ponto_id": 61140,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOSE RODRIGUES DUARTE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.156013250195315,
+          -22.94699046723434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1921,
+        "ponto_id": 61100,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R EXP MAURO COSTA PEREIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15502926490501,
+          -22.946297799865512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1922,
+        "ponto_id": 61056,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "34",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1547884512727,
+          -22.944569869093357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1923,
+        "ponto_id": 61112,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.156733315073474,
+          -22.943525045992907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1943,
+        "ponto_id": 61152,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": "384",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.158328535196475,
+          -22.942708930239366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1925,
+        "ponto_id": 61176,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R CARLOS ROBERTO PEREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15967944720574,
+          -22.942039883424584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1926,
+        "ponto_id": 61212,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R COMEND JOAO GUILHEN GARCIA",
+        "ende_numero": "411",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1610444808342,
+          -22.940926762612026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1927,
+        "ponto_id": 61172,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16061058011599,
+          -22.93978546133269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1928,
+        "ponto_id": 61124,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15887708806136,
+          -22.940674525365026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1929,
+        "ponto_id": 61084,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15737471209928,
+          -22.941392156473057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1930,
+        "ponto_id": 61048,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R LUIZ FANTINI",
+        "ende_numero": "131",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155235299458106,
+          -22.942523273273366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 1932,
+        "ponto_id": 61000,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "MARG R LUCIO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15308485905157,
+          -22.941657009418684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 5382,
+        "ponto_id": 61011,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R LUCIO ESTEVES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15272744673156,
+          -22.940502224226766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 245,
+        "num_linha": "233",
+        "sentido": 1,
+        "nome_linha": "JARDIM FLORENCE  I (INCLUSIVO)",
+        "extensao_m": 8519.67,
+        "ponto_gid": 6179,
+        "ponto_id": 60962,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "TERMINAL SATELITE IRIS BXC",
+        "ende_numero": "6744",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "226,233,235 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14546730821183,
+          -22.94195559512543
+        ]
+      }
+    }
+  ]
+}

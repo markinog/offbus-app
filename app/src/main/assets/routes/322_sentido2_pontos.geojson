@@ -1,0 +1,1362 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5263,
+        "ponto_id": 31084,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07956440062165,
+          -22.830767684558644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3333,
+        "ponto_id": 31172,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1226",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,328,329,337,339 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.079104443571644,
+          -22.827572904821405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3396,
+        "ponto_id": 31384,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08027654739301,
+          -22.82282083112617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3397,
+        "ponto_id": 31524,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080992982726535,
+          -22.817792672037676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5361,
+        "ponto_id": 31525,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ABINO J B DE OLIVEIRA PX N 2394",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080740213698675,
+          -22.815964117847482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3398,
+        "ponto_id": 31640,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08030360967607,
+          -22.81449014232028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3399,
+        "ponto_id": 31756,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077184606792,
+          -22.805383362374556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3400,
+        "ponto_id": 31792,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07737367987851,
+          -22.801364272871595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3401,
+        "ponto_id": 31844,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R MARCO GRIGOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077379901728335,
+          -22.79500959490831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3402,
+        "ponto_id": 31828,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R MARCO GRIGOL",
+        "ende_numero": "200",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07591932313979,
+          -22.79498149346886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3350,
+        "ponto_id": 31840,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073079476295725,
+          -22.79460406100496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3351,
+        "ponto_id": 31876,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": "886",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074302290484525,
+          -22.79190116103737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3352,
+        "ponto_id": 31908,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072987531480564,
+          -22.78984128259019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3353,
+        "ponto_id": 31940,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "514",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070953542873504,
+          -22.788276347838366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3354,
+        "ponto_id": 31964,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068196933986286,
+          -22.786204355222758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3355,
+        "ponto_id": 31984,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06367245696479,
+          -22.78271630717771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3416,
+        "ponto_id": 32060,
+        "ptseqlinha": 17.5,
+        "ende_logradouro": "CAM 311",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06880140132301,
+          -22.766058182278556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3404,
+        "ponto_id": 21600,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV FRANCISCO CANDIDO XAVIER",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05562950901059,
+          -22.756585498819543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3405,
+        "ponto_id": 21632,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R PROF EMILIO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05600474788648,
+          -22.75241763674708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3406,
+        "ponto_id": 21664,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R PROF EMILIO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05749742752275,
+          -22.750785311326084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5910,
+        "ponto_id": 21670,
+        "ptseqlinha": 21.1,
+        "ende_logradouro": "R PROF EMILIO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05876121075807,
+          -22.749397927177515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 4368,
+        "ponto_id": 21684,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "R PROF EMILIO COELHO",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06051445314529,
+          -22.74748829389217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3407,
+        "ponto_id": 21688,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R PROF EMILIO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062067060505015,
+          -22.745826430977882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5861,
+        "ponto_id": 21712,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R SEBASTIAO W PINHEIRO",
+        "ende_numero": "1277",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063297648186335,
+          -22.74393315092139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5862,
+        "ponto_id": 21744,
+        "ptseqlinha": 24.5,
+        "ende_logradouro": "R ANTONIO MAROTTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06030648941932,
+          -22.74243988134434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5860,
+        "ponto_id": 21732,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ANTONIO MAROTTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05495741499328,
+          -22.74328629228103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3408,
+        "ponto_id": 21720,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANTONIO MAROTTA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05343917181986,
+          -22.74378308516578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3409,
+        "ponto_id": 21704,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DES MOACIR CESAR DE ALMEIDA BICUDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05262847514464,
+          -22.744990322277392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3410,
+        "ponto_id": 21696,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R DES MOACIR CESAR DE ALMEIDA BICUDO",
+        "ende_numero": "291",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05286374150826,
+          -22.74683121747747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3411,
+        "ponto_id": 21692,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R DES MOACIR CESAR DE ALMEIDA BICUDO",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05244776853514,
+          -22.749080184806928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3412,
+        "ponto_id": 21672,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R OCTAVIO MONTEIRO DE CASTRO JR",
+        "ende_numero": "360",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05346720666524,
+          -22.75042803897745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3413,
+        "ponto_id": 21620,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV DR MUCIO DRUMOND MURGEL",
+        "ende_numero": "",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05123043006926,
+          -22.753577313023342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3414,
+        "ponto_id": 21608,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV FRANCISCO CANDIDO XAVIER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052527154528065,
+          -22.75453712707145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3415,
+        "ponto_id": 21604,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV FRANCISCO CANDIDO XAVIER",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05598000710218,
+          -22.75652988631652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5863,
+        "ponto_id": 21596,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "CAM 311",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05891488282358,
+          -22.758786094427645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3403,
+        "ponto_id": 32048,
+        "ptseqlinha": 35.5,
+        "ende_logradouro": "ESTRADA COLONIA TOZAN",
+        "ende_numero": "100",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07026448574826,
+          -22.767465003565498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3417,
+        "ponto_id": 32004,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "EST COLONIA TOZAN",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067564879875135,
+          -22.778156767043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3377,
+        "ponto_id": 31986,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06361879227805,
+          -22.78243189646185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3377,
+        "ponto_id": 31986,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06361879227805,
+          -22.78243189646185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3378,
+        "ponto_id": 31968,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "20",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06834153547286,
+          -22.786096310595465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3379,
+        "ponto_id": 31936,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": "495",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07123755272006,
+          -22.788301277991405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3380,
+        "ponto_id": 31916,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R BORTOLO MARTINS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07310653567176,
+          -22.78971334376037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3381,
+        "ponto_id": 31868,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07438257508498,
+          -22.792117329607724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3382,
+        "ponto_id": 31836,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R JOSE PUGLIESI FILHO",
+        "ende_numero": "519",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.073313608765524,
+          -22.794638302004444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3418,
+        "ponto_id": 31832,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R MARCO GRIGOL",
+        "ende_numero": "85",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07556173949114,
+          -22.7947711029341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3419,
+        "ponto_id": 31852,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R MARCO GRIGOL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077812758731284,
+          -22.794893000645516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3420,
+        "ponto_id": 31788,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07750143839588,
+          -22.80171803821554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3421,
+        "ponto_id": 31744,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "EST DA RHODIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.077924628226334,
+          -22.80644831203574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3422,
+        "ponto_id": 31624,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08058963188698,
+          -22.814633291841506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 7540,
+        "ponto_id": 31629,
+        "ptseqlinha": 48.1,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08106100929977,
+          -22.815992702167662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3423,
+        "ponto_id": 31528,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "321,322,323 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08133036978898,
+          -22.817831096996656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 3424,
+        "ponto_id": 31312,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080365042892105,
+          -22.8233003216829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 2804,
+        "ponto_id": 31184,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R ALBINO JOSE BARBOSA DE OLIVEIRA",
+        "ende_numero": "1249",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,322,328,329,337 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07935969139741,
+          -22.82748633489524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 368,
+        "num_linha": "322",
+        "sentido": 1,
+        "nome_linha": "VILLAGE CAMPINAS",
+        "extensao_m": 26308.43,
+        "ponto_gid": 5263,
+        "ponto_id": 31084,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "322 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07956440062165,
+          -22.830767684558644
+        ]
+      }
+    }
+  ]
+}

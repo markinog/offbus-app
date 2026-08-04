@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 1547,
+        "ponto_id": 500,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06238632442644,
+          -22.909294655289226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 350,
+        "ponto_id": 90872,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,214,405,411,412,413,414,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06982180598191,
+          -22.929273021394312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5028,
+        "ponto_id": 80020,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07322310738965,
+          -22.938080962682097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5029,
+        "ponto_id": 80040,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07119923841481,
+          -22.941324466718648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5033,
+        "ponto_id": 80078,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DESOITO (JD DO LAGO)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07248258136129,
+          -22.945509485503422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5036,
+        "ponto_id": 80094,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R TRES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074948185264866,
+          -22.9451634889004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5034,
+        "ponto_id": 80097,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R JOAO CANAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07712250688842,
+          -22.944753245271087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5023,
+        "ponto_id": 80087,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R JOAO CANAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07882613306376,
+          -22.943798084601816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5035,
+        "ponto_id": 80091,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R JOAO CANAES",
+        "ende_numero": "165",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0800624508275,
+          -22.943224862529128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5431,
+        "ponto_id": 80079,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV ENG MARCIO DUARTE RIBEIRO ",
+        "ende_numero": "381",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,414,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.081730020448624,
+          -22.94149727603922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 378,
+        "num_linha": "415",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 6915.87,
+        "ponto_gid": 5430,
+        "ponto_id": 80063,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R SILVIO ANTONIO ZUFFO GRIECO ESQ COM RUA ANATALIA DE SOUZA A DE MEL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084457189547095,
+          -22.94083945143812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5018,
+        "ponto_id": 80085,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV ANTON VON ZUBEN",
+        "ende_numero": "1341",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08602957048666,
+          -22.939698509072056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5428,
+        "ponto_id": 80061,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R ANTON VON ZUBEN",
+        "ende_numero": "1157",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08507621003805,
+          -22.938084161900722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5429,
+        "ponto_id": 80062,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CARLOS ESTELA NETO ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0822236908647,
+          -22.938526791321728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 4966,
+        "ponto_id": 80076,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R GESSI DA SILVA DURAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08124233329309,
+          -22.93962995518495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5031,
+        "ponto_id": 80093,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JOAO CANAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07992831235267,
+          -22.943474705355214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5030,
+        "ponto_id": 80099,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JOAO CANAES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07711344511523,
+          -22.944923267340993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5032,
+        "ponto_id": 80095,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R TRES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07474695492042,
+          -22.945153030754124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 7599,
+        "ponto_id": 80070,
+        "ptseqlinha": 21.5,
+        "ende_logradouro": "R DEZOITO ( JD DO LAGO CONT)",
+        "ende_numero": "18",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072627871506135,
+          -22.945603470401327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5149,
+        "ponto_id": 80088,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0716480773176,
+          -22.944783128078704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5150,
+        "ponto_id": 80064,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07111071956694,
+          -22.943119718531854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5151,
+        "ponto_id": 80044,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07093682963914,
+          -22.94197934132903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 5152,
+        "ponto_id": 80024,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "ROD LIX DA CUNHA (SP-073)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,414,415,429,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07299952813828,
+          -22.938101488339495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 18,
+        "num_linha": "415",
+        "sentido": 2,
+        "nome_linha": "SALTINHO",
+        "extensao_m": 7505.98,
+        "ponto_gid": 1547,
+        "ponto_id": 500,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06238632442644,
+          -22.909294655289226
+        ]
+      }
+    }
+  ]
+}

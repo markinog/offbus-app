@@ -78,6 +78,28 @@
                 app:tint="@color/white" />
         </LinearLayout>
 
+        <!-- ── Resultados da busca ───────────────────────────────── -->
+        <!--
+          Aparece enquanto o usuário digita e some ao escolher uma linha.
+          A altura é definida em MainActivity.mostrarSugestoes(), limitada a
+          MAX_SUGESTOES_VISIVEIS itens para não engolir o mapa; o excedente
+          fica acessível pela rolagem.
+        -->
+        <ScrollView
+            android:id="@+id/scrollSugestoes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/bg_sugestoes"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/containerSugestoes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"/>
+        </ScrollView>
+
         <!-- Botões de sentido -->
         <LinearLayout
             android:id="@+id/layoutSentido"

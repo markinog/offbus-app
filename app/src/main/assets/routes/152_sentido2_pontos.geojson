@@ -1,0 +1,762 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 7211,
+        "ponto_id": 71518,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1772",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "143,152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10925315362118,
+          -22.94590670981192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 5421,
+        "ponto_id": 71793,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PEDRO GALHARDI",
+        "ende_numero": "196",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152,158 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11194169787597,
+          -22.94628705836237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 5422,
+        "ponto_id": 71795,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R PEDRO GALHARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152,158 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1124001254453,
+          -22.944537710954858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 994,
+        "ponto_id": 71632,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R RAFFUL ANTONIO KANAWATY",
+        "ende_numero": "46",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11222192893833,
+          -22.94223559034819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 995,
+        "ponto_id": 71540,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R RAFFUL ANTONIO KANAWATY",
+        "ende_numero": "260",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111398163654194,
+          -22.940392542755166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 418,
+        "ponto_id": 71592,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "506",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113057465568076,
+          -22.940108467438407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 419,
+        "ponto_id": 71712,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "852",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115615667528076,
+          -22.940479173555453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 948,
+        "ponto_id": 71892,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R JOSE LOURENCO DE SA",
+        "ende_numero": "1044",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1203466528181,
+          -22.939978984197793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 949,
+        "ponto_id": 72038,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R JOSE LOURENCO DE SA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12231746782265,
+          -22.940794638804924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 6103,
+        "ponto_id": 72166,
+        "ptseqlinha": 10.5,
+        "ende_logradouro": "R MARIA PINK LUIS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124567219483005,
+          -22.942071486310496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 951,
+        "ponto_id": 72152,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R SILVIO CALDAS SERESTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125395284311104,
+          -22.94108384459664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 1170,
+        "ponto_id": 72128,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R ANTONIO GARCIA FERNANDES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12452575301719,
+          -22.940280280266496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 953,
+        "ponto_id": 72040,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DONA ESMERALDA OLIVEIRA MATHIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12366617339857,
+          -22.93869608287733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 954,
+        "ponto_id": 72032,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DONA ESMERALDA OLIVEIRA MATHIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12568313429019,
+          -22.935656734811833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 955,
+        "ponto_id": 71964,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R HERMANTINA NUCCI FABRICIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12522758269158,
+          -22.93368028012462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 6123,
+        "ponto_id": 71798,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PROF MARIO GIANNINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12444313566337,
+          -22.93401272897249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 956,
+        "ponto_id": 71884,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R PROF MARIO GIANNINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123363490699994,
+          -22.9351139976893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 947,
+        "ponto_id": 71860,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R OTAVIO AUGUSTO DE MELO",
+        "ende_numero": "45",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121838835081086,
+          -22.936920912349706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 957,
+        "ponto_id": 71916,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ROBERTO BAPTISTA DIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.121921665392534,
+          -22.937704086340027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 958,
+        "ponto_id": 71888,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ROBERTO BAPTISTA DIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12123468683973,
+          -22.938541919644443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 959,
+        "ponto_id": 71844,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R POCOS DE CALDAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12011301453117,
+          -22.938868185827086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 514,
+        "ponto_id": 71864,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,134,152,163 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11955606991253,
+          -22.94001428432234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 5326,
+        "ponto_id": 71832,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1181218596643,
+          -22.941382373605745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 515,
+        "ponto_id": 71720,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": "835",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11533649074892,
+          -22.940656588510343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 516,
+        "ponto_id": 71596,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11293606275687,
+          -22.940325213801763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 517,
+        "ponto_id": 71564,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.111641978109986,
+          -22.940158459956614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 518,
+        "ponto_id": 71360,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10802773460783,
+          -22.939661433893242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 519,
+        "ponto_id": 71520,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1404",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,125,134,152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10895883024575,
+          -22.942488447303212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 237,
+        "num_linha": "152",
+        "sentido": 1,
+        "nome_linha": "TERMINAL VILA UNIAO III",
+        "extensao_m": 9771.6,
+        "ponto_gid": 7211,
+        "ponto_id": 71518,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV RUY RODRIGUEZ",
+        "ende_numero": "1772",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "143,152 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10925315362118,
+          -22.94590670981192
+        ]
+      }
+    }
+  ]
+}

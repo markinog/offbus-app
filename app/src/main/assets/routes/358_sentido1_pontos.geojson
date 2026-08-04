@@ -1,0 +1,1937 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3895,
+        "ponto_id": 21700,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R MARIA DO CARMO COIMBRA GOMES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98239584186468,
+          -22.76277893187497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 5737,
+        "ponto_id": 21761,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R MARIA DO CARMO COIMBRA GOMES",
+        "ende_numero": "415",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9796790472394,
+          -22.76095546637501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 5739,
+        "ponto_id": 21742,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R LUIZA CRODA IAMARINO",
+        "ende_numero": "115",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97628084523223,
+          -22.761388661788704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3894,
+        "ponto_id": 21776,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.975285072691555,
+          -22.760210665247527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 5251,
+        "ponto_id": 21788,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97684372365197,
+          -22.75850262962916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 5855,
+        "ponto_id": 21792,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98131316970827,
+          -22.756345487402292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3904,
+        "ponto_id": 21796,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.986683337205406,
+          -22.753799472907726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4033,
+        "ponto_id": 21598,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "CAM 333",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.988293180027824,
+          -22.769988557371857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4034,
+        "ponto_id": 21592,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.997386395923265,
+          -22.776350451292974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4035,
+        "ponto_id": 21548,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": "103",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.999836974057075,
+          -22.793651781337314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4036,
+        "ponto_id": 21536,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": "88",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00088919381064,
+          -22.795577579875555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4037,
+        "ponto_id": 21488,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DIMAS MONTEIRO DA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00354528942996,
+          -22.800157928905882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4038,
+        "ponto_id": 21468,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DIMAS MONTEIRO DA SILVA",
+        "ende_numero": "28",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.004830065701135,
+          -22.80170627940656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4039,
+        "ponto_id": 21492,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DIMAS MONTEIRO DA SILVA",
+        "ende_numero": "51",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.003325374602674,
+          -22.800239148235633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4040,
+        "ponto_id": 21532,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0006102915217,
+          -22.795738261870383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4041,
+        "ponto_id": 21544,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99955758558273,
+          -22.793778972592534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4042,
+        "ponto_id": 21540,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOANA SILVA GASMENGA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.999641413098004,
+          -22.79590272352759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4043,
+        "ponto_id": 21528,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JOANA SILVA GASMENGA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99624251660924,
+          -22.798054503158003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4044,
+        "ponto_id": 21552,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R ELZA NASCIMENTO LIZA",
+        "ende_numero": "349",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99440549880103,
+          -22.7960432426916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4045,
+        "ponto_id": 21556,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R ANGELA DE CARVALHO NUNES",
+        "ende_numero": "575",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9924571078134,
+          -22.792880165170946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4046,
+        "ponto_id": 21560,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ANGELA DE CARVALHO NUNES",
+        "ende_numero": "495",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.993476903296894,
+          -22.792262382731998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4047,
+        "ponto_id": 21564,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R ANGELA DE CARVALHO NUNES",
+        "ende_numero": "235",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99534210916452,
+          -22.7910961221538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4048,
+        "ponto_id": 21572,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99623966045751,
+          -22.78853891241604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4049,
+        "ponto_id": 21568,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9975434804653,
+          -22.78523439580565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4053,
+        "ponto_id": 21584,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.998092132615845,
+          -22.783862808202947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4050,
+        "ponto_id": 21588,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": "1",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.997886514211885,
+          -22.77723356598547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4051,
+        "ponto_id": 21580,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV IVAN DE ABREU AZEVEDO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0065170103397,
+          -22.778811457537444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 6404,
+        "ponto_id": 21533,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV IVAN DE ABREU AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02884851153888,
+          -22.787791855974792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3899,
+        "ponto_id": 21516,
+        "ptseqlinha": 28.5,
+        "ende_logradouro": "ROD GOV DR ADHEMAR PEREIRA DE BARROS (SP-340)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.030157527957165,
+          -22.786958375171626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3963,
+        "ponto_id": 21342,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03553561080323,
+          -22.816054435703606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3964,
+        "ponto_id": 21333,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03650362942728,
+          -22.819277103512302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3965,
+        "ponto_id": 21330,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03483693358309,
+          -22.825804953470627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 3522,
+        "ponto_id": 21148,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV FRANCISCO XAVIER ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042028253468835,
+          -22.850090381353795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 165,
+        "num_linha": "358",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO / CIDADE JUDICIARIA (INCLUSIVO)",
+        "extensao_m": 29835.71,
+        "ponto_gid": 4058,
+        "ponto_id": 21185,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0391383653969,
+          -22.848802471334523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4058,
+        "ponto_id": 21185,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0391383653969,
+          -22.848802471334523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3524,
+        "ponto_id": 21100,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039259627217405,
+          -22.85186838919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3525,
+        "ponto_id": 21060,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "241",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04058805081524,
+          -22.85264618873683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3526,
+        "ponto_id": 21072,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "45",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04215020135131,
+          -22.85162764645687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3967,
+        "ponto_id": 21332,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03473724163208,
+          -22.825718112897423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3968,
+        "ponto_id": 21335,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036110214132385,
+          -22.81899142762558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3969,
+        "ponto_id": 21343,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R SABIU",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,353,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03535014986191,
+          -22.81593564795293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 6205,
+        "ponto_id": 21346,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "ESTR MUN ADELINA SEGANTINI CERQUEIRA LIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02689043591982,
+          -22.832823675569863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 7361,
+        "ponto_id": 21511,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV IVAN DE ABREU AZEVEDO",
+        "ende_numero": "30",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0290598872221,
+          -22.788163580042717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4371,
+        "ponto_id": 21464,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R ARGEU PIRES NETO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.019408498956956,
+          -22.79900537781409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4052,
+        "ponto_id": 21576,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV IVAN DE ABREU AZEVEDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00627947687158,
+          -22.779233897820493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4034,
+        "ponto_id": 21592,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.997386395923265,
+          -22.776350451292974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4035,
+        "ponto_id": 21548,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": "103",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.999836974057075,
+          -22.793651781337314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4036,
+        "ponto_id": 21536,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": "88",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00088919381064,
+          -22.795577579875555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4037,
+        "ponto_id": 21488,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R DIMAS MONTEIRO DA SILVA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00354528942996,
+          -22.800157928905882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4038,
+        "ponto_id": 21468,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "R DIMAS MONTEIRO DA SILVA",
+        "ende_numero": "28",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.004830065701135,
+          -22.80170627940656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4039,
+        "ponto_id": 21492,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "R DIMAS MONTEIRO DA SILVA",
+        "ende_numero": "51",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.003325374602674,
+          -22.800239148235633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4040,
+        "ponto_id": 21532,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0006102915217,
+          -22.795738261870383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4041,
+        "ponto_id": 21544,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R NASSIF ELIAS FARAH",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99955758558273,
+          -22.793778972592534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4042,
+        "ponto_id": 21540,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R JOANA SILVA GASMENGA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.999641413098004,
+          -22.79590272352759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4043,
+        "ponto_id": 21528,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R JOANA SILVA GASMENGA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99624251660924,
+          -22.798054503158003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4044,
+        "ponto_id": 21552,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ELZA NASCIMENTO LIZA",
+        "ende_numero": "349",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99440549880103,
+          -22.7960432426916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4045,
+        "ponto_id": 21556,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R ANGELA DE CARVALHO NUNES",
+        "ende_numero": "575",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9924571078134,
+          -22.792880165170946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4046,
+        "ponto_id": 21560,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R ANGELA DE CARVALHO NUNES",
+        "ende_numero": "495",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.993476903296894,
+          -22.792262382731998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4047,
+        "ponto_id": 21564,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R ANGELA DE CARVALHO NUNES",
+        "ende_numero": "235",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99534210916452,
+          -22.7910961221538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4048,
+        "ponto_id": 21572,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99623966045751,
+          -22.78853891241604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4049,
+        "ponto_id": 21568,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9975434804653,
+          -22.78523439580565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4053,
+        "ponto_id": 21584,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.998092132615845,
+          -22.783862808202947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 4050,
+        "ponto_id": 21588,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R ANTONIO DUARTE DIAS",
+        "ende_numero": "1",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.997886514211885,
+          -22.77723356598547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3904,
+        "ponto_id": 21796,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.986683337205406,
+          -22.753799472907726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3905,
+        "ponto_id": 21784,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98128244941566,
+          -22.756503252669127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3906,
+        "ponto_id": 21780,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV ANTONIO IGNACIO PUPO",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97973782250412,
+          -22.75726124577537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 5739,
+        "ponto_id": 21742,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R LUIZA CRODA IAMARINO",
+        "ende_numero": "115",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97628084523223,
+          -22.761388661788704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 5736,
+        "ponto_id": 21757,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R DRA MATILDE PETTINE",
+        "ende_numero": "1001",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "350,358 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.97794069602502,
+          -22.75880215755187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3907,
+        "ponto_id": 21728,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R DRA MATILDE PETTINE",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98176382603753,
+          -22.76126902148718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 229,
+        "num_linha": "358",
+        "sentido": 2,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 31681.59,
+        "ponto_gid": 3895,
+        "ponto_id": 21700,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R MARIA DO CARMO COIMBRA GOMES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98239584186468,
+          -22.76277893187497
+        ]
+      }
+    }
+  ]
+}

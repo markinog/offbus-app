@@ -1,0 +1,2087 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5497,
+        "ponto_id": 81585,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R AUGUSTO GRESPAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12917938580845,
+          -23.048796513724866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5507,
+        "ponto_id": 81579,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PEDRO RAIMUNDO DE OLIVEIRA NETO",
+        "ende_numero": "51",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12884921471697,
+          -23.049672565885473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5506,
+        "ponto_id": 81581,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ERCILIA MARQUES DA SILVA, 77",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13013999618172,
+          -23.04987342581755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5444,
+        "ponto_id": 81595,
+        "ptseqlinha": 3.5,
+        "ende_logradouro": "R UM ( R ERCILIA MARQUES DA SILVA - JD FERNANDA)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131746655256855,
+          -23.048797028153167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5504,
+        "ponto_id": 81589,
+        "ptseqlinha": 3.6,
+        "ende_logradouro": "R DOIS ( R CID GUIMARARES LEME)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13249017543741,
+          -23.04668440726955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1468,
+        "ponto_id": 81564,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130698881805074,
+          -23.04514716657155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1469,
+        "ponto_id": 81552,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "126",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13009499654752,
+          -23.043505529291057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1470,
+        "ponto_id": 81520,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": "590",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.129544608883684,
+          -23.041903611151785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1502,
+        "ponto_id": 81532,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R LOURIVAL DE ALMEIDA",
+        "ende_numero": "830",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.131646455156925,
+          -23.04151824912922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1503,
+        "ponto_id": 81514,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R PEDRO PAULO COLOMBARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13302629437845,
+          -23.042198728136018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1504,
+        "ponto_id": 81508,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R GERALDO NUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13355080067548,
+          -23.042849844879772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1505,
+        "ponto_id": 81536,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R GERALDO NUCCI",
+        "ende_numero": "38",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13302066682009,
+          -23.041233675171725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1506,
+        "ponto_id": 81498,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": "41",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13204186717151,
+          -23.039882642265805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 7179,
+        "ponto_id": 81526,
+        "ptseqlinha": 12.1,
+        "ende_logradouro": "RODV ANTIGA RODV SANTOS DUMONT",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130533137513716,
+          -23.03738681327657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1507,
+        "ponto_id": 81466,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "ANT ROD SANTOS DUMONT (SP-75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12877793432524,
+          -23.034826798921515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5462,
+        "ponto_id": 81345,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DAVI ALVES DE BARROS",
+        "ende_numero": "380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12793908533829,
+          -23.0322082824086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5463,
+        "ponto_id": 81275,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R LUIZA CAMARGO",
+        "ende_numero": "383",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12741301746925,
+          -23.03036191904654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 6328,
+        "ponto_id": 81221,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "ANT RODV SANTOS DUMONT",
+        "ende_numero": "126",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12469773889487,
+          -23.02769719025608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 6107,
+        "ponto_id": 81222,
+        "ptseqlinha": 17.1,
+        "ende_logradouro": "R QUATRO",
+        "ende_numero": "107",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124201778597815,
+          -23.028113685164524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1510,
+        "ponto_id": 81238,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R AGOSTINHO POSSARI",
+        "ende_numero": "267",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12365393765218,
+          -23.029726055673912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5447,
+        "ponto_id": 81263,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R TRES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12007543213642,
+          -23.031310791282717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5449,
+        "ponto_id": 81259,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R FOLIA DE REIS",
+        "ende_numero": "502",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.118608838561926,
+          -23.029814313899415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5450,
+        "ponto_id": 81183,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R VINTE E DOIS (CID SINGER)",
+        "ende_numero": "126",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12135053329259,
+          -23.027238386838572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5452,
+        "ponto_id": 81095,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R QUATRO",
+        "ende_numero": "225",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12064615445882,
+          -23.02482628019633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1527,
+        "ponto_id": 81072,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV QUATRO (RUA PROJETADA - CIDADE SINGER)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12080293444731,
+          -23.02152063401265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1406,
+        "ponto_id": 81056,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11427374407243,
+          -23.00836313899027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1407,
+        "ponto_id": 81020,
+        "ptseqlinha": 24.5,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,194,195,196,197,198,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1118893414879,
+          -23.003981008528957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1408,
+        "ponto_id": 80844,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "6523",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104858854370605,
+          -22.983013728501223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5819,
+        "ponto_id": 80798,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": "491",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10465457066273,
+          -22.9815385238642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 4929,
+        "ponto_id": 80750,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103831376274876,
+          -22.97897070416257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1409,
+        "ponto_id": 80748,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R DR GUSTAVO ORSOLINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,189,190,191,192,193,194,195,197,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103312000948684,
+          -22.97714435027694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 329,
+        "ponto_id": 80588,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09836623327747,
+          -22.963315571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 330,
+        "ponto_id": 80448,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486035415989,
+          -22.957522807912035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 331,
+        "ponto_id": 80368,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09298007837161,
+          -22.953810246719954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 36.5,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 1529,
+        "ponto_id": 424,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06243931787614,
+          -22.908989945387127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 79,
+        "num_linha": "189",
+        "sentido": 1,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22334.91,
+        "ponto_gid": 5802,
+        "ponto_id": 81058,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV MARGINAL (RODV SANTOS DUMONT)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11665543410249,
+          -23.013461073463773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1529,
+        "ponto_id": 424,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "189,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06243931787614,
+          -22.908989945387127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 7339,
+        "ponto_id": 90054,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "179,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06391288281925,
+          -22.913611701255196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 347,
+        "ponto_id": 90088,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,186,189,190,191,192,193,194,195,197 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064523699286596,
+          -22.915609354700894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1412,
+        "ponto_id": 90888,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,410,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06991406361028,
+          -22.929419333320958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 353,
+        "ponto_id": 80160,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08953376146433,
+          -22.945904810887352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 354,
+        "ponto_id": 80296,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09185565979555,
+          -22.95080236408041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 355,
+        "ponto_id": 80340,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092684390993554,
+          -22.952541097359397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 356,
+        "ponto_id": 80596,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09863725665485,
+          -22.963152464260244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 357,
+        "ponto_id": 80724,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10251895779692,
+          -22.97281617280804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1413,
+        "ponto_id": 80740,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10323300425128,
+          -22.975080408445812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 7184,
+        "ponto_id": 73221,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "RODV SANTOS DUMONT SP075",
+        "ende_numero": "0",
+        "status": "Reservado",
+        "tipo_uso": "Nao definido",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10647315812685,
+          -22.985968158600002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1414,
+        "ponto_id": 81016,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV MARGINAL (ROD SANTOS DUMONT - SP 75)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "179,186,189,190,191,192,193,194,195,197,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11243821010972,
+          -23.00239739216577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 7181,
+        "ponto_id": 81057,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R SERGIO FERNANDES BORGES SOARES",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "189,192,195,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.116194107908974,
+          -23.01027537122159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 7600,
+        "ponto_id": 81069,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV QUATRO (RUA PROJETADA - CIDADE SINGER)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,192,195 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12103911314984,
+          -23.021628200666555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5453,
+        "ponto_id": 81093,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R QUATRO",
+        "ende_numero": "198",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12088081819278,
+          -23.02478097557854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5451,
+        "ponto_id": 81181,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R VINTE E DOIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12082301816535,
+          -23.02795484555194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5448,
+        "ponto_id": 81257,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R FOLIA DE REIS",
+        "ende_numero": "354",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11875993533924,
+          -23.029651057713863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5446,
+        "ponto_id": 81261,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R FOLIA DE REIS (R UM)",
+        "ende_numero": "115",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.119940644505306,
+          -23.031662842022794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1511,
+        "ponto_id": 81230,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R AGOSTINHO POSSARI",
+        "ende_numero": "31",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123298309211584,
+          -23.02971683507155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1512,
+        "ponto_id": 81217,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "ANT ROD SANTOS DUMONT",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12492814552698,
+          -23.027570787655712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5464,
+        "ponto_id": 81285,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R LUIZA CAMARGO",
+        "ende_numero": "310",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12746361869074,
+          -23.03022880464882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5465,
+        "ponto_id": 81355,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DAVI ALVES DE BARROS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.127956504006974,
+          -23.032354384130915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1515,
+        "ponto_id": 81470,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "ANT ROD SANTOS DUMONT (SP-75)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12916395169656,
+          -23.034997638613316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 7178,
+        "ponto_id": 81511,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "RODV ANTIGA RODV SANTOS DUMONT",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.130667395998316,
+          -23.037318802429365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1516,
+        "ponto_id": 81500,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R LAERCIO DE OLIVEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.132363270809314,
+          -23.039847163180966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1517,
+        "ponto_id": 81502,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R GERALDO NUCCI AO LADO N 96",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13335054208697,
+          -23.041429363861596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1518,
+        "ponto_id": 81504,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R GERALDO NUCCI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1338155201717,
+          -23.042877417039218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1519,
+        "ponto_id": 81510,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R PEDRO PAULO COLOMBARI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13276192596693,
+          -23.042193357448344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1520,
+        "ponto_id": 81516,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R LORIVAL DE ALMEIDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,189,191 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13174929941116,
+          -23.041673308977153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1491,
+        "ponto_id": 81524,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R LOURIVAL DE ALMEIDA",
+        "ende_numero": "457",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12952472052806,
+          -23.042199258944606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1492,
+        "ponto_id": 81548,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ANTONIO ABDALLA",
+        "ende_numero": "139",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13014135265573,
+          -23.043342861084216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 1493,
+        "ponto_id": 81568,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ASDRUBAL FERREIRA BATISTA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "186,188,189,191,194 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13091834427816,
+          -23.045274023835955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5503,
+        "ponto_id": 81591,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R DOIS ( R CID gUIMARAES LEME - JD FERNANDA)",
+        "ende_numero": "204",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13269717500427,
+          -23.046823212656886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5445,
+        "ponto_id": 81597,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R MARIA JOSEFINA CANDIDO DE SOUZA (R UM)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13178968315146,
+          -23.049112771007888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5505,
+        "ponto_id": 81583,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R ERCILIA MARQUES DA SILVA",
+        "ende_numero": "84",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13010171392004,
+          -23.050044682514105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 361,
+        "num_linha": "189",
+        "sentido": 2,
+        "nome_linha": "VL. DIVA",
+        "extensao_m": 22535.88,
+        "ponto_gid": 5497,
+        "ponto_id": 81585,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R AUGUSTO GRESPAN",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "189 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12917938580845,
+          -23.048796513724866
+        ]
+      }
+    }
+  ]
+}

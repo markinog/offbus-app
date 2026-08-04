@@ -1,0 +1,1862 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2626,
+        "ponto_id": 51908,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R AFONSO LEGAZ GARCIA",
+        "ende_numero": "111",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.160826099758815,
+          -22.851176292081032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2627,
+        "ponto_id": 51912,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R AFONSO LEGAZ GARCIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.161867285370036,
+          -22.85231304790438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2628,
+        "ponto_id": 51900,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "370",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1611388334905,
+          -22.85349517196192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2629,
+        "ponto_id": 51896,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "230",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.159415662261424,
+          -22.85445219876553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2630,
+        "ponto_id": 51888,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "53",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.157980342656415,
+          -22.85655496497318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2631,
+        "ponto_id": 51876,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "732",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15622158466246,
+          -22.8581729006317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2632,
+        "ponto_id": 51872,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "934",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15455249631294,
+          -22.859197846879105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2633,
+        "ponto_id": 51860,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R D GILBERTO PEREIRA LOPES",
+        "ende_numero": "175",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153369892630515,
+          -22.85828162117147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2634,
+        "ponto_id": 51852,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R D GILBERTO PEREIRA LOPES",
+        "ende_numero": "47",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152701476980546,
+          -22.857331084997753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2635,
+        "ponto_id": 51846,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R D AUGUSTO ALVARO DA SILVA",
+        "ende_numero": "274",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15191339740224,
+          -22.857672247058456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2636,
+        "ponto_id": 51816,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "56",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,263,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15168237793658,
+          -22.85905130726812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2638,
+        "ponto_id": 51812,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153817818886374,
+          -22.86328826187525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2639,
+        "ponto_id": 51810,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "100",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15458172079735,
+          -22.86507494477096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2640,
+        "ponto_id": 51820,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155997514918035,
+          -22.868035707473283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2641,
+        "ponto_id": 51764,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.154590827671825,
+          -22.86953290681206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2642,
+        "ponto_id": 51644,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "462",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153493435141385,
+          -22.87049583793418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2643,
+        "ponto_id": 51592,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "630",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15102345565342,
+          -22.87267152295477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 7404,
+        "ponto_id": 51599,
+        "ptseqlinha": 17.1,
+        "ende_logradouro": "R N SRA APARECIDA",
+        "ende_numero": "452",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15230500951804,
+          -22.871533264615724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2644,
+        "ponto_id": 51596,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R PAPA MARINO I",
+        "ende_numero": "264",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15159381767379,
+          -22.873994200215048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2455,
+        "ponto_id": 51552,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R N SRA DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151410401319986,
+          -22.8755509600599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2456,
+        "ponto_id": 51600,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R N SRA DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15290689272897,
+          -22.87638723872454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2457,
+        "ponto_id": 51544,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151948856967536,
+          -22.878615214189743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2645,
+        "ponto_id": 51492,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.149989691545755,
+          -22.881514387895866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2646,
+        "ponto_id": 51416,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14887990430664,
+          -22.883270363274022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2647,
+        "ponto_id": 51344,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.147025217392176,
+          -22.885376555938908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2648,
+        "ponto_id": 51284,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "R MANOEL THOMAZ",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14498102249213,
+          -22.884872973418048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2428,
+        "ponto_id": 51220,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R DO SR BOM JESUS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1436584080046,
+          -22.885778230232397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2429,
+        "ponto_id": 51240,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14457342566452,
+          -22.888915613448873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2430,
+        "ponto_id": 51164,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13315099239793,
+          -22.893794140265374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2431,
+        "ponto_id": 51008,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124614519447114,
+          -22.894455680641766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2432,
+        "ponto_id": 50824,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ROD JORNALISTA FA PROENCA (AV ROBERTO BOSCH)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11836321052292,
+          -22.899283199532967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2433,
+        "ponto_id": 50792,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11356248009783,
+          -22.89973316570508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2407,
+        "ponto_id": 50550,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV LIX DA CUNHA (B X C)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10199636962684,
+          -22.897852170094467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2071,
+        "ponto_id": 692,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,260,264,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07067432480205,
+          -22.900913858288153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2342,
+        "ponto_id": 548,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "743",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,260,264,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06888239946453,
+          -22.902434570627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2343,
+        "ponto_id": 476,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R ONZE DE AGOSTO",
+        "ende_numero": "247",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,260,264,289,299,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06673357940553,
+          -22.906414953844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 276,
+        "num_linha": "299",
+        "sentido": 1,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 18501.14,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2514,
+        "ponto_id": 120,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "TERMINAL MERCADO I",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,199,289,299,309,311,312,339,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063316615316275,
+          -22.90402163242278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2110,
+        "ponto_id": 332,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065678613712116,
+          -22.90484085150613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 978,
+        "ponto_id": 588,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "393",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,212,213,230,240,241,242,244,245,250,251,252,253,254,255,256,257,260,261,263,265,271,273,289,299,331,332,341,342,357,364,367,368,381,383,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067650764439264,
+          -22.90572978973119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 979,
+        "ponto_id": 636,
+        "ptseqlinha": 42.5,
+        "ende_logradouro": "AV ANDRADE NEVES",
+        "ende_numero": "472",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,212,230,242,251,253,256,260,261,289,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06905339089645,
+          -22.904253809528534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2046,
+        "ponto_id": 580,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "R MARQUES DE TRES RIOS",
+        "ende_numero": "118",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,251,253,256,260,261,264,289,299,318,403 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.070823067941824,
+          -22.90234644940773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 1902,
+        "ponto_id": 784,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV GOV PEDRO DE TOLEDO",
+        "ende_numero": "84",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "251,256,260,261,264,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07304477812098,
+          -22.90414985767945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2406,
+        "ponto_id": 50624,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV LIX DA CUNHA (C X B)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,253,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10273467271998,
+          -22.897756365665956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2438,
+        "ponto_id": 50796,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R MOACIR TRAMARIN",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,254,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115611978090755,
+          -22.899265977996947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2439,
+        "ponto_id": 51040,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11982369328604,
+          -22.898138417382096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2545,
+        "ponto_id": 50908,
+        "ptseqlinha": 48.5,
+        "ende_logradouro": "R DAS ACACIAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,251,252,253,255,256,257,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12248133259418,
+          -22.895009856127267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2440,
+        "ponto_id": 51000,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "ROD JORN FRANCISCO AGUIRRA PROENCA (SP-101)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "250,251,252,254,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12488047276353,
+          -22.893833277585514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2441,
+        "ponto_id": 51208,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "ACR MANOEL THOMAZ",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,254,260,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.143692951018785,
+          -22.885930962668084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2678,
+        "ponto_id": 51288,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R MANOEL THOMAZ",
+        "ende_numero": "165",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14504460995253,
+          -22.88478761698435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2679,
+        "ponto_id": 51332,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.146773097255675,
+          -22.885394676496333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2680,
+        "ponto_id": 51412,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": "260",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.148789830903695,
+          -22.88322996383803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2681,
+        "ponto_id": 51484,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": "480",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.150051956916975,
+          -22.881228093753258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2411,
+        "ponto_id": 51536,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R OLINTHO LUNARDI",
+        "ende_numero": "770",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15166685189303,
+          -22.87864819036327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2412,
+        "ponto_id": 51540,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R N SRA DA CONCEICAO",
+        "ende_numero": "20",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "250,260,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15124217211905,
+          -22.875639449760204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2682,
+        "ponto_id": 51512,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R N SRA DAS DORES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,261,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14928213886514,
+          -22.874408455802186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2683,
+        "ponto_id": 51588,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "629",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1510128315831,
+          -22.872558189986336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 7435,
+        "ponto_id": 51591,
+        "ptseqlinha": 58.1,
+        "ende_logradouro": "R N SRA APARECIDA",
+        "ende_numero": "449",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152246205761045,
+          -22.87138054095186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2684,
+        "ponto_id": 51640,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15341348058785,
+          -22.87039383277406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2685,
+        "ponto_id": 51772,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R NSRA APARECIDA",
+        "ende_numero": "109",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15464515206702,
+          -22.869285968760742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2686,
+        "ponto_id": 51804,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.155770750166944,
+          -22.86825052893488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2687,
+        "ponto_id": 51786,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15443226395104,
+          -22.865526311889735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2688,
+        "ponto_id": 51788,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "254,260,264,266,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.153512847412024,
+          -22.863437193647222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2689,
+        "ponto_id": 51792,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152366834974885,
+          -22.861078180084817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2690,
+        "ponto_id": 51800,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV PAPA JOAO PAULO II",
+        "ende_numero": "196",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,261,264,265,266,269,299,314 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.151646883913166,
+          -22.859529231007745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2691,
+        "ponto_id": 51856,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R D AUGUSTO ALVARO DA SILVA",
+        "ende_numero": "223",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.152172858004874,
+          -22.857154345086947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2692,
+        "ponto_id": 51864,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R D GILBERTO PEREIRA LOPES",
+        "ende_numero": "202",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15366189763212,
+          -22.858438319102213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2693,
+        "ponto_id": 51868,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15442847767758,
+          -22.85916919386906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2694,
+        "ponto_id": 51880,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "396",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.156050063260416,
+          -22.858158163227444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2695,
+        "ponto_id": 51884,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15782268880024,
+          -22.85662968501097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2696,
+        "ponto_id": 51892,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R ALBERTO BOSCO",
+        "ende_numero": "304",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.159379971430376,
+          -22.854298402108313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2697,
+        "ponto_id": 51904,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R JAIR JORGE BOSCO",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16035585717664,
+          -22.852057332853324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2626,
+        "ponto_id": 51908,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R AFONSO LEGAZ GARCIA",
+        "ende_numero": "111",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.160826099758815,
+          -22.851176292081032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 118,
+        "num_linha": "299",
+        "sentido": 2,
+        "nome_linha": "NOVA APARECIDA (CORUJAO)",
+        "extensao_m": 16872.82,
+        "ponto_gid": 2627,
+        "ponto_id": 51912,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R AFONSO LEGAZ GARCIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,265,299 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.161867285370036,
+          -22.85231304790438
+        ]
+      }
+    }
+  ]
+}

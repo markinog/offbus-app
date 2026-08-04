@@ -1,0 +1,2312 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4261,
+        "ponto_id": 21320,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R ALCEU AMOROSO LIMA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02223325650422,
+          -22.843401615081547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4262,
+        "ponto_id": 21308,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ANTONIO VEIGA",
+        "ende_numero": "86",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02397986691128,
+          -22.84413317332169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4263,
+        "ponto_id": 21292,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R CESAR DOS SANTOS",
+        "ende_numero": "108",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02416672442748,
+          -22.845782220837666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4264,
+        "ponto_id": 21272,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R FRANCISCO TROTTI",
+        "ende_numero": "148",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024897909686395,
+          -22.846790278449213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4265,
+        "ponto_id": 21284,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R JOAO DUQUE",
+        "ende_numero": "301",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025638648350444,
+          -22.846109451644438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4266,
+        "ponto_id": 21288,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R CINIRA FONSECA DE OLIVEIRA",
+        "ende_numero": "320",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02645460818678,
+          -22.845206455381064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4267,
+        "ponto_id": 21256,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R THOMAS NILSEN JR",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02836086362558,
+          -22.848361690425012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2936,
+        "ponto_id": 21156,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029043466851334,
+          -22.853586394975625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2937,
+        "ponto_id": 21076,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02993758140208,
+          -22.856667381531786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2938,
+        "ponto_id": 21036,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": "1501",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02982067333187,
+          -22.85841941883272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4268,
+        "ponto_id": 20902,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ANTONIETTA BERNARDI PELLATIERI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02837577500415,
+          -22.86436505755906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2939,
+        "ponto_id": 20996,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025529617510905,
+          -22.862929476797454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2940,
+        "ponto_id": 21044,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02388470894086,
+          -22.86214216832841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2928,
+        "ponto_id": 21064,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "AV BAILARINA SELMA PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022335656145536,
+          -22.862745496700263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2941,
+        "ponto_id": 21016,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV BAILARINA SELMA PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02114865304977,
+          -22.865661496546387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2942,
+        "ponto_id": 20956,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": "1653",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022252213259044,
+          -22.867225672523357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2930,
+        "ponto_id": 20952,
+        "ptseqlinha": 16.1,
+        "ende_logradouro": "AV DR. JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023055801384615,
+          -22.86652507382991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2929,
+        "ponto_id": 21032,
+        "ptseqlinha": 16.4,
+        "ende_logradouro": "AV DR JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024612007038314,
+          -22.865584405663643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 6082,
+        "ponto_id": 20914,
+        "ptseqlinha": 16.6,
+        "ende_logradouro": "AV DR JOSE BONIFACIO COUTINHO NOGUEIRA",
+        "ende_numero": "225",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024641245125544,
+          -22.866620409110883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4269,
+        "ponto_id": 20870,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": "18",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02560550808045,
+          -22.869585465156515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4270,
+        "ponto_id": 20828,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R BARAO HOMEM DE MELO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02575768804549,
+          -22.87100942304288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4271,
+        "ponto_id": 20808,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R D IDILIO JOSE SOARES",
+        "ende_numero": "146",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02545771085427,
+          -22.872281419665402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4272,
+        "ponto_id": 20764,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R D IDILIO JOSE SOARES",
+        "ende_numero": "306",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02548576590256,
+          -22.87376636316809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4273,
+        "ponto_id": 20748,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R PROF ISAIAS DE CARVALHO",
+        "ende_numero": "86",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02630709709646,
+          -22.874211365516206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2965,
+        "ponto_id": 20680,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DR FREDERICO MARCONDES MACHADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02762165566062,
+          -22.875170091593453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4274,
+        "ponto_id": 20692,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R CIRCOLO ITALIANI UNITI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02836090269883,
+          -22.873664250464913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4275,
+        "ponto_id": 20656,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R CIRCOLO ITALIANI UNITI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03065857353484,
+          -22.87255021095721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2968,
+        "ponto_id": 20544,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03312483894334,
+          -22.873425475024995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2969,
+        "ponto_id": 20456,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03629069961306,
+          -22.875140467311194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 4008,
+        "ponto_id": 20364,
+        "ptseqlinha": 26.5,
+        "ende_logradouro": "R ANALANDIA",
+        "ende_numero": "27",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,355,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040039744601415,
+          -22.876074368783673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2398,
+        "ponto_id": 20332,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04038242899076,
+          -22.876516607336274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2399,
+        "ponto_id": 20284,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043309125145015,
+          -22.876920671958285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 33.5,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 1822,
+        "ponto_id": 756,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1309",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05838047038377,
+          -22.890226655458324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 1823,
+        "ponto_id": 568,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "945",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,260,339,345,353,356,359,369,371,375,380 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06028123954559,
+          -22.893002619065115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 1254,
+        "ponto_id": 248,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "672",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,179,199,309,311,312,339,352,353,355,356,369,375,380,391,392,395,399,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06422935627145,
+          -22.905463388160268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 5932,
+        "ponto_id": 482,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV VINTE DE NOVEMBRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "353,356,369,375,391,392,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0646506666756,
+          -22.9088951365676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 41,
+        "num_linha": "369",
+        "sentido": 1,
+        "nome_linha": "PARQUE IMPERADOR/VILA 31 DE MARCO (INCLUSIVO)",
+        "extensao_m": 15375.93,
+        "ponto_gid": 6390,
+        "ponto_id": 613,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06652089896318,
+          -22.907766877462038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 6390,
+        "ponto_id": 613,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO EXPEDICIONARIOS",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06652089896318,
+          -22.907766877462038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 5929,
+        "ponto_id": 299,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,245,271,356,362,369,375,381,385,386,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0632243850134,
+          -22.907200682909693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 6048,
+        "ponto_id": 266,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV DR MORAES SALLES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,352,353,355,356,369,375,385,391,392,397 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05803446057681,
+          -22.90725317882054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 1851,
+        "ponto_id": 24,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "219",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "212,230,240,244,249,264,309,339,346,352,353,355,356,362,366,369,375,390,391,392,396,398,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05795004093458,
+          -22.901097441751904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2378,
+        "ponto_id": 20280,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04264061716342,
+          -22.87689260833314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2379,
+        "ponto_id": 20312,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1750",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040786023854956,
+          -22.87677748325782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 3060,
+        "ponto_id": 20476,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03499769181428,
+          -22.87473640465019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 3061,
+        "ponto_id": 20380,
+        "ptseqlinha": 58.5,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": "316",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.032948268930184,
+          -22.873653615638812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4277,
+        "ponto_id": 20648,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R CIRCOLO ITALIANI UNITI",
+        "ende_numero": "48",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03077767494864,
+          -22.872875415681484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4278,
+        "ponto_id": 20704,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R CIRCOLO ITALIANI UNITI",
+        "ende_numero": "282",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029363198344434,
+          -22.873527919528236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4279,
+        "ponto_id": 20744,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R PROF ISAIAS DE CARVALHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02629064685667,
+          -22.874337426620357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4280,
+        "ponto_id": 20772,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R D IDILIO JOSE SOARES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02533307328322,
+          -22.873797739690797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4281,
+        "ponto_id": 20804,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R D IDILIO JOSE SOARES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025322150828345,
+          -22.87241676199638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4282,
+        "ponto_id": 20836,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV GERALDO ALVES CORREA",
+        "ende_numero": "61",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02570718878277,
+          -22.870595590590106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2930,
+        "ponto_id": 20952,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV DR. JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023055801384615,
+          -22.86652507382991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2929,
+        "ponto_id": 21032,
+        "ptseqlinha": 65.5,
+        "ende_logradouro": "AV DR JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024612007038314,
+          -22.865584405663643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2939,
+        "ponto_id": 20996,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025529617510905,
+          -22.862929476797454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2940,
+        "ponto_id": 21044,
+        "ptseqlinha": 66.5,
+        "ende_logradouro": "R ENG JOSE FRANCISCO BENTO HOMEM DE MELLO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02388470894086,
+          -22.86214216832841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2928,
+        "ponto_id": 21064,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV BAILARINA SELMA PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022335656145536,
+          -22.862745496700263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2941,
+        "ponto_id": 21016,
+        "ptseqlinha": 67.5,
+        "ende_logradouro": "AV BAILARINA SELMA PARADA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02114865304977,
+          -22.865661496546387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2942,
+        "ponto_id": 20956,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV CARLOS GRIMALDI",
+        "ende_numero": "1653",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.022252213259044,
+          -22.867225672523357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2930,
+        "ponto_id": 20952,
+        "ptseqlinha": 68.5,
+        "ende_logradouro": "AV DR. JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023055801384615,
+          -22.86652507382991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2929,
+        "ponto_id": 21032,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV DR JOSE B COUTINHO NOGUEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.024612007038314,
+          -22.865584405663643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2931,
+        "ponto_id": 21040,
+        "ptseqlinha": 69.5,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029643651471524,
+          -22.858434406932197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2932,
+        "ponto_id": 21092,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": "1700",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.029631646451016,
+          -22.856360447576826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 2933,
+        "ponto_id": 21168,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R DR ANTONIO DUARTE DA CONCEICAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02886679867011,
+          -22.853565264968637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4284,
+        "ponto_id": 21264,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R THOMAS NILSEN JR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02805187266684,
+          -22.848318321064426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4285,
+        "ponto_id": 21268,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R THOMAS NILSEN JR",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.026995648824816,
+          -22.84641745771523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4286,
+        "ponto_id": 21280,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R JOAO DUQUE",
+        "ende_numero": "250",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.025925586582346,
+          -22.84612340427462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4287,
+        "ponto_id": 21276,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R FRANCISCO TROTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02456369754045,
+          -22.846919139611668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4288,
+        "ponto_id": 21300,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R CESAR DOS SANTOS",
+        "ende_numero": "57",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02434158654065,
+          -22.845334820344167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4289,
+        "ponto_id": 21304,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R CINIRA FONSECA DE OLIVEIRA",
+        "ende_numero": "36",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.023966328667214,
+          -22.84440716839433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 405,
+        "num_linha": "369",
+        "sentido": 2,
+        "nome_linha": "TERMINAL VIDA NOVA",
+        "extensao_m": 14966.18,
+        "ponto_gid": 4261,
+        "ponto_id": 21320,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R ALCEU AMOROSO LIMA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02223325650422,
+          -22.843401615081547
+        ]
+      }
+    }
+  ]
+}

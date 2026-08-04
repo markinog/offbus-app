@@ -1,0 +1,1937 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5005,
+        "ponto_id": 80516,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV MARIA CLARA MACHADO",
+        "ende_numero": "51",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0883606194579,
+          -22.965151416612812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5006,
+        "ponto_id": 80512,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV MARIA CLARA MACHADO",
+        "ende_numero": "210",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08942510890099,
+          -22.96468943220588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5007,
+        "ponto_id": 80528,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R APARECIDA LEOPOLDINA FAUSTINO",
+        "ende_numero": "15",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09044206380748,
+          -22.964561642853027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3276,
+        "ponto_id": 80540,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R JOAQUIM DE FARIA",
+        "ende_numero": "443",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09156055840512,
+          -22.96417702246751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3277,
+        "ponto_id": 80560,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093211013702884,
+          -22.96482608749162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3278,
+        "ponto_id": 80576,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "341",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094569224974336,
+          -22.964766979910287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3279,
+        "ponto_id": 80584,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "32",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095818983119905,
+          -22.964401359280632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5008,
+        "ponto_id": 80564,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MIGUEL JOAO JORGE",
+        "ende_numero": "226",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09555596605916,
+          -22.96368641070105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3222,
+        "ponto_id": 80532,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MIGUEL JOAO JORGE",
+        "ende_numero": "380",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09486569908942,
+          -22.962388681094193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3223,
+        "ponto_id": 80492,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R GUILHERMINO F SANTOS FILHO",
+        "ende_numero": "177",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09468096817881,
+          -22.96057537592548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3224,
+        "ponto_id": 80464,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R HELIO TOZZI",
+        "ende_numero": "174",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094570942887955,
+          -22.958835381159414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3225,
+        "ponto_id": 80460,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09354615041546,
+          -22.959155605504876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3226,
+        "ponto_id": 80444,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "534",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090526968219365,
+          -22.959395391677504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3227,
+        "ponto_id": 80436,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "690",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08881098252649,
+          -22.9594423839007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3228,
+        "ponto_id": 80388,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": "355",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088065950243546,
+          -22.957719410851983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3229,
+        "ponto_id": 80344,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": "359",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087203504777264,
+          -22.95571053453575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3230,
+        "ponto_id": 80364,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08882792492612,
+          -22.95589235846335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3231,
+        "ponto_id": 80396,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": "154",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0898679114031,
+          -22.95711040082925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3232,
+        "ponto_id": 80384,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R PASCHOAL CURCIO",
+        "ende_numero": "287",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091140921168595,
+          -22.956294390587765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3233,
+        "ponto_id": 80416,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R PASCHOAL CURCIO",
+        "ende_numero": "91",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092282619893695,
+          -22.95603655123197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 4975,
+        "ponto_id": 80352,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09202663303739,
+          -22.953989660835738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5009,
+        "ponto_id": 80324,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R JOAO TOGNOLI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09143968895352,
+          -22.95284007602193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5958,
+        "ponto_id": 80321,
+        "ptseqlinha": 22.5,
+        "ende_logradouro": "R JOSE FLORENCE TEIXEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0891465087849,
+          -22.950791018816577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5010,
+        "ponto_id": 80268,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R BERNARDINO MARTINS FILHO",
+        "ende_numero": "1140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089937197027055,
+          -22.950053644779917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5011,
+        "ponto_id": 80204,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": "1099",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08958939308405,
+          -22.948884137262237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 3237,
+        "ponto_id": 80188,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV ANTON VON ZUBEM",
+        "ende_numero": "2155",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08937127578164,
+          -22.946617576454873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 5012,
+        "ponto_id": 80110,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV ANTON VON ZUBEM",
+        "ende_numero": "1811",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08795933563103,
+          -22.943782401798906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 332,
+        "ponto_id": 80072,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08593304925976,
+          -22.939119128760552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 333,
+        "ponto_id": 80016,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08194172223284,
+          -22.935008547658512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 334,
+        "ponto_id": 90884,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1709",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,214,405,410,411,412,413,414,415,416,422,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069635398655855,
+          -22.929442919107863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 335,
+        "ponto_id": 90560,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1071",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06703601977164,
+          -22.92431249312962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 336,
+        "ponto_id": 90264,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065405801566506,
+          -22.919324014314416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 337,
+        "ponto_id": 90096,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,245,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064297319270445,
+          -22.915734535664203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 1871,
+        "ponto_id": 90022,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062990244513344,
+          -22.912361367240845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 355,
+        "num_linha": "413",
+        "sentido": 1,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 11112.84,
+        "ponto_gid": 588,
+        "ponto_id": 292,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05947340031833,
+          -22.907839071624117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 588,
+        "ponto_id": 292,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05947340031833,
+          -22.907839071624117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 339,
+        "ponto_id": 176,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "769",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,240,244,264,352,353,355,356,366,369,375,390,391,392,396,398,399,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05626492542123,
+          -22.90470100605018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 340,
+        "ponto_id": 16,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ESTACAO ANCHIETA",
+        "ende_numero": "265",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,410,413,416,BRT10,BRT11,BRT12 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058078348641764,
+          -22.90079632306945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 341,
+        "ponto_id": 244,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "923",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,212,230,240,244,249,264,346,352,353,355,356,362,366,369,375,390,391,392,396,398,410,413,416,BRT10,BRT11,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06027161531425,
+          -22.895716101788125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 342,
+        "ponto_id": 200,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "430",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,197,240,260,309,331,332,339,345,346,353,356,359,369,371,375,391,392,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06189067059783,
+          -22.89714664456313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 343,
+        "ponto_id": 108,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV JORGE MIRANDA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,219,353,356,369,375,380,391,392,395,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06412639974533,
+          -22.90226252870782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 344,
+        "ponto_id": 228,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "810",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,131,133,135,154,161,177,190,192,197,211,219,220,410,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06489354260516,
+          -22.90428961424405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 345,
+        "ponto_id": 284,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,117,135,177,190,192,193,197,249,382,410,413,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063534576811136,
+          -22.90666635631744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 346,
+        "ponto_id": 90052,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "436",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063653330929974,
+          -22.912890453061628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 4965,
+        "ponto_id": 90100,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "536",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "179,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06456831357893,
+          -22.915747533276647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 348,
+        "ponto_id": 90296,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06577812194551,
+          -22.919662107925465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 349,
+        "ponto_id": 90620,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1150",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,179,186,189,190,191,192,193,194,195,197,371,405,410,411,412,413,414,415,416,422,429,430,431,432,433,434 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06751083210404,
+          -22.9249573993584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 350,
+        "ponto_id": 90872,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV PRESTES MAIA",
+        "ende_numero": "1710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "114,115,117,120,135,177,214,405,411,412,413,414,415 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06982180598191,
+          -22.929273021394312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 351,
+        "ponto_id": 80012,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "114,115,117,120,135,177,179,189,190,191,192,193,194,195,197,405,410,412,413,422 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08107491565266,
+          -22.93432741417696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 352,
+        "ponto_id": 80060,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "ROD SANTOS DUMONT (SP-075)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08564945389477,
+          -22.937861946651484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5004,
+        "ponto_id": 70894,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R JOAO CARLOS NOUGUES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08855186629791,
+          -22.943129025833755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3259,
+        "ponto_id": 80196,
+        "ptseqlinha": 49.5,
+        "ende_logradouro": "R JOSE FLORENCE TEIXEIRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,411,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08730761481928,
+          -22.94652052510495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3260,
+        "ponto_id": 80200,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089278986734804,
+          -22.94784819250544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3261,
+        "ponto_id": 80272,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": "1009",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.090214193462025,
+          -22.94969243059566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5959,
+        "ponto_id": 80323,
+        "ptseqlinha": 51.5,
+        "ende_logradouro": "R JOSE FLORENCE TEIXEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08947877833145,
+          -22.95089860547497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 4973,
+        "ponto_id": 80322,
+        "ptseqlinha": 52.5,
+        "ende_logradouro": "R JOAO TONOLI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "411,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.091120130502226,
+          -22.952829906344306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3263,
+        "ponto_id": 80400,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R ALTINO ARANTES",
+        "ende_numero": "OP 322",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,411,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09278681232683,
+          -22.955227985237343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3264,
+        "ponto_id": 80380,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R PASCHOAL CURCIO",
+        "ende_numero": "304",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09077392724613,
+          -22.9564174033583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3265,
+        "ponto_id": 80408,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": "171",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08978097428094,
+          -22.95727639337127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3266,
+        "ponto_id": 80360,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R JOSE PERIN NETTO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08866393123063,
+          -22.95594642833226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3267,
+        "ponto_id": 80348,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08743293546625,
+          -22.955692437981778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3268,
+        "ponto_id": 80392,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R MANOEL MILITAO DE MELO",
+        "ende_numero": "361",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08828352631664,
+          -22.958032664509254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3269,
+        "ponto_id": 80432,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "685",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088768966369884,
+          -22.959303368438086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3270,
+        "ponto_id": 80440,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": "515",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09048796783439,
+          -22.959264371702552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3271,
+        "ponto_id": 80456,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R DALTAIR PAULINO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093171946831205,
+          -22.95917136255109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3272,
+        "ponto_id": 80472,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "R HELIO TOZZI",
+        "ende_numero": "171",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.094737916273026,
+          -22.958849425086466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3273,
+        "ponto_id": 80488,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "R HELIO TOZZI",
+        "ende_numero": "23",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09545896336916,
+          -22.96014241678685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3274,
+        "ponto_id": 80520,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R MIGUEL JOAO JORGE",
+        "ende_numero": "371",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09512098239981,
+          -22.962388376875367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5013,
+        "ponto_id": 80572,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R MIGUEL JOAO JORGE",
+        "ende_numero": "215",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09573093191142,
+          -22.963634354930726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5014,
+        "ponto_id": 80592,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "299",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.095910950824255,
+          -22.964504503713165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3218,
+        "ponto_id": 80580,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "400",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0945521685314,
+          -22.964875899054714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5859,
+        "ponto_id": 80568,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R RODOLFO PANONI",
+        "ende_numero": "568",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.093258831375664,
+          -22.964928913793635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 3219,
+        "ponto_id": 80536,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOAQUIM DE FARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "317,413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09141772388477,
+          -22.96422720540237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5015,
+        "ponto_id": 80556,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "AV HERBERT DE SOUZA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09114195778145,
+          -22.96467338309323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5016,
+        "ponto_id": 80522,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "AV MARIA CLARA MACHADO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08939249174421,
+          -22.964921423724974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 90,
+        "num_linha": "413",
+        "sentido": 2,
+        "nome_linha": "PARQUE OZIEL VIA JARDIM DO LAGO II",
+        "extensao_m": 14291.63,
+        "ponto_gid": 5017,
+        "ponto_id": 80524,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "AV MARIA CLARA MACHADO",
+        "ende_numero": "51",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "413 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.088500663944906,
+          -22.965317216748115
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2462 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1133,
+        "ponto_id": 71936,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R RUBENS ROBERTO CIOLFI",
+        "ende_numero": "146",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12042995934744,
+          -22.940862579526605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1134,
+        "ponto_id": 72088,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R RUBENS ROBERTO CIOLFI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12146900900292,
+          -22.943114895122935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1135,
+        "ponto_id": 72148,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R DA NEUSA GOULART BRIZOLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12292272154921,
+          -22.944075937443785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1136,
+        "ponto_id": 72180,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R DA NEUSA GOULART BRIZOLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12331350513703,
+          -22.94519487976224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 6298,
+        "ponto_id": 72182,
+        "ptseqlinha": 5.5,
+        "ende_logradouro": "R OSWALDO ANDRELLI SILVA",
+        "ende_numero": "41",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12331079311512,
+          -22.946551110237365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 6299,
+        "ponto_id": 72216,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R RUBENS ROBERTO CIOLFO",
+        "ende_numero": "1035",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123355508611226,
+          -22.948515818933902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1173,
+        "ponto_id": 72212,
+        "ptseqlinha": 6.5,
+        "ende_logradouro": "R PAULO VIANNA DE SOUZA",
+        "ende_numero": "700",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124522046234944,
+          -22.946968745004206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1138,
+        "ponto_id": 72176,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ERICO LAZZARINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12481800327726,
+          -22.944297195416254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 6103,
+        "ponto_id": 72166,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MARIA PINK LUIS",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124567219483005,
+          -22.942071486310496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 951,
+        "ponto_id": 72152,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R SILVIO CALDAS SERESTEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125395284311104,
+          -22.94108384459664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1170,
+        "ponto_id": 72128,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANTONIO GARCIA FERNANDES",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12452575301719,
+          -22.940280280266496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 953,
+        "ponto_id": 72040,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DONA ESMERALDA OLIVEIRA MATHIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12366617339857,
+          -22.93869608287733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1139,
+        "ponto_id": 71984,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MARIA HELENA CESARINO RODRIGUES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12380521642695,
+          -22.936566319116153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1140,
+        "ponto_id": 71880,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R PROF MARIO GIANNINI",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12328788439493,
+          -22.93495675501741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 6124,
+        "ponto_id": 71898,
+        "ptseqlinha": 13.1,
+        "ende_logradouro": "R PROF MARIO GIANNINI",
+        "ende_numero": "191",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124335140300744,
+          -22.93392018031342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1141,
+        "ponto_id": 71952,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R HERMANTINA NUCCI FABRICIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125265589224945,
+          -22.933298173277624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1142,
+        "ponto_id": 71840,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R ROLF HEINZ KNAUER",
+        "ende_numero": "303",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12449525947801,
+          -22.932120000974738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1143,
+        "ponto_id": 71772,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R GRANDE OTELO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.122871072783575,
+          -22.93176600675918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 512,
+        "ponto_id": 71768,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "AV CARLOS LACERDA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12184193892958,
+          -22.932522565087886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1144,
+        "ponto_id": 71724,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R WILSON FERREIRA DE MELLO",
+        "ende_numero": "40",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12128029911134,
+          -22.93355073942074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1145,
+        "ponto_id": 71684,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R MANOEL GOMES FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.120266201661074,
+          -22.933225124153548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1146,
+        "ponto_id": 71668,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R MANOEL GOMES FERREIRA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11888290267179,
+          -22.934919675416506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1147,
+        "ponto_id": 71528,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R JOSE FACCIONI",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11674479597712,
+          -22.932980272740114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 426,
+        "ponto_id": 71444,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115489918118996,
+          -22.93222830112207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 742,
+        "ponto_id": 70588,
+        "ptseqlinha": 22.1,
+        "ende_logradouro": "AV PRESIDENTE JUSCELINO",
+        "ende_numero": "105",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,163,164,165,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09649747324829,
+          -22.930145473051134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 427,
+        "ponto_id": 71310,
+        "ptseqlinha": 22.5,
+        "ende_logradouro": "PRACA ANTONIA ANDREATTI GLAUDIO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.113779086563305,
+          -22.931801611239134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 428,
+        "ponto_id": 71352,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114304919044244,
+          -22.930818393667536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 429,
+        "ponto_id": 71292,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428411102682,
+          -22.929069468422462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 430,
+        "ponto_id": 71248,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11428138267521,
+          -22.928049918906368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1148,
+        "ponto_id": 71232,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11387292555924,
+          -22.927925320933802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1149,
+        "ponto_id": 71148,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11201694478128,
+          -22.927833301886956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1150,
+        "ponto_id": 71040,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11007194190611,
+          -22.92753137699395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1151,
+        "ponto_id": 70920,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10730094222582,
+          -22.926888316213144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1152,
+        "ponto_id": 70812,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10441787938992,
+          -22.92799617277128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1153,
+        "ponto_id": 70800,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "327",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.103321640679624,
+          -22.928514722174267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 1154,
+        "ponto_id": 70732,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10101323985659,
+          -22.929573917599523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 741,
+        "ponto_id": 70712,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "429",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099455325856574,
+          -22.930343385310366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 7228,
+        "ponto_id": 70806,
+        "ptseqlinha": 33.1,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.096150594998655,
+          -22.935142504445547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 580,
+        "ponto_id": 70632,
+        "ptseqlinha": 33.2,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3771",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.09256343385697,
+          -22.934316708120974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 581,
+        "ponto_id": 70488,
+        "ptseqlinha": 33.3,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3341",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08954756337886,
+          -22.93237290914576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 7518,
+        "ponto_id": 70489,
+        "ptseqlinha": 37.5,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3033",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08633590732985,
+          -22.930579353730543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 582,
+        "ponto_id": 70388,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2623",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08394997326962,
+          -22.929074465154386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 5926,
+        "ponto_id": 70181,
+        "ptseqlinha": 38.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08190582713767,
+          -22.925916814487618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 5527,
+        "ponto_id": 70184,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1837",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07948593395305,
+          -22.92351447154542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 584,
+        "ponto_id": 70156,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07782620199902,
+          -22.922015499649664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 585,
+        "ponto_id": 70084,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1273",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07408195298589,
+          -22.919479249835813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 586,
+        "ponto_id": 70020,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068293751386115,
+          -22.91551108842579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 587,
+        "ponto_id": 70008,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2045",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06579910500191,
+          -22.915123677347065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 877,
+        "ponto_id": 90020,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "499",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,213,219,245,382,401,402,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344812080828,
+          -22.913718089009592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 244,
+        "num_linha": "164",
+        "sentido": 1,
+        "nome_linha": "TERM CENTRAL",
+        "extensao_m": 14969.72,
+        "ponto_gid": 4449,
+        "ponto_id": 452,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062552231391585,
+          -22.90901863739279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 4449,
+        "ponto_id": 452,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "TERMINAL CENTRAL",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062552231391585,
+          -22.90901863739279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1572,
+        "ponto_id": 90040,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV JOAO JORGE",
+        "ende_numero": "192",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,245,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06327091799696,
+          -22.911755920938795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 590,
+        "ponto_id": 70004,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "180",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06601996953021,
+          -22.914990079927378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 591,
+        "ponto_id": 70016,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "425",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.068507893756326,
+          -22.91553312549965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 592,
+        "ponto_id": 70088,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1290",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07502278049115,
+          -22.91968114129561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 593,
+        "ponto_id": 70168,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "4528",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.078118527778706,
+          -22.921892686314123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 5540,
+        "ponto_id": 70200,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "1999",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07990750806758,
+          -22.92357232159311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 5925,
+        "ponto_id": 70170,
+        "ptseqlinha": 51.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,382,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.082247321373295,
+          -22.925949987225074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 770,
+        "ponto_id": 70368,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2754",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,125,131,132,133,136,153,154,161,163,164,199,213,219,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.084498336474404,
+          -22.929063290855797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 7517,
+        "ponto_id": 70477,
+        "ptseqlinha": 52.1,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "2980",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.086483185645434,
+          -22.93029655833481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 596,
+        "ponto_id": 70472,
+        "ptseqlinha": 52.2,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": "3370",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199,317,404 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.089389071096214,
+          -22.931954948446496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 820,
+        "ponto_id": 70600,
+        "ptseqlinha": 52.3,
+        "ende_logradouro": "AV DAS AMOREIRAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,131,132,133,136,153,154,161,163,164,199 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.092072027019064,
+          -22.933590404327173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 7228,
+        "ponto_id": 70806,
+        "ptseqlinha": 52.4,
+        "ende_logradouro": "TERMINAL CAMPOS ELISEOS",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.096150594998655,
+          -22.935142504445547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 7519,
+        "ponto_id": 70670,
+        "ptseqlinha": 56.1,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "386",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "125,153,154,164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.099331251369655,
+          -22.929896979072318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1155,
+        "ponto_id": 70728,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "44",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.100902851652435,
+          -22.92935392871624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1156,
+        "ponto_id": 70780,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "362",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10323857599984,
+          -22.928257991236876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1157,
+        "ponto_id": 70808,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10472290831708,
+          -22.927541644906345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1158,
+        "ponto_id": 70900,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "714",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1072241693605,
+          -22.92664378186502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1159,
+        "ponto_id": 71044,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11029493764803,
+          -22.927402295250616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1160,
+        "ponto_id": 71152,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": "1292",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164,213,219 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11221093316309,
+          -22.92762732654082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1161,
+        "ponto_id": 71240,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV PAULO PROVENZA SOBRINHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164,213,219,230 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114207899074486,
+          -22.927729291737773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 508,
+        "ponto_id": 71320,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114704622673536,
+          -22.929541520036697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 509,
+        "ponto_id": 71372,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV BRASILIA",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Desembarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.114780055782646,
+          -22.93100413140107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 510,
+        "ponto_id": 71440,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "116,119,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.115638744538025,
+          -22.931656039218375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 425,
+        "ponto_id": 71512,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV PRES JUSCELINO",
+        "ende_numero": "2275",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11720698900175,
+          -22.93154105568835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1162,
+        "ponto_id": 71532,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R JOSE FACCIONI",
+        "ende_numero": "166",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11701590575363,
+          -22.932807297135614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1163,
+        "ponto_id": 71656,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R MANOEL GOMES FERREIRA",
+        "ende_numero": "204",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11870966874436,
+          -22.934826927458495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1164,
+        "ponto_id": 71672,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R MANOEL GOMES FERREIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.120144667552424,
+          -22.93309684014473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1165,
+        "ponto_id": 71732,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R WILSON FERREIRA DE MELLO",
+        "ende_numero": "43",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "163,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12147691636276,
+          -22.93346234826201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1166,
+        "ponto_id": 71764,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R GRANDE OTELO",
+        "ende_numero": "110",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12295200876732,
+          -22.931636280167698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1167,
+        "ponto_id": 71856,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R ROLF HEINZ KNAUER",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.124587161686385,
+          -22.932033730282097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 955,
+        "ponto_id": 71964,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R HERMANTINA NUCCI FABRICIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12522758269158,
+          -22.93368028012462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 6123,
+        "ponto_id": 71798,
+        "ptseqlinha": 75.1,
+        "ende_logradouro": "R PROF MARIO GIANNINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12444313566337,
+          -22.93401272897249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 956,
+        "ponto_id": 71884,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R PROF MARIO GIANNINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "152,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.123363490699994,
+          -22.9351139976893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1168,
+        "ponto_id": 71988,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R MARIA HELENA CESARINO RODRIGUES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12396510372936,
+          -22.93643192408036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1169,
+        "ponto_id": 72052,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R DONA ESMERALDA OLIVEIRA MATHIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12376380253222,
+          -22.938914689047984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 952,
+        "ponto_id": 72132,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R ANTONIO GARCIA FERNANDES",
+        "ende_numero": "156",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12483851170721,
+          -22.94014779398038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1171,
+        "ponto_id": 72160,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R SILVIO CALDAS SERESTEIRO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.125523493952755,
+          -22.941072557565207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 950,
+        "ponto_id": 72168,
+        "ptseqlinha": 80.5,
+        "ende_logradouro": "R MARIA PINK LUIS",
+        "ende_numero": "107",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1249485957369,
+          -22.942214638096566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1172,
+        "ponto_id": 72184,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R ERICO LAZZARINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12496499704885,
+          -22.94436112791572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 6125,
+        "ponto_id": 72214,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R PAULO VIANNA DE SOUZA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12475240267649,
+          -22.947148320758608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 6300,
+        "ponto_id": 72220,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R RUBENS ROBERTO CIOLFI",
+        "ende_numero": "1050",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12304150570057,
+          -22.948330318173838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 6297,
+        "ponto_id": 72174,
+        "ptseqlinha": 83.5,
+        "ende_logradouro": "R OSWALDO ANDRELLI SILVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12325477176039,
+          -22.94634743789683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1175,
+        "ponto_id": 72172,
+        "ptseqlinha": 83.6,
+        "ende_logradouro": "R DA NEUSA GOULART BRIZOLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1231189294317,
+          -22.945339785566883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 6397,
+        "ponto_id": 72181,
+        "ptseqlinha": 83.7,
+        "ende_logradouro": "R DA NEUSA GOULART BRIZOLA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1227431689209,
+          -22.94414712965565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 1176,
+        "ponto_id": 72072,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R RUBENS ROBERTO CIOLFI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.12124633726177,
+          -22.94304899207388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 207,
+        "num_linha": "164",
+        "sentido": 2,
+        "nome_linha": "TERM VL UNIAO",
+        "extensao_m": 14596.39,
+        "ponto_gid": 420,
+        "ponto_id": 71848,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "TERMINAL VILA UNIAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,134,152,153,154,164 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11818733947672,
+          -22.94153268281096
+        ]
+      }
+    }
+  ]
+}

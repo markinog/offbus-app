@@ -1,0 +1,3262 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3803,
+        "ponto_id": 92316,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666460745539,
+          -22.943631261724224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3667,
+        "ponto_id": 92196,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": "13",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03829438104556,
+          -22.94340097037754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3688,
+        "ponto_id": 92248,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039064416869806,
+          -22.943950080939597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3689,
+        "ponto_id": 92144,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039004208171725,
+          -22.942925910122206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3690,
+        "ponto_id": 92064,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R FELIPE CAMARAO",
+        "ende_numero": "21",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03812461516211,
+          -22.94144551633243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3691,
+        "ponto_id": 91140,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R SYNIRA DE ARRUDA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03965839270088,
+          -22.940412060856072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3804,
+        "ponto_id": 91836,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ARISTIDES XAVIER DE BRITO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04122179248645,
+          -22.93969117341795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3805,
+        "ponto_id": 91632,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MARIO AUGUSTO MDE ARAGAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04137850058524,
+          -22.937958290776685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3806,
+        "ponto_id": 91600,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "122",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0421050240849,
+          -22.937647897804556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3807,
+        "ponto_id": 91612,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R NICOLA ROSELI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04370324015397,
+          -22.9385540172515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3808,
+        "ponto_id": 91584,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R PAULO VIRGINIO",
+        "ende_numero": "1026",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04641400264998,
+          -22.93915863513729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3809,
+        "ponto_id": 91408,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049120172811925,
+          -22.937702999956542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3810,
+        "ponto_id": 91264,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049362563450124,
+          -22.93530602341101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3812,
+        "ponto_id": 91192,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1517",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046941970777915,
+          -22.933958069255446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3813,
+        "ponto_id": 91136,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R SYNIRA DE ARRUDA VALENTE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04600393569085,
+          -22.932880403308378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3814,
+        "ponto_id": 91008,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R POMPEU CARVALHO DE MOURA",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04903814808096,
+          -22.931078820122153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3815,
+        "ponto_id": 90846,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV FRANCISCO PEROTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04893716929291,
+          -22.92851393241913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3816,
+        "ponto_id": 90718,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R LUIZ SILVERIO",
+        "ende_numero": "361",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05022078112776,
+          -22.926649789139336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3817,
+        "ponto_id": 90676,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "444",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05174379875941,
+          -22.92617645545945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3818,
+        "ponto_id": 90732,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "594",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05240485554576,
+          -22.927347498000426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3819,
+        "ponto_id": 90748,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "842",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.054627821142816,
+          -22.92808673855834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3820,
+        "ponto_id": 90580,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056291804498905,
+          -22.92542741688336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3821,
+        "ponto_id": 90428,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056925929493126,
+          -22.92292361488959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3822,
+        "ponto_id": 90348,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "585",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05666653457981,
+          -22.92159824728047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3823,
+        "ponto_id": 90196,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05674733831161,
+          -22.918740586941126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3824,
+        "ponto_id": 90076,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "106",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05820524249644,
+          -22.915896046718192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3825,
+        "ponto_id": 90056,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06144028316159,
+          -22.91497232373664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 6050,
+        "ponto_id": 402,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "VD MIGUEL VICENTE CURY",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06259567527385,
+          -22.908513288351152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 5474,
+        "ponto_id": 90023,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "ESTACAO BRS JOAO JORGE BXC",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06340202295382,
+          -22.91280493283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 976,
+        "ponto_id": 480,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "R SALDANHA MARINHO",
+        "ende_numero": "152",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "153,193,317,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06461739357475,
+          -22.908217180333725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 6213,
+        "ponto_id": 317,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "427",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064281330374065,
+          -22.906100515220594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2717,
+        "ponto_id": 314,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV DR CAMPOS SALES",
+        "ende_numero": "651",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,317,331,332,348,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0617827423814,
+          -22.905035974726985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3102,
+        "ponto_id": 52,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R GEN OSORIO",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,331,332,345,348,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05745407928806,
+          -22.903131218528834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2074,
+        "ponto_id": 564,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "1000",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05960619825358,
+          -22.892771728504925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2075,
+        "ponto_id": 748,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,260,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05833618478895,
+          -22.89102237705108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2076,
+        "ponto_id": 20004,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "155",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05743317680128,
+          -22.888135332543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2077,
+        "ponto_id": 20052,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "540",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055323133440424,
+          -22.885391040471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2078,
+        "ponto_id": 20088,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "811",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.053152763032564,
+          -22.884314519344336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2079,
+        "ponto_id": 20120,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "1014",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05223741801607,
+          -22.883222219381114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 2083,
+        "ponto_id": 20260,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "283",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044665683096724,
+          -22.876575425012113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 1225,
+        "ponto_id": 20308,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "R VITAL BRASIL",
+        "ende_numero": "680",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04385333422008,
+          -22.874775843755973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3056,
+        "ponto_id": 20444,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040013751000274,
+          -22.872865077098897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3057,
+        "ponto_id": 20484,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,355,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03747001856519,
+          -22.87245432395423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3714,
+        "ponto_id": 20628,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R CANDIDO PORTINARI",
+        "ende_numero": "287",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034509189828,
+          -22.870577383721955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3715,
+        "ponto_id": 20720,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R CANDIDO PORTINARI",
+        "ende_numero": "25",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034637691610136,
+          -22.868264828540042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3716,
+        "ponto_id": 20676,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R EMILIO LANG JR",
+        "ende_numero": "175",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035912456410124,
+          -22.868538224941194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3717,
+        "ponto_id": 20568,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R DARIO POMPEU DE CAMARGO",
+        "ende_numero": "181",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03792526721969,
+          -22.86953884313055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 5336,
+        "ponto_id": 20605,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "R DARIO POMPEU CAMARGO",
+        "ende_numero": "39",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0392221852208,
+          -22.867958381642545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3718,
+        "ponto_id": 20572,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "2288",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04209939065559,
+          -22.86737589995602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 5472,
+        "ponto_id": 20584,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "R BENTO DE ARRUDA CAMARGO",
+        "ende_numero": "146",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043503549954366,
+          -22.865884220236243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3719,
+        "ponto_id": 20776,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R BENTO ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04345110685676,
+          -22.86198117590429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3720,
+        "ponto_id": 20792,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R BENTO DE ARRUDA CAMARGO",
+        "ende_numero": "764",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04359094540759,
+          -22.860356641834592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3721,
+        "ponto_id": 20868,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": "66",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042900757388885,
+          -22.859468882612738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3722,
+        "ponto_id": 20912,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043154638746145,
+          -22.856260128964728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3723,
+        "ponto_id": 20968,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": "598",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04251050967548,
+          -22.854958972925026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3724,
+        "ponto_id": 21024,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04113807868418,
+          -22.85378136243571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3525,
+        "ponto_id": 21060,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "241",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04058805081524,
+          -22.85264618873683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3526,
+        "ponto_id": 21072,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV LAFAYETE ARRUDA CAMARGO",
+        "ende_numero": "45",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04215020135131,
+          -22.85162764645687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3522,
+        "ponto_id": 21148,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV FRANCISCO XAVIER ARRUDA CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.042028253468835,
+          -22.850090381353795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 180,
+        "num_linha": "348",
+        "sentido": 1,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19037.87,
+        "ponto_gid": 3900,
+        "ponto_id": 21183,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03911488220842,
+          -22.848811538774832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3900,
+        "ponto_id": 21183,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "ESTACAO CIDADE JUDICIARIA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03911488220842,
+          -22.848811538774832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3524,
+        "ponto_id": 21100,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "328,329,345,348,350,358,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039259627217405,
+          -22.85186838919539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2982,
+        "ponto_id": 21048,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04070248814726,
+          -22.853186223401956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2983,
+        "ponto_id": 20972,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": "577",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04281458787823,
+          -22.8549734863199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3736,
+        "ponto_id": 20920,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": "417",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04337020212197,
+          -22.85630836898247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3737,
+        "ponto_id": 20872,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV ESTHER MORETZSHON CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0432446872673,
+          -22.858988417566543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3738,
+        "ponto_id": 20840,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV DR JULIO SOARES DE ARRUDA",
+        "ende_numero": "64",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04250767851948,
+          -22.86038639318342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3739,
+        "ponto_id": 20848,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV DR JULIO SOARES DE ARRUDA",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041010688256854,
+          -22.860706421037072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3740,
+        "ponto_id": 20756,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV DR JULIO SOARES DE ARRUDA",
+        "ende_numero": "604",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03987858659566,
+          -22.863859269774284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3051,
+        "ponto_id": 20632,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "AV DIOGO ALVARES",
+        "ende_numero": "2077",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039908692452975,
+          -22.8673384699266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3741,
+        "ponto_id": 20600,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R DARIO POMPEU DE CAMARGO",
+        "ende_numero": "90",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.039389056925884,
+          -22.868086245635148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3742,
+        "ponto_id": 20560,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R JOSE RAMON ABOIM GOMES",
+        "ende_numero": "161",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03836556583207,
+          -22.869444996282823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3743,
+        "ponto_id": 20660,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R EMILIO LANG JR",
+        "ende_numero": "206",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03595038037635,
+          -22.868802171038258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3744,
+        "ponto_id": 20716,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R CANDIDO PORTINARI",
+        "ende_numero": "26",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03480921291867,
+          -22.868376026469697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3745,
+        "ponto_id": 20636,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R CANDIDO PORTINARI",
+        "ende_numero": "338",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034650184032145,
+          -22.870381476681104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 5515,
+        "ponto_id": 20495,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R DONA LUISA DE GUSMAO,",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03755972566086,
+          -22.87227227265945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2972,
+        "ponto_id": 20440,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R DA LUISA DE GUSMAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348,359 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04027819076352,
+          -22.872740889279466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3746,
+        "ponto_id": 20368,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R DR ALFREDO MAIA BONATO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "345,348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04281270684363,
+          -22.87438241441005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2100,
+        "ponto_id": 20256,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "AV JULIO PRESTES",
+        "ende_numero": "288",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,339,345,348,352,353,356,357,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04483082332286,
+          -22.87687095458897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2104,
+        "ponto_id": 20108,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R ADALBERTO MAIA",
+        "ende_numero": "217",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05345870624785,
+          -22.883300428070953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 6155,
+        "ponto_id": 20054,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R PAULA BUENO",
+        "ende_numero": "531",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05566068007417,
+          -22.885302475159644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 1245,
+        "ponto_id": 20076,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": "395",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05744111104069,
+          -22.88523444856565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 1246,
+        "ponto_id": 20024,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R MARIA UMBELINA COUTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,230,249,339,345,348,352,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058820579498224,
+          -22.88717212877101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2105,
+        "ponto_id": 788,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R DR JOSE DE CAMPOS NOVAES",
+        "ende_numero": "131",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,339,345,348,353,355,356,357,359,362,369,371,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05895888752399,
+          -22.888885956682696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2106,
+        "ponto_id": 712,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R MAJOR SOLON",
+        "ende_numero": "850",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058037876230784,
+          -22.891084232967252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 566,
+        "ponto_id": 324,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R MAJ SOLON",
+        "ende_numero": "441",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,230,249,348,355,357,362 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.058651325684366,
+          -22.89486657593452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 567,
+        "ponto_id": 216,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "959",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05636459139415,
+          -22.89759761810051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 568,
+        "ponto_id": 204,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV JULIO DE MESQUITA",
+        "ende_numero": "705",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "118,211,220,230,244,249,271,348,355,357,362,381,386,502 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05533635544883,
+          -22.899341399579587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 2107,
+        "ponto_id": 80,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1633",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,244,249,253,255,265,271,348,355,357,360,362,364,368,381,382,383,386 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056903483861,
+          -22.901399743532988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3826,
+        "ponto_id": 12,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "AV BENJAMIN CONSTANT",
+        "ende_numero": "1185",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,357,360,362,364,381,382,383,386,399 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060665603814776,
+          -22.902506526175117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 5198,
+        "ponto_id": 64,
+        "ptseqlinha": 90.0,
+        "ende_logradouro": "R JOSE PAULINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,219,220,249,348,377,382,395 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06313967370005,
+          -22.901396209311446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3252,
+        "ponto_id": 300,
+        "ptseqlinha": 91.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": "505",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "317,330,333,348,371,377,390,396,398 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06344523434786,
+          -22.906907478723305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 1255,
+        "ponto_id": 60004,
+        "ptseqlinha": 92.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": "720",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,211,220,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06449732219572,
+          -22.910510021387225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 1208,
+        "ponto_id": 60008,
+        "ptseqlinha": 93.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": "501",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,212,231,249,348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06485226139311,
+          -22.911777798123445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 5531,
+        "ponto_id": 90026,
+        "ptseqlinha": 94.0,
+        "ende_logradouro": "R DR SALLES OLIVEIRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06170631839999,
+          -22.912562901185296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 5679,
+        "ponto_id": 90027,
+        "ptseqlinha": 95.0,
+        "ende_logradouro": "R FRANCISCO TEODORO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,401,402,489 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05980475442011,
+          -22.913988769945206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3828,
+        "ponto_id": 90084,
+        "ptseqlinha": 96.0,
+        "ende_logradouro": "AV GEN CARNEIRO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05831031100682,
+          -22.91608842376829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3829,
+        "ponto_id": 90184,
+        "ptseqlinha": 97.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "210",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05690363879418,
+          -22.918264054668192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3830,
+        "ponto_id": 90388,
+        "ptseqlinha": 98.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "570",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056944808677315,
+          -22.92181040902628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3831,
+        "ponto_id": 90540,
+        "ptseqlinha": 99.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "864",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05719669976278,
+          -22.92397456621238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3832,
+        "ponto_id": 90624,
+        "ptseqlinha": 100.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": "1074",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,377,409,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.056336664727226,
+          -22.92566201286203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 7343,
+        "ponto_id": 90889,
+        "ptseqlinha": 101.0,
+        "ende_logradouro": "R DR CELSO DA SILVEIRA REZENDE",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Nao definido",
+        "linhas": "348,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.055532749818816,
+          -22.928874579437057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 4895,
+        "ponto_id": 90792,
+        "ptseqlinha": 102.0,
+        "ende_logradouro": "AV JOSE ADEMAR ETTER",
+        "ende_numero": "39",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408,499 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05312178723234,
+          -22.928470146724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3834,
+        "ponto_id": 90720,
+        "ptseqlinha": 103.0,
+        "ende_logradouro": "R DR BETIM",
+        "ende_numero": "603",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05221845712224,
+          -22.927263330401292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3835,
+        "ponto_id": 90742,
+        "ptseqlinha": 104.0,
+        "ende_logradouro": "R LUIZ SILVERIO",
+        "ende_numero": "370",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04994455275057,
+          -22.926877972029285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3836,
+        "ponto_id": 90842,
+        "ptseqlinha": 105.0,
+        "ende_logradouro": "AV FRANCISCO PEROTTI",
+        "ende_numero": "374",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04899099526186,
+          -22.928725394102585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3837,
+        "ponto_id": 91000,
+        "ptseqlinha": 106.0,
+        "ende_logradouro": "R PHILEMON DE CUVILLON",
+        "ende_numero": "144",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049470516151985,
+          -22.931140043729407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3838,
+        "ponto_id": 91109,
+        "ptseqlinha": 107.0,
+        "ende_logradouro": "R PAULO VIRGILIO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04740670246874,
+          -22.932776365020988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 4415,
+        "ponto_id": 91148,
+        "ptseqlinha": 108.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1558",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04766395331412,
+          -22.934102048777923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3839,
+        "ponto_id": 91256,
+        "ptseqlinha": 109.0,
+        "ende_logradouro": "AV JORGE TIBIRICA",
+        "ende_numero": "1840",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04969080398494,
+          -22.93521740754623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3840,
+        "ponto_id": 91412,
+        "ptseqlinha": 110.0,
+        "ende_logradouro": "AV WASHINGTON LUIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,408,409 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04915725712929,
+          -22.937688527720695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3841,
+        "ponto_id": 91588,
+        "ptseqlinha": 111.0,
+        "ende_logradouro": "R PAULO VIRGINIO",
+        "ende_numero": "1017",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04623750123032,
+          -22.939116938027066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3842,
+        "ponto_id": 91644,
+        "ptseqlinha": 112.0,
+        "ende_logradouro": "R FAUSTO FEIJO",
+        "ende_numero": "257",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0439736005938,
+          -22.93899393505875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3843,
+        "ponto_id": 91604,
+        "ptseqlinha": 113.0,
+        "ende_logradouro": "R EDMUNDO PLACIDO CHIAVEGATTO",
+        "ende_numero": "153",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "348 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04242822059838,
+          -22.937945739277296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3844,
+        "ponto_id": 91852,
+        "ptseqlinha": 114.0,
+        "ende_logradouro": "R MANOEL JOSE PEDRO",
+        "ende_numero": "96",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "348,377,408 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04105478270531,
+          -22.93989151481011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3664,
+        "ponto_id": 92048,
+        "ptseqlinha": 115.0,
+        "ende_logradouro": "R FELIPE CAMARAO",
+        "ende_numero": "20",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038354152264404,
+          -22.94148708278607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3665,
+        "ponto_id": 92116,
+        "ptseqlinha": 116.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": "226",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03913240316737,
+          -22.94285253019792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3666,
+        "ponto_id": 92256,
+        "ptseqlinha": 117.0,
+        "ende_logradouro": "R CLARA CAMARAO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03922366851239,
+          -22.94402422981228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3845,
+        "ponto_id": 92296,
+        "ptseqlinha": 118.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "474",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038087657684464,
+          -22.944147207082743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3846,
+        "ponto_id": 92340,
+        "ptseqlinha": 119.0,
+        "ende_logradouro": "R ITAGIBA",
+        "ende_numero": "618",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03674796034797,
+          -22.944322159716062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 213,
+        "num_linha": "348",
+        "sentido": 2,
+        "nome_linha": "VILA MARIETA / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 21435.09,
+        "ponto_gid": 3803,
+        "ponto_id": 92316,
+        "ptseqlinha": 120.0,
+        "ende_logradouro": "R PIRAGIBE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "344,348,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03666460745539,
+          -22.943631261724224
+        ]
+      }
+    }
+  ]
+}

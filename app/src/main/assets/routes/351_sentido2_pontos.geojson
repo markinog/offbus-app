@@ -1,0 +1,2312 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 5664,
+        "ponto_id": 30952,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "AV DR CAIO PINTO GUIMARAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04550926193631,
+          -22.83594990026613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3921,
+        "ponto_id": 30976,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "AV CARD DOM AGNELO ROSSI (PUCC)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04537076635632,
+          -22.83375735084951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3922,
+        "ponto_id": 30980,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R DOM HUMBERTO MAZZONI (PUCC)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04989959012742,
+          -22.832796396808003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3923,
+        "ponto_id": 30968,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051307045034235,
+          -22.834102230828204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3571,
+        "ponto_id": 30936,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05275572117931,
+          -22.83746780256268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7585,
+        "ponto_id": 21306,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R MARIA MARTINS MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04431653073874,
+          -22.84208005382987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7586,
+        "ponto_id": 21302,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "R ALESSANDRO PAYARO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0415743382509,
+          -22.84234216432754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7591,
+        "ponto_id": 21318,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "R MIRTA COLUCCINI PORTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.037952796521786,
+          -22.841182600462428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7589,
+        "ponto_id": 21316,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "R MIRTA COLUCCINI PORTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03729878871779,
+          -22.83955187104019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7583,
+        "ponto_id": 21314,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R ANTHERO CHRYSTINO",
+        "ende_numero": "272",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03903014169692,
+          -22.83791704202087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7582,
+        "ponto_id": 21325,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R ANTHERO CHRYSTINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03735926509403,
+          -22.834853869142062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 7581,
+        "ponto_id": 21322,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R MANOEL DOS SANTOS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036610679721434,
+          -22.834100275294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2093,
+        "ponto_id": 21144,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04229161391216,
+          -22.849536652134265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2094,
+        "ponto_id": 21096,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043018065512,
+          -22.85149923215201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2095,
+        "ponto_id": 21012,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0438841294914,
+          -22.853850837473008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2984,
+        "ponto_id": 20908,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R JASMIM",
+        "ende_numero": "12",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "329,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04511609301711,
+          -22.8561203625999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3926,
+        "ponto_id": 20844,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DAS ORQUIDEAS",
+        "ende_numero": "455",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04837895724797,
+          -22.858531479516355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3612,
+        "ponto_id": 20812,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": "1335",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04705120352062,
+          -22.85968203707318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3613,
+        "ponto_id": 20652,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04842572273098,
+          -22.863000915331433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 1236,
+        "ponto_id": 20606,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": "735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04898928554824,
+          -22.864420261944808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3574,
+        "ponto_id": 20526,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04945122644305,
+          -22.866016870839278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3567,
+        "ponto_id": 30370,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": "344",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0519309217844,
+          -22.865824652114924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3575,
+        "ponto_id": 30358,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05418870670509,
+          -22.865794424582738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3927,
+        "ponto_id": 30390,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV MILTON CRISTINI",
+        "ende_numero": "1144",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0562617086669,
+          -22.864396631437955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 5758,
+        "ponto_id": 30393,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV MILTON CHRISTINI",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.057401930885455,
+          -22.86269189799024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3928,
+        "ponto_id": 30460,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "AV MILTON CHRISTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05889012777665,
+          -22.859949833654024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3929,
+        "ponto_id": 30456,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "1065",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05967963337524,
+          -22.86078349226714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3930,
+        "ponto_id": 30380,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06055467205473,
+          -22.864404378719918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3931,
+        "ponto_id": 30304,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06055472168016,
+          -22.867507376634432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 538,
+        "ponto_id": 30272,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "1939",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332,351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060474248710634,
+          -22.870901073697723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 539,
+        "ponto_id": 30248,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "787",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332,338,351,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06174370236895,
+          -22.87190536966388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2213,
+        "ponto_id": 30204,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "535",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0633987007742,
+          -22.873785005985592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2214,
+        "ponto_id": 30188,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06501575581973,
+          -22.87546397248563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2215,
+        "ponto_id": 30156,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "R FUNILENSE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06769576717971,
+          -22.877883200966778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2216,
+        "ponto_id": 30108,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "955",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06660996551359,
+          -22.881055555429167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2217,
+        "ponto_id": 30060,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "781",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06599675653494,
+          -22.882680426257316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2218,
+        "ponto_id": 30024,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "431",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0644127566855,
+          -22.885164364722492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2219,
+        "ponto_id": 30016,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "R DR BUARQUE DE MACEDO",
+        "ende_numero": "193",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062366753403396,
+          -22.886583393290156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3560,
+        "ponto_id": 40044,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "R ALBERTO FARIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06423576017956,
+          -22.888513403766368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3100,
+        "ponto_id": 40012,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063860681649814,
+          -22.890546397070747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 2222,
+        "ponto_id": 416,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "AV DA LIBANIA",
+        "ende_numero": "2415",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,309,310,313,316,318,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061049769687315,
+          -22.893646776046232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 1015,
+        "ponto_id": 172,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "409",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416,BRT12,BRT20,BRT25 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06225460132749,
+          -22.897366084374987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 1016,
+        "ponto_id": 68,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "AV OROSIMBO MAIA",
+        "ende_numero": "75",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,212,264,310,313,316,318,330,333,351,366,380,390,396,398,416 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06336232732469,
+          -22.900048971407177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 1886,
+        "ponto_id": 240,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV SEN SARAIVA",
+        "ende_numero": "831",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06495470833032,
+          -22.90423140165104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 1825,
+        "ponto_id": 280,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ESTACAO SENADOR SARAIVA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063613063783784,
+          -22.90658950219426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 138,
+        "num_linha": "351",
+        "sentido": 1,
+        "nome_linha": "RECANTO DOS DOURADOS / ESTACAO CIDADE JUDICIARIA",
+        "extensao_m": 19609.01,
+        "ponto_gid": 3563,
+        "ponto_id": 288,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "552",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05914833043632,
+          -22.907746326655378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3563,
+        "ponto_id": 288,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "ESTACAO MORAES SALLES",
+        "ende_numero": "552",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05914833043632,
+          -22.907746326655378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3144,
+        "ponto_id": 220,
+        "ptseqlinha": 43.0,
+        "ende_logradouro": "ESTACAO IRMA SERAFINA",
+        "ende_numero": "710",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "310,313,316,318,330,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05592735217156,
+          -22.905292101263353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2649,
+        "ponto_id": 32,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "AV ANCHIETA",
+        "ende_numero": "346",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05836156492382,
+          -22.899938521213773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 1852,
+        "ponto_id": 256,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "ESTACAO DONA LIBANIA",
+        "ende_numero": "948",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,310,313,316,317,318,330,331,332,333,345,348,351,357,359,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06033219871717,
+          -22.895642719218387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2210,
+        "ponto_id": 596,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "140",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,309,310,313,316,317,318,330,331,332,333,351,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06132422459759,
+          -22.89266323459427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2344,
+        "ponto_id": 40028,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV BRASIL",
+        "ende_numero": "628",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,309,310,312,313,316,317,318,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0645493455123,
+          -22.889400837194056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2345,
+        "ponto_id": 30004,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "R PRIMEIRO DE MARCO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "244,330,331,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06296383545129,
+          -22.88801794568005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2211,
+        "ponto_id": 30020,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "438",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06186779161416,
+          -22.885238295571224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2212,
+        "ponto_id": 30040,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "812",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065077752720306,
+          -22.88329037748931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 453,
+        "ponto_id": 30096,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1176",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065951180420484,
+          -22.880333218115464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 454,
+        "ponto_id": 30144,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "R CAROLINA FLORENCE",
+        "ende_numero": "1456",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,330,331,332,333,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.066504558628914,
+          -22.878037087055088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 455,
+        "ponto_id": 30160,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06661704227458,
+          -22.876794015092027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 456,
+        "ponto_id": 30180,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06480447546849,
+          -22.875690699328892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 457,
+        "ponto_id": 30200,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "510",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631018233907,
+          -22.87389349204495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 523,
+        "ponto_id": 30268,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,240,332,351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06034051867486,
+          -22.87107113752258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3932,
+        "ponto_id": 30292,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "156",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05929811975085,
+          -22.869180914734788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3933,
+        "ponto_id": 30312,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "336",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06034594823577,
+          -22.867346133751898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3934,
+        "ponto_id": 30376,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "596",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06023900844766,
+          -22.864411537287154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3935,
+        "ponto_id": 30448,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "R PE DOMINGOS GIOVANINI",
+        "ende_numero": "1050",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05944987750425,
+          -22.86082853723972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3936,
+        "ponto_id": 30452,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "AV MILTON CHRISTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05890166313582,
+          -22.8601915851075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 5759,
+        "ponto_id": 30391,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV MILTON CHRISTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0579457842135,
+          -22.86228855727904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 5757,
+        "ponto_id": 30389,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV MILTON CHRISTINI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05649945456148,
+          -22.86451552212857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3566,
+        "ponto_id": 30374,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": "277",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051759286606156,
+          -22.86603812129854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3920,
+        "ponto_id": 20522,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R LATINO COELHO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049449820655354,
+          -22.865751826885568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 1231,
+        "ponto_id": 20610,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,332,351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04868777482147,
+          -22.864422972104247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3610,
+        "ponto_id": 20696,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": "944",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04829150059172,
+          -22.863083986119126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3611,
+        "ponto_id": 20784,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "R JORGE DE FIGUEIREDO CORREA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04714966924439,
+          -22.860698227220546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3937,
+        "ponto_id": 20832,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "R DAS CAMELIAS",
+        "ende_numero": "590",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04934577909344,
+          -22.85861309993878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3938,
+        "ponto_id": 20900,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R DAS CAMELIAS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.049401545669376,
+          -22.855426126493118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2096,
+        "ponto_id": 20888,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04457566664148,
+          -22.85729445182539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2087,
+        "ponto_id": 20880,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,339,350,351,352,353,356,357,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441024984354,
+          -22.85762111721389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2088,
+        "ponto_id": 21004,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,328,329,350,351,352,353,356,358,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04341975626052,
+          -22.853453970883375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2089,
+        "ponto_id": 21152,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "ROD ENG MIGUEL NOEL NASCENTES BURNIER (SPA-135/065)",
+        "ende_numero": null,
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041639489020646,
+          -22.848503995688134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3980,
+        "ponto_id": 21328,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R MANOEL DOS SANTOS",
+        "ende_numero": "296",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03656997330855,
+          -22.83385167743865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3981,
+        "ponto_id": 21324,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R ANTHERO CHRYSTINO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03766899964488,
+          -22.834758556646516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3982,
+        "ponto_id": 21312,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R ANTHERO CHRYSTINO",
+        "ende_numero": "261",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03923662766668,
+          -22.837824451993544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 7588,
+        "ponto_id": 21310,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R MIRTA COLUCCINI PORTO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03768185937342,
+          -22.83955183188063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 7590,
+        "ponto_id": 21352,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "R MIRTA COLUCCINI PORTO",
+        "ende_numero": "0",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.038431470420115,
+          -22.84125915599362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 7587,
+        "ponto_id": 21326,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "R ALESSANDRO PAYARO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041341645676816,
+          -22.842061503899963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 7584,
+        "ponto_id": 21309,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "R MARIA MARTINS MAIA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04460821833972,
+          -22.842212456678762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2785,
+        "ponto_id": 30912,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05281119623021,
+          -22.84105129854366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 2786,
+        "ponto_id": 30932,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "AV PROFA ANA MARIA SILVESTRE ADADE",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,332,339,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.052562412805166,
+          -22.837181167798484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3941,
+        "ponto_id": 30964,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "AV REITOR BENEDITO JOSE BARRETO FONSECA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "266,329,351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05139419436625,
+          -22.83459972574081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3942,
+        "ponto_id": 30984,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R DOM HUMBERTO MAZZONI (PUCC)",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04965056430883,
+          -22.832780282575836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 3943,
+        "ponto_id": 30972,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "AV CARD DOM AGNELO ROSSI (PUCC)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.045542653786576,
+          -22.83400837941576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 301,
+        "num_linha": "351",
+        "sentido": 2,
+        "nome_linha": "PUCC",
+        "extensao_m": 21218.18,
+        "ponto_gid": 5664,
+        "ponto_id": 30952,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "AV DR CAIO PINTO GUIMARAES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "351,357 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04550926193631,
+          -22.83594990026613
+        ]
+      }
+    }
+  ]
+}

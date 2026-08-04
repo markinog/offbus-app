@@ -1,0 +1,2362 @@
+{
+  "type": "FeatureCollection",
+  "name": "pto_itinerarios_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 5267,
+        "ponto_id": 31108,
+        "ptseqlinha": 1.0,
+        "ende_logradouro": "TERMINAL BARAO GERALDO",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07971674813124,
+          -22.830543028416724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 838,
+        "ponto_id": 30996,
+        "ptseqlinha": 2.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0800241053195,
+          -22.833864868431455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3588,
+        "ponto_id": 30872,
+        "ptseqlinha": 3.0,
+        "ende_logradouro": "R MQ DE VALENCA",
+        "ende_numero": "186",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06992267546252,
+          -22.845673381741612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3589,
+        "ponto_id": 30816,
+        "ptseqlinha": 4.0,
+        "ende_logradouro": "R MQ DE VALENCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069486665057234,
+          -22.847731373006482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3590,
+        "ponto_id": 30732,
+        "ptseqlinha": 5.0,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": "618",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0666150380765,
+          -22.85004346092203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3591,
+        "ponto_id": 30624,
+        "ptseqlinha": 6.0,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": "1092",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06472969069358,
+          -22.853149354998656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 7593,
+        "ponto_id": 30665,
+        "ptseqlinha": 6.1,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": "1428",
+        "status": "Instalado",
+        "tipo_uso": "Nao definido",
+        "linhas": "338,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.061579095092355,
+          -22.854236684177202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 1770,
+        "ponto_id": 30664,
+        "ptseqlinha": 7.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "300,329,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06072547192748,
+          -22.852327963075588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 471,
+        "ponto_id": 30724,
+        "ptseqlinha": 8.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": "323",
+        "status": "Reservado",
+        "tipo_uso": "Embarque",
+        "linhas": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06704665612026,
+          -22.851251391382547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 472,
+        "ponto_id": 30712,
+        "ptseqlinha": 9.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06896863116666,
+          -22.85208688596178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 473,
+        "ponto_id": 30640,
+        "ptseqlinha": 10.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06944900753777,
+          -22.85334690709817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 474,
+        "ponto_id": 30612,
+        "ptseqlinha": 11.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": "169",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0688101174447,
+          -22.85450868447441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 475,
+        "ponto_id": 30568,
+        "ptseqlinha": 12.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "718",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06735255635887,
+          -22.856235986479597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 476,
+        "ponto_id": 30500,
+        "ptseqlinha": 13.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "471",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06611766530102,
+          -22.85863739062825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 477,
+        "ponto_id": 30476,
+        "ptseqlinha": 14.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065208569593906,
+          -22.860301940314073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 478,
+        "ponto_id": 30432,
+        "ptseqlinha": 15.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "129",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06459209172412,
+          -22.861483575198463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 479,
+        "ponto_id": 30384,
+        "ptseqlinha": 16.0,
+        "ende_logradouro": "R PASCOAL NOTTE",
+        "ende_numero": "563",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06468549918265,
+          -22.864106103541726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 4335,
+        "ponto_id": 30328,
+        "ptseqlinha": 17.0,
+        "ende_logradouro": "R DR QUINTINO DE PAULA MAUDONNET",
+        "ende_numero": "",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065388644076364,
+          -22.868156909269842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 480,
+        "ponto_id": 30288,
+        "ptseqlinha": 18.0,
+        "ende_logradouro": "AV PE MANUEL BERNARDES",
+        "ende_numero": "1085",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064024594541785,
+          -22.869809736769433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 539,
+        "ponto_id": 30248,
+        "ptseqlinha": 19.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "787",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "119,171,240,332,338,351,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06174370236895,
+          -22.87190536966388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2213,
+        "ponto_id": 30204,
+        "ptseqlinha": 20.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "535",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0633987007742,
+          -22.873785005985592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2214,
+        "ponto_id": 30188,
+        "ptseqlinha": 21.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "240,244,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06501575581973,
+          -22.87546397248563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3592,
+        "ponto_id": 30152,
+        "ptseqlinha": 22.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06315239365655,
+          -22.877340785019335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3593,
+        "ponto_id": 30124,
+        "ptseqlinha": 23.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": "205",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06439726000765,
+          -22.879225907272946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 486,
+        "ponto_id": 30092,
+        "ptseqlinha": 23.5,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": "95",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06423976408573,
+          -22.88068740702943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3594,
+        "ponto_id": 30056,
+        "ptseqlinha": 24.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "256",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06358986291239,
+          -22.882257766625155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3595,
+        "ponto_id": 30048,
+        "ptseqlinha": 25.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "504",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0612497231301,
+          -22.88230085803961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3596,
+        "ponto_id": 30072,
+        "ptseqlinha": 26.0,
+        "ende_logradouro": "R CASTRO ALVES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05756400724986,
+          -22.881398506711335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3597,
+        "ponto_id": 20136,
+        "ptseqlinha": 27.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "282",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05334481805626,
+          -22.881745026264053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2080,
+        "ponto_id": 20168,
+        "ptseqlinha": 28.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04959797350805,
+          -22.88089951972595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2081,
+        "ponto_id": 20200,
+        "ptseqlinha": 29.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "940",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04713431311775,
+          -22.880288110593973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2082,
+        "ponto_id": 20240,
+        "ptseqlinha": 30.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1304",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.044116093734914,
+          -22.878145781974286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2378,
+        "ponto_id": 20280,
+        "ptseqlinha": 31.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04264061716342,
+          -22.87689260833314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2379,
+        "ponto_id": 20312,
+        "ptseqlinha": 32.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1750",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040786023854956,
+          -22.87677748325782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2380,
+        "ponto_id": 20420,
+        "ptseqlinha": 33.0,
+        "ende_logradouro": "R JOAO QUIRINO DO NASCIMENTO",
+        "ende_numero": "190",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.036373110858776,
+          -22.876436470572305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 3598,
+        "ponto_id": 20384,
+        "ptseqlinha": 34.0,
+        "ende_logradouro": "AV PALMITAL",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0359869774518,
+          -22.878089304076305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2383,
+        "ponto_id": 20340,
+        "ptseqlinha": 35.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "14",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03595776958519,
+          -22.87998854573082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2384,
+        "ponto_id": 20328,
+        "ptseqlinha": 36.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "192",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034756678468696,
+          -22.881392436377855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2385,
+        "ponto_id": 20316,
+        "ptseqlinha": 37.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "452",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03348873914626,
+          -22.88301447941636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2386,
+        "ponto_id": 20324,
+        "ptseqlinha": 38.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "616",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03207459440488,
+          -22.884901099278675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2387,
+        "ponto_id": 10572,
+        "ptseqlinha": 39.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1012",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03123714197881,
+          -22.887136134816235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2388,
+        "ponto_id": 10540,
+        "ptseqlinha": 40.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1200",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03274371470389,
+          -22.8888514313551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 1802,
+        "ponto_id": 10448,
+        "ptseqlinha": 41.0,
+        "ende_logradouro": "R AROLDO DE AZEVEDO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,260,338,381,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03424294170933,
+          -22.8929439766627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 1803,
+        "ponto_id": 10492,
+        "ptseqlinha": 42.0,
+        "ende_logradouro": "AV IGUATEMI",
+        "ende_numero": "394",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,260,338,381,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03228393935975,
+          -22.893759718831475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 409,
+        "num_linha": "338",
+        "sentido": 1,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18388.46,
+        "ponto_gid": 2663,
+        "ponto_id": 10640,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,338,383,384,385 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02490195413686,
+          -22.892568995539637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2663,
+        "ponto_id": 10640,
+        "ptseqlinha": 44.0,
+        "ende_logradouro": "TERMINAL SHOPPING IGUATEMI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "260,338,383,384,385 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02490195413686,
+          -22.892568995539637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 1806,
+        "ponto_id": 10464,
+        "ptseqlinha": 45.0,
+        "ende_logradouro": "AV IGUATEMI (CRUZ. JOSE BONIFACIO)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "211,249,260,338,381,383 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03372974550927,
+          -22.89260612606853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2389,
+        "ponto_id": 10532,
+        "ptseqlinha": 46.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1277",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,260,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03265644656285,
+          -22.889391341123403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2390,
+        "ponto_id": 10564,
+        "ptseqlinha": 47.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "1025",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.031453697150006,
+          -22.888084472008646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2391,
+        "ponto_id": 20336,
+        "ptseqlinha": 48.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "611",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03208082221585,
+          -22.884196831791368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2392,
+        "ponto_id": 20344,
+        "ptseqlinha": 49.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "451",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03318571700999,
+          -22.88280538394654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2393,
+        "ponto_id": 20348,
+        "ptseqlinha": 50.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "233",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.034424369380176,
+          -22.881191572400024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2394,
+        "ponto_id": 20356,
+        "ptseqlinha": 51.0,
+        "ende_logradouro": "AV JOSE BONIFACIO",
+        "ende_numero": "49",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0354861111382,
+          -22.879814024671045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3599,
+        "ponto_id": 20396,
+        "ptseqlinha": 52.0,
+        "ende_logradouro": "AV PALMITAL",
+        "ende_numero": "148",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.035756651264904,
+          -22.878125657267088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2397,
+        "ponto_id": 20424,
+        "ptseqlinha": 53.0,
+        "ende_logradouro": "R JOAO RODOLFO FORSTER",
+        "ende_numero": "349",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03461788552203,
+          -22.877555649362865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 4008,
+        "ponto_id": 20364,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "R ANALANDIA",
+        "ende_numero": "27",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,355,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.040039744601415,
+          -22.876074368783673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2369,
+        "ponto_id": 20412,
+        "ptseqlinha": 53.5,
+        "ende_logradouro": "R COMEND DR ANTONIO POMPEU DE CAMARGO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "249,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03605822064121,
+          -22.875934259203014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2398,
+        "ponto_id": 20332,
+        "ptseqlinha": 54.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1791",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04038242899076,
+          -22.876516607336274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2399,
+        "ponto_id": 20284,
+        "ptseqlinha": 55.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "249,338,359,362,369 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.043309125145015,
+          -22.876920671958285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3801,
+        "ponto_id": 20236,
+        "ptseqlinha": 56.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1256",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04453278627673,
+          -22.878285422268362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2101,
+        "ponto_id": 20208,
+        "ptseqlinha": 57.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1100",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046326725870514,
+          -22.879753397601583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2102,
+        "ponto_id": 20212,
+        "ptseqlinha": 58.0,
+        "ende_logradouro": "R ROBERTO SIMONSEN",
+        "ende_numero": "434",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.04799840910112,
+          -22.87886870454872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 2103,
+        "ponto_id": 20164,
+        "ptseqlinha": 59.0,
+        "ende_logradouro": "R ARMANDO DE SALES OLIVEIRA",
+        "ende_numero": "61",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "230,249,338,339,345,348,352,353,356,357,359,362,369,375 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.051474742394475,
+          -22.880791441341188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3600,
+        "ponto_id": 20144,
+        "ptseqlinha": 60.0,
+        "ende_logradouro": "AV N SRA DE FATIMA",
+        "ende_numero": "1287",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,352 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05294341081091,
+          -22.881407689576076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 1217,
+        "ponto_id": 30076,
+        "ptseqlinha": 61.0,
+        "ende_logradouro": "R CASTRO ALVES",
+        "ende_numero": "660",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.05751411281675,
+          -22.88113788356987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 1218,
+        "ponto_id": 30052,
+        "ptseqlinha": 62.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "511",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06110969326602,
+          -22.88203192592217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 1219,
+        "ponto_id": 30064,
+        "ptseqlinha": 63.0,
+        "ende_logradouro": "AV MONS JERONIMO BAGGIO",
+        "ende_numero": "227",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063956067846355,
+          -22.881992556538815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 1220,
+        "ponto_id": 30080,
+        "ptseqlinha": 64.0,
+        "ende_logradouro": "AV DR HEITOR PENTEADO",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "171,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063616783611074,
+          -22.881051376281622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3601,
+        "ponto_id": 30116,
+        "ptseqlinha": 65.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": "204",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06416779845404,
+          -22.87934543734221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3602,
+        "ponto_id": 30132,
+        "ptseqlinha": 66.0,
+        "ende_logradouro": "R PROF ALCINO DE ALMEIDA MAUDONNET",
+        "ende_numero": "426",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06332483303203,
+          -22.87788266071253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3603,
+        "ponto_id": 30176,
+        "ptseqlinha": 67.0,
+        "ende_logradouro": "AV MACHADO DE ASSIS",
+        "ende_numero": "312",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06424807396559,
+          -22.875545893738995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 457,
+        "ponto_id": 30200,
+        "ptseqlinha": 68.0,
+        "ende_logradouro": "AV ALMEIDA GARRET",
+        "ende_numero": "510",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,119,240,244,338,351,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0631018233907,
+          -22.87389349204495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 458,
+        "ponto_id": 30244,
+        "ptseqlinha": 69.0,
+        "ende_logradouro": "AV THEODURETO DE ALMEIDA CAMARGO",
+        "ende_numero": "78",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,332,338,371,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06347272469812,
+          -22.87211134922351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 459,
+        "ponto_id": 30261,
+        "ptseqlinha": 70.0,
+        "ende_logradouro": "R FERNAO LOPES",
+        "ende_numero": "1735",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063893419368355,
+          -22.870397171864866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 460,
+        "ponto_id": 30336,
+        "ptseqlinha": 71.0,
+        "ende_logradouro": "R PASCOAL NOTTE",
+        "ende_numero": "220",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06467895548896,
+          -22.866980553926787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 461,
+        "ponto_id": 30392,
+        "ptseqlinha": 72.0,
+        "ende_logradouro": "R PASCOAL NOTTE",
+        "ende_numero": "600",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06451408609473,
+          -22.863929896210802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 462,
+        "ponto_id": 30440,
+        "ptseqlinha": 73.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "136",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064494913005134,
+          -22.861353389580884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 463,
+        "ponto_id": 30480,
+        "ptseqlinha": 74.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065140732215305,
+          -22.86016740184485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 464,
+        "ponto_id": 30492,
+        "ptseqlinha": 75.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": "462",
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06585870917193,
+          -22.858775360168288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 465,
+        "ponto_id": 30572,
+        "ptseqlinha": 76.0,
+        "ende_logradouro": "R DOS GUAINUMBIS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067239683799095,
+          -22.85616234066071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 466,
+        "ponto_id": 30616,
+        "ptseqlinha": 77.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06852872614103,
+          -22.85479329232543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 467,
+        "ponto_id": 30656,
+        "ptseqlinha": 78.0,
+        "ende_logradouro": "R DOS GUATAS",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.069291958773036,
+          -22.85319292013854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 468,
+        "ponto_id": 30708,
+        "ptseqlinha": 79.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": "160",
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06819371186835,
+          -22.852097391378816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 469,
+        "ponto_id": 30716,
+        "ptseqlinha": 80.0,
+        "ende_logradouro": "AV STA GENEBRA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "116,210,244,338,371 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0668832013031,
+          -22.851540874034907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 5255,
+        "ponto_id": 30688,
+        "ptseqlinha": 81.0,
+        "ende_logradouro": "AV WAGNER SAMARA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "210,266,300,329,329.1,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060185667091915,
+          -22.852135099303485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 7592,
+        "ponto_id": 30642,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": null,
+        "status": "Indicado",
+        "tipo_uso": "Embarque",
+        "linhas": "338,377 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06134738959789,
+          -22.854117845299356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3604,
+        "ponto_id": 30628,
+        "ptseqlinha": 82.0,
+        "ende_logradouro": "R MQ DE ABRANTES",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.064550675005364,
+          -22.853063384462057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3605,
+        "ponto_id": 30760,
+        "ptseqlinha": 83.0,
+        "ende_logradouro": "R MQ DE VALENCA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.067990723664245,
+          -22.849200345261636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3606,
+        "ponto_id": 30776,
+        "ptseqlinha": 84.0,
+        "ende_logradouro": "R DOMINGOS CAZOTTI",
+        "ende_numero": "709",
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06997263990685,
+          -22.84880343966785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3607,
+        "ponto_id": 30768,
+        "ptseqlinha": 85.0,
+        "ende_logradouro": "R DOMINGOS CAZOTTI",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071986706888474,
+          -22.849749356608243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3608,
+        "ponto_id": 30736,
+        "ptseqlinha": 86.0,
+        "ende_logradouro": "R DOMINGOS CAZOTTI",
+        "ende_numero": "211",
+        "status": "Indicado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.074596659502085,
+          -22.85094233671529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 3609,
+        "ponto_id": 30720,
+        "ptseqlinha": 87.0,
+        "ende_logradouro": "R ESTACIO DE SA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07480166815015,
+          -22.85283037951927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 835,
+        "ponto_id": 30828,
+        "ptseqlinha": 88.0,
+        "ende_logradouro": "ROD PROF ZEFERINO VAZ (SP-332)",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Desembarque",
+        "linhas": "134,330,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07726771815301,
+          -22.848825064500357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "linha_gid": 33,
+        "num_linha": "338",
+        "sentido": 2,
+        "nome_linha": "TERMINAL BARAO GERALDO/SHOPPING IGUATEMI (INCLUSIVO)",
+        "extensao_m": 18342.91,
+        "ponto_gid": 836,
+        "ponto_id": 31000,
+        "ptseqlinha": 89.0,
+        "ende_logradouro": "R ALZIRA DE AGUIAR ARANHA",
+        "ende_numero": null,
+        "status": "Instalado",
+        "tipo_uso": "Embarque",
+        "linhas": "134,210,269,300,314,319,331,333,338 [20/06/2026]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798209378233,
+          -22.833758536871564
+        ]
+      }
+    }
+  ]
+}
