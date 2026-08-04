@@ -1,0 +1,135 @@
+name: Release do APK
+
+# Todo merge para a branch principal vira uma release com o APK anexado.
+# Um merge de PR chega aqui como um push na branch de destino.
+# A branch padrão hoje é master; main fica listada para o caso de renomear.
+on:
+  push:
+    branches:
+      - master
+      - main
+
+# Necessário para o gh criar a release e subir o asset
+permissions:
+  contents: write
+
+# Dois merges seguidos não disputam a criação da release
+concurrency:
+  group: release-apk
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona o repositório
+        uses: actions/checkout@v4
+
+      # O daemon do Gradle pede JDK 21 (gradle/gradle-daemon-jvm.properties)
+      # e o módulo compila com toolchain 17 (jvmToolchain no app/build.gradle.kts)
+      - name: Instala os JDKs 17 e 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: |
+            17
+            21
+
+      - name: Prepara o Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      # O map.mbtiles tem 272 MB e não cabe no repositório: o GitHub recusa
+      # arquivos acima de 100 MB. Hospede-o como asset de uma release fixa
+      # (que aceita até 2 GB) e aponte o secret MAPA_MBTILES_URL para ele.
+      - name: Baixa o mapa base
+        env:
+          MAPA_URL: ${{ secrets.MAPA_MBTILES_URL }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$MAPA_URL" ]; then
+            echo "::error::Defina o secret MAPA_MBTILES_URL com a URL direta do map.mbtiles."
+            exit 1
+          fi
+
+          # Asset de repositório privado exige token. O cabeçalho só vai quando a
+          # URL é da API do GitHub, para o token nunca vazar a um host de terceiro.
+          case "$MAPA_URL" in
+            https://api.github.com/*)
+              curl -fSL \
+                -H "Authorization: Bearer $GH_TOKEN" \
+                -H "Accept: application/octet-stream" \
+                "$MAPA_URL" -o app/src/main/assets/map.mbtiles
+              ;;
+            *)
+              curl -fSL "$MAPA_URL" -o app/src/main/assets/map.mbtiles
+              ;;
+          esac
+
+          tamanho=$(stat -c%s app/src/main/assets/map.mbtiles)
+          echo "map.mbtiles: $((tamanho / 1024 / 1024)) MB"
+
+          # Uma URL errada costuma devolver uma página de erro em vez do arquivo
+          if [ "$tamanho" -lt 10000000 ]; then
+            echo "::error::Arquivo pequeno demais ($tamanho bytes) — a URL não aponta para o .mbtiles."
+            exit 1
+          fi
+
+          # O SQLite precisa do arquivo íntegro; um .mbtiles truncado só falha em runtime
+          if ! head -c 15 app/src/main/assets/map.mbtiles | grep -q "SQLite format"; then
+            echo "::error::O arquivo baixado não é um banco SQLite."
+            exit 1
+          fi
+
+      - name: Compila o APK
+        run: ./gradlew assembleDebug --no-daemon
+
+      - name: Monta o nome da versão
+        id: versao
+        run: |
+          # Mantém a tag em sincronia com o versionName declarado no Gradle
+          versao=$(sed -n 's/.*versionName[[:space:]]*=[[:space:]]*"\([^"]*\)".*/\1/p' \
+                   app/build.gradle.kts | head -1)
+
+          if [ -z "$versao" ]; then
+            echo "::error::Não encontrei versionName em app/build.gradle.kts."
+            exit 1
+          fi
+
+          tag="v${versao}-build.${{ github.run_number }}"
+
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          echo "arquivo=OffBus-${tag}.apk" >> "$GITHUB_OUTPUT"
+
+          cp app/build/outputs/apk/debug/app-debug.apk "OffBus-${tag}.apk"
+          ls -la "OffBus-${tag}.apk"
+
+      - name: Publica a release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.versao.outputs.tag }}
+          ARQUIVO: ${{ steps.versao.outputs.arquivo }}
+        run: |
+          cat > notas.md <<'FIM'
+          APK de teste gerado automaticamente a partir do último merge.
+
+          ### Como instalar
+          - Android 8.0 ou superior
+          - Permitir "instalar de fontes desconhecidas" para o app que abrir o arquivo
+          - Deixar cerca de 600 MB livres: na primeira execução o app copia os
+            272 MB do mapa para o armazenamento interno, então ele ocupa espaço
+            duas vezes. Essa primeira abertura demora alguns segundos.
+
+          > Build de depuração, assinado com a chave de debug do Android —
+          > serve para testes, não para publicação em loja.
+          FIM
+
+          {
+            echo ""
+            echo "---"
+            echo "Commit: ${{ github.sha }}"
+          } >> notas.md
+
+          gh release create "$TAG" "$ARQUIVO" \
+            --title "OffBus $TAG" \
+            --notes-file notas.md
