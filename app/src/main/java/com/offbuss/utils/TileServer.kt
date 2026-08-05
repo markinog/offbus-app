@@ -1,37 +1,31 @@
 package com.offbuss.utils
 
 import android.content.Context
-import android.database.sqlite.SQLiteDatabase
 import android.util.Log
 import fi.iki.elonen.NanoHTTPD
-import java.io.File
 import java.net.URLDecoder
 import java.util.zip.GZIPInputStream
 
-class TileServer(
-    private val mbtilesFile: File,
-    private val context: Context
-) : NanoHTTPD("127.0.0.1", PORT) {
+class TileServer(private val context: Context) : NanoHTTPD("127.0.0.1", PORT) {
 
     companion object {
         const val PORT = 7777
         private const val TAG = "TileServer"
     }
 
-    private var db: SQLiteDatabase? = null
+    private var archive: TileArchive? = null
 
     fun openAndStart() {
-        db = SQLiteDatabase.openDatabase(
-            mbtilesFile.absolutePath, null, SQLiteDatabase.OPEN_READONLY
-        )
+        val aberto = TileArchive.abrir(context)
+        archive = aberto
         start(SOCKET_READ_TIMEOUT, true)
-        Log.d(TAG, "Server started on port $PORT")
+        Log.d(TAG, "Server started on port $PORT (${aberto.quantidadeDeTiles} tiles)")
     }
 
     fun stopServer() {
         stop()
-        db?.close()
-        db = null
+        archive?.close()
+        archive = null
     }
 
     override fun serve(session: IHTTPSession): Response {
@@ -48,32 +42,26 @@ class TileServer(
     private fun serveTile(parts: List<String>): Response {
         val z = parts[1].toIntOrNull() ?: return noContent()
         val x = parts[2].toIntOrNull() ?: return noContent()
-        val y = parts[3].toIntOrNull() ?: return noContent()
-        // MBTiles usa TMS (y invertido em relação ao XYZ do MapLibre)
-        val tmsY = (1 shl z) - 1 - y
+        // O MapLibre pede "/tiles/14/9298/5671" — sem extensão, mas um estilo
+        // editado à mão pode trazer ".pbf", e aí o toIntOrNull devolveria null
+        val y = parts[3].substringBefore('.').toIntOrNull() ?: return noContent()
 
-        val cursor = db?.rawQuery(
-            "SELECT tile_data FROM tiles WHERE zoom_level=? AND tile_column=? AND tile_row=?",
-            arrayOf(z.toString(), x.toString(), tmsY.toString())
-        ) ?: return noContent()
+        // A inversão TMS→XYZ é feita na conversão do MBTiles, não mais aqui
+        var data = runCatching { archive?.tile(z, x, y) }
+            .onFailure { Log.w(TAG, "Falha lendo o tile $z/$x/$y", it) }
+            .getOrNull() ?: return noContent()
 
-        return if (cursor.moveToFirst()) {
-            var data = cursor.getBlob(0)
-            cursor.close()
-            // Descomprime gzip — o MapLibre espera PBF puro
-            if (data.size >= 2 && data[0] == 0x1F.toByte() && data[1] == 0x8B.toByte()) {
-                data = GZIPInputStream(data.inputStream()).use { it.readBytes() }
-            }
-            newFixedLengthResponse(
-                Response.Status.OK,
-                "application/x-protobuf",
-                data.inputStream(),
-                data.size.toLong()
-            )
-        } else {
-            cursor.close()
-            noContent()
+        // Descomprime gzip — o MapLibre espera PBF puro
+        if (data.size >= 2 && data[0] == 0x1F.toByte() && data[1] == 0x8B.toByte()) {
+            data = GZIPInputStream(data.inputStream()).use { it.readBytes() }
         }
+
+        return newFixedLengthResponse(
+            Response.Status.OK,
+            "application/x-protobuf",
+            data.inputStream(),
+            data.size.toLong()
+        )
     }
 
     private fun serveFont(uri: String): Response {

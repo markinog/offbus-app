@@ -184,6 +184,20 @@
 
 </LinearLayout>
 
+    <!-- ── Carregando o mapa ─────────────────────────────────────── -->
+    <!--
+      Fica sobre o mapa entre a escolha da linha e o estilo terminar de
+      carregar. Sem ele a rota espera em pendingRota e a área do mapa fica
+      vazia, sem nada indicando que ainda há trabalho em andamento.
+    -->
+    <ProgressBar
+        android:id="@+id/pbMapa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:indeterminateTint="@color/accent_red"
+        android:visibility="gone"/>
+
     <!-- ── Convite para avaliar o TCC ────────────────────────────── -->
     <!-- Flutua no canto inferior direito, sobre o mapa -->
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton

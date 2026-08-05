@@ -14,7 +14,14 @@
 .cxx
 local.properties
 
-# Large map tiles file — keep locally only
+# Mapa base — grande demais para o repositório, fica só local.
+# O .mbtiles é a origem; map.tiles/map.idx saem de tools/mbtiles_para_arquivo.py
+# A fixture minúscula de app/src/test/resources/mapa/ é versionada de propósito,
+# então os caminhos abaixo são ancorados nos assets em vez de casar por nome.
+/app/src/main/assets/*.mbtiles
+/app/src/main/assets/map.tiles
+/app/src/main/assets/map.idx
 *.mbtiles
+!/app/src/test/resources/mapa/*.mbtiles
 docs
 .claude

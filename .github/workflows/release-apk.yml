@@ -47,6 +47,8 @@ jobs:
           MAPA_URL: ${{ secrets.MAPA_MBTILES_URL }}
           GH_TOKEN: ${{ github.token }}
         run: |
+          mkdir -p build
+
           if [ -z "$MAPA_URL" ]; then
             echo "::error::Defina o secret MAPA_MBTILES_URL com a URL direta do map.mbtiles."
             exit 1
@@ -59,14 +61,14 @@ jobs:
               curl -fSL \
                 -H "Authorization: Bearer $GH_TOKEN" \
                 -H "Accept: application/octet-stream" \
-                "$MAPA_URL" -o app/src/main/assets/map.mbtiles
+                "$MAPA_URL" -o build/map.mbtiles
               ;;
             *)
-              curl -fSL "$MAPA_URL" -o app/src/main/assets/map.mbtiles
+              curl -fSL "$MAPA_URL" -o build/map.mbtiles
               ;;
           esac
 
-          tamanho=$(stat -c%s app/src/main/assets/map.mbtiles)
+          tamanho=$(stat -c%s build/map.mbtiles)
           echo "map.mbtiles: $((tamanho / 1024 / 1024)) MB"
 
           # Uma URL errada costuma devolver uma página de erro em vez do arquivo
@@ -75,11 +77,33 @@ jobs:
             exit 1
           fi
 
-          # O SQLite precisa do arquivo íntegro; um .mbtiles truncado só falha em runtime
-          if ! head -c 15 app/src/main/assets/map.mbtiles | grep -q "SQLite format"; then
+          # O conversor precisa do arquivo íntegro; um .mbtiles truncado só falha depois
+          if ! head -c 15 build/map.mbtiles | grep -q "SQLite format"; then
             echo "::error::O arquivo baixado não é um banco SQLite."
             exit 1
           fi
+
+      # O .mbtiles não vai mais para dentro do APK: o SQLite não abre um arquivo
+      # de dentro do pacote, e era por isso que o app copiava os 272 MB para o
+      # armazenamento na primeira execução. Os dois arquivos gerados aqui são
+      # lidos por offset direto do APK, sem cópia nenhuma.
+      - name: Converte o mapa para o formato do app
+        run: |
+          python3 tools/mbtiles_para_arquivo.py build/map.mbtiles app/src/main/assets
+
+          for arquivo in map.tiles map.idx; do
+            if [ ! -s "app/src/main/assets/$arquivo" ]; then
+              echo "::error::A conversão não produziu app/src/main/assets/$arquivo."
+              exit 1
+            fi
+          done
+
+          ls -la app/src/main/assets/map.tiles app/src/main/assets/map.idx
+
+      - name: Roda os testes de unidade
+        run: |
+          chmod +x gradlew
+          ./gradlew testDebugUnitTest --no-daemon
 
       - name: Compila o APK
         # O bit de execução do gradlew se perde com facilidade em repositório
@@ -122,9 +146,8 @@ jobs:
           ### Como instalar
           - Android 8.0 ou superior
           - Permitir "instalar de fontes desconhecidas" para o app que abrir o arquivo
-          - Deixar cerca de 600 MB livres: na primeira execução o app copia os
-            272 MB do mapa para o armazenamento interno, então ele ocupa espaço
-            duas vezes. Essa primeira abertura demora alguns segundos.
+          - O mapa é lido de dentro do próprio APK: não há cópia na primeira
+            abertura, e o app ocupa no aparelho só o tamanho do arquivo instalado.
 
           > Build de depuração, assinado com a chave de debug do Android —
           > serve para testes, não para publicação em loja.

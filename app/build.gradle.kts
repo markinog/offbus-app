@@ -24,7 +24,10 @@ android {
     }
 
     androidResources {
-        noCompress += listOf("mbtiles", "geojson")
+        // "tiles" e "idx" são obrigatórios, não uma otimização: o TileArchive
+        // lê o mapa base por offset dentro do próprio APK, e AssetManager.openFd
+        // só devolve descritor para asset gravado sem compressão.
+        noCompress += listOf("tiles", "idx", "geojson")
     }
 }
 
@@ -46,6 +49,9 @@ dependencies {
     // Gson — leitura dos arquivos JSON de horários
     implementation("com.google.code.gson:gson:2.11.0")
 
+
+    // Testes na JVM — TileArchive é verificado sem aparelho nem emulador
+    testImplementation(libs.junit)
 
     // UI
     implementation("androidx.appcompat:appcompat:1.7.0")

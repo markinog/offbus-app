@@ -4,6 +4,7 @@ import android.content.Context
 import android.graphics.RectF
 import android.os.Bundle
 import android.text.method.LinkMovementMethod
+import android.util.Log
 import android.view.Gravity
 import android.view.View
 import android.view.inputmethod.InputMethodManager
@@ -45,6 +46,8 @@ import org.json.JSONObject
 class MainActivity : AppCompatActivity() {
 
     private companion object {
+        const val TAG = "MainActivity"
+
         /** Raio da área de toque das paradas, em pixels de tela. */
         const val TOLERANCIA_TOQUE_PX = 24f
 
@@ -134,19 +137,45 @@ class MainActivity : AppCompatActivity() {
             LinkMovementMethod.getInstance()
     }
 
+    /**
+     * Sobe o mapa offline.
+     *
+     * Não há mais cópia de arquivo aqui: o [TileServer] lê os tiles por offset
+     * direto do APK, então o que resta é abrir um descritor e o índice — alguns
+     * milissegundos, contra as dezenas de segundos que os 272 MiB do
+     * `map.mbtiles` levavam para chegar ao `filesDir` na primeira execução.
+     */
     private fun initMap(savedInstanceState: Bundle?) {
         binding.mapView.onCreate(savedInstanceState)
         binding.mapView.getMapAsync { map ->
             mapLibreMap = map
             configurarCliqueNasParadas(map)
             lifecycleScope.launch(Dispatchers.IO) {
-                // 1. Copia mbtiles se necessário e lê o estilo
-                val styleJson = MapStyleHelper.prepareOfflineStyle(this@MainActivity)
-                // 2. Abre o banco e inicia o servidor HTTP local
-                val server = TileServer(MapStyleHelper.getMbtilesFile(this@MainActivity), this@MainActivity)
-                server.openAndStart()
-                tileServer = server
+                // Devolve os ~272 MiB que as versões antigas deixaram no filesDir
+                MapStyleHelper.limparCopiaAntiga(this@MainActivity)
+
+                val preparo = runCatching {
+                    val estilo = MapStyleHelper.prepareOfflineStyle(this@MainActivity)
+                    val server = TileServer(this@MainActivity)
+                    server.openAndStart()
+                    tileServer = server
+                    estilo
+                }
+
                 withContext(Dispatchers.Main) {
+                    val styleJson = preparo.getOrElse { erro ->
+                        // Sem os assets do mapa não há o que renderizar; avisar é
+                        // melhor que deixar a tela em branco para sempre
+                        Log.e(TAG, "Falha ao preparar o mapa offline", erro)
+                        esconderCarregando()
+                        Toast.makeText(
+                            this@MainActivity,
+                            "Não consegui abrir o mapa offline",
+                            Toast.LENGTH_LONG
+                        ).show()
+                        return@withContext
+                    }
+
                     map.setStyle(Style.Builder().fromJson(styleJson)) {
                         mapReady = true
                         val rota   = pendingRota
@@ -155,11 +184,17 @@ class MainActivity : AppCompatActivity() {
                             pendingRota   = null
                             pendingPontos = null
                             renderizarRota(rota, pontos)
+                        } else {
+                            esconderCarregando()
                         }
                     }
                 }
             }
         }
+    }
+
+    private fun esconderCarregando() {
+        binding.pbMapa.visibility = View.GONE
     }
 
     // ─── Toque nas paradas ───────────────────────────────────────────
@@ -359,6 +394,9 @@ class MainActivity : AppCompatActivity() {
         binding.mapView.visibility        = View.VISIBLE
         // A dica cede o espaço para o mapa na primeira busca
         binding.tvDicaBusca.visibility    = View.GONE
+        // O estilo ainda pode estar carregando: sem isso a rota fica em
+        // pendingRota e o usuário encara um retângulo vazio sem explicação
+        if (!mapReady) binding.pbMapa.visibility = View.VISIBLE
 
         atualizarBotoesSentido()
         carregarSentido()
@@ -466,6 +504,7 @@ class MainActivity : AppCompatActivity() {
                 )
             }
 
+            esconderCarregando()
             enquadrarMapa(geoJsonRota)
             mostrarDicaDoMapa()
         }
