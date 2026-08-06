@@ -50,7 +50,7 @@ Uma tela só. Um campo de texto, um mapa e três botões que aparecem quando faz
 │  105   Cohab I / Terminal Our…  │
 ├─────────────────────────────────┤
 │                                 │
-│         ▓▓▓ MAPA ▓▓▓            │  ← traçado + paradas numeradas
+│         ▓▓▓ MAPA ▓▓▓            │  ← traçado + paradas enumeradas
 │      ①──②──③──④──⑤──⑥          │     toque numa bolinha → detalhes
 │                                 │
 ├─────────────────────────────────┤
